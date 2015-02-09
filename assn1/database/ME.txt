@@ -1,0 +1,2582 @@
+11010301-hs422 Subaltern Voices and Narratives
+11010301-me421 Industrial Engineering and Operation Research
+11010301-me499 Project
+11010301-me672 Welding Science and Technology
+11010301-me688 Advanced Machining Processes
+11010302-hs420 Writing Systems of the World
+11010302-me421 Industrial Engineering and Operation Research
+11010302-me499 Project
+11010302-me672 Welding Science and Technology
+11010302-me679 Mechanical Behaviour of Materials
+11010303-me421 Industrial Engineering and Operation Research
+11010303-me499 Project
+11010303-me672 Welding Science and Technology
+11010303-me691 Mechanics of Machining
+11010304-hs406 Philosophical Issues
+11010306-me421 Industrial Engineering and Operation Research
+11010306-me499 Project
+11010306-me672 Welding Science and Technology
+11010306-me679 Mechanical Behaviour of Materials
+11010307-hs422 Subaltern Voices and Narratives
+11010307-me421 Industrial Engineering and Operation Research
+11010307-me499 Project
+11010307-me672 Welding Science and Technology
+11010307-me688 Advanced Machining Processes
+11010308-me421 Industrial Engineering and Operation Research
+11010308-me499 Project
+11010308-me522 Convective Heat & Mass Transfer
+11010308-me670 Advanced Computational Fluid Dynamics
+11010309-hs406 Philosophical Issues
+11010309-me421 Industrial Engineering and Operation Research
+11010309-me499 Project
+11010309-me532 Finite Element Methods in Engineering
+11010309-me672 Welding Science and Technology
+11010310-hs422 Subaltern Voices and Narratives
+11010310-me421 Industrial Engineering and Operation Research
+11010310-me499 Project
+11010310-me522 Convective Heat & Mass Transfer
+11010310-me671 Biomaterials: Design and Applications
+11010311-hs403 Entrepreneurship & Economic Development
+11010311-me421 Industrial Engineering and Operation Research
+11010311-me499 Project
+11010311-me672 Welding Science and Technology
+11010311-me691 Mechanics of Machining
+11010312-me421 Industrial Engineering and Operation Research
+11010312-me499 Project
+11010312-me532 Finite Element Methods in Engineering
+11010312-me672 Welding Science and Technology
+11010313-hs420 Writing Systems of the World
+11010314-hs410 History of Contemporary India
+11010314-me421 Industrial Engineering and Operation Research
+11010314-me499 Project
+11010314-me532 Finite Element Methods in Engineering
+11010314-me691 Mechanics of Machining
+11010315-hs410 History of Contemporary India
+11010315-me421 Industrial Engineering and Operation Research
+11010315-me499 Project
+11010315-me532 Finite Element Methods in Engineering
+11010315-me685 Evolutionary Computation
+11010316-hs403 Entrepreneurship & Economic Development
+11010316-me421 Industrial Engineering and Operation Research
+11010316-me499 Project
+11010316-me532 Finite Element Methods in Engineering
+11010316-me670 Advanced Computational Fluid Dynamics
+11010317-hs422 Subaltern Voices and Narratives
+11010318-hs420 Writing Systems of the World
+11010318-me421 Industrial Engineering and Operation Research
+11010318-me499 Project
+11010318-me672 Welding Science and Technology
+11010318-me688 Advanced Machining Processes
+11010319-hs420 Writing Systems of the World
+11010319-me421 Industrial Engineering and Operation Research
+11010319-me499 Project
+11010319-me532 Finite Element Methods in Engineering
+11010319-me615 Rotor Dynamics
+11010321-hs406 Philosophical Issues
+11010321-me421 Industrial Engineering and Operation Research
+11010321-me499 Project
+11010321-me672 Welding Science and Technology
+11010321-me691 Mechanics of Machining
+11010322-hs403 Entrepreneurship & Economic Development
+11010322-me421 Industrial Engineering and Operation Research
+11010322-me499 Project
+11010322-me672 Welding Science and Technology
+11010322-me688 Advanced Machining Processes
+11010323-hs420 Writing Systems of the World
+11010323-me421 Industrial Engineering and Operation Research
+11010323-me499 Project
+11010323-me670 Advanced Computational Fluid Dynamics
+11010323-me685 Evolutionary Computation
+11010324-hs423 Masculinities in Literature and Popular Culture
+11010324-me421 Industrial Engineering and Operation Research
+11010324-me499 Project
+11010324-me672 Welding Science and Technology
+11010324-me688 Advanced Machining Processes
+11010325-me421 Industrial Engineering and Operation Research
+11010325-me499 Project
+11010325-me672 Welding Science and Technology
+11010325-me691 Mechanics of Machining
+11010326-hs406 Philosophical Issues
+11010326-me421 Industrial Engineering and Operation Research
+11010326-me499 Project
+11010326-me672 Welding Science and Technology
+11010326-me691 Mechanics of Machining
+11010327-hs403 Entrepreneurship & Economic Development
+11010327-me421 Industrial Engineering and Operation Research
+11010327-me499 Project
+11010327-me672 Welding Science and Technology
+11010327-me691 Mechanics of Machining
+11010328-hs403 Entrepreneurship & Economic Development
+11010329-hs423 Masculinities in Literature and Popular Culture
+11010329-me421 Industrial Engineering and Operation Research
+11010329-me499 Project
+11010329-me672 Welding Science and Technology
+11010329-me688 Advanced Machining Processes
+11010330-hs406 Philosophical Issues
+11010330-me421 Industrial Engineering and Operation Research
+11010330-me499 Project
+11010330-me679 Mechanical Behaviour of Materials
+11010330-me691 Mechanics of Machining
+11010331-hs410 History of Contemporary India
+11010331-me421 Industrial Engineering and Operation Research
+11010331-me499 Project
+11010331-me522 Convective Heat & Mass Transfer
+11010331-me691 Mechanics of Machining
+11010333-hs420 Writing Systems of the World
+11010333-me421 Industrial Engineering and Operation Research
+11010333-me499 Project
+11010333-me532 Finite Element Methods in Engineering
+11010333-me685 Evolutionary Computation
+11010334-hs422 Subaltern Voices and Narratives
+11010334-me421 Industrial Engineering and Operation Research
+11010334-me499 Project
+11010334-me672 Welding Science and Technology
+11010334-me691 Mechanics of Machining
+11010335-hs403 Entrepreneurship & Economic Development
+11010335-me421 Industrial Engineering and Operation Research
+11010335-me499 Project
+11010335-me685 Evolutionary Computation
+11010335-me691 Mechanics of Machining
+11010336-hs406 Philosophical Issues
+11010336-me421 Industrial Engineering and Operation Research
+11010336-me499 Project
+11010336-me672 Welding Science and Technology
+11010336-me691 Mechanics of Machining
+11010337-hs403 Entrepreneurship & Economic Development
+11010337-me421 Industrial Engineering and Operation Research
+11010337-me499 Project
+11010337-me672 Welding Science and Technology
+11010337-me688 Advanced Machining Processes
+11010338-hs406 Philosophical Issues
+11010339-me421 Industrial Engineering and Operation Research
+11010339-me499 Project
+11010339-me672 Welding Science and Technology
+11010339-me688 Advanced Machining Processes
+11010340-hs420 Writing Systems of the World
+11010341-me421 Industrial Engineering and Operation Research
+11010341-me499 Project
+11010341-me522 Convective Heat & Mass Transfer
+11010341-me651 Numerical Methods for Thermal Radiation Heat Transfer
+11010342-hs406 Philosophical Issues
+11010342-me421 Industrial Engineering and Operation Research
+11010342-me499 Project
+11010342-me532 Finite Element Methods in Engineering
+11010342-me685 Evolutionary Computation
+11010343-me421 Industrial Engineering and Operation Research
+11010343-me499 Project
+11010343-me532 Finite Element Methods in Engineering
+11010343-me685 Evolutionary Computation
+11010344-hs423 Masculinities in Literature and Popular Culture
+11010344-me421 Industrial Engineering and Operation Research
+11010344-me499 Project
+11010344-me672 Welding Science and Technology
+11010344-me688 Advanced Machining Processes
+11010345-hs403 Entrepreneurship & Economic Development
+11010345-me421 Industrial Engineering and Operation Research
+11010345-me499 Project
+11010345-me671 Biomaterials: Design and Applications
+11010345-me679 Mechanical Behaviour of Materials
+11010346-hs403 Entrepreneurship & Economic Development
+11010346-me421 Industrial Engineering and Operation Research
+11010346-me499 Project
+11010346-me532 Finite Element Methods in Engineering
+11010346-me691 Mechanics of Machining
+11010347-hs406 Philosophical Issues
+11010347-me421 Industrial Engineering and Operation Research
+11010347-me499 Project
+11010347-me672 Welding Science and Technology
+11010347-me688 Advanced Machining Processes
+11010348-hs403 Entrepreneurship & Economic Development
+11010348-me421 Industrial Engineering and Operation Research
+11010348-me499 Project
+11010348-me532 Finite Element Methods in Engineering
+11010348-me685 Evolutionary Computation
+11010349-hs403 Entrepreneurship & Economic Development
+11010349-me421 Industrial Engineering and Operation Research
+11010349-me499 Project
+11010349-me532 Finite Element Methods in Engineering
+11010349-me685 Evolutionary Computation
+11010350-hs423 Masculinities in Literature and Popular Culture
+11010350-me421 Industrial Engineering and Operation Research
+11010350-me499 Project
+11010350-me522 Convective Heat & Mass Transfer
+11010350-me651 Numerical Methods for Thermal Radiation Heat Transfer
+11010351-hs403 Entrepreneurship & Economic Development
+11010351-me421 Industrial Engineering and Operation Research
+11010351-me499 Project
+11010351-me615 Rotor Dynamics
+11010351-me685 Evolutionary Computation
+11010352-hs406 Philosophical Issues
+11010352-me421 Industrial Engineering and Operation Research
+11010352-me499 Project
+11010352-me607 Introduction to Composite Materials
+11010352-me613 Nonlinear Vibrations
+11010353-hs410 History of Contemporary India
+11010354-hs423 Masculinities in Literature and Popular Culture
+11010354-me421 Industrial Engineering and Operation Research
+11010354-me499 Project
+11010354-me672 Welding Science and Technology
+11010354-me688 Advanced Machining Processes
+11010355-hs403 Entrepreneurship & Economic Development
+11010355-me421 Industrial Engineering and Operation Research
+11010355-me499 Project
+11010355-me532 Finite Element Methods in Engineering
+11010355-me607 Introduction to Composite Materials
+11010356-me421 Industrial Engineering and Operation Research
+11010356-me499 Project
+11010356-me532 Finite Element Methods in Engineering
+11010356-me685 Evolutionary Computation
+11010357-hs406 Philosophical Issues
+11010358-hs422 Subaltern Voices and Narratives
+11010358-me421 Industrial Engineering and Operation Research
+11010358-me499 Project
+11010358-me532 Finite Element Methods in Engineering
+11010358-me685 Evolutionary Computation
+11010359-hs406 Philosophical Issues
+11010359-me421 Industrial Engineering and Operation Research
+11010359-me499 Project
+11010359-me532 Finite Element Methods in Engineering
+11010359-me672 Welding Science and Technology
+11010360-hs406 Philosophical Issues
+11010361-hs420 Writing Systems of the World
+11010361-me421 Industrial Engineering and Operation Research
+11010361-me499 Project
+11010361-me672 Welding Science and Technology
+11010361-me691 Mechanics of Machining
+11010362-hs406 Philosophical Issues
+11010362-me421 Industrial Engineering and Operation Research
+11010362-me499 Project
+11010362-me532 Finite Element Methods in Engineering
+11010362-me685 Evolutionary Computation
+11010363-hs406 Philosophical Issues
+11010363-me421 Industrial Engineering and Operation Research
+11010363-me499 Project
+11010363-me670 Advanced Computational Fluid Dynamics
+11010363-me685 Evolutionary Computation
+11010364-hs406 Philosophical Issues
+11010364-me421 Industrial Engineering and Operation Research
+11010364-me499 Project
+11010364-me672 Welding Science and Technology
+11010364-me691 Mechanics of Machining
+11010365-hs410 History of Contemporary India
+11010365-me421 Industrial Engineering and Operation Research
+11010365-me499 Project
+11010365-me685 Evolutionary Computation
+11010365-me691 Mechanics of Machining
+11010366-hs406 Philosophical Issues
+11010366-me421 Industrial Engineering and Operation Research
+11010366-me499 Project
+11010366-me672 Welding Science and Technology
+11010366-me691 Mechanics of Machining
+11010367-me421 Industrial Engineering and Operation Research
+11010367-me499 Project
+11010367-me522 Convective Heat & Mass Transfer
+11010367-me532 Finite Element Methods in Engineering
+11010369-hs406 Philosophical Issues
+11010369-me421 Industrial Engineering and Operation Research
+11010369-me499 Project
+11010369-me672 Welding Science and Technology
+11010369-me691 Mechanics of Machining
+11010370-hs423 Masculinities in Literature and Popular Culture
+11010370-me421 Industrial Engineering and Operation Research
+11010370-me499 Project
+11010370-me522 Convective Heat & Mass Transfer
+11010370-me651 Numerical Methods for Thermal Radiation Heat Transfer
+11010371-hs406 Philosophical Issues
+11010371-me421 Industrial Engineering and Operation Research
+11010371-me499 Project
+11010371-me672 Welding Science and Technology
+11010371-me691 Mechanics of Machining
+11010372-hs406 Philosophical Issues
+11010372-me421 Industrial Engineering and Operation Research
+11010372-me499 Project
+11010372-me672 Welding Science and Technology
+11010372-me691 Mechanics of Machining
+11010373-hs420 Writing Systems of the World
+11010373-me421 Industrial Engineering and Operation Research
+11010373-me499 Project
+11010373-me607 Introduction to Composite Materials
+11010373-me613 Nonlinear Vibrations
+11010374-hs403 Entrepreneurship & Economic Development
+11010374-me421 Industrial Engineering and Operation Research
+11010374-me499 Project
+11010374-me532 Finite Element Methods in Engineering
+11010374-me685 Evolutionary Computation
+11010375-hs410 History of Contemporary India
+11010375-me421 Industrial Engineering and Operation Research
+11010375-me499 Project
+11010375-me532 Finite Element Methods in Engineering
+11010375-me685 Evolutionary Computation
+11010376-hs403 Entrepreneurship & Economic Development
+11010376-me421 Industrial Engineering and Operation Research
+11010376-me499 Project
+11010376-me672 Welding Science and Technology
+11010376-me679 Mechanical Behaviour of Materials
+11010377-hs406 Philosophical Issues
+11010377-me421 Industrial Engineering and Operation Research
+11010377-me499 Project
+11010377-me532 Finite Element Methods in Engineering
+11010377-me685 Evolutionary Computation
+11010378-hs423 Masculinities in Literature and Popular Culture
+11010378-me421 Industrial Engineering and Operation Research
+11010378-me499 Project
+11010378-me532 Finite Element Methods in Engineering
+11010378-me672 Welding Science and Technology
+11010379-hs403 Entrepreneurship & Economic Development
+11010379-me421 Industrial Engineering and Operation Research
+11010379-me499 Project
+11010379-me532 Finite Element Methods in Engineering
+11010379-me672 Welding Science and Technology
+11010380-hs420 Writing Systems of the World
+11010380-me421 Industrial Engineering and Operation Research
+11010380-me499 Project
+11010380-me679 Mechanical Behaviour of Materials
+11010380-me686 Micro-manufacturing
+11010381-hs406 Philosophical Issues
+11010381-me421 Industrial Engineering and Operation Research
+11010381-me499 Project
+11010381-me532 Finite Element Methods in Engineering
+11010381-me679 Mechanical Behaviour of Materials
+11010382-hs420 Writing Systems of the World
+11010382-me421 Industrial Engineering and Operation Research
+11010382-me499 Project
+11010382-me672 Welding Science and Technology
+11010382-me691 Mechanics of Machining
+11010383-hs420 Writing Systems of the World
+11010383-me421 Industrial Engineering and Operation Research
+11010383-me499 Project
+11010383-me670 Advanced Computational Fluid Dynamics
+11010383-me672 Welding Science and Technology
+120103001-me321 Applied Thermodynamics
+120103001-me322 Machine Design
+120103001-me323 Mechanical Measurements
+120103001-me324 Heat and Mass Transfer
+120103001-me326 Mechanical Lab III
+120103002-me321 Applied Thermodynamics
+120103002-me322 Machine Design
+120103002-me323 Mechanical Measurements
+120103002-me324 Heat and Mass Transfer
+120103002-me326 Mechanical Lab III
+120103003-me321 Applied Thermodynamics
+120103003-me322 Machine Design
+120103003-me323 Mechanical Measurements
+120103003-me324 Heat and Mass Transfer
+120103003-me326 Mechanical Lab III
+120103004-me321 Applied Thermodynamics
+120103004-me322 Machine Design
+120103004-me323 Mechanical Measurements
+120103004-me324 Heat and Mass Transfer
+120103004-me326 Mechanical Lab III
+120103007-me321 Applied Thermodynamics
+120103007-me322 Machine Design
+120103007-me323 Mechanical Measurements
+120103007-me324 Heat and Mass Transfer
+120103007-me326 Mechanical Lab III
+120103008-me321 Applied Thermodynamics
+120103008-me322 Machine Design
+120103008-me323 Mechanical Measurements
+120103008-me324 Heat and Mass Transfer
+120103008-me326 Mechanical Lab III
+120103009-me321 Applied Thermodynamics
+120103009-me322 Machine Design
+120103009-me323 Mechanical Measurements
+120103009-me324 Heat and Mass Transfer
+120103009-me326 Mechanical Lab III
+120103010-me321 Applied Thermodynamics
+120103010-me322 Machine Design
+120103010-me323 Mechanical Measurements
+120103010-me324 Heat and Mass Transfer
+120103010-me326 Mechanical Lab III
+120103011-me321 Applied Thermodynamics
+120103011-me322 Machine Design
+120103011-me323 Mechanical Measurements
+120103011-me324 Heat and Mass Transfer
+120103011-me326 Mechanical Lab III
+120103012-ee322m Signal Processing
+120103012-me321 Applied Thermodynamics
+120103012-me322 Machine Design
+120103012-me323 Mechanical Measurements
+120103012-me324 Heat and Mass Transfer
+120103012-me326 Mechanical Lab III
+120103013-me321 Applied Thermodynamics
+120103013-me322 Machine Design
+120103013-me323 Mechanical Measurements
+120103013-me324 Heat and Mass Transfer
+120103013-me326 Mechanical Lab III
+120103015-dd320m Product Planning and Strategy
+120103015-me321 Applied Thermodynamics
+120103015-me322 Machine Design
+120103015-me323 Mechanical Measurements
+120103015-me324 Heat and Mass Transfer
+120103015-me326 Mechanical Lab III
+120103016-me321 Applied Thermodynamics
+120103016-me322 Machine Design
+120103016-me323 Mechanical Measurements
+120103016-me324 Heat and Mass Transfer
+120103016-me326 Mechanical Lab III
+120103017-me321 Applied Thermodynamics
+120103017-me322 Machine Design
+120103017-me323 Mechanical Measurements
+120103017-me324 Heat and Mass Transfer
+120103017-me326 Mechanical Lab III
+120103018-me321 Applied Thermodynamics
+120103018-me322 Machine Design
+120103018-me323 Mechanical Measurements
+120103018-me324 Heat and Mass Transfer
+120103018-me326 Mechanical Lab III
+120103019-me321 Applied Thermodynamics
+120103019-me322 Machine Design
+120103019-me323 Mechanical Measurements
+120103019-me324 Heat and Mass Transfer
+120103019-me326 Mechanical Lab III
+120103021-me321 Applied Thermodynamics
+120103021-me322 Machine Design
+120103021-me323 Mechanical Measurements
+120103021-me324 Heat and Mass Transfer
+120103021-me326 Mechanical Lab III
+120103022-dd320m Product Planning and Strategy
+120103022-me321 Applied Thermodynamics
+120103022-me322 Machine Design
+120103022-me323 Mechanical Measurements
+120103022-me324 Heat and Mass Transfer
+120103022-me326 Mechanical Lab III
+120103023-me321 Applied Thermodynamics
+120103023-me322 Machine Design
+120103023-me323 Mechanical Measurements
+120103023-me324 Heat and Mass Transfer
+120103023-me326 Mechanical Lab III
+120103024-me321 Applied Thermodynamics
+120103024-me322 Machine Design
+120103024-me323 Mechanical Measurements
+120103024-me324 Heat and Mass Transfer
+120103024-me326 Mechanical Lab III
+120103025-cs350M 
+120103025-me321 Applied Thermodynamics
+120103025-me322 Machine Design
+120103025-me323 Mechanical Measurements
+120103025-me324 Heat and Mass Transfer
+120103025-me326 Mechanical Lab III
+120103027-ce352m Introduction to Geotechnical Engineering
+120103027-me321 Applied Thermodynamics
+120103027-me322 Machine Design
+120103027-me323 Mechanical Measurements
+120103027-me324 Heat and Mass Transfer
+120103027-me326 Mechanical Lab III
+120103028-me321 Applied Thermodynamics
+120103028-me322 Machine Design
+120103028-me323 Mechanical Measurements
+120103028-me324 Heat and Mass Transfer
+120103028-me326 Mechanical Lab III
+120103029-me321 Applied Thermodynamics
+120103029-me322 Machine Design
+120103029-me323 Mechanical Measurements
+120103029-me324 Heat and Mass Transfer
+120103029-me326 Mechanical Lab III
+120103030-me321 Applied Thermodynamics
+120103030-me322 Machine Design
+120103030-me323 Mechanical Measurements
+120103030-me324 Heat and Mass Transfer
+120103030-me326 Mechanical Lab III
+120103031-dd320m Product Planning and Strategy
+120103031-me321 Applied Thermodynamics
+120103031-me322 Machine Design
+120103031-me323 Mechanical Measurements
+120103031-me324 Heat and Mass Transfer
+120103031-me326 Mechanical Lab III
+120103032-dd320m Product Planning and Strategy
+120103032-me321 Applied Thermodynamics
+120103032-me322 Machine Design
+120103032-me323 Mechanical Measurements
+120103032-me324 Heat and Mass Transfer
+120103032-me326 Mechanical Lab III
+120103033-me321 Applied Thermodynamics
+120103033-me322 Machine Design
+120103033-me323 Mechanical Measurements
+120103033-me324 Heat and Mass Transfer
+120103033-me326 Mechanical Lab III
+120103034-ee322m Signal Processing
+120103034-me321 Applied Thermodynamics
+120103034-me322 Machine Design
+120103034-me323 Mechanical Measurements
+120103034-me324 Heat and Mass Transfer
+120103034-me326 Mechanical Lab III
+120103037-dd320m Product Planning and Strategy
+120103037-me321 Applied Thermodynamics
+120103037-me322 Machine Design
+120103037-me323 Mechanical Measurements
+120103037-me324 Heat and Mass Transfer
+120103037-me326 Mechanical Lab III
+120103038-me321 Applied Thermodynamics
+120103038-me322 Machine Design
+120103038-me323 Mechanical Measurements
+120103038-me324 Heat and Mass Transfer
+120103038-me326 Mechanical Lab III
+120103039-me321 Applied Thermodynamics
+120103039-me322 Machine Design
+120103039-me323 Mechanical Measurements
+120103039-me324 Heat and Mass Transfer
+120103039-me326 Mechanical Lab III
+120103040-dd320m Product Planning and Strategy
+120103040-me321 Applied Thermodynamics
+120103040-me322 Machine Design
+120103040-me323 Mechanical Measurements
+120103040-me324 Heat and Mass Transfer
+120103040-me326 Mechanical Lab III
+120103041-dd320m Product Planning and Strategy
+120103041-me321 Applied Thermodynamics
+120103041-me322 Machine Design
+120103041-me323 Mechanical Measurements
+120103041-me324 Heat and Mass Transfer
+120103041-me326 Mechanical Lab III
+120103042-me321 Applied Thermodynamics
+120103042-me322 Machine Design
+120103042-me323 Mechanical Measurements
+120103042-me324 Heat and Mass Transfer
+120103042-me326 Mechanical Lab III
+120103043-me321 Applied Thermodynamics
+120103043-me322 Machine Design
+120103043-me323 Mechanical Measurements
+120103043-me324 Heat and Mass Transfer
+120103043-me326 Mechanical Lab III
+120103044-me321 Applied Thermodynamics
+120103044-me322 Machine Design
+120103044-me323 Mechanical Measurements
+120103044-me324 Heat and Mass Transfer
+120103044-me326 Mechanical Lab III
+120103045-me321 Applied Thermodynamics
+120103045-me322 Machine Design
+120103045-me323 Mechanical Measurements
+120103045-me324 Heat and Mass Transfer
+120103045-me326 Mechanical Lab III
+120103046-me321 Applied Thermodynamics
+120103046-me322 Machine Design
+120103046-me323 Mechanical Measurements
+120103046-me324 Heat and Mass Transfer
+120103046-me326 Mechanical Lab III
+120103047-me321 Applied Thermodynamics
+120103047-me322 Machine Design
+120103047-me323 Mechanical Measurements
+120103047-me324 Heat and Mass Transfer
+120103047-me326 Mechanical Lab III
+120103049-me321 Applied Thermodynamics
+120103049-me322 Machine Design
+120103049-me323 Mechanical Measurements
+120103049-me324 Heat and Mass Transfer
+120103049-me326 Mechanical Lab III
+120103050-me321 Applied Thermodynamics
+120103050-me322 Machine Design
+120103050-me323 Mechanical Measurements
+120103050-me324 Heat and Mass Transfer
+120103050-me326 Mechanical Lab III
+120103052-me321 Applied Thermodynamics
+120103052-me322 Machine Design
+120103052-me323 Mechanical Measurements
+120103052-me324 Heat and Mass Transfer
+120103052-me326 Mechanical Lab III
+120103054-me321 Applied Thermodynamics
+120103054-me322 Machine Design
+120103054-me323 Mechanical Measurements
+120103054-me324 Heat and Mass Transfer
+120103054-me326 Mechanical Lab III
+120103055-me321 Applied Thermodynamics
+120103055-me322 Machine Design
+120103055-me323 Mechanical Measurements
+120103055-me324 Heat and Mass Transfer
+120103055-me326 Mechanical Lab III
+120103056-me321 Applied Thermodynamics
+120103056-me322 Machine Design
+120103056-me323 Mechanical Measurements
+120103056-me324 Heat and Mass Transfer
+120103056-me326 Mechanical Lab III
+120103057-me321 Applied Thermodynamics
+120103057-me322 Machine Design
+120103057-me323 Mechanical Measurements
+120103057-me324 Heat and Mass Transfer
+120103057-me326 Mechanical Lab III
+120103060-me321 Applied Thermodynamics
+120103060-me322 Machine Design
+120103060-me323 Mechanical Measurements
+120103060-me324 Heat and Mass Transfer
+120103060-me326 Mechanical Lab III
+120103061-me321 Applied Thermodynamics
+120103061-me322 Machine Design
+120103061-me323 Mechanical Measurements
+120103061-me324 Heat and Mass Transfer
+120103061-me326 Mechanical Lab III
+120103062-me321 Applied Thermodynamics
+120103062-me322 Machine Design
+120103062-me323 Mechanical Measurements
+120103062-me324 Heat and Mass Transfer
+120103062-me326 Mechanical Lab III
+120103063-me321 Applied Thermodynamics
+120103063-me322 Machine Design
+120103063-me323 Mechanical Measurements
+120103063-me324 Heat and Mass Transfer
+120103063-me326 Mechanical Lab III
+120103066-me321 Applied Thermodynamics
+120103066-me322 Machine Design
+120103066-me323 Mechanical Measurements
+120103066-me324 Heat and Mass Transfer
+120103066-me326 Mechanical Lab III
+120103067-me321 Applied Thermodynamics
+120103067-me322 Machine Design
+120103067-me323 Mechanical Measurements
+120103067-me324 Heat and Mass Transfer
+120103067-me326 Mechanical Lab III
+120103068-dd320m Product Planning and Strategy
+120103068-me321 Applied Thermodynamics
+120103068-me322 Machine Design
+120103068-me323 Mechanical Measurements
+120103068-me324 Heat and Mass Transfer
+120103068-me326 Mechanical Lab III
+120103069-me321 Applied Thermodynamics
+120103069-me322 Machine Design
+120103069-me323 Mechanical Measurements
+120103069-me324 Heat and Mass Transfer
+120103069-me326 Mechanical Lab III
+120103070-me321 Applied Thermodynamics
+120103070-me322 Machine Design
+120103070-me323 Mechanical Measurements
+120103070-me324 Heat and Mass Transfer
+120103070-me326 Mechanical Lab III
+120103071-me321 Applied Thermodynamics
+120103071-me322 Machine Design
+120103071-me323 Mechanical Measurements
+120103071-me324 Heat and Mass Transfer
+120103071-me326 Mechanical Lab III
+120103072-dd320m Product Planning and Strategy
+120103072-me321 Applied Thermodynamics
+120103072-me322 Machine Design
+120103072-me323 Mechanical Measurements
+120103072-me324 Heat and Mass Transfer
+120103072-me326 Mechanical Lab III
+120103074-dd320m Product Planning and Strategy
+120103074-me321 Applied Thermodynamics
+120103074-me322 Machine Design
+120103074-me323 Mechanical Measurements
+120103074-me324 Heat and Mass Transfer
+120103074-me326 Mechanical Lab III
+120103075-me321 Applied Thermodynamics
+120103075-me322 Machine Design
+120103075-me323 Mechanical Measurements
+120103075-me324 Heat and Mass Transfer
+120103075-me326 Mechanical Lab III
+120103076-me321 Applied Thermodynamics
+120103076-me322 Machine Design
+120103076-me323 Mechanical Measurements
+120103076-me324 Heat and Mass Transfer
+120103076-me326 Mechanical Lab III
+120103077-me321 Applied Thermodynamics
+120103077-me322 Machine Design
+120103077-me323 Mechanical Measurements
+120103077-me324 Heat and Mass Transfer
+120103077-me326 Mechanical Lab III
+120103078-me321 Applied Thermodynamics
+120103078-me322 Machine Design
+120103078-me323 Mechanical Measurements
+120103078-me324 Heat and Mass Transfer
+120103078-me326 Mechanical Lab III
+120103080-me321 Applied Thermodynamics
+120103080-me322 Machine Design
+120103080-me323 Mechanical Measurements
+120103080-me324 Heat and Mass Transfer
+120103080-me326 Mechanical Lab III
+120103082-cs350M 
+120103082-me321 Applied Thermodynamics
+120103082-me322 Machine Design
+120103082-me323 Mechanical Measurements
+120103082-me324 Heat and Mass Transfer
+120103082-me326 Mechanical Lab III
+120103083-cs350M 
+120103083-me321 Applied Thermodynamics
+120103083-me322 Machine Design
+120103083-me323 Mechanical Measurements
+120103083-me324 Heat and Mass Transfer
+120103083-me326 Mechanical Lab III
+120103084-me321 Applied Thermodynamics
+120103084-me322 Machine Design
+120103084-me323 Mechanical Measurements
+120103084-me324 Heat and Mass Transfer
+120103084-me326 Mechanical Lab III
+120103085-me321 Applied Thermodynamics
+120103085-me322 Machine Design
+120103085-me323 Mechanical Measurements
+120103085-me324 Heat and Mass Transfer
+120103085-me326 Mechanical Lab III
+120103086-ee322m Signal Processing
+120103086-me321 Applied Thermodynamics
+120103086-me322 Machine Design
+120103086-me323 Mechanical Measurements
+120103086-me324 Heat and Mass Transfer
+120103086-me326 Mechanical Lab III
+120103087-me321 Applied Thermodynamics
+120103087-me322 Machine Design
+120103087-me323 Mechanical Measurements
+120103087-me324 Heat and Mass Transfer
+120103087-me326 Mechanical Lab III
+120103088-me321 Applied Thermodynamics
+120103088-me322 Machine Design
+120103088-me323 Mechanical Measurements
+120103088-me324 Heat and Mass Transfer
+120103088-me326 Mechanical Lab III
+120103089-me321 Applied Thermodynamics
+120103089-me322 Machine Design
+120103089-me323 Mechanical Measurements
+120103089-me324 Heat and Mass Transfer
+120103089-me326 Mechanical Lab III
+120103090-me321 Applied Thermodynamics
+120103090-me322 Machine Design
+120103090-me323 Mechanical Measurements
+120103090-me324 Heat and Mass Transfer
+120103090-me326 Mechanical Lab III
+120103091-me321 Applied Thermodynamics
+120103091-me322 Machine Design
+120103091-me323 Mechanical Measurements
+120103091-me324 Heat and Mass Transfer
+120103091-me326 Mechanical Lab III
+120103092-me321 Applied Thermodynamics
+120103092-me322 Machine Design
+120103092-me323 Mechanical Measurements
+120103092-me324 Heat and Mass Transfer
+120103092-me326 Mechanical Lab III
+120103093-me321 Applied Thermodynamics
+120103093-me322 Machine Design
+120103093-me323 Mechanical Measurements
+120103093-me324 Heat and Mass Transfer
+120103093-me326 Mechanical Lab III
+120103094-me321 Applied Thermodynamics
+120103094-me322 Machine Design
+120103094-me323 Mechanical Measurements
+120103094-me324 Heat and Mass Transfer
+120103094-me326 Mechanical Lab III
+120103095-me321 Applied Thermodynamics
+120103095-me322 Machine Design
+120103095-me323 Mechanical Measurements
+120103095-me324 Heat and Mass Transfer
+120103095-me326 Mechanical Lab III
+130103001-ee213m Digital Circuits
+130103001-hs203 Problems of Philosophy
+130103001-me221 Fluid Mechanics I
+130103001-me222 Manufacturing Technology I
+130103001-me223 Solid Mechanics II
+130103001-me224 Kinematics of Machinery
+130103001-me225 Workshop II
+130103001-me226 Mechanical Lab I
+130103002-hs216 Sociology of India : Conformities & Contradictions
+130103002-me221 Fluid Mechanics I
+130103002-me222 Manufacturing Technology I
+130103002-me223 Solid Mechanics II
+130103002-me224 Kinematics of Machinery
+130103002-me225 Workshop II
+130103002-me226 Mechanical Lab I
+130103003-hs216 Sociology of India : Conformities & Contradictions
+130103003-me221 Fluid Mechanics I
+130103003-me222 Manufacturing Technology I
+130103003-me223 Solid Mechanics II
+130103003-me224 Kinematics of Machinery
+130103003-me225 Workshop II
+130103003-me226 Mechanical Lab I
+130103004-hs226 Macroeconomics
+130103004-me221 Fluid Mechanics I
+130103004-me222 Manufacturing Technology I
+130103004-me223 Solid Mechanics II
+130103004-me224 Kinematics of Machinery
+130103004-me225 Workshop II
+130103004-me226 Mechanical Lab I
+130103005-hs237 Introduction to Archeology
+130103005-me221 Fluid Mechanics I
+130103005-me222 Manufacturing Technology I
+130103005-me223 Solid Mechanics II
+130103005-me224 Kinematics of Machinery
+130103005-me225 Workshop II
+130103005-me226 Mechanical Lab I
+130103006-cs206M 
+130103006-hs234 Introduction to Linguistics
+130103007-hs203 Problems of Philosophy
+130103007-me221 Fluid Mechanics I
+130103007-me222 Manufacturing Technology I
+130103007-me223 Solid Mechanics II
+130103007-me224 Kinematics of Machinery
+130103007-me225 Workshop II
+130103007-me226 Mechanical Lab I
+130103008-hs237 Introduction to Archeology
+130103008-me221 Fluid Mechanics I
+130103008-me222 Manufacturing Technology I
+130103008-me223 Solid Mechanics II
+130103008-me224 Kinematics of Machinery
+130103008-me225 Workshop II
+130103008-me226 Mechanical Lab I
+130103009-hs226 Macroeconomics
+130103009-me221 Fluid Mechanics I
+130103009-me222 Manufacturing Technology I
+130103009-me223 Solid Mechanics II
+130103009-me224 Kinematics of Machinery
+130103009-me225 Workshop II
+130103009-me226 Mechanical Lab I
+130103010-hs237 Introduction to Archeology
+130103010-me221 Fluid Mechanics I
+130103010-me222 Manufacturing Technology I
+130103010-me223 Solid Mechanics II
+130103010-me224 Kinematics of Machinery
+130103010-me225 Workshop II
+130103010-me226 Mechanical Lab I
+130103011-hs223 Language and Society
+130103011-me221 Fluid Mechanics I
+130103011-me222 Manufacturing Technology I
+130103011-me223 Solid Mechanics II
+130103011-me224 Kinematics of Machinery
+130103011-me225 Workshop II
+130103011-me226 Mechanical Lab I
+130103012-hs226 Macroeconomics
+130103012-me221 Fluid Mechanics I
+130103012-me222 Manufacturing Technology I
+130103012-me223 Solid Mechanics II
+130103012-me224 Kinematics of Machinery
+130103012-me225 Workshop II
+130103012-me226 Mechanical Lab I
+130103013-hs222 Understanding Psychology : Individual and Works Settings
+130103013-me221 Fluid Mechanics I
+130103013-me222 Manufacturing Technology I
+130103013-me223 Solid Mechanics II
+130103013-me224 Kinematics of Machinery
+130103013-me225 Workshop II
+130103013-me226 Mechanical Lab I
+130103014-hs234 Introduction to Linguistics
+130103015-hs226 Macroeconomics
+130103015-me221 Fluid Mechanics I
+130103015-me222 Manufacturing Technology I
+130103015-me223 Solid Mechanics II
+130103015-me224 Kinematics of Machinery
+130103015-me225 Workshop II
+130103015-me226 Mechanical Lab I
+130103016-hs216 Sociology of India : Conformities & Contradictions
+130103017-hs203 Problems of Philosophy
+130103017-me221 Fluid Mechanics I
+130103017-me222 Manufacturing Technology I
+130103017-me223 Solid Mechanics II
+130103017-me224 Kinematics of Machinery
+130103017-me225 Workshop II
+130103017-me226 Mechanical Lab I
+130103018-hs203 Problems of Philosophy
+130103018-me221 Fluid Mechanics I
+130103018-me222 Manufacturing Technology I
+130103018-me223 Solid Mechanics II
+130103018-me224 Kinematics of Machinery
+130103018-me225 Workshop II
+130103018-me226 Mechanical Lab I
+130103018-ph282m Engineering Optics
+130103019-hs213 Consumer Behaviour
+130103019-me221 Fluid Mechanics I
+130103019-me222 Manufacturing Technology I
+130103019-me223 Solid Mechanics II
+130103019-me224 Kinematics of Machinery
+130103019-me225 Workshop II
+130103019-me226 Mechanical Lab I
+130103020-hs237 Introduction to Archeology
+130103020-me221 Fluid Mechanics I
+130103020-me222 Manufacturing Technology I
+130103020-me223 Solid Mechanics II
+130103020-me224 Kinematics of Machinery
+130103020-me225 Workshop II
+130103020-me226 Mechanical Lab I
+130103021-hs226 Macroeconomics
+130103021-me221 Fluid Mechanics I
+130103021-me222 Manufacturing Technology I
+130103021-me223 Solid Mechanics II
+130103021-me224 Kinematics of Machinery
+130103021-me225 Workshop II
+130103021-me226 Mechanical Lab I
+130103022-hs203 Problems of Philosophy
+130103022-me221 Fluid Mechanics I
+130103022-me222 Manufacturing Technology I
+130103022-me223 Solid Mechanics II
+130103022-me224 Kinematics of Machinery
+130103022-me225 Workshop II
+130103022-me226 Mechanical Lab I
+130103023-hs234 Introduction to Linguistics
+130103023-me221 Fluid Mechanics I
+130103023-me222 Manufacturing Technology I
+130103023-me223 Solid Mechanics II
+130103023-me224 Kinematics of Machinery
+130103023-me225 Workshop II
+130103023-me226 Mechanical Lab I
+130103024-hs226 Macroeconomics
+130103024-me221 Fluid Mechanics I
+130103024-me222 Manufacturing Technology I
+130103024-me223 Solid Mechanics II
+130103024-me224 Kinematics of Machinery
+130103024-me225 Workshop II
+130103024-me226 Mechanical Lab I
+130103025-dd220m Introduction to Ergonomics
+130103025-hs213 Consumer Behaviour
+130103025-me221 Fluid Mechanics I
+130103025-me222 Manufacturing Technology I
+130103025-me223 Solid Mechanics II
+130103025-me224 Kinematics of Machinery
+130103025-me225 Workshop II
+130103025-me226 Mechanical Lab I
+130103026-hs203 Problems of Philosophy
+130103026-ma212m Mathematical Statistics
+130103026-me221 Fluid Mechanics I
+130103026-me222 Manufacturing Technology I
+130103026-me223 Solid Mechanics II
+130103026-me224 Kinematics of Machinery
+130103026-me225 Workshop II
+130103026-me226 Mechanical Lab I
+130103027-dd220m Introduction to Ergonomics
+130103027-hs223 Language and Society
+130103027-me221 Fluid Mechanics I
+130103027-me222 Manufacturing Technology I
+130103027-me223 Solid Mechanics II
+130103027-me224 Kinematics of Machinery
+130103027-me225 Workshop II
+130103027-me226 Mechanical Lab I
+130103028-dd220m Introduction to Ergonomics
+130103028-hs213 Consumer Behaviour
+130103028-me221 Fluid Mechanics I
+130103028-me222 Manufacturing Technology I
+130103028-me223 Solid Mechanics II
+130103028-me224 Kinematics of Machinery
+130103028-me225 Workshop II
+130103028-me226 Mechanical Lab I
+130103029-hs213 Consumer Behaviour
+130103029-me221 Fluid Mechanics I
+130103029-me222 Manufacturing Technology I
+130103029-me223 Solid Mechanics II
+130103029-me224 Kinematics of Machinery
+130103029-me225 Workshop II
+130103029-me226 Mechanical Lab I
+130103030-hs237 Introduction to Archeology
+130103030-me221 Fluid Mechanics I
+130103030-me222 Manufacturing Technology I
+130103030-me223 Solid Mechanics II
+130103030-me224 Kinematics of Machinery
+130103030-me225 Workshop II
+130103030-me226 Mechanical Lab I
+130103031-hs234 Introduction to Linguistics
+130103031-me221 Fluid Mechanics I
+130103031-me222 Manufacturing Technology I
+130103031-me223 Solid Mechanics II
+130103031-me224 Kinematics of Machinery
+130103031-me225 Workshop II
+130103031-me226 Mechanical Lab I
+130103032-dd220m Introduction to Ergonomics
+130103032-hs222 Understanding Psychology : Individual and Works Settings
+130103032-me221 Fluid Mechanics I
+130103032-me222 Manufacturing Technology I
+130103032-me223 Solid Mechanics II
+130103032-me224 Kinematics of Machinery
+130103032-me225 Workshop II
+130103032-me226 Mechanical Lab I
+130103033-hs237 Introduction to Archeology
+130103033-me221 Fluid Mechanics I
+130103033-me222 Manufacturing Technology I
+130103033-me223 Solid Mechanics II
+130103033-me224 Kinematics of Machinery
+130103033-me225 Workshop II
+130103033-me226 Mechanical Lab I
+130103034-hs237 Introduction to Archeology
+130103034-me221 Fluid Mechanics I
+130103034-me222 Manufacturing Technology I
+130103034-me223 Solid Mechanics II
+130103034-me224 Kinematics of Machinery
+130103034-me225 Workshop II
+130103034-me226 Mechanical Lab I
+130103035-dd220m Introduction to Ergonomics
+130103035-hs223 Language and Society
+130103035-me221 Fluid Mechanics I
+130103035-me222 Manufacturing Technology I
+130103035-me223 Solid Mechanics II
+130103035-me224 Kinematics of Machinery
+130103035-me225 Workshop II
+130103035-me226 Mechanical Lab I
+130103036-dd220m Introduction to Ergonomics
+130103036-hs203 Problems of Philosophy
+130103036-me221 Fluid Mechanics I
+130103036-me222 Manufacturing Technology I
+130103036-me223 Solid Mechanics II
+130103036-me224 Kinematics of Machinery
+130103036-me225 Workshop II
+130103036-me226 Mechanical Lab I
+130103037-dd220m Introduction to Ergonomics
+130103037-hs223 Language and Society
+130103037-me221 Fluid Mechanics I
+130103037-me222 Manufacturing Technology I
+130103037-me223 Solid Mechanics II
+130103037-me224 Kinematics of Machinery
+130103037-me225 Workshop II
+130103037-me226 Mechanical Lab I
+130103038-hs223 Language and Society
+130103039-hs223 Language and Society
+130103039-me221 Fluid Mechanics I
+130103039-me222 Manufacturing Technology I
+130103039-me223 Solid Mechanics II
+130103039-me224 Kinematics of Machinery
+130103039-me225 Workshop II
+130103039-me226 Mechanical Lab I
+130103040-hs234 Introduction to Linguistics
+130103041-hs223 Language and Society
+130103041-ma212m Mathematical Statistics
+130103041-me221 Fluid Mechanics I
+130103041-me222 Manufacturing Technology I
+130103041-me223 Solid Mechanics II
+130103041-me224 Kinematics of Machinery
+130103041-me225 Workshop II
+130103041-me226 Mechanical Lab I
+130103042-dd220m Introduction to Ergonomics
+130103042-hs222 Understanding Psychology : Individual and Works Settings
+130103042-me221 Fluid Mechanics I
+130103042-me222 Manufacturing Technology I
+130103042-me223 Solid Mechanics II
+130103042-me224 Kinematics of Machinery
+130103042-me225 Workshop II
+130103042-me226 Mechanical Lab I
+130103043-hs237 Introduction to Archeology
+130103043-me221 Fluid Mechanics I
+130103043-me222 Manufacturing Technology I
+130103043-me223 Solid Mechanics II
+130103043-me224 Kinematics of Machinery
+130103043-me225 Workshop II
+130103043-me226 Mechanical Lab I
+130103044-hs237 Introduction to Archeology
+130103044-me221 Fluid Mechanics I
+130103044-me222 Manufacturing Technology I
+130103044-me223 Solid Mechanics II
+130103044-me224 Kinematics of Machinery
+130103044-me225 Workshop II
+130103044-me226 Mechanical Lab I
+130103045-hs216 Sociology of India : Conformities & Contradictions
+130103045-me221 Fluid Mechanics I
+130103045-me222 Manufacturing Technology I
+130103045-me223 Solid Mechanics II
+130103045-me224 Kinematics of Machinery
+130103045-me225 Workshop II
+130103045-me226 Mechanical Lab I
+130103046-hs203 Problems of Philosophy
+130103046-me221 Fluid Mechanics I
+130103046-me222 Manufacturing Technology I
+130103046-me223 Solid Mechanics II
+130103046-me224 Kinematics of Machinery
+130103046-me225 Workshop II
+130103046-me226 Mechanical Lab I
+130103046-ph282m Engineering Optics
+130103047-hs216 Sociology of India : Conformities & Contradictions
+130103047-me221 Fluid Mechanics I
+130103047-me222 Manufacturing Technology I
+130103047-me223 Solid Mechanics II
+130103047-me224 Kinematics of Machinery
+130103047-me225 Workshop II
+130103047-me226 Mechanical Lab I
+130103048-hs223 Language and Society
+130103048-me221 Fluid Mechanics I
+130103048-me222 Manufacturing Technology I
+130103048-me223 Solid Mechanics II
+130103048-me224 Kinematics of Machinery
+130103048-me225 Workshop II
+130103048-me226 Mechanical Lab I
+130103050-dd220m Introduction to Ergonomics
+130103050-hs216 Sociology of India : Conformities & Contradictions
+130103050-me221 Fluid Mechanics I
+130103050-me222 Manufacturing Technology I
+130103050-me223 Solid Mechanics II
+130103050-me224 Kinematics of Machinery
+130103050-me225 Workshop II
+130103050-me226 Mechanical Lab I
+130103051-hs226 Macroeconomics
+130103051-me221 Fluid Mechanics I
+130103051-me222 Manufacturing Technology I
+130103051-me223 Solid Mechanics II
+130103051-me224 Kinematics of Machinery
+130103051-me225 Workshop II
+130103051-me226 Mechanical Lab I
+130103052-hs237 Introduction to Archeology
+130103052-ma212m Mathematical Statistics
+130103052-me221 Fluid Mechanics I
+130103052-me222 Manufacturing Technology I
+130103052-me223 Solid Mechanics II
+130103052-me224 Kinematics of Machinery
+130103052-me225 Workshop II
+130103052-me226 Mechanical Lab I
+130103053-hs223 Language and Society
+130103053-me221 Fluid Mechanics I
+130103053-me222 Manufacturing Technology I
+130103053-me223 Solid Mechanics II
+130103053-me224 Kinematics of Machinery
+130103053-me225 Workshop II
+130103053-me226 Mechanical Lab I
+130103055-hs213 Consumer Behaviour
+130103055-me221 Fluid Mechanics I
+130103055-me222 Manufacturing Technology I
+130103055-me223 Solid Mechanics II
+130103055-me224 Kinematics of Machinery
+130103055-me225 Workshop II
+130103055-me226 Mechanical Lab I
+130103056-hs203 Problems of Philosophy
+130103056-me221 Fluid Mechanics I
+130103056-me222 Manufacturing Technology I
+130103056-me223 Solid Mechanics II
+130103056-me224 Kinematics of Machinery
+130103056-me225 Workshop II
+130103056-me226 Mechanical Lab I
+130103057-hs223 Language and Society
+130103058-hs213 Consumer Behaviour
+130103058-me221 Fluid Mechanics I
+130103058-me222 Manufacturing Technology I
+130103058-me223 Solid Mechanics II
+130103058-me224 Kinematics of Machinery
+130103058-me225 Workshop II
+130103058-me226 Mechanical Lab I
+130103059-hs223 Language and Society
+130103059-me221 Fluid Mechanics I
+130103059-me222 Manufacturing Technology I
+130103059-me223 Solid Mechanics II
+130103059-me224 Kinematics of Machinery
+130103059-me225 Workshop II
+130103059-me226 Mechanical Lab I
+130103060-hs216 Sociology of India : Conformities & Contradictions
+130103060-me221 Fluid Mechanics I
+130103060-me222 Manufacturing Technology I
+130103060-me223 Solid Mechanics II
+130103060-me224 Kinematics of Machinery
+130103060-me225 Workshop II
+130103060-me226 Mechanical Lab I
+130103061-hs222 Understanding Psychology : Individual and Works Settings
+130103061-me221 Fluid Mechanics I
+130103061-me222 Manufacturing Technology I
+130103061-me223 Solid Mechanics II
+130103061-me224 Kinematics of Machinery
+130103061-me225 Workshop II
+130103061-me226 Mechanical Lab I
+130103062-hs226 Macroeconomics
+130103062-me221 Fluid Mechanics I
+130103062-me222 Manufacturing Technology I
+130103062-me223 Solid Mechanics II
+130103062-me224 Kinematics of Machinery
+130103062-me225 Workshop II
+130103062-me226 Mechanical Lab I
+130103063-hs237 Introduction to Archeology
+130103063-me221 Fluid Mechanics I
+130103063-me222 Manufacturing Technology I
+130103063-me223 Solid Mechanics II
+130103063-me224 Kinematics of Machinery
+130103063-me225 Workshop II
+130103063-me226 Mechanical Lab I
+130103065-hs216 Sociology of India : Conformities & Contradictions
+130103065-me221 Fluid Mechanics I
+130103065-me222 Manufacturing Technology I
+130103065-me223 Solid Mechanics II
+130103065-me224 Kinematics of Machinery
+130103065-me225 Workshop II
+130103065-me226 Mechanical Lab I
+130103067-hs222 Understanding Psychology : Individual and Works Settings
+130103067-me221 Fluid Mechanics I
+130103067-me222 Manufacturing Technology I
+130103067-me223 Solid Mechanics II
+130103067-me224 Kinematics of Machinery
+130103067-me225 Workshop II
+130103067-me226 Mechanical Lab I
+130103068-hs226 Macroeconomics
+130103068-me221 Fluid Mechanics I
+130103068-me222 Manufacturing Technology I
+130103068-me223 Solid Mechanics II
+130103068-me224 Kinematics of Machinery
+130103068-me225 Workshop II
+130103068-me226 Mechanical Lab I
+130103069-hs213 Consumer Behaviour
+130103069-me221 Fluid Mechanics I
+130103069-me222 Manufacturing Technology I
+130103069-me223 Solid Mechanics II
+130103069-me224 Kinematics of Machinery
+130103069-me225 Workshop II
+130103069-me226 Mechanical Lab I
+130103070-hs216 Sociology of India : Conformities & Contradictions
+130103070-me221 Fluid Mechanics I
+130103070-me222 Manufacturing Technology I
+130103070-me223 Solid Mechanics II
+130103070-me224 Kinematics of Machinery
+130103070-me225 Workshop II
+130103070-me226 Mechanical Lab I
+130103071-dd220m Introduction to Ergonomics
+130103071-hs237 Introduction to Archeology
+130103071-me221 Fluid Mechanics I
+130103071-me222 Manufacturing Technology I
+130103071-me223 Solid Mechanics II
+130103071-me224 Kinematics of Machinery
+130103071-me225 Workshop II
+130103071-me226 Mechanical Lab I
+130103072-hs226 Macroeconomics
+130103072-ma212m Mathematical Statistics
+130103072-me221 Fluid Mechanics I
+130103072-me222 Manufacturing Technology I
+130103072-me223 Solid Mechanics II
+130103072-me224 Kinematics of Machinery
+130103072-me225 Workshop II
+130103072-me226 Mechanical Lab I
+130103073-hs226 Macroeconomics
+130103073-me221 Fluid Mechanics I
+130103073-me222 Manufacturing Technology I
+130103073-me223 Solid Mechanics II
+130103073-me224 Kinematics of Machinery
+130103073-me225 Workshop II
+130103073-me226 Mechanical Lab I
+130103074-hs203 Problems of Philosophy
+130103074-me221 Fluid Mechanics I
+130103074-me222 Manufacturing Technology I
+130103074-me223 Solid Mechanics II
+130103074-me224 Kinematics of Machinery
+130103074-me225 Workshop II
+130103074-me226 Mechanical Lab I
+130103075-hs237 Introduction to Archeology
+130103075-me221 Fluid Mechanics I
+130103075-me222 Manufacturing Technology I
+130103075-me223 Solid Mechanics II
+130103075-me224 Kinematics of Machinery
+130103075-me225 Workshop II
+130103075-me226 Mechanical Lab I
+130103076-hs237 Introduction to Archeology
+130103076-me221 Fluid Mechanics I
+130103076-me222 Manufacturing Technology I
+130103076-me223 Solid Mechanics II
+130103076-me224 Kinematics of Machinery
+130103076-me225 Workshop II
+130103076-me226 Mechanical Lab I
+130103077-hs237 Introduction to Archeology
+130103077-me221 Fluid Mechanics I
+130103077-me222 Manufacturing Technology I
+130103077-me223 Solid Mechanics II
+130103077-me224 Kinematics of Machinery
+130103077-me225 Workshop II
+130103077-me226 Mechanical Lab I
+130103078-hs203 Problems of Philosophy
+130103078-me221 Fluid Mechanics I
+130103078-me222 Manufacturing Technology I
+130103078-me223 Solid Mechanics II
+130103078-me224 Kinematics of Machinery
+130103078-me225 Workshop II
+130103078-me226 Mechanical Lab I
+130103079-hs216 Sociology of India : Conformities & Contradictions
+130103079-me221 Fluid Mechanics I
+130103079-me222 Manufacturing Technology I
+130103079-me223 Solid Mechanics II
+130103079-me224 Kinematics of Machinery
+130103079-me225 Workshop II
+130103079-me226 Mechanical Lab I
+130103080-hs234 Introduction to Linguistics
+130103080-me221 Fluid Mechanics I
+130103080-me222 Manufacturing Technology I
+130103080-me223 Solid Mechanics II
+130103080-me224 Kinematics of Machinery
+130103080-me225 Workshop II
+130103080-me226 Mechanical Lab I
+130103081-cs206M 
+130103081-hs226 Macroeconomics
+130103081-me221 Fluid Mechanics I
+130103081-me222 Manufacturing Technology I
+130103081-me223 Solid Mechanics II
+130103081-me224 Kinematics of Machinery
+130103081-me225 Workshop II
+130103081-me226 Mechanical Lab I
+130103082-cs206M 
+130103082-hs216 Sociology of India : Conformities & Contradictions
+130103082-me221 Fluid Mechanics I
+130103082-me222 Manufacturing Technology I
+130103082-me223 Solid Mechanics II
+130103082-me224 Kinematics of Machinery
+130103082-me225 Workshop II
+130103082-me226 Mechanical Lab I
+130103083-cs206M 
+130103083-hs222 Understanding Psychology : Individual and Works Settings
+130103083-me221 Fluid Mechanics I
+130103083-me222 Manufacturing Technology I
+130103083-me223 Solid Mechanics II
+130103083-me224 Kinematics of Machinery
+130103083-me225 Workshop II
+130103083-me226 Mechanical Lab I
+130103084-cs206M 
+130103084-hs213 Consumer Behaviour
+130103084-me221 Fluid Mechanics I
+130103084-me222 Manufacturing Technology I
+130103084-me223 Solid Mechanics II
+130103084-me224 Kinematics of Machinery
+130103084-me225 Workshop II
+130103084-me226 Mechanical Lab I
+130103085-hs216 Sociology of India : Conformities & Contradictions
+130103085-me221 Fluid Mechanics I
+130103085-me222 Manufacturing Technology I
+130103085-me223 Solid Mechanics II
+130103085-me224 Kinematics of Machinery
+130103085-me225 Workshop II
+130103085-me226 Mechanical Lab I
+130103086-dd220m Introduction to Ergonomics
+130103086-hs216 Sociology of India : Conformities & Contradictions
+130103086-me221 Fluid Mechanics I
+130103086-me222 Manufacturing Technology I
+130103086-me223 Solid Mechanics II
+130103086-me224 Kinematics of Machinery
+130103086-me225 Workshop II
+130103086-me226 Mechanical Lab I
+130103087-hs222 Understanding Psychology : Individual and Works Settings
+130103087-me221 Fluid Mechanics I
+130103087-me222 Manufacturing Technology I
+130103087-me223 Solid Mechanics II
+130103087-me224 Kinematics of Machinery
+130103087-me225 Workshop II
+130103087-me226 Mechanical Lab I
+130103088-hs237 Introduction to Archeology
+130103088-me221 Fluid Mechanics I
+130103088-me222 Manufacturing Technology I
+130103088-me223 Solid Mechanics II
+130103088-me224 Kinematics of Machinery
+130103088-me225 Workshop II
+130103088-me226 Mechanical Lab I
+130103089-hs226 Macroeconomics
+130103089-me221 Fluid Mechanics I
+130103089-me222 Manufacturing Technology I
+130103089-me223 Solid Mechanics II
+130103089-me224 Kinematics of Machinery
+130103089-me225 Workshop II
+130103089-me226 Mechanical Lab I
+134103001-me690 Project Phase II
+134103004-me690 Project Phase II
+134103008-me690 Project Phase II
+134103011-me690 Project Phase II
+134103012-me690 Project Phase II
+134103013-me690 Project Phase II
+134103014-me690 Project Phase II
+134103015-me690 Project Phase II
+134103018-me690 Project Phase II
+134103020-me690 Project Phase II
+134103022-me690 Project Phase II
+134103023-me690 Project Phase II
+134103024-me690 Project Phase II
+134103025-me690 Project Phase II
+134103026-me690 Project Phase II
+134103027-me690 Project Phase II
+134103028-me690 Project Phase II
+134103030-me690 Project Phase II
+134103031-me690 Project Phase II
+134103032-me690 Project Phase II
+134103033-me690 Project Phase II
+134103034-me690 Project Phase II
+134103036-me690 Project Phase II
+134103038-me690 Project Phase II
+134103039-me690 Project Phase II
+134103040-me690 Project Phase II
+134103041-me690 Project Phase II
+134103043-me690 Project Phase II
+134103044-me690 Project Phase II
+134103045-me690 Project Phase II
+134103047-me690 Project Phase II
+134103048-me690 Project Phase II
+134103049-me690 Project Phase II
+134103050-me690 Project Phase II
+134103051-me690 Project Phase II
+134103052-me690 Project Phase II
+134103053-me690 Project Phase II
+134103054-me690 Project Phase II
+134103057-me690 Project Phase II
+134103058-me690 Project Phase II
+134103059-me690 Project Phase II
+134103062-me690 Project Phase II
+134103063-me690 Project Phase II
+134103064-me690 Project Phase II
+134103067-me690 Project Phase II
+134103069-me690 Project Phase II
+134103070-me690 Project Phase II
+134103071-me690 Project Phase II
+134103072-me690 Project Phase II
+134103073-me690 Project Phase II
+134103075-me690 Project Phase II
+134103079-me690 Project Phase II
+134103080-me690 Project Phase II
+134103082-me690 Project Phase II
+134103083-me690 Project Phase II
+134103084-me690 Project Phase II
+134103086-me690 Project Phase II
+134103087-me690 Project Phase II
+134103088-me690 Project Phase II
+134103089-me690 Project Phase II
+134103090-me690 Project Phase II
+134103091-me690 Project Phase II
+134103092-me690 Project Phase II
+134103093-me690 Project Phase II
+134103097-me690 Project Phase II
+134103101-me690 Project Phase II
+134103102-me690 Project Phase II
+134103103-me690 Project Phase II
+134103104-me690 Project Phase II
+134103116-me690 Project Phase II
+134103121-me690 Project Phase II
+134103123-me690 Project Phase II
+134103125-me690 Project Phase II
+140103001-bt101 Modern Biology
+140103001-cs101 Introduction to Computing
+140103001-cs110 Computing Lab
+140103001-ee102 Basic Electronics Laboratory
+140103001-ma102 Mathematics II
+140103001-me101 Engineering Mechanics
+140103001-ph102 Physics II
+140103001-ph110 Physics Lab.
+140103001-sa102 Course Name/Course No Not Found
+140103002-bt101 Modern Biology
+140103002-cs101 Introduction to Computing
+140103002-cs110 Computing Lab
+140103002-ee102 Basic Electronics Laboratory
+140103002-ma102 Mathematics II
+140103002-me101 Engineering Mechanics
+140103002-ph102 Physics II
+140103002-ph110 Physics Lab.
+140103002-sa102 Course Name/Course No Not Found
+140103003-bt101 Modern Biology
+140103003-cs101 Introduction to Computing
+140103003-cs110 Computing Lab
+140103003-ee102 Basic Electronics Laboratory
+140103003-ma102 Mathematics II
+140103003-me101 Engineering Mechanics
+140103003-ph102 Physics II
+140103003-ph110 Physics Lab.
+140103003-sa102 Course Name/Course No Not Found
+140103004-bt101 Modern Biology
+140103004-cs101 Introduction to Computing
+140103004-cs110 Computing Lab
+140103004-ee102 Basic Electronics Laboratory
+140103004-ma102 Mathematics II
+140103004-me101 Engineering Mechanics
+140103004-ph102 Physics II
+140103004-ph110 Physics Lab.
+140103004-sa102 Course Name/Course No Not Found
+140103005-bt101 Modern Biology
+140103005-cs101 Introduction to Computing
+140103005-cs110 Computing Lab
+140103005-ee102 Basic Electronics Laboratory
+140103005-ma102 Mathematics II
+140103005-me101 Engineering Mechanics
+140103005-ph102 Physics II
+140103005-ph110 Physics Lab.
+140103005-sa102 Course Name/Course No Not Found
+140103006-bt101 Modern Biology
+140103006-cs101 Introduction to Computing
+140103006-cs110 Computing Lab
+140103006-ee102 Basic Electronics Laboratory
+140103006-ma102 Mathematics II
+140103006-me101 Engineering Mechanics
+140103006-ph102 Physics II
+140103006-ph110 Physics Lab.
+140103006-sa102 Course Name/Course No Not Found
+140103008-bt101 Modern Biology
+140103008-cs101 Introduction to Computing
+140103008-cs110 Computing Lab
+140103008-ee102 Basic Electronics Laboratory
+140103008-ma102 Mathematics II
+140103008-me101 Engineering Mechanics
+140103008-ph102 Physics II
+140103008-ph110 Physics Lab.
+140103008-sa102 Course Name/Course No Not Found
+140103009-bt101 Modern Biology
+140103009-cs101 Introduction to Computing
+140103009-cs110 Computing Lab
+140103009-ee102 Basic Electronics Laboratory
+140103009-ma102 Mathematics II
+140103009-me101 Engineering Mechanics
+140103009-ph102 Physics II
+140103009-ph110 Physics Lab.
+140103009-sa102 Course Name/Course No Not Found
+140103010-bt101 Modern Biology
+140103010-cs101 Introduction to Computing
+140103010-cs110 Computing Lab
+140103010-ee102 Basic Electronics Laboratory
+140103010-ma102 Mathematics II
+140103010-me101 Engineering Mechanics
+140103010-ph102 Physics II
+140103010-ph110 Physics Lab.
+140103010-sa102 Course Name/Course No Not Found
+140103011-bt101 Modern Biology
+140103011-cs101 Introduction to Computing
+140103011-cs110 Computing Lab
+140103011-ee102 Basic Electronics Laboratory
+140103011-ma102 Mathematics II
+140103011-me101 Engineering Mechanics
+140103011-ph102 Physics II
+140103011-ph110 Physics Lab.
+140103011-sa102 Course Name/Course No Not Found
+140103012-bt101 Modern Biology
+140103012-cs101 Introduction to Computing
+140103012-cs110 Computing Lab
+140103012-ee102 Basic Electronics Laboratory
+140103012-ma102 Mathematics II
+140103012-me101 Engineering Mechanics
+140103012-ph102 Physics II
+140103012-ph110 Physics Lab.
+140103012-sa102 Course Name/Course No Not Found
+140103013-bt101 Modern Biology
+140103013-cs101 Introduction to Computing
+140103013-cs110 Computing Lab
+140103013-ee102 Basic Electronics Laboratory
+140103013-ma102 Mathematics II
+140103013-me101 Engineering Mechanics
+140103013-ph102 Physics II
+140103013-ph110 Physics Lab.
+140103013-sa102 Course Name/Course No Not Found
+140103014-bt101 Modern Biology
+140103014-cs101 Introduction to Computing
+140103014-cs110 Computing Lab
+140103014-ee102 Basic Electronics Laboratory
+140103014-ma102 Mathematics II
+140103014-me101 Engineering Mechanics
+140103014-ph102 Physics II
+140103014-ph110 Physics Lab.
+140103014-sa102 Course Name/Course No Not Found
+140103015-bt101 Modern Biology
+140103015-cs101 Introduction to Computing
+140103015-cs110 Computing Lab
+140103015-ee102 Basic Electronics Laboratory
+140103015-ma102 Mathematics II
+140103015-me101 Engineering Mechanics
+140103015-ph102 Physics II
+140103015-ph110 Physics Lab.
+140103015-sa102 Course Name/Course No Not Found
+140103016-bt101 Modern Biology
+140103016-cs101 Introduction to Computing
+140103016-cs110 Computing Lab
+140103016-ee102 Basic Electronics Laboratory
+140103016-ma102 Mathematics II
+140103016-me101 Engineering Mechanics
+140103016-ph102 Physics II
+140103016-ph110 Physics Lab.
+140103016-sa102 Course Name/Course No Not Found
+140103017-bt101 Modern Biology
+140103017-cs101 Introduction to Computing
+140103017-cs110 Computing Lab
+140103017-ee102 Basic Electronics Laboratory
+140103017-ma102 Mathematics II
+140103017-me101 Engineering Mechanics
+140103017-ph102 Physics II
+140103017-ph110 Physics Lab.
+140103017-sa102 Course Name/Course No Not Found
+140103018-bt101 Modern Biology
+140103018-cs101 Introduction to Computing
+140103018-cs110 Computing Lab
+140103018-ee102 Basic Electronics Laboratory
+140103018-ma102 Mathematics II
+140103018-me101 Engineering Mechanics
+140103018-ph102 Physics II
+140103018-ph110 Physics Lab.
+140103018-sa102 Course Name/Course No Not Found
+140103019-bt101 Modern Biology
+140103019-cs101 Introduction to Computing
+140103019-cs110 Computing Lab
+140103019-ee102 Basic Electronics Laboratory
+140103019-ma102 Mathematics II
+140103019-me101 Engineering Mechanics
+140103019-ph102 Physics II
+140103019-ph110 Physics Lab.
+140103019-sa102 Course Name/Course No Not Found
+140103020-bt101 Modern Biology
+140103020-cs101 Introduction to Computing
+140103020-cs110 Computing Lab
+140103020-ee102 Basic Electronics Laboratory
+140103020-ma102 Mathematics II
+140103020-me101 Engineering Mechanics
+140103020-ph102 Physics II
+140103020-ph110 Physics Lab.
+140103020-sa102 Course Name/Course No Not Found
+140103021-bt101 Modern Biology
+140103021-cs101 Introduction to Computing
+140103021-cs110 Computing Lab
+140103021-ee102 Basic Electronics Laboratory
+140103021-ma102 Mathematics II
+140103021-me101 Engineering Mechanics
+140103021-ph102 Physics II
+140103021-ph110 Physics Lab.
+140103021-sa102 Course Name/Course No Not Found
+140103022-bt101 Modern Biology
+140103022-cs101 Introduction to Computing
+140103022-cs110 Computing Lab
+140103022-ee102 Basic Electronics Laboratory
+140103022-ma102 Mathematics II
+140103022-me101 Engineering Mechanics
+140103022-ph102 Physics II
+140103022-ph110 Physics Lab.
+140103022-sa102 Course Name/Course No Not Found
+140103023-bt101 Modern Biology
+140103023-cs101 Introduction to Computing
+140103023-cs110 Computing Lab
+140103023-ee102 Basic Electronics Laboratory
+140103023-ma102 Mathematics II
+140103023-me101 Engineering Mechanics
+140103023-ph102 Physics II
+140103023-ph110 Physics Lab.
+140103023-sa102 Course Name/Course No Not Found
+140103024-bt101 Modern Biology
+140103024-cs101 Introduction to Computing
+140103024-cs110 Computing Lab
+140103024-ee102 Basic Electronics Laboratory
+140103024-ma102 Mathematics II
+140103024-me101 Engineering Mechanics
+140103024-ph102 Physics II
+140103024-ph110 Physics Lab.
+140103024-sa102 Course Name/Course No Not Found
+140103025-bt101 Modern Biology
+140103025-cs101 Introduction to Computing
+140103025-cs110 Computing Lab
+140103025-ee102 Basic Electronics Laboratory
+140103025-ma102 Mathematics II
+140103025-me101 Engineering Mechanics
+140103025-ph102 Physics II
+140103025-ph110 Physics Lab.
+140103025-sa102 Course Name/Course No Not Found
+140103026-bt101 Modern Biology
+140103026-cs101 Introduction to Computing
+140103026-cs110 Computing Lab
+140103026-ee102 Basic Electronics Laboratory
+140103026-ma102 Mathematics II
+140103026-me101 Engineering Mechanics
+140103026-ph102 Physics II
+140103026-ph110 Physics Lab.
+140103026-sa102 Course Name/Course No Not Found
+140103027-bt101 Modern Biology
+140103027-cs101 Introduction to Computing
+140103027-cs110 Computing Lab
+140103027-ee102 Basic Electronics Laboratory
+140103027-ma102 Mathematics II
+140103027-me101 Engineering Mechanics
+140103027-ph102 Physics II
+140103027-ph110 Physics Lab.
+140103027-sa102 Course Name/Course No Not Found
+140103028-bt101 Modern Biology
+140103028-cs101 Introduction to Computing
+140103028-cs110 Computing Lab
+140103028-ee102 Basic Electronics Laboratory
+140103028-ma102 Mathematics II
+140103028-me101 Engineering Mechanics
+140103028-ph102 Physics II
+140103028-ph110 Physics Lab.
+140103028-sa102 Course Name/Course No Not Found
+140103030-bt101 Modern Biology
+140103030-cs101 Introduction to Computing
+140103030-cs110 Computing Lab
+140103030-ee102 Basic Electronics Laboratory
+140103030-ma102 Mathematics II
+140103030-me101 Engineering Mechanics
+140103030-ph102 Physics II
+140103030-ph110 Physics Lab.
+140103030-sa102 Course Name/Course No Not Found
+140103031-bt101 Modern Biology
+140103031-cs101 Introduction to Computing
+140103031-cs110 Computing Lab
+140103031-ee102 Basic Electronics Laboratory
+140103031-ma102 Mathematics II
+140103031-me101 Engineering Mechanics
+140103031-ph102 Physics II
+140103031-ph110 Physics Lab.
+140103031-sa102 Course Name/Course No Not Found
+140103032-bt101 Modern Biology
+140103032-cs101 Introduction to Computing
+140103032-cs110 Computing Lab
+140103032-ee102 Basic Electronics Laboratory
+140103032-ma102 Mathematics II
+140103032-me101 Engineering Mechanics
+140103032-ph102 Physics II
+140103032-ph110 Physics Lab.
+140103032-sa102 Course Name/Course No Not Found
+140103033-bt101 Modern Biology
+140103033-cs101 Introduction to Computing
+140103033-cs110 Computing Lab
+140103033-ee102 Basic Electronics Laboratory
+140103033-ma102 Mathematics II
+140103033-me101 Engineering Mechanics
+140103033-ph102 Physics II
+140103033-ph110 Physics Lab.
+140103033-sa102 Course Name/Course No Not Found
+140103034-bt101 Modern Biology
+140103034-cs101 Introduction to Computing
+140103034-cs110 Computing Lab
+140103034-ee102 Basic Electronics Laboratory
+140103034-ma102 Mathematics II
+140103034-me101 Engineering Mechanics
+140103034-ph102 Physics II
+140103034-ph110 Physics Lab.
+140103034-sa102 Course Name/Course No Not Found
+140103035-bt101 Modern Biology
+140103035-cs101 Introduction to Computing
+140103035-cs110 Computing Lab
+140103035-ee102 Basic Electronics Laboratory
+140103035-ma102 Mathematics II
+140103035-me101 Engineering Mechanics
+140103035-ph102 Physics II
+140103035-ph110 Physics Lab.
+140103035-sa102 Course Name/Course No Not Found
+140103036-bt101 Modern Biology
+140103036-cs101 Introduction to Computing
+140103036-cs110 Computing Lab
+140103036-ee102 Basic Electronics Laboratory
+140103036-ma102 Mathematics II
+140103036-me101 Engineering Mechanics
+140103036-ph102 Physics II
+140103036-ph110 Physics Lab.
+140103036-sa102 Course Name/Course No Not Found
+140103037-bt101 Modern Biology
+140103037-cs101 Introduction to Computing
+140103037-cs110 Computing Lab
+140103037-ee102 Basic Electronics Laboratory
+140103037-ma102 Mathematics II
+140103037-me101 Engineering Mechanics
+140103037-ph102 Physics II
+140103037-ph110 Physics Lab.
+140103037-sa102 Course Name/Course No Not Found
+140103038-bt101 Modern Biology
+140103038-cs101 Introduction to Computing
+140103038-cs110 Computing Lab
+140103038-ee102 Basic Electronics Laboratory
+140103038-ma102 Mathematics II
+140103038-me101 Engineering Mechanics
+140103038-ph102 Physics II
+140103038-ph110 Physics Lab.
+140103038-sa102 Course Name/Course No Not Found
+140103039-bt101 Modern Biology
+140103039-cs101 Introduction to Computing
+140103039-cs110 Computing Lab
+140103039-ee102 Basic Electronics Laboratory
+140103039-ma102 Mathematics II
+140103039-me101 Engineering Mechanics
+140103039-ph102 Physics II
+140103039-ph110 Physics Lab.
+140103039-sa102 Course Name/Course No Not Found
+140103040-bt101 Modern Biology
+140103040-cs101 Introduction to Computing
+140103040-cs110 Computing Lab
+140103040-ee102 Basic Electronics Laboratory
+140103040-ma102 Mathematics II
+140103040-me101 Engineering Mechanics
+140103040-ph102 Physics II
+140103040-ph110 Physics Lab.
+140103040-sa102 Course Name/Course No Not Found
+140103041-bt101 Modern Biology
+140103041-cs101 Introduction to Computing
+140103041-cs110 Computing Lab
+140103041-ee102 Basic Electronics Laboratory
+140103041-ma102 Mathematics II
+140103041-me101 Engineering Mechanics
+140103041-ph102 Physics II
+140103041-ph110 Physics Lab.
+140103041-sa102 Course Name/Course No Not Found
+140103042-bt101 Modern Biology
+140103042-cs101 Introduction to Computing
+140103042-cs110 Computing Lab
+140103042-ee102 Basic Electronics Laboratory
+140103042-ma102 Mathematics II
+140103042-me101 Engineering Mechanics
+140103042-ph102 Physics II
+140103042-ph110 Physics Lab.
+140103042-sa102 Course Name/Course No Not Found
+140103043-bt101 Modern Biology
+140103043-cs101 Introduction to Computing
+140103043-cs110 Computing Lab
+140103043-ee102 Basic Electronics Laboratory
+140103043-ma102 Mathematics II
+140103043-me101 Engineering Mechanics
+140103043-ph102 Physics II
+140103043-ph110 Physics Lab.
+140103043-sa102 Course Name/Course No Not Found
+140103044-bt101 Modern Biology
+140103044-cs101 Introduction to Computing
+140103044-cs110 Computing Lab
+140103044-ee102 Basic Electronics Laboratory
+140103044-ma102 Mathematics II
+140103044-me101 Engineering Mechanics
+140103044-ph102 Physics II
+140103044-ph110 Physics Lab.
+140103044-sa102 Course Name/Course No Not Found
+140103045-bt101 Modern Biology
+140103045-cs101 Introduction to Computing
+140103045-cs110 Computing Lab
+140103045-ee102 Basic Electronics Laboratory
+140103045-ma102 Mathematics II
+140103045-me101 Engineering Mechanics
+140103045-ph102 Physics II
+140103045-ph110 Physics Lab.
+140103045-sa102 Course Name/Course No Not Found
+140103046-bt101 Modern Biology
+140103046-cs101 Introduction to Computing
+140103046-cs110 Computing Lab
+140103046-ee102 Basic Electronics Laboratory
+140103046-ma102 Mathematics II
+140103046-me101 Engineering Mechanics
+140103046-ph102 Physics II
+140103046-ph110 Physics Lab.
+140103046-sa102 Course Name/Course No Not Found
+140103047-bt101 Modern Biology
+140103047-cs101 Introduction to Computing
+140103047-cs110 Computing Lab
+140103047-ee102 Basic Electronics Laboratory
+140103047-ma102 Mathematics II
+140103047-me101 Engineering Mechanics
+140103047-ph102 Physics II
+140103047-ph110 Physics Lab.
+140103047-sa102 Course Name/Course No Not Found
+140103048-bt101 Modern Biology
+140103048-cs101 Introduction to Computing
+140103048-cs110 Computing Lab
+140103048-ee102 Basic Electronics Laboratory
+140103048-ma102 Mathematics II
+140103048-me101 Engineering Mechanics
+140103048-ph102 Physics II
+140103048-ph110 Physics Lab.
+140103048-sa102 Course Name/Course No Not Found
+140103049-bt101 Modern Biology
+140103049-cs101 Introduction to Computing
+140103049-cs110 Computing Lab
+140103049-ee102 Basic Electronics Laboratory
+140103049-ma102 Mathematics II
+140103049-me101 Engineering Mechanics
+140103049-ph102 Physics II
+140103049-ph110 Physics Lab.
+140103049-sa102 Course Name/Course No Not Found
+140103050-bt101 Modern Biology
+140103050-cs101 Introduction to Computing
+140103050-cs110 Computing Lab
+140103050-ee102 Basic Electronics Laboratory
+140103050-ma102 Mathematics II
+140103050-me101 Engineering Mechanics
+140103050-ph102 Physics II
+140103050-ph110 Physics Lab.
+140103050-sa102 Course Name/Course No Not Found
+140103051-bt101 Modern Biology
+140103051-cs101 Introduction to Computing
+140103051-cs110 Computing Lab
+140103051-ee102 Basic Electronics Laboratory
+140103051-ma102 Mathematics II
+140103051-me101 Engineering Mechanics
+140103051-ph102 Physics II
+140103051-ph110 Physics Lab.
+140103051-sa102 Course Name/Course No Not Found
+140103053-bt101 Modern Biology
+140103053-cs101 Introduction to Computing
+140103053-cs110 Computing Lab
+140103053-ee102 Basic Electronics Laboratory
+140103053-ma102 Mathematics II
+140103053-me101 Engineering Mechanics
+140103053-ph102 Physics II
+140103053-ph110 Physics Lab.
+140103053-sa102 Course Name/Course No Not Found
+140103054-bt101 Modern Biology
+140103054-cs101 Introduction to Computing
+140103054-cs110 Computing Lab
+140103054-ee102 Basic Electronics Laboratory
+140103054-ma102 Mathematics II
+140103054-me101 Engineering Mechanics
+140103054-ph102 Physics II
+140103054-ph110 Physics Lab.
+140103054-sa102 Course Name/Course No Not Found
+140103055-bt101 Modern Biology
+140103055-cs101 Introduction to Computing
+140103055-cs110 Computing Lab
+140103055-ee102 Basic Electronics Laboratory
+140103055-ma102 Mathematics II
+140103055-me101 Engineering Mechanics
+140103055-ph102 Physics II
+140103055-ph110 Physics Lab.
+140103055-sa102 Course Name/Course No Not Found
+140103056-bt101 Modern Biology
+140103056-cs101 Introduction to Computing
+140103056-cs110 Computing Lab
+140103056-ee102 Basic Electronics Laboratory
+140103056-ma102 Mathematics II
+140103056-me101 Engineering Mechanics
+140103056-ph102 Physics II
+140103056-ph110 Physics Lab.
+140103056-sa102 Course Name/Course No Not Found
+140103057-bt101 Modern Biology
+140103057-cs101 Introduction to Computing
+140103057-cs110 Computing Lab
+140103057-ee102 Basic Electronics Laboratory
+140103057-ma102 Mathematics II
+140103057-me101 Engineering Mechanics
+140103057-ph102 Physics II
+140103057-ph110 Physics Lab.
+140103057-sa102 Course Name/Course No Not Found
+140103058-bt101 Modern Biology
+140103058-cs101 Introduction to Computing
+140103058-cs110 Computing Lab
+140103058-ee102 Basic Electronics Laboratory
+140103058-ma102 Mathematics II
+140103058-me101 Engineering Mechanics
+140103058-ph102 Physics II
+140103058-ph110 Physics Lab.
+140103058-sa102 Course Name/Course No Not Found
+140103059-bt101 Modern Biology
+140103059-cs101 Introduction to Computing
+140103059-cs110 Computing Lab
+140103059-ee102 Basic Electronics Laboratory
+140103059-ma102 Mathematics II
+140103059-me101 Engineering Mechanics
+140103059-ph102 Physics II
+140103059-ph110 Physics Lab.
+140103059-sa102 Course Name/Course No Not Found
+140103060-bt101 Modern Biology
+140103060-cs101 Introduction to Computing
+140103060-cs110 Computing Lab
+140103060-ee102 Basic Electronics Laboratory
+140103060-ma102 Mathematics II
+140103060-me101 Engineering Mechanics
+140103060-ph102 Physics II
+140103060-ph110 Physics Lab.
+140103060-sa102 Course Name/Course No Not Found
+140103061-bt101 Modern Biology
+140103061-cs101 Introduction to Computing
+140103061-cs110 Computing Lab
+140103061-ee102 Basic Electronics Laboratory
+140103061-ma102 Mathematics II
+140103061-me101 Engineering Mechanics
+140103061-ph102 Physics II
+140103061-ph110 Physics Lab.
+140103061-sa102 Course Name/Course No Not Found
+140103062-bt101 Modern Biology
+140103062-cs101 Introduction to Computing
+140103062-cs110 Computing Lab
+140103062-ee102 Basic Electronics Laboratory
+140103062-ma102 Mathematics II
+140103062-me101 Engineering Mechanics
+140103062-ph102 Physics II
+140103062-ph110 Physics Lab.
+140103062-sa102 Course Name/Course No Not Found
+140103063-bt101 Modern Biology
+140103063-cs101 Introduction to Computing
+140103063-cs110 Computing Lab
+140103063-ee102 Basic Electronics Laboratory
+140103063-ma102 Mathematics II
+140103063-me101 Engineering Mechanics
+140103063-ph102 Physics II
+140103063-ph110 Physics Lab.
+140103063-sa102 Course Name/Course No Not Found
+140103065-bt101 Modern Biology
+140103065-cs101 Introduction to Computing
+140103065-cs110 Computing Lab
+140103065-ee102 Basic Electronics Laboratory
+140103065-ma102 Mathematics II
+140103065-me101 Engineering Mechanics
+140103065-ph102 Physics II
+140103065-ph110 Physics Lab.
+140103065-sa102 Course Name/Course No Not Found
+140103066-bt101 Modern Biology
+140103066-cs101 Introduction to Computing
+140103066-cs110 Computing Lab
+140103066-ee102 Basic Electronics Laboratory
+140103066-ma102 Mathematics II
+140103066-me101 Engineering Mechanics
+140103066-ph102 Physics II
+140103066-ph110 Physics Lab.
+140103066-sa102 Course Name/Course No Not Found
+140103067-bt101 Modern Biology
+140103067-cs101 Introduction to Computing
+140103067-cs110 Computing Lab
+140103067-ee102 Basic Electronics Laboratory
+140103067-ma102 Mathematics II
+140103067-me101 Engineering Mechanics
+140103067-ph102 Physics II
+140103067-ph110 Physics Lab.
+140103067-sa102 Course Name/Course No Not Found
+140103068-bt101 Modern Biology
+140103068-cs101 Introduction to Computing
+140103068-cs110 Computing Lab
+140103068-ee102 Basic Electronics Laboratory
+140103068-ma102 Mathematics II
+140103068-me101 Engineering Mechanics
+140103068-ph102 Physics II
+140103068-ph110 Physics Lab.
+140103068-sa102 Course Name/Course No Not Found
+140103069-bt101 Modern Biology
+140103069-cs101 Introduction to Computing
+140103069-cs110 Computing Lab
+140103069-ee102 Basic Electronics Laboratory
+140103069-ma102 Mathematics II
+140103069-me101 Engineering Mechanics
+140103069-ph102 Physics II
+140103069-ph110 Physics Lab.
+140103069-sa102 Course Name/Course No Not Found
+140103070-bt101 Modern Biology
+140103070-cs101 Introduction to Computing
+140103070-cs110 Computing Lab
+140103070-ee102 Basic Electronics Laboratory
+140103070-ma102 Mathematics II
+140103070-me101 Engineering Mechanics
+140103070-ph102 Physics II
+140103070-ph110 Physics Lab.
+140103070-sa102 Course Name/Course No Not Found
+140103071-bt101 Modern Biology
+140103071-cs101 Introduction to Computing
+140103071-cs110 Computing Lab
+140103071-ee102 Basic Electronics Laboratory
+140103071-ma102 Mathematics II
+140103071-me101 Engineering Mechanics
+140103071-ph102 Physics II
+140103071-ph110 Physics Lab.
+140103071-sa102 Course Name/Course No Not Found
+140103072-bt101 Modern Biology
+140103072-cs101 Introduction to Computing
+140103072-cs110 Computing Lab
+140103072-ee102 Basic Electronics Laboratory
+140103072-ma102 Mathematics II
+140103072-me101 Engineering Mechanics
+140103072-ph102 Physics II
+140103072-ph110 Physics Lab.
+140103072-sa102 Course Name/Course No Not Found
+140103073-bt101 Modern Biology
+140103073-cs101 Introduction to Computing
+140103073-cs110 Computing Lab
+140103073-ee102 Basic Electronics Laboratory
+140103073-ma102 Mathematics II
+140103073-me101 Engineering Mechanics
+140103073-ph102 Physics II
+140103073-ph110 Physics Lab.
+140103073-sa102 Course Name/Course No Not Found
+140103074-bt101 Modern Biology
+140103074-cs101 Introduction to Computing
+140103074-cs110 Computing Lab
+140103074-ee102 Basic Electronics Laboratory
+140103074-ma102 Mathematics II
+140103074-me101 Engineering Mechanics
+140103074-ph102 Physics II
+140103074-ph110 Physics Lab.
+140103074-sa102 Course Name/Course No Not Found
+140103075-bt101 Modern Biology
+140103075-cs101 Introduction to Computing
+140103075-cs110 Computing Lab
+140103075-ee102 Basic Electronics Laboratory
+140103075-ma102 Mathematics II
+140103075-me101 Engineering Mechanics
+140103075-ph102 Physics II
+140103075-ph110 Physics Lab.
+140103075-sa102 Course Name/Course No Not Found
+140103076-bt101 Modern Biology
+140103076-cs101 Introduction to Computing
+140103076-cs110 Computing Lab
+140103076-ee102 Basic Electronics Laboratory
+140103076-ma102 Mathematics II
+140103076-me101 Engineering Mechanics
+140103076-ph102 Physics II
+140103076-ph110 Physics Lab.
+140103076-sa102 Course Name/Course No Not Found
+140103077-bt101 Modern Biology
+140103077-cs101 Introduction to Computing
+140103077-cs110 Computing Lab
+140103077-ee102 Basic Electronics Laboratory
+140103077-ma102 Mathematics II
+140103077-me101 Engineering Mechanics
+140103077-ph102 Physics II
+140103077-ph110 Physics Lab.
+140103077-sa102 Course Name/Course No Not Found
+140103079-bt101 Modern Biology
+140103079-cs101 Introduction to Computing
+140103079-cs110 Computing Lab
+140103079-ee102 Basic Electronics Laboratory
+140103079-ma102 Mathematics II
+140103079-me101 Engineering Mechanics
+140103079-ph102 Physics II
+140103079-ph110 Physics Lab.
+140103079-sa102 Course Name/Course No Not Found
+140103080-bt101 Modern Biology
+140103080-cs101 Introduction to Computing
+140103080-cs110 Computing Lab
+140103080-ee102 Basic Electronics Laboratory
+140103080-ma102 Mathematics II
+140103080-me101 Engineering Mechanics
+140103080-ph102 Physics II
+140103080-ph110 Physics Lab.
+140103080-sa102 Course Name/Course No Not Found
+140103081-bt101 Modern Biology
+140103081-cs101 Introduction to Computing
+140103081-cs110 Computing Lab
+140103081-ee102 Basic Electronics Laboratory
+140103081-ma102 Mathematics II
+140103081-me101 Engineering Mechanics
+140103081-ph102 Physics II
+140103081-ph110 Physics Lab.
+140103081-sa102 Course Name/Course No Not Found
+144103001-me532 Finite Element Methods in Engineering
+144103001-me605 Fracture
+144103001-me607 Introduction to Composite Materials
+144103001-me615 Rotor Dynamics
+144103001-me664 Theory of Elasticity
+144103003-me532 Finite Element Methods in Engineering
+144103003-me607 Introduction to Composite Materials
+144103003-me615 Rotor Dynamics
+144103003-me664 Theory of Elasticity
+144103003-me679 Mechanical Behaviour of Materials
+144103004-me532 Finite Element Methods in Engineering
+144103004-me605 Fracture
+144103004-me607 Introduction to Composite Materials
+144103004-me615 Rotor Dynamics
+144103004-me679 Mechanical Behaviour of Materials
+144103005-me532 Finite Element Methods in Engineering
+144103005-me605 Fracture
+144103005-me607 Introduction to Composite Materials
+144103005-me615 Rotor Dynamics
+144103005-me664 Theory of Elasticity
+144103006-me532 Finite Element Methods in Engineering
+144103006-me605 Fracture
+144103006-me607 Introduction to Composite Materials
+144103006-me615 Rotor Dynamics
+144103006-me685 Evolutionary Computation
+144103007-me532 Finite Element Methods in Engineering
+144103007-me607 Introduction to Composite Materials
+144103007-me615 Rotor Dynamics
+144103007-me664 Theory of Elasticity
+144103007-me679 Mechanical Behaviour of Materials
+144103008-me532 Finite Element Methods in Engineering
+144103008-me605 Fracture
+144103008-me607 Introduction to Composite Materials
+144103008-me615 Rotor Dynamics
+144103008-me679 Mechanical Behaviour of Materials
+144103009-me532 Finite Element Methods in Engineering
+144103009-me605 Fracture
+144103009-me607 Introduction to Composite Materials
+144103009-me664 Theory of Elasticity
+144103009-me671 Biomaterials: Design and Applications
+144103010-me532 Finite Element Methods in Engineering
+144103010-me607 Introduction to Composite Materials
+144103010-me613 Nonlinear Vibrations
+144103010-me615 Rotor Dynamics
+144103010-me685 Evolutionary Computation
+144103011-me532 Finite Element Methods in Engineering
+144103011-me605 Fracture
+144103011-me607 Introduction to Composite Materials
+144103011-me615 Rotor Dynamics
+144103011-me664 Theory of Elasticity
+144103012-me532 Finite Element Methods in Engineering
+144103012-me605 Fracture
+144103012-me607 Introduction to Composite Materials
+144103012-me615 Rotor Dynamics
+144103012-me685 Evolutionary Computation
+144103013-me532 Finite Element Methods in Engineering
+144103013-me607 Introduction to Composite Materials
+144103013-me615 Rotor Dynamics
+144103013-me664 Theory of Elasticity
+144103013-me679 Mechanical Behaviour of Materials
+144103014-me532 Finite Element Methods in Engineering
+144103014-me605 Fracture
+144103014-me613 Nonlinear Vibrations
+144103014-me664 Theory of Elasticity
+144103014-me685 Evolutionary Computation
+144103015-me532 Finite Element Methods in Engineering
+144103015-me607 Introduction to Composite Materials
+144103015-me615 Rotor Dynamics
+144103015-me664 Theory of Elasticity
+144103015-me679 Mechanical Behaviour of Materials
+144103017-me532 Finite Element Methods in Engineering
+144103017-me607 Introduction to Composite Materials
+144103017-me613 Nonlinear Vibrations
+144103017-me615 Rotor Dynamics
+144103017-me664 Theory of Elasticity
+144103019-me532 Finite Element Methods in Engineering
+144103019-me605 Fracture
+144103019-me607 Introduction to Composite Materials
+144103019-me615 Rotor Dynamics
+144103019-me679 Mechanical Behaviour of Materials
+144103020-me532 Finite Element Methods in Engineering
+144103020-me607 Introduction to Composite Materials
+144103020-me615 Rotor Dynamics
+144103020-me664 Theory of Elasticity
+144103020-me679 Mechanical Behaviour of Materials
+144103022-me532 Finite Element Methods in Engineering
+144103022-me605 Fracture
+144103022-me607 Introduction to Composite Materials
+144103022-me613 Nonlinear Vibrations
+144103022-me615 Rotor Dynamics
+144103025-me532 Finite Element Methods in Engineering
+144103025-me605 Fracture
+144103025-me615 Rotor Dynamics
+144103025-me664 Theory of Elasticity
+144103025-me685 Evolutionary Computation
+144103026-me532 Finite Element Methods in Engineering
+144103026-me605 Fracture
+144103026-me607 Introduction to Composite Materials
+144103026-me613 Nonlinear Vibrations
+144103026-me615 Rotor Dynamics
+144103027-me532 Finite Element Methods in Engineering
+144103027-me605 Fracture
+144103027-me615 Rotor Dynamics
+144103027-me664 Theory of Elasticity
+144103027-me679 Mechanical Behaviour of Materials
+144103029-me532 Finite Element Methods in Engineering
+144103029-me605 Fracture
+144103029-me607 Introduction to Composite Materials
+144103029-me615 Rotor Dynamics
+144103029-me664 Theory of Elasticity
+144103030-me532 Finite Element Methods in Engineering
+144103030-me607 Introduction to Composite Materials
+144103030-me615 Rotor Dynamics
+144103030-me664 Theory of Elasticity
+144103030-me679 Mechanical Behaviour of Materials
+144103031-me532 Finite Element Methods in Engineering
+144103031-me607 Introduction to Composite Materials
+144103031-me615 Rotor Dynamics
+144103031-me664 Theory of Elasticity
+144103031-me679 Mechanical Behaviour of Materials
+144103034-me522 Convective Heat & Mass Transfer
+144103034-me601 Gas Dynamics
+144103034-me647 Numerical Predictions of Industrial Fluid Flows
+144103034-me669 Thermal Hydraulics in Power Generation Technology
+144103034-me687 Heat Exchanger Design
+144103036-me522 Convective Heat & Mass Transfer
+144103036-me601 Gas Dynamics
+144103036-me647 Numerical Predictions of Industrial Fluid Flows
+144103036-me669 Thermal Hydraulics in Power Generation Technology
+144103036-me670 Advanced Computational Fluid Dynamics
+144103038-me532 Finite Element Methods in Engineering
+144103038-me605 Fracture
+144103038-me615 Rotor Dynamics
+144103038-me664 Theory of Elasticity
+144103038-me685 Evolutionary Computation
+144103039-me522 Convective Heat & Mass Transfer
+144103039-me601 Gas Dynamics
+144103039-me669 Thermal Hydraulics in Power Generation Technology
+144103039-me670 Advanced Computational Fluid Dynamics
+144103039-me687 Heat Exchanger Design
+144103040-me522 Convective Heat & Mass Transfer
+144103040-me601 Gas Dynamics
+144103040-me669 Thermal Hydraulics in Power Generation Technology
+144103040-me670 Advanced Computational Fluid Dynamics
+144103040-me687 Heat Exchanger Design
+144103042-me522 Convective Heat & Mass Transfer
+144103042-me601 Gas Dynamics
+144103042-me647 Numerical Predictions of Industrial Fluid Flows
+144103042-me669 Thermal Hydraulics in Power Generation Technology
+144103042-me687 Heat Exchanger Design
+144103043-me522 Convective Heat & Mass Transfer
+144103043-me601 Gas Dynamics
+144103043-me647 Numerical Predictions of Industrial Fluid Flows
+144103043-me669 Thermal Hydraulics in Power Generation Technology
+144103043-me687 Heat Exchanger Design
+144103045-me522 Convective Heat & Mass Transfer
+144103045-me601 Gas Dynamics
+144103045-me669 Thermal Hydraulics in Power Generation Technology
+144103045-me670 Advanced Computational Fluid Dynamics
+144103045-me687 Heat Exchanger Design
+144103046-me522 Convective Heat & Mass Transfer
+144103046-me647 Numerical Predictions of Industrial Fluid Flows
+144103046-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103046-me670 Advanced Computational Fluid Dynamics
+144103046-me687 Heat Exchanger Design
+144103047-me522 Convective Heat & Mass Transfer
+144103047-me601 Gas Dynamics
+144103047-me669 Thermal Hydraulics in Power Generation Technology
+144103047-me670 Advanced Computational Fluid Dynamics
+144103047-me687 Heat Exchanger Design
+144103048-me522 Convective Heat & Mass Transfer
+144103048-me601 Gas Dynamics
+144103048-me669 Thermal Hydraulics in Power Generation Technology
+144103048-me670 Advanced Computational Fluid Dynamics
+144103048-me685 Evolutionary Computation
+144103049-me522 Convective Heat & Mass Transfer
+144103049-me601 Gas Dynamics
+144103049-me669 Thermal Hydraulics in Power Generation Technology
+144103049-me670 Advanced Computational Fluid Dynamics
+144103049-me687 Heat Exchanger Design
+144103050-me522 Convective Heat & Mass Transfer
+144103050-me601 Gas Dynamics
+144103050-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103050-me669 Thermal Hydraulics in Power Generation Technology
+144103050-me687 Heat Exchanger Design
+144103051-me522 Convective Heat & Mass Transfer
+144103051-me601 Gas Dynamics
+144103051-me647 Numerical Predictions of Industrial Fluid Flows
+144103051-me669 Thermal Hydraulics in Power Generation Technology
+144103051-me687 Heat Exchanger Design
+144103052-me522 Convective Heat & Mass Transfer
+144103052-me601 Gas Dynamics
+144103052-me669 Thermal Hydraulics in Power Generation Technology
+144103052-me670 Advanced Computational Fluid Dynamics
+144103052-me687 Heat Exchanger Design
+144103053-me522 Convective Heat & Mass Transfer
+144103053-me601 Gas Dynamics
+144103053-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103053-me685 Evolutionary Computation
+144103053-me687 Heat Exchanger Design
+144103054-me522 Convective Heat & Mass Transfer
+144103054-me601 Gas Dynamics
+144103054-me647 Numerical Predictions of Industrial Fluid Flows
+144103054-me669 Thermal Hydraulics in Power Generation Technology
+144103054-me687 Heat Exchanger Design
+144103056-me532 Finite Element Methods in Engineering
+144103056-me605 Fracture
+144103056-me607 Introduction to Composite Materials
+144103056-me615 Rotor Dynamics
+144103056-me664 Theory of Elasticity
+144103057-me522 Convective Heat & Mass Transfer
+144103057-me601 Gas Dynamics
+144103057-me647 Numerical Predictions of Industrial Fluid Flows
+144103057-me669 Thermal Hydraulics in Power Generation Technology
+144103057-me687 Heat Exchanger Design
+144103058-me532 Finite Element Methods in Engineering
+144103058-me605 Fracture
+144103058-me607 Introduction to Composite Materials
+144103058-me615 Rotor Dynamics
+144103058-me664 Theory of Elasticity
+144103059-me532 Finite Element Methods in Engineering
+144103059-me605 Fracture
+144103059-me607 Introduction to Composite Materials
+144103059-me615 Rotor Dynamics
+144103059-me664 Theory of Elasticity
+144103060-me522 Convective Heat & Mass Transfer
+144103060-me601 Gas Dynamics
+144103060-me647 Numerical Predictions of Industrial Fluid Flows
+144103060-me669 Thermal Hydraulics in Power Generation Technology
+144103060-me687 Heat Exchanger Design
+144103061-me522 Convective Heat & Mass Transfer
+144103061-me601 Gas Dynamics
+144103061-me647 Numerical Predictions of Industrial Fluid Flows
+144103061-me669 Thermal Hydraulics in Power Generation Technology
+144103061-me687 Heat Exchanger Design
+144103064-me522 Convective Heat & Mass Transfer
+144103064-me601 Gas Dynamics
+144103064-me647 Numerical Predictions of Industrial Fluid Flows
+144103064-me669 Thermal Hydraulics in Power Generation Technology
+144103064-me687 Heat Exchanger Design
+144103066-me522 Convective Heat & Mass Transfer
+144103066-me601 Gas Dynamics
+144103066-me669 Thermal Hydraulics in Power Generation Technology
+144103066-me670 Advanced Computational Fluid Dynamics
+144103066-me687 Heat Exchanger Design
+144103067-me522 Convective Heat & Mass Transfer
+144103067-me601 Gas Dynamics
+144103067-me647 Numerical Predictions of Industrial Fluid Flows
+144103067-me669 Thermal Hydraulics in Power Generation Technology
+144103067-me687 Heat Exchanger Design
+144103068-me532 Finite Element Methods in Engineering
+144103068-me605 Fracture
+144103068-me607 Introduction to Composite Materials
+144103068-me613 Nonlinear Vibrations
+144103068-me615 Rotor Dynamics
+144103069-me522 Convective Heat & Mass Transfer
+144103069-me601 Gas Dynamics
+144103069-me669 Thermal Hydraulics in Power Generation Technology
+144103069-me670 Advanced Computational Fluid Dynamics
+144103069-me687 Heat Exchanger Design
+144103072-me522 Convective Heat & Mass Transfer
+144103072-me601 Gas Dynamics
+144103072-me647 Numerical Predictions of Industrial Fluid Flows
+144103072-me669 Thermal Hydraulics in Power Generation Technology
+144103072-me687 Heat Exchanger Design
+144103073-me522 Convective Heat & Mass Transfer
+144103073-me601 Gas Dynamics
+144103073-me647 Numerical Predictions of Industrial Fluid Flows
+144103073-me669 Thermal Hydraulics in Power Generation Technology
+144103073-me687 Heat Exchanger Design
+144103074-me532 Finite Element Methods in Engineering
+144103074-me605 Fracture
+144103074-me607 Introduction to Composite Materials
+144103074-me615 Rotor Dynamics
+144103074-me664 Theory of Elasticity
+144103075-me513 Physics of Manufacturing Process
+144103075-me514 Computer Integrated Manufacturing
+144103075-me671 Biomaterials: Design and Applications
+144103075-me686 Micro-manufacturing
+144103075-me688 Advanced Machining Processes
+144103076-me513 Physics of Manufacturing Process
+144103076-me514 Computer Integrated Manufacturing
+144103076-me671 Biomaterials: Design and Applications
+144103076-me686 Micro-manufacturing
+144103076-me688 Advanced Machining Processes
+144103077-me522 Convective Heat & Mass Transfer
+144103077-me601 Gas Dynamics
+144103077-me669 Thermal Hydraulics in Power Generation Technology
+144103077-me670 Advanced Computational Fluid Dynamics
+144103077-me687 Heat Exchanger Design
+144103078-me522 Convective Heat & Mass Transfer
+144103078-me601 Gas Dynamics
+144103078-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103078-me669 Thermal Hydraulics in Power Generation Technology
+144103078-me687 Heat Exchanger Design
+144103080-me522 Convective Heat & Mass Transfer
+144103080-me601 Gas Dynamics
+144103080-me647 Numerical Predictions of Industrial Fluid Flows
+144103080-me669 Thermal Hydraulics in Power Generation Technology
+144103080-me687 Heat Exchanger Design
+144103082-me522 Convective Heat & Mass Transfer
+144103082-me601 Gas Dynamics
+144103082-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103082-me669 Thermal Hydraulics in Power Generation Technology
+144103082-me687 Heat Exchanger Design
+144103083-me513 Physics of Manufacturing Process
+144103083-me514 Computer Integrated Manufacturing
+144103083-me672 Welding Science and Technology
+144103083-me686 Micro-manufacturing
+144103083-me688 Advanced Machining Processes
+144103085-me522 Convective Heat & Mass Transfer
+144103085-me601 Gas Dynamics
+144103085-me647 Numerical Predictions of Industrial Fluid Flows
+144103085-me669 Thermal Hydraulics in Power Generation Technology
+144103085-me687 Heat Exchanger Design
+144103086-me522 Convective Heat & Mass Transfer
+144103086-me601 Gas Dynamics
+144103086-me647 Numerical Predictions of Industrial Fluid Flows
+144103086-me669 Thermal Hydraulics in Power Generation Technology
+144103086-me687 Heat Exchanger Design
+144103087-me522 Convective Heat & Mass Transfer
+144103087-me601 Gas Dynamics
+144103087-me647 Numerical Predictions of Industrial Fluid Flows
+144103087-me669 Thermal Hydraulics in Power Generation Technology
+144103087-me670 Advanced Computational Fluid Dynamics
+144103088-me513 Physics of Manufacturing Process
+144103088-me514 Computer Integrated Manufacturing
+144103088-me671 Biomaterials: Design and Applications
+144103088-me686 Micro-manufacturing
+144103088-me688 Advanced Machining Processes
+144103089-me522 Convective Heat & Mass Transfer
+144103089-me601 Gas Dynamics
+144103089-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103089-me669 Thermal Hydraulics in Power Generation Technology
+144103089-me687 Heat Exchanger Design
+144103090-me522 Convective Heat & Mass Transfer
+144103090-me601 Gas Dynamics
+144103090-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103090-me669 Thermal Hydraulics in Power Generation Technology
+144103090-me687 Heat Exchanger Design
+144103093-me532 Finite Element Methods in Engineering
+144103093-me544 Computational Mechanics Lab
+144103093-me601 Gas Dynamics
+144103093-me607 Introduction to Composite Materials
+144103093-me647 Numerical Predictions of Industrial Fluid Flows
+144103093-me670 Advanced Computational Fluid Dynamics
+144103095-me532 Finite Element Methods in Engineering
+144103095-me544 Computational Mechanics Lab
+144103095-me607 Introduction to Composite Materials
+144103095-me613 Nonlinear Vibrations
+144103095-me615 Rotor Dynamics
+144103095-me685 Evolutionary Computation
+144103097-me513 Physics of Manufacturing Process
+144103097-me514 Computer Integrated Manufacturing
+144103097-me532 Finite Element Methods in Engineering
+144103097-me605 Fracture
+144103097-me686 Micro-manufacturing
+144103099-me522 Convective Heat & Mass Transfer
+144103099-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103099-me670 Advanced Computational Fluid Dynamics
+144103099-me685 Evolutionary Computation
+144103099-me687 Heat Exchanger Design
+144103100-me522 Convective Heat & Mass Transfer
+144103100-me532 Finite Element Methods in Engineering
+144103100-me544 Computational Mechanics Lab
+144103100-me601 Gas Dynamics
+144103100-me647 Numerical Predictions of Industrial Fluid Flows
+144103100-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103101-me522 Convective Heat & Mass Transfer
+144103101-me601 Gas Dynamics
+144103101-me647 Numerical Predictions of Industrial Fluid Flows
+144103101-me669 Thermal Hydraulics in Power Generation Technology
+144103101-me687 Heat Exchanger Design
+144103102-me522 Convective Heat & Mass Transfer
+144103102-me601 Gas Dynamics
+144103102-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103102-me669 Thermal Hydraulics in Power Generation Technology
+144103102-me687 Heat Exchanger Design
+144103103-me513 Physics of Manufacturing Process
+144103103-me514 Computer Integrated Manufacturing
+144103103-me671 Biomaterials: Design and Applications
+144103103-me686 Micro-manufacturing
+144103103-me688 Advanced Machining Processes
+144103104-me513 Physics of Manufacturing Process
+144103104-me514 Computer Integrated Manufacturing
+144103104-me672 Welding Science and Technology
+144103104-me686 Micro-manufacturing
+144103104-me688 Advanced Machining Processes
+144103105-me532 Finite Element Methods in Engineering
+144103105-me605 Fracture
+144103105-me607 Introduction to Composite Materials
+144103105-me615 Rotor Dynamics
+144103105-me664 Theory of Elasticity
+144103106-me522 Convective Heat & Mass Transfer
+144103106-me601 Gas Dynamics
+144103106-me647 Numerical Predictions of Industrial Fluid Flows
+144103106-me669 Thermal Hydraulics in Power Generation Technology
+144103106-me687 Heat Exchanger Design
+144103107-me532 Finite Element Methods in Engineering
+144103107-me605 Fracture
+144103107-me615 Rotor Dynamics
+144103107-me664 Theory of Elasticity
+144103107-me679 Mechanical Behaviour of Materials
+144103108-me522 Convective Heat & Mass Transfer
+144103108-me601 Gas Dynamics
+144103108-me647 Numerical Predictions of Industrial Fluid Flows
+144103108-me669 Thermal Hydraulics in Power Generation Technology
+144103108-me687 Heat Exchanger Design
+144103109-me532 Finite Element Methods in Engineering
+144103109-me605 Fracture
+144103109-me615 Rotor Dynamics
+144103109-me664 Theory of Elasticity
+144103109-me679 Mechanical Behaviour of Materials
+144103110-me532 Finite Element Methods in Engineering
+144103110-me605 Fracture
+144103110-me615 Rotor Dynamics
+144103110-me664 Theory of Elasticity
+144103110-me679 Mechanical Behaviour of Materials
+144103111-me522 Convective Heat & Mass Transfer
+144103111-me601 Gas Dynamics
+144103111-me669 Thermal Hydraulics in Power Generation Technology
+144103111-me670 Advanced Computational Fluid Dynamics
+144103111-me687 Heat Exchanger Design
+144103112-me522 Convective Heat & Mass Transfer
+144103112-me601 Gas Dynamics
+144103112-me651 Numerical Methods for Thermal Radiation Heat Transfer
+144103112-me669 Thermal Hydraulics in Power Generation Technology
+144103112-me687 Heat Exchanger Design
+144103113-me532 Finite Element Methods in Engineering
+144103113-me605 Fracture
+144103113-me607 Introduction to Composite Materials
+144103113-me613 Nonlinear Vibrations
+144103113-me615 Rotor Dynamics
+144103116-me513 Physics of Manufacturing Process
+144103116-me514 Computer Integrated Manufacturing
+144103116-me672 Welding Science and Technology
+144103116-me686 Micro-manufacturing
+144103116-me688 Advanced Machining Processes
+144103118-me513 Physics of Manufacturing Process
+144103118-me514 Computer Integrated Manufacturing
+144103118-me672 Welding Science and Technology
+144103118-me686 Micro-manufacturing
+144103118-me688 Advanced Machining Processes
+144103123-me513 Physics of Manufacturing Process
+144103123-me514 Computer Integrated Manufacturing
+144103123-me672 Welding Science and Technology
+144103123-me686 Micro-manufacturing
+144103123-me688 Advanced Machining Processes
+144103135-me522 Convective Heat & Mass Transfer
+144103135-me532 Finite Element Methods in Engineering
+144103135-me544 Computational Mechanics Lab
+144103135-me601 Gas Dynamics
+144103135-me607 Introduction to Composite Materials
+144103135-me615 Rotor Dynamics
+146103002-me672 Welding Science and Technology
+146103002-me688 Advanced Machining Processes
+146103002-me691 Mechanics of Machining
+146103004-me532 Finite Element Methods in Engineering
+146103004-me685 Evolutionary Computation
+146103005-me607 Introduction to Composite Materials
+146103005-me671 Biomaterials: Design and Applications
+146103005-me679 Mechanical Behaviour of Materials
+146103006-me522 Convective Heat & Mass Transfer
+146103006-me651 Numerical Methods for Thermal Radiation Heat Transfer
+146103015-me513 Physics of Manufacturing Process
+146103015-me522 Convective Heat & Mass Transfer
+146103015-me601 Gas Dynamics
+146103016-me532 Finite Element Methods in Engineering
+146103016-me607 Introduction to Composite Materials
+146103016-me664 Theory of Elasticity
+146103018-me532 Finite Element Methods in Engineering
+146103018-me615 Rotor Dynamics
+146103021-me532 Finite Element Methods in Engineering
+146103021-me607 Introduction to Composite Materials
+146103021-me664 Theory of Elasticity
+146103022-me607 Introduction to Composite Materials
+146103025-me651 Numerical Methods for Thermal Radiation Heat Transfer
+146103025-me687 Heat Exchanger Design
+146103027-me522 Convective Heat & Mass Transfer
+146103027-me601 Gas Dynamics
+146103028-me532 Finite Element Methods in Engineering
+146103028-me607 Introduction to Composite Materials
+146103029-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+146103029-me601 Gas Dynamics
+146103038-me647 Numerical Predictions of Industrial Fluid Flows
+146103038-me669 Thermal Hydraulics in Power Generation Technology
+146103038-me687 Heat Exchanger Design

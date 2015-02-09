@@ -1,0 +1,390 @@
+bt101,Modern Biology
+bt202,Microbiology
+bt202m,Molecular Biotechnology
+bt205,Biophysics
+bt208,Molecular Biology & Genetic Engineering
+bt290,Biomolecular Analysis Lab
+bt302,Biochemical Engineering
+bt305,Industrial Microbiology
+bt306,IPR and Ethics and Bio-safety
+bt308,Animal Cell Biotechnology
+bt330,Biochemical Engineering Laboratory
+bt401,Frontiers in Biotechnology
+bt499,Project II
+bt502,Quantitative Biology
+bt504,Biomolecular and Cellular Process Engineering
+bt520,Applied Biology and Bio-engineering Lab
+bt601,Analytical Biotechnology
+bt605,Gene Therapy
+bt609,Bioprocess Engineering
+bt619,Essential of Genetics
+bt622,Biofuels
+bt630,Physical Cell Biology
+bt699,Project and Thesis Phase II
+ce201,Surveying
+ce203,Fluid Mechanics
+ce205,Structural Analysis I
+ce206,Geotechnical Engg.
+ce213,Surveying Lab
+ce214,Fluid Mechanics Lab
+ce215,Geotechnical Engineering Lab
+ce304,Transportation Engg. I
+ce307,Environmental Engg. I
+ce308,Construction Technology and Management
+ce309,Design of Steel Structure
+ce311,Hydrology & Water Resources Engg
+ce314,Transportation Engineering I Lab
+ce315,Environmental Engineering I Lab
+ce352m,Introduction to Geotechnical Engineering
+ce402,Design Project
+ce498,Project I
+ce504,Advanced Structural Design
+ce505,Analysis And Design Of Bridges
+ce510,Quality And Safety Management In Construction
+ce524,Biological Processes in Environmental Engg
+ce525,Solid and Hazardous Waste Management
+ce533,Advanced Foundation Engg.
+ce534,Seminar
+ce544,Project Management Laboratory
+ce550,Project and Thesis Phase II
+ce552,Water Resources Systems Analysis,Planning & Management
+ce555,Principles of Water Quality & EIA
+ce556,Subsurface Hydrology
+ce559,Watershed Management & Remote Sensing Application
+ce560,Computational Methods in Hydraulics & Environmental Engg.
+ce570,River Engineering
+ce583,Pavement Analysis and Design
+ce584,Traffic Engineering
+ce585,Credit Seminar
+ce606,Earthquake Engineering
+ce607,Random Vibration
+ce610,Computational Structural Mechanics
+ce612,Advanced Concrete Technology
+ce613,Engineering Fracture and Fatigue Mechanics
+ce614,Financing Infrastructure Projects
+ce616,Blast and Impact Resistant Structures
+ce618,Mechanics of Unsaturated Soils
+ce623,Pavement Evaluation, Rehabilitation and Maintenance
+ce628,Traffic Flow Modelling and Simulation
+ce643,Earthquake Geotechnical Engg.
+ce645,Soil-Structure Interaction
+ce646,Rock Mechanics
+ce649,Ground Improvement Techniques
+ce661,Air Quality Modeling
+ce664,Industrial Wastewater Pollution Control
+ce665,Water Distribution and Wastewater Collection System Design
+ce691,Project and Thesis Phase II
+ce693,Project and Thesis Phase II
+ce695,Project and Thesis Phase II
+ce697,Project and Dissertation
+ce699,Project and Thesis Phase II
+ch212,Inorganic Chemistry
+ch222,Applied Organic Chemistry
+ch223,Chemical Technology Lab I
+ch232,Computational Chemistry
+ch233,Spectroscopic Techniques in Chemistry
+ch322,Petroleum and Petrochemicals
+ch323,Polymer Chemistry
+ch333,Introduction to Chemical Thermodynamics and Equilibrium
+ch334,Chemical Technology Lab III
+ch411,Inorganic Reaction Mechanism and Organometallics
+ch417,Organometallic Chemistry
+ch418,Biological Chemistry of Metal Ions
+ch421,Organic Reactions and Mechanisms
+ch425,Organic Chemistry Laboratory
+ch428,Drug Design and Development
+ch432,Chemical Dynamics & Electrochemistry
+ch433,Applications of Spectroscopy
+ch438,Applications of Statistical Mechanics to Chemistry
+ch499,Project II
+ch501,Computers in Chemistry
+ch600,Project
+ch611,Bioinorganic Chemistry
+ch615,Advanced Organometallic Chemistry
+ch621,New Reagents for Organic Synthesis
+ch626,Modern Reagents in Organic Synthesis
+ch636,Applied Biochemistry
+ch637,Advanced Quantum Chemistry
+ch639,Principles and Applications of Molecular Fluorescence.
+ch640,Principles & Applications of Luminescence Spectroscopy
+cl204,Heat Transfer Operations
+cl205,Mass Transfer Operations I
+cl206,Process Equipment Design I
+cl207,Chemical Engineering Thermodynamics II
+cl210,Fluid Mechanics Laboratory
+cl211,Thermodynamics Lab
+cl252m,Thermodynamics and Heat Transfer
+cl307,Transport Phenomenon
+cl308,Chemical Reaction Engg. Engg. II
+cl309,Process Control and Instrumentation
+cl314,Numerical Methods in Chemical Engineering
+cl315,Mechanical Operations Lab
+cl352m,Chemical Reaction Engineering
+cl401,Process Design and Project Engineering
+cl404,Material Science
+cl499,Project II
+cl503,Advanced Thermodynamics
+cl504,Reaction Engineering
+cl599,Seminar
+cl612,Colloid and Interface Science
+cl613,Computational Fluid Dynamics
+cl614,Fluidization Engineering
+cl618,Natural Gas Engineering
+cl619,Refinery Process Design
+cl622,Molecular Simulations: Principles and Applications
+cl623,Polymer Science and Technology
+cl625,Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+cl626,Energy Sources
+cl628,Catalysts and Adsorbents
+cl630,Composites Materials
+cl633,Applied Statistical Thermodynamics
+cl635,Advanced Clean Fuel Technologies
+cl699,Project
+cs101,Introduction to Computing
+cs110,Computing Lab
+cs203,Formal Languages and Automata Theory
+cs204,Algorithms
+cs206m,Data Structures and Algorithms
+cs222,Computer Organization & Architecture
+cs223,Hardware Laboratory
+cs242,Software Engineering
+cs243,Software Engineering Lab
+cs244,Systems Programming Lab
+cs344,Databases
+cs345,Database Lab
+cs346,Compilers
+cs347,Compilers Lab
+cs348,Computer Networks
+cs349,Networks Lab
+cs350m,Computer Systems
+cs499,Project I
+cs503,RANDOMIZED ALGORITHMS
+cs510,Information and Randomness
+cs515,Theory of Computation
+cs522,Embedded Systems
+cs544,Topics in Networks
+cs556,Performance Modeling of Communication and Computer Systems
+cs558,Systems Lab
+cs561,Artificial Intelligence
+cs572,Computational Systems Biology
+cs666,Mobile Robotics
+cs698,Project Phase I
+dd211,Elements of Form
+dd212,Plastics and Composites
+dd213,Fundamentals of Ergonomics
+dd214,Modelling and Simulation Techniques
+dd215,Introduction to Graphic Design
+dd220m,Introduction to Ergonomics
+dd311,Applied Ergonomics
+dd312,System Approach to Design
+dd313,Art Design and Society
+dd314,Animation Fundamentals
+dd315,Tangible Interfaces
+dd316,Instructional Design and Multimedia
+dd320m,Product Planning and Strategy
+dd411,Design Management and Professional Practice
+dd497,Design Exhibition Project
+dd499,Project II
+dd505,Form Studies
+dd506,Graphic Design
+dd507,Design Project
+dd512,New Media Studies
+dd515,Typography
+dd521,System Design For Sustainability
+dd524,Graphic Design Studio
+dd605,Thesis Project II
+ec499,Project
+ee102,Basic Electronics Laboratory
+ee203,Analog Integrated Circuits
+ee204,Analog Circuits Laboratory
+ee213m,Digital Circuits
+ee221,Probability and Random Processes
+ee230,Principles of Communication
+ee270,Measurement and Instrumentation
+ee304,Design Laboratory
+ee322m,Signal Processing
+ee333,Communication Networks
+ee337,Information Theory and Coding
+ee340,Electromagnetic Theory
+ee351,Advanced Control Systems
+ee360,Embedded Systems
+ee371,Control and Instrumentation Lab
+ee385,Power Electronics and Drives
+ee499,Project II
+ee503,Analog IC Design
+ee513,VLSI Lab II
+ee514,VLSI Lab III
+ee525,Optimal and Adaptive Signal Processing
+ee529,Digital Signal Processors Lab
+ee533,Wireless Communication
+ee534,Data Communication Networks
+ee539,Communication System Design Lab
+ee551,Optimal and Adaptive Control
+ee561,VLSI System Design
+ee562,Fundamentals of VLSI CAD
+ee580,Control of Electrical Drives
+ee625,Computer Vision
+ee626,Biomedical Signal Processing
+ee628,Speech Technology
+ee629,Insulation and High Voltage Engineering
+ee630,Photonic Integrated Circuits
+ee636,Detection and Estimation Theory
+ee639,Sparse Representation & Compressive Sensing: Theory & Applications
+ee640,Modeling and Control of Power Electronic Converters
+ee641,Modeling & Simulation of Advanced Nanoscale Devices
+ee643,Network Coding and Applications
+ee647,Radio Frequency Integrated Circuits
+ee652,Digital Control
+ee653,Nonlinear Systems and Control
+ee654,Advanced Power and Control Laboratory
+ee657,Pattern Recognition and Machine Learning
+ee660,Biometrics
+ee661,Selected Topics in Information Theory
+ee663,VLSI DSP
+ee673,Synchrophasor Technology
+ee699,Project
+hs203,Problems of Philosophy
+hs213,Consumer Behaviour
+hs216,Sociology of India : Conformities & Contradictions
+hs222,Understanding Psychology : Individual and Works Settings
+hs223,Language and Society
+hs226,Macroeconomics
+hs234,Introduction to Linguistics
+hs237,Introduction to Archeology
+hs403,Entrepreneurship & Economic Development
+hs406,Philosophical Issues
+hs409,Environmental Economics
+hs410,History of Contemporary India
+hs420,Writing Systems of the World
+hs422,Subaltern Voices and Narratives
+hs423,Masculinities in Literature and Popular Culture
+hs502,Development and Growth � Theoretical Perspective
+hs503,Sociology of Development
+hs505,Research Methods in Social Sciences
+hs517,Comparative Politics in Developing Contries
+hs520,Environment and Development
+hs521,Region, Nation and the Making of Post-Colonial India
+hs699,Dissertation
+hs706,Issues in Indian Economy
+hs714,Understanding Organisational Behaviour : Theory & Research
+hs718,Indian Writing in English
+hs723,Methods in Historical Research
+hs727,Issues in Historical Research
+hs736,Approaches to Prosodic Structure
+hs747,Human Memory
+hs749,Issues in Tone Languages
+hs754,Dynamics Methods in Economics
+hs757,Sociology of Religion
+hs758,Posthumanism in Literature and Critical Theory
+hs759,Understanding Nations and Nationalism
+ma102,Mathematics II
+ma212m,Mathematical Statistics
+ma224,Real Analysis
+ma226,Monte Carlo Simulation
+ma252,Data Structures and Algorithms
+ma253,Data Structures Lab with Object Oriented programming
+ma271,Financial Engineering I
+ma312m,Modern Algebra
+ma321,Optimization
+ma351,Formal Lanuages and Automata Theory
+ma373,Financial Engineering II
+ma374,Financial Engineering Lab
+ma451,Parallel Computing
+ma473,Computational Finance
+ma499,Project II
+ma512,Data Structures and Algorithms
+ma542,Differential Equation
+ma547,Complex Analysis
+ma561,Fluid Dynamics
+ma571,Numerical Linear Algebra
+ma573,Numerics of Partial Differential Equations
+ma590,Probability Theory and Random Processes
+ma591,Optimization Techniques
+ma616,Algorithms for Wireless Ad Hoc and Sensor Networks
+ma622,Galois Theory
+ma625,Linear Algebra -1
+ma641,Operator Theory in Hilbert Spaces
+ma643,Algebraic Topology
+ma662,Differential Equations
+ma671,Finite Element Methods for Partial Differential Equations
+ma691,Statistical Simulation and data Analysis
+ma699,Project II
+ma719,Linear Algebra II
+ma747,Measure Theory
+me101,Engineering Mechanics
+me110,Workshop I
+me221,Fluid Mechanics I
+me222,Manufacturing Technology I
+me222m,Manufacturing Technology I
+me223,Solid Mechanics II
+me224,Kinematics of Machinery
+me225,Workshop II
+me226,Mechanical Lab I
+me321,Applied Thermodynamics
+me321m,Fluid Mechanics
+me322,Machine Design
+me323,Mechanical Measurements
+me324,Heat and Mass Transfer
+me325,Control Systems
+me326,Mechanical Lab III
+me421,Industrial Engineering and Operation Research
+me499,Project
+me513,Physics of Manufacturing Process
+me514,Computer Integrated Manufacturing
+me522,Convective Heat & Mass Transfer
+me532,Finite Element Methods in Engineering
+me544,Computational Mechanics Lab
+me601,Gas Dynamics
+me605,Fracture, Fatigue and Failure Analysis
+me607,Introduction to Composite Materials
+me613,Nonlinear Vibrations
+me615,Rotor Dynamics
+me647,Numerical Predictions of Industrial Fluid Flows
+me651,Numerical Methods for Thermal Radiation Heat Transfer
+me664,Theory of Elasticity
+me669,Thermal Hydraulics in Power Generation Technology
+me670,Advanced Computational Fluid Dynamics
+me671,Biomaterials: Design and Applications
+me672,Welding Science and Technology
+me679,Mechanical Behaviour of Materials
+me685,Evolutionary Computation
+me686,Micro-manufacturing
+me687,Heat Exchanger Design
+me688,Advanced Machining Processes
+me690,Project Phase II
+me691,Mechanics of Machining
+ph102,Physics II
+ph110,Physics Lab.
+ph202,Electromagnetics
+ph204,Quantum Mechanics
+ph206,Analog and Digital Electronics
+ph210,Electronic Lab I
+ph282m,Engineering Optics
+ph302,Solid State Physics
+ph304,Engineering Optics
+ph306,Nuclear Science and Engineering
+ph308,Measurement Techniques
+ph320,General Physics Lab
+ph402,Mathematical Physics II
+ph404,Statistical Mechanics
+ph406,Quantum Mechanics II
+ph408,Numerical Methods & Computational Physics
+ph410,Electrodynamics I
+ph412,General Physics Laboratory I
+ph414,Nanoelectronics and Nanophotonics
+ph445,Optical Communication Systems
+ph446,Fundamentals of Astrophysics
+ph499,Project I
+ph516,Advanced Physics Laboaratory
+ph518,Project
+ph523,Magnetism and Superconductivity
+ph524,Thin Film Phenomena
+ph527,Nanostructured Materials
+ph536,Quantum Optics
+ph543,Quantum Field Theory
+ph544,High Energy Physics
+ph702,Electrodynamics
+ph703,Quantum Mechanics
+ph704,Statistical Mechanics
+ph706,Experimental and Numerical Techniques
+sa102,Course Name/Course No Not Found

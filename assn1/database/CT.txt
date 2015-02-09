@@ -1,0 +1,1320 @@
+11012201-bt630 Physical Cell Biology
+11012201-ch417 Organometallic Chemistry
+11012201-ch428 Drug Design and Development
+11012201-ch499 Project II
+11012201-hs403 Entrepreneurship & Economic Development
+11012201-hs422 Subaltern Voices and Narratives
+11012202-ch438 Applications of Statistical Mechanics to Chemistry
+11012202-ch499 Project II
+11012202-ch637 Advanced Quantum Chemistry
+11012202-cl613 Computational Fluid Dynamics
+11012203-ch417 Organometallic Chemistry
+11012203-ch438 Applications of Statistical Mechanics to Chemistry
+11012203-ch499 Project II
+11012203-hs403 Entrepreneurship & Economic Development
+11012203-ph446 Fundamentals of Astrophysics
+11012204-bt630 Physical Cell Biology
+11012204-ch417 Organometallic Chemistry
+11012204-ch428 Drug Design and Development
+11012204-ch499 Project II
+11012205-ch417 Organometallic Chemistry
+11012205-ch428 Drug Design and Development
+11012205-ch499 Project II
+11012205-hs403 Entrepreneurship & Economic Development
+11012205-ph446 Fundamentals of Astrophysics
+11012206-ch417 Organometallic Chemistry
+11012206-ch438 Applications of Statistical Mechanics to Chemistry
+11012206-ch499 Project II
+11012206-hs420 Writing Systems of the World
+11012206-ph446 Fundamentals of Astrophysics
+11012207-ch417 Organometallic Chemistry
+11012207-ch428 Drug Design and Development
+11012207-ch499 Project II
+11012207-hs420 Writing Systems of the World
+11012207-ph446 Fundamentals of Astrophysics
+11012208-bt630 Physical Cell Biology
+11012208-ch417 Organometallic Chemistry
+11012208-ch428 Drug Design and Development
+11012208-ch499 Project II
+11012208-hs422 Subaltern Voices and Narratives
+11012209-ch428 Drug Design and Development
+11012209-ch438 Applications of Statistical Mechanics to Chemistry
+11012209-ch499 Project II
+11012209-cl613 Computational Fluid Dynamics
+11012209-hs420 Writing Systems of the World
+11012211-hs423 Masculinities in Literature and Popular Culture
+11012212-bt630 Physical Cell Biology
+11012212-ch418 Biological Chemistry of Metal Ions
+11012212-ch428 Drug Design and Development
+11012212-ch499 Project II
+11012212-hs410 History of Contemporary India
+11012213-ch428 Drug Design and Development
+11012213-ch438 Applications of Statistical Mechanics to Chemistry
+11012213-ch499 Project II
+11012213-hs410 History of Contemporary India
+11012213-ph446 Fundamentals of Astrophysics
+11012216-hs422 Subaltern Voices and Narratives
+11012217-ch417 Organometallic Chemistry
+11012217-ch428 Drug Design and Development
+11012217-ch499 Project II
+11012217-hs410 History of Contemporary India
+11012217-ph446 Fundamentals of Astrophysics
+11012219-bt630 Physical Cell Biology
+11012219-ch417 Organometallic Chemistry
+11012219-ch428 Drug Design and Development
+11012219-ch499 Project II
+11012219-hs422 Subaltern Voices and Narratives
+11012220-ch417 Organometallic Chemistry
+11012220-ch499 Project II
+11012220-ch637 Advanced Quantum Chemistry
+11012220-hs410 History of Contemporary India
+11012220-ph446 Fundamentals of Astrophysics
+11012221-ch428 Drug Design and Development
+11012221-ch438 Applications of Statistical Mechanics to Chemistry
+11012221-ch499 Project II
+11012221-hs423 Masculinities in Literature and Popular Culture
+11012221-ph446 Fundamentals of Astrophysics
+11012222-ch417 Organometallic Chemistry
+11012222-ch418 Biological Chemistry of Metal Ions
+11012222-ch499 Project II
+11012222-hs420 Writing Systems of the World
+11012222-ph446 Fundamentals of Astrophysics
+11012223-ch417 Organometallic Chemistry
+11012223-ch428 Drug Design and Development
+11012223-ch499 Project II
+11012223-hs422 Subaltern Voices and Narratives
+11012223-ph446 Fundamentals of Astrophysics
+11012224-ch417 Organometallic Chemistry
+11012224-ch428 Drug Design and Development
+11012224-ch499 Project II
+11012224-hs410 History of Contemporary India
+11012224-ph446 Fundamentals of Astrophysics
+11012225-ch417 Organometallic Chemistry
+11012225-ch428 Drug Design and Development
+11012225-ch499 Project II
+11012225-hs423 Masculinities in Literature and Popular Culture
+11012225-ph446 Fundamentals of Astrophysics
+11012226-hs422 Subaltern Voices and Narratives
+11012228-ch417 Organometallic Chemistry
+11012228-ch428 Drug Design and Development
+11012228-ch499 Project II
+11012228-cl613 Computational Fluid Dynamics
+11012228-hs403 Entrepreneurship & Economic Development
+11012229-ch417 Organometallic Chemistry
+11012229-ch428 Drug Design and Development
+11012229-ch499 Project II
+11012229-hs422 Subaltern Voices and Narratives
+11012229-ph446 Fundamentals of Astrophysics
+11012230-ch417 Organometallic Chemistry
+11012230-ch428 Drug Design and Development
+11012230-ch499 Project II
+11012230-ph446 Fundamentals of Astrophysics
+11012231-ch417 Organometallic Chemistry
+11012231-ch428 Drug Design and Development
+11012231-ch499 Project II
+11012231-hs410 History of Contemporary India
+11012231-ph446 Fundamentals of Astrophysics
+11012232-ch417 Organometallic Chemistry
+11012232-ch438 Applications of Statistical Mechanics to Chemistry
+11012232-ch499 Project II
+11012232-cl613 Computational Fluid Dynamics
+11012232-hs403 Entrepreneurship & Economic Development
+11012233-ch438 Applications of Statistical Mechanics to Chemistry
+11012233-ch499 Project II
+11012233-ch637 Advanced Quantum Chemistry
+11012233-hs423 Masculinities in Literature and Popular Culture
+11012233-ph446 Fundamentals of Astrophysics
+11012235-ch417 Organometallic Chemistry
+11012235-ch438 Applications of Statistical Mechanics to Chemistry
+11012235-ch499 Project II
+11012235-hs423 Masculinities in Literature and Popular Culture
+11012235-ph446 Fundamentals of Astrophysics
+11012236-hs423 Masculinities in Literature and Popular Culture
+11012237-ch417 Organometallic Chemistry
+11012237-ch428 Drug Design and Development
+11012237-ch499 Project II
+11012237-hs422 Subaltern Voices and Narratives
+11012237-ph446 Fundamentals of Astrophysics
+11012238-bt630 Physical Cell Biology
+11012238-ch418 Biological Chemistry of Metal Ions
+11012238-ch428 Drug Design and Development
+11012238-ch499 Project II
+11012238-hs410 History of Contemporary India
+11012239-ch438 Applications of Statistical Mechanics to Chemistry
+11012239-ch499 Project II
+11012239-ch637 Advanced Quantum Chemistry
+11012239-hs406 Philosophical Issues
+11012239-ph446 Fundamentals of Astrophysics
+11012240-hs422 Subaltern Voices and Narratives
+120122001-ch322 Petroleum and Petrochemicals
+120122001-ch323 Polymer Chemistry
+120122001-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122001-ch334 Chemical Technology Lab III
+120122001-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122001-me324 Heat and Mass Transfer
+120122002-ch322 Petroleum and Petrochemicals
+120122002-ch323 Polymer Chemistry
+120122002-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122002-ch334 Chemical Technology Lab III
+120122002-dd320m Product Planning and Strategy
+120122002-ee657 Pattern Recognition and Machine Learning
+120122002-me324 Heat and Mass Transfer
+120122003-ch322 Petroleum and Petrochemicals
+120122003-ch323 Polymer Chemistry
+120122003-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122003-ch334 Chemical Technology Lab III
+120122003-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122003-me324 Heat and Mass Transfer
+120122004-ch322 Petroleum and Petrochemicals
+120122004-ch323 Polymer Chemistry
+120122004-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122004-ch334 Chemical Technology Lab III
+120122004-ee657 Pattern Recognition and Machine Learning
+120122004-me324 Heat and Mass Transfer
+120122005-ch322 Petroleum and Petrochemicals
+120122005-ch323 Polymer Chemistry
+120122005-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122005-ch334 Chemical Technology Lab III
+120122005-ee657 Pattern Recognition and Machine Learning
+120122005-me324 Heat and Mass Transfer
+120122006-ch322 Petroleum and Petrochemicals
+120122006-ch323 Polymer Chemistry
+120122006-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122006-ch334 Chemical Technology Lab III
+120122006-cl352m Chemical Reaction Engineering
+120122006-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122006-me324 Heat and Mass Transfer
+120122008-ch322 Petroleum and Petrochemicals
+120122008-ch323 Polymer Chemistry
+120122008-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122008-ch334 Chemical Technology Lab III
+120122008-ee657 Pattern Recognition and Machine Learning
+120122008-me324 Heat and Mass Transfer
+120122009-ch322 Petroleum and Petrochemicals
+120122009-ch323 Polymer Chemistry
+120122009-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122009-ch334 Chemical Technology Lab III
+120122009-ee657 Pattern Recognition and Machine Learning
+120122009-me324 Heat and Mass Transfer
+120122010-ch322 Petroleum and Petrochemicals
+120122010-ch323 Polymer Chemistry
+120122010-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122010-ch334 Chemical Technology Lab III
+120122010-ee657 Pattern Recognition and Machine Learning
+120122010-me324 Heat and Mass Transfer
+120122011-ch322 Petroleum and Petrochemicals
+120122011-ch323 Polymer Chemistry
+120122011-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122011-ch334 Chemical Technology Lab III
+120122011-ee657 Pattern Recognition and Machine Learning
+120122011-me324 Heat and Mass Transfer
+120122012-ch322 Petroleum and Petrochemicals
+120122012-ch323 Polymer Chemistry
+120122012-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122012-ch334 Chemical Technology Lab III
+120122012-ee657 Pattern Recognition and Machine Learning
+120122012-me324 Heat and Mass Transfer
+120122013-ch322 Petroleum and Petrochemicals
+120122013-ch323 Polymer Chemistry
+120122013-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122013-ch334 Chemical Technology Lab III
+120122013-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122013-me324 Heat and Mass Transfer
+120122014-ch322 Petroleum and Petrochemicals
+120122014-ch323 Polymer Chemistry
+120122014-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122014-ch334 Chemical Technology Lab III
+120122014-cl352m Chemical Reaction Engineering
+120122014-ee657 Pattern Recognition and Machine Learning
+120122014-me324 Heat and Mass Transfer
+120122015-ch322 Petroleum and Petrochemicals
+120122015-ch323 Polymer Chemistry
+120122015-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122015-ch334 Chemical Technology Lab III
+120122015-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122015-ee322m Signal Processing
+120122015-me324 Heat and Mass Transfer
+120122017-ch322 Petroleum and Petrochemicals
+120122017-ch323 Polymer Chemistry
+120122017-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122017-ch334 Chemical Technology Lab III
+120122017-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122017-me324 Heat and Mass Transfer
+120122018-ch322 Petroleum and Petrochemicals
+120122018-ch323 Polymer Chemistry
+120122018-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122018-ch334 Chemical Technology Lab III
+120122018-ee657 Pattern Recognition and Machine Learning
+120122018-ma312m Modern Algebra
+120122018-me324 Heat and Mass Transfer
+120122020-ch322 Petroleum and Petrochemicals
+120122020-ch323 Polymer Chemistry
+120122020-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122020-ch334 Chemical Technology Lab III
+120122020-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122020-me324 Heat and Mass Transfer
+120122023-ch322 Petroleum and Petrochemicals
+120122023-ch323 Polymer Chemistry
+120122023-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122023-ch334 Chemical Technology Lab III
+120122023-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122023-me324 Heat and Mass Transfer
+120122025-ch322 Petroleum and Petrochemicals
+120122025-ch323 Polymer Chemistry
+120122025-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122025-ch334 Chemical Technology Lab III
+120122025-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122025-me324 Heat and Mass Transfer
+120122028-ch322 Petroleum and Petrochemicals
+120122028-ch323 Polymer Chemistry
+120122028-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122028-ch334 Chemical Technology Lab III
+120122028-cs347 Compilers Lab
+120122028-ee657 Pattern Recognition and Machine Learning
+120122028-me324 Heat and Mass Transfer
+120122031-ch322 Petroleum and Petrochemicals
+120122031-ch323 Polymer Chemistry
+120122031-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122031-ch334 Chemical Technology Lab III
+120122031-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122031-cs350M 
+120122031-me324 Heat and Mass Transfer
+120122032-ch322 Petroleum and Petrochemicals
+120122032-ch323 Polymer Chemistry
+120122032-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122032-ch334 Chemical Technology Lab III
+120122032-ee657 Pattern Recognition and Machine Learning
+120122032-me324 Heat and Mass Transfer
+120122033-ch322 Petroleum and Petrochemicals
+120122033-ch323 Polymer Chemistry
+120122033-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122033-ch334 Chemical Technology Lab III
+120122033-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122033-me324 Heat and Mass Transfer
+120122035-ch322 Petroleum and Petrochemicals
+120122035-ch323 Polymer Chemistry
+120122035-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122035-ch334 Chemical Technology Lab III
+120122035-ee657 Pattern Recognition and Machine Learning
+120122035-me324 Heat and Mass Transfer
+120122036-ch322 Petroleum and Petrochemicals
+120122036-ch323 Polymer Chemistry
+120122036-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122036-ch334 Chemical Technology Lab III
+120122036-ee657 Pattern Recognition and Machine Learning
+120122036-me324 Heat and Mass Transfer
+120122038-ch322 Petroleum and Petrochemicals
+120122038-ch323 Polymer Chemistry
+120122038-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122038-ch334 Chemical Technology Lab III
+120122038-cl352m Chemical Reaction Engineering
+120122038-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122038-me324 Heat and Mass Transfer
+120122039-ch322 Petroleum and Petrochemicals
+120122039-ch323 Polymer Chemistry
+120122039-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122039-ch334 Chemical Technology Lab III
+120122039-cs350M 
+120122039-ee657 Pattern Recognition and Machine Learning
+120122039-me324 Heat and Mass Transfer
+120122040-ch322 Petroleum and Petrochemicals
+120122040-ch323 Polymer Chemistry
+120122040-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122040-ch334 Chemical Technology Lab III
+120122040-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120122040-me324 Heat and Mass Transfer
+120122041-ch322 Petroleum and Petrochemicals
+120122041-ch323 Polymer Chemistry
+120122041-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122041-ch334 Chemical Technology Lab III
+120122041-ee657 Pattern Recognition and Machine Learning
+120122041-me324 Heat and Mass Transfer
+120122042-ch322 Petroleum and Petrochemicals
+120122042-ch323 Polymer Chemistry
+120122042-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122042-ch334 Chemical Technology Lab III
+120122042-cl352m Chemical Reaction Engineering
+120122042-ee657 Pattern Recognition and Machine Learning
+120122042-me324 Heat and Mass Transfer
+120122044-ch322 Petroleum and Petrochemicals
+120122044-ch323 Polymer Chemistry
+120122044-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122044-ch334 Chemical Technology Lab III
+120122044-ee657 Pattern Recognition and Machine Learning
+120122044-me324 Heat and Mass Transfer
+120122045-ch322 Petroleum and Petrochemicals
+120122045-ch323 Polymer Chemistry
+120122045-ch333 Introduction to Chemical Thermodynamics and Equilibrium
+120122045-ch334 Chemical Technology Lab III
+120122045-cl352m Chemical Reaction Engineering
+120122045-ee657 Pattern Recognition and Machine Learning
+120122045-me324 Heat and Mass Transfer
+130122001-ch212 Inorganic Chemistry
+130122001-ch222 Applied Organic Chemistry
+130122001-ch223 Chemical Technology Lab I
+130122001-ch232 Computational Chemistry
+130122001-ch233 Spectroscopic Techniques in Chemistry
+130122001-hs223 Language and Society
+130122003-ch212 Inorganic Chemistry
+130122003-ch222 Applied Organic Chemistry
+130122003-ch223 Chemical Technology Lab I
+130122003-ch232 Computational Chemistry
+130122003-ch233 Spectroscopic Techniques in Chemistry
+130122003-cl252m Thermodynamics and Heat Transfer
+130122003-hs226 Macroeconomics
+130122004-ch212 Inorganic Chemistry
+130122004-ch222 Applied Organic Chemistry
+130122004-ch223 Chemical Technology Lab I
+130122004-ch232 Computational Chemistry
+130122004-ch233 Spectroscopic Techniques in Chemistry
+130122004-hs203 Problems of Philosophy
+130122005-ch212 Inorganic Chemistry
+130122005-ch222 Applied Organic Chemistry
+130122005-ch223 Chemical Technology Lab I
+130122005-ch232 Computational Chemistry
+130122005-ch233 Spectroscopic Techniques in Chemistry
+130122005-hs213 Consumer Behaviour
+130122006-ch212 Inorganic Chemistry
+130122006-ch222 Applied Organic Chemistry
+130122006-ch223 Chemical Technology Lab I
+130122006-ch232 Computational Chemistry
+130122006-ch233 Spectroscopic Techniques in Chemistry
+130122006-hs216 Sociology of India : Conformities & Contradictions
+130122007-ch212 Inorganic Chemistry
+130122007-ch222 Applied Organic Chemistry
+130122007-ch223 Chemical Technology Lab I
+130122007-ch232 Computational Chemistry
+130122007-ch233 Spectroscopic Techniques in Chemistry
+130122007-hs213 Consumer Behaviour
+130122009-ch212 Inorganic Chemistry
+130122009-ch222 Applied Organic Chemistry
+130122009-ch223 Chemical Technology Lab I
+130122009-ch232 Computational Chemistry
+130122009-ch233 Spectroscopic Techniques in Chemistry
+130122009-hs203 Problems of Philosophy
+130122009-ma212m Mathematical Statistics
+130122010-ch212 Inorganic Chemistry
+130122010-ch222 Applied Organic Chemistry
+130122010-ch223 Chemical Technology Lab I
+130122010-ch232 Computational Chemistry
+130122010-ch233 Spectroscopic Techniques in Chemistry
+130122010-hs213 Consumer Behaviour
+130122011-ch212 Inorganic Chemistry
+130122011-ch222 Applied Organic Chemistry
+130122011-ch223 Chemical Technology Lab I
+130122011-ch232 Computational Chemistry
+130122011-ch233 Spectroscopic Techniques in Chemistry
+130122011-hs223 Language and Society
+130122012-ch212 Inorganic Chemistry
+130122012-ch222 Applied Organic Chemistry
+130122012-ch223 Chemical Technology Lab I
+130122012-ch232 Computational Chemistry
+130122012-ch233 Spectroscopic Techniques in Chemistry
+130122012-dd220m Introduction to Ergonomics
+130122012-hs234 Introduction to Linguistics
+130122014-hs234 Introduction to Linguistics
+130122016-ch212 Inorganic Chemistry
+130122016-ch222 Applied Organic Chemistry
+130122016-ch223 Chemical Technology Lab I
+130122016-ch232 Computational Chemistry
+130122016-ch233 Spectroscopic Techniques in Chemistry
+130122016-hs234 Introduction to Linguistics
+130122018-ch212 Inorganic Chemistry
+130122018-ch222 Applied Organic Chemistry
+130122018-ch223 Chemical Technology Lab I
+130122018-ch232 Computational Chemistry
+130122018-ch233 Spectroscopic Techniques in Chemistry
+130122018-hs203 Problems of Philosophy
+130122019-ch212 Inorganic Chemistry
+130122019-ch222 Applied Organic Chemistry
+130122019-ch223 Chemical Technology Lab I
+130122019-ch232 Computational Chemistry
+130122019-ch233 Spectroscopic Techniques in Chemistry
+130122019-hs234 Introduction to Linguistics
+130122020-ch212 Inorganic Chemistry
+130122020-ch222 Applied Organic Chemistry
+130122020-ch223 Chemical Technology Lab I
+130122020-ch232 Computational Chemistry
+130122020-ch233 Spectroscopic Techniques in Chemistry
+130122020-hs216 Sociology of India : Conformities & Contradictions
+130122021-ch212 Inorganic Chemistry
+130122021-ch222 Applied Organic Chemistry
+130122021-ch223 Chemical Technology Lab I
+130122021-ch232 Computational Chemistry
+130122021-ch233 Spectroscopic Techniques in Chemistry
+130122021-hs237 Introduction to Archeology
+130122022-ch212 Inorganic Chemistry
+130122022-ch222 Applied Organic Chemistry
+130122022-ch223 Chemical Technology Lab I
+130122022-ch232 Computational Chemistry
+130122022-ch233 Spectroscopic Techniques in Chemistry
+130122022-ee213m Digital Circuits
+130122022-hs213 Consumer Behaviour
+130122023-ch212 Inorganic Chemistry
+130122023-ch222 Applied Organic Chemistry
+130122023-ch223 Chemical Technology Lab I
+130122023-ch232 Computational Chemistry
+130122023-ch233 Spectroscopic Techniques in Chemistry
+130122023-hs234 Introduction to Linguistics
+130122024-ch212 Inorganic Chemistry
+130122024-ch222 Applied Organic Chemistry
+130122024-ch223 Chemical Technology Lab I
+130122024-ch232 Computational Chemistry
+130122024-ch233 Spectroscopic Techniques in Chemistry
+130122024-cl252m Thermodynamics and Heat Transfer
+130122024-hs216 Sociology of India : Conformities & Contradictions
+130122025-ch212 Inorganic Chemistry
+130122025-ch222 Applied Organic Chemistry
+130122025-ch223 Chemical Technology Lab I
+130122025-ch232 Computational Chemistry
+130122025-ch233 Spectroscopic Techniques in Chemistry
+130122025-hs213 Consumer Behaviour
+130122025-ma212m Mathematical Statistics
+130122026-ch212 Inorganic Chemistry
+130122026-ch222 Applied Organic Chemistry
+130122026-ch223 Chemical Technology Lab I
+130122026-ch232 Computational Chemistry
+130122026-ch233 Spectroscopic Techniques in Chemistry
+130122026-cl252m Thermodynamics and Heat Transfer
+130122026-hs216 Sociology of India : Conformities & Contradictions
+130122027-ch212 Inorganic Chemistry
+130122027-ch222 Applied Organic Chemistry
+130122027-ch223 Chemical Technology Lab I
+130122027-ch232 Computational Chemistry
+130122027-ch233 Spectroscopic Techniques in Chemistry
+130122027-hs223 Language and Society
+130122030-ch212 Inorganic Chemistry
+130122030-ch222 Applied Organic Chemistry
+130122030-ch223 Chemical Technology Lab I
+130122030-ch232 Computational Chemistry
+130122030-ch233 Spectroscopic Techniques in Chemistry
+130122030-hs223 Language and Society
+130122032-ch212 Inorganic Chemistry
+130122032-ch222 Applied Organic Chemistry
+130122032-ch223 Chemical Technology Lab I
+130122032-ch232 Computational Chemistry
+130122032-ch233 Spectroscopic Techniques in Chemistry
+130122032-cl252m Thermodynamics and Heat Transfer
+130122032-hs237 Introduction to Archeology
+130122033-ch212 Inorganic Chemistry
+130122033-ch222 Applied Organic Chemistry
+130122033-ch223 Chemical Technology Lab I
+130122033-ch232 Computational Chemistry
+130122033-ch233 Spectroscopic Techniques in Chemistry
+130122033-hs223 Language and Society
+130122034-ch212 Inorganic Chemistry
+130122034-ch222 Applied Organic Chemistry
+130122034-ch223 Chemical Technology Lab I
+130122034-ch232 Computational Chemistry
+130122034-ch233 Spectroscopic Techniques in Chemistry
+130122034-cl252m Thermodynamics and Heat Transfer
+130122034-hs216 Sociology of India : Conformities & Contradictions
+130122036-ch212 Inorganic Chemistry
+130122036-ch222 Applied Organic Chemistry
+130122036-ch223 Chemical Technology Lab I
+130122036-ch232 Computational Chemistry
+130122036-ch233 Spectroscopic Techniques in Chemistry
+130122036-hs203 Problems of Philosophy
+130122039-ch212 Inorganic Chemistry
+130122039-ch222 Applied Organic Chemistry
+130122039-ch223 Chemical Technology Lab I
+130122039-ch232 Computational Chemistry
+130122039-ch233 Spectroscopic Techniques in Chemistry
+130122039-ee213m Digital Circuits
+130122039-hs213 Consumer Behaviour
+130122040-ch212 Inorganic Chemistry
+130122040-ch222 Applied Organic Chemistry
+130122040-ch223 Chemical Technology Lab I
+130122040-ch232 Computational Chemistry
+130122040-ch233 Spectroscopic Techniques in Chemistry
+130122040-hs203 Problems of Philosophy
+130122041-ch212 Inorganic Chemistry
+130122041-ch222 Applied Organic Chemistry
+130122041-ch223 Chemical Technology Lab I
+130122041-ch232 Computational Chemistry
+130122041-ch233 Spectroscopic Techniques in Chemistry
+130122041-hs203 Problems of Philosophy
+130122041-ma212m Mathematical Statistics
+130122042-ch212 Inorganic Chemistry
+130122042-ch222 Applied Organic Chemistry
+130122042-ch223 Chemical Technology Lab I
+130122042-ch232 Computational Chemistry
+130122042-ch233 Spectroscopic Techniques in Chemistry
+130122042-cl252m Thermodynamics and Heat Transfer
+130122042-hs222 Understanding Psychology : Individual and Works Settings
+130122043-ch212 Inorganic Chemistry
+130122043-ch222 Applied Organic Chemistry
+130122043-ch223 Chemical Technology Lab I
+130122043-ch232 Computational Chemistry
+130122043-ch233 Spectroscopic Techniques in Chemistry
+130122043-hs237 Introduction to Archeology
+130122043-ma212m Mathematical Statistics
+130122044-ch212 Inorganic Chemistry
+130122044-ch222 Applied Organic Chemistry
+130122044-ch223 Chemical Technology Lab I
+130122044-ch232 Computational Chemistry
+130122044-ch233 Spectroscopic Techniques in Chemistry
+130122044-hs222 Understanding Psychology : Individual and Works Settings
+130122045-ch212 Inorganic Chemistry
+130122045-ch222 Applied Organic Chemistry
+130122045-ch223 Chemical Technology Lab I
+130122045-ch232 Computational Chemistry
+130122045-ch233 Spectroscopic Techniques in Chemistry
+130122045-hs223 Language and Society
+130122046-ch212 Inorganic Chemistry
+130122046-ch222 Applied Organic Chemistry
+130122046-ch223 Chemical Technology Lab I
+130122046-ch232 Computational Chemistry
+130122046-ch233 Spectroscopic Techniques in Chemistry
+130122046-hs203 Problems of Philosophy
+132122001-ch501 Computers in Chemistry
+132122001-ch600 Project
+132122001-ch615 Advanced Organometallic Chemistry
+132122001-ch626 Modern Reagents in Organic Synthesis
+132122002-ch501 Computers in Chemistry
+132122002-ch600 Project
+132122002-ch615 Advanced Organometallic Chemistry
+132122002-ch640 Principles & Applications of Luminescence Spectroscopy
+132122003-ch501 Computers in Chemistry
+132122003-ch600 Project
+132122003-ch626 Modern Reagents in Organic Synthesis
+132122003-ch640 Principles & Applications of Luminescence Spectroscopy
+132122004-ch501 Computers in Chemistry
+132122004-ch600 Project
+132122004-ch615 Advanced Organometallic Chemistry
+132122004-ch636 Applied Biochemistry
+132122005-ch501 Computers in Chemistry
+132122005-ch600 Project
+132122005-ch615 Advanced Organometallic Chemistry
+132122005-ch640 Principles & Applications of Luminescence Spectroscopy
+132122006-ch501 Computers in Chemistry
+132122006-ch600 Project
+132122006-ch615 Advanced Organometallic Chemistry
+132122006-ch626 Modern Reagents in Organic Synthesis
+132122007-ch501 Computers in Chemistry
+132122007-ch600 Project
+132122007-ch615 Advanced Organometallic Chemistry
+132122007-ch626 Modern Reagents in Organic Synthesis
+132122008-ch501 Computers in Chemistry
+132122008-ch600 Project
+132122008-ch615 Advanced Organometallic Chemistry
+132122008-ch626 Modern Reagents in Organic Synthesis
+132122010-ch501 Computers in Chemistry
+132122010-ch600 Project
+132122010-ch615 Advanced Organometallic Chemistry
+132122010-ch626 Modern Reagents in Organic Synthesis
+132122012-ch501 Computers in Chemistry
+132122012-ch600 Project
+132122012-ch615 Advanced Organometallic Chemistry
+132122012-ch626 Modern Reagents in Organic Synthesis
+132122013-ch501 Computers in Chemistry
+132122013-ch600 Project
+132122013-ch615 Advanced Organometallic Chemistry
+132122013-ch640 Principles & Applications of Luminescence Spectroscopy
+132122014-ch501 Computers in Chemistry
+132122014-ch600 Project
+132122014-ch615 Advanced Organometallic Chemistry
+132122014-ch626 Modern Reagents in Organic Synthesis
+132122015-ch501 Computers in Chemistry
+132122015-ch600 Project
+132122015-ch615 Advanced Organometallic Chemistry
+132122015-ch636 Applied Biochemistry
+132122016-ch501 Computers in Chemistry
+132122016-ch600 Project
+132122016-ch615 Advanced Organometallic Chemistry
+132122016-ch640 Principles & Applications of Luminescence Spectroscopy
+132122017-ch501 Computers in Chemistry
+132122017-ch600 Project
+132122017-ch615 Advanced Organometallic Chemistry
+132122017-ch626 Modern Reagents in Organic Synthesis
+132122018-ch501 Computers in Chemistry
+132122018-ch600 Project
+132122018-ch615 Advanced Organometallic Chemistry
+132122018-ch640 Principles & Applications of Luminescence Spectroscopy
+132122019-ch501 Computers in Chemistry
+132122019-ch600 Project
+132122019-ch615 Advanced Organometallic Chemistry
+132122019-ch636 Applied Biochemistry
+132122020-ch501 Computers in Chemistry
+132122020-ch600 Project
+132122020-ch615 Advanced Organometallic Chemistry
+132122020-ch626 Modern Reagents in Organic Synthesis
+132122022-ch501 Computers in Chemistry
+132122022-ch600 Project
+132122022-ch615 Advanced Organometallic Chemistry
+132122022-ch626 Modern Reagents in Organic Synthesis
+132122023-ch501 Computers in Chemistry
+132122023-ch600 Project
+132122023-ch637 Advanced Quantum Chemistry
+132122023-ch640 Principles & Applications of Luminescence Spectroscopy
+132122024-ch501 Computers in Chemistry
+132122024-ch600 Project
+132122024-ch615 Advanced Organometallic Chemistry
+132122024-ch626 Modern Reagents in Organic Synthesis
+132122025-ch501 Computers in Chemistry
+132122025-ch600 Project
+132122025-ch615 Advanced Organometallic Chemistry
+132122025-ch626 Modern Reagents in Organic Synthesis
+132122026-ch501 Computers in Chemistry
+132122026-ch600 Project
+132122026-ch615 Advanced Organometallic Chemistry
+132122026-ch640 Principles & Applications of Luminescence Spectroscopy
+132122027-ch501 Computers in Chemistry
+132122027-ch600 Project
+132122027-ch615 Advanced Organometallic Chemistry
+132122027-ch636 Applied Biochemistry
+132122028-ch501 Computers in Chemistry
+132122028-ch600 Project
+132122028-ch615 Advanced Organometallic Chemistry
+132122028-ch636 Applied Biochemistry
+132122029-ch501 Computers in Chemistry
+132122029-ch600 Project
+132122029-ch615 Advanced Organometallic Chemistry
+132122029-ch636 Applied Biochemistry
+132122030-ch501 Computers in Chemistry
+132122030-ch600 Project
+132122030-ch636 Applied Biochemistry
+132122030-ch640 Principles & Applications of Luminescence Spectroscopy
+132122031-ch501 Computers in Chemistry
+132122031-ch600 Project
+132122031-ch636 Applied Biochemistry
+132122031-ch640 Principles & Applications of Luminescence Spectroscopy
+132122032-ch501 Computers in Chemistry
+132122032-ch600 Project
+132122032-ch615 Advanced Organometallic Chemistry
+132122032-ch640 Principles & Applications of Luminescence Spectroscopy
+132122033-ch501 Computers in Chemistry
+132122033-ch600 Project
+132122033-ch615 Advanced Organometallic Chemistry
+132122033-ch626 Modern Reagents in Organic Synthesis
+132122034-ch501 Computers in Chemistry
+132122034-ch600 Project
+132122034-ch615 Advanced Organometallic Chemistry
+132122034-ch640 Principles & Applications of Luminescence Spectroscopy
+132122035-ch501 Computers in Chemistry
+132122035-ch600 Project
+132122035-ch637 Advanced Quantum Chemistry
+132122035-ch640 Principles & Applications of Luminescence Spectroscopy
+132122037-ch501 Computers in Chemistry
+132122037-ch600 Project
+132122037-ch615 Advanced Organometallic Chemistry
+132122037-ch626 Modern Reagents in Organic Synthesis
+132122038-ch501 Computers in Chemistry
+132122038-ch600 Project
+132122038-ch615 Advanced Organometallic Chemistry
+132122038-ch636 Applied Biochemistry
+132122039-ch501 Computers in Chemistry
+132122039-ch600 Project
+132122039-ch626 Modern Reagents in Organic Synthesis
+132122039-ch640 Principles & Applications of Luminescence Spectroscopy
+132122040-ch501 Computers in Chemistry
+132122040-ch600 Project
+132122040-ch636 Applied Biochemistry
+132122040-ch640 Principles & Applications of Luminescence Spectroscopy
+132122041-ch501 Computers in Chemistry
+132122041-ch600 Project
+132122041-ch626 Modern Reagents in Organic Synthesis
+132122041-ch636 Applied Biochemistry
+132122042-ch501 Computers in Chemistry
+132122042-ch600 Project
+132122042-ch636 Applied Biochemistry
+132122042-ch640 Principles & Applications of Luminescence Spectroscopy
+132122043-ch501 Computers in Chemistry
+132122043-ch600 Project
+132122043-ch626 Modern Reagents in Organic Synthesis
+132122043-ch636 Applied Biochemistry
+132122044-ch501 Computers in Chemistry
+132122044-ch600 Project
+132122044-ch636 Applied Biochemistry
+132122044-ch640 Principles & Applications of Luminescence Spectroscopy
+132122045-ch501 Computers in Chemistry
+132122045-ch600 Project
+132122045-ch626 Modern Reagents in Organic Synthesis
+132122045-ch636 Applied Biochemistry
+140122001-bt101 Modern Biology
+140122001-cs101 Introduction to Computing
+140122001-cs110 Computing Lab
+140122001-ee102 Basic Electronics Laboratory
+140122001-ma102 Mathematics II
+140122001-me101 Engineering Mechanics
+140122001-me110 Workshop I
+140122001-ph102 Physics II
+140122001-sa102 Course Name/Course No Not Found
+140122002-bt101 Modern Biology
+140122002-cs101 Introduction to Computing
+140122002-cs110 Computing Lab
+140122002-ee102 Basic Electronics Laboratory
+140122002-ma102 Mathematics II
+140122002-me101 Engineering Mechanics
+140122002-me110 Workshop I
+140122002-ph102 Physics II
+140122002-sa102 Course Name/Course No Not Found
+140122003-bt101 Modern Biology
+140122003-cs101 Introduction to Computing
+140122003-cs110 Computing Lab
+140122003-ee102 Basic Electronics Laboratory
+140122003-ma102 Mathematics II
+140122003-me101 Engineering Mechanics
+140122003-me110 Workshop I
+140122003-ph102 Physics II
+140122003-sa102 Course Name/Course No Not Found
+140122004-bt101 Modern Biology
+140122004-cs101 Introduction to Computing
+140122004-cs110 Computing Lab
+140122004-ee102 Basic Electronics Laboratory
+140122004-ma102 Mathematics II
+140122004-me101 Engineering Mechanics
+140122004-me110 Workshop I
+140122004-ph102 Physics II
+140122004-sa102 Course Name/Course No Not Found
+140122005-bt101 Modern Biology
+140122005-cs101 Introduction to Computing
+140122005-cs110 Computing Lab
+140122005-ee102 Basic Electronics Laboratory
+140122005-ma102 Mathematics II
+140122005-me101 Engineering Mechanics
+140122005-me110 Workshop I
+140122005-ph102 Physics II
+140122005-sa102 Course Name/Course No Not Found
+140122006-bt101 Modern Biology
+140122006-cs101 Introduction to Computing
+140122006-cs110 Computing Lab
+140122006-ee102 Basic Electronics Laboratory
+140122006-ma102 Mathematics II
+140122006-me101 Engineering Mechanics
+140122006-me110 Workshop I
+140122006-ph102 Physics II
+140122006-sa102 Course Name/Course No Not Found
+140122007-bt101 Modern Biology
+140122007-cs101 Introduction to Computing
+140122007-cs110 Computing Lab
+140122007-ee102 Basic Electronics Laboratory
+140122007-ma102 Mathematics II
+140122007-me101 Engineering Mechanics
+140122007-me110 Workshop I
+140122007-ph102 Physics II
+140122007-sa102 Course Name/Course No Not Found
+140122010-bt101 Modern Biology
+140122010-cs101 Introduction to Computing
+140122010-cs110 Computing Lab
+140122010-ee102 Basic Electronics Laboratory
+140122010-ma102 Mathematics II
+140122010-me101 Engineering Mechanics
+140122010-me110 Workshop I
+140122010-ph102 Physics II
+140122010-sa102 Course Name/Course No Not Found
+140122011-bt101 Modern Biology
+140122011-cs101 Introduction to Computing
+140122011-cs110 Computing Lab
+140122011-ee102 Basic Electronics Laboratory
+140122011-ma102 Mathematics II
+140122011-me101 Engineering Mechanics
+140122011-me110 Workshop I
+140122011-ph102 Physics II
+140122011-sa102 Course Name/Course No Not Found
+140122012-bt101 Modern Biology
+140122012-cs101 Introduction to Computing
+140122012-cs110 Computing Lab
+140122012-ee102 Basic Electronics Laboratory
+140122012-ma102 Mathematics II
+140122012-me101 Engineering Mechanics
+140122012-me110 Workshop I
+140122012-ph102 Physics II
+140122012-sa102 Course Name/Course No Not Found
+140122013-bt101 Modern Biology
+140122013-cs101 Introduction to Computing
+140122013-cs110 Computing Lab
+140122013-ee102 Basic Electronics Laboratory
+140122013-ma102 Mathematics II
+140122013-me101 Engineering Mechanics
+140122013-me110 Workshop I
+140122013-ph102 Physics II
+140122013-sa102 Course Name/Course No Not Found
+140122014-bt101 Modern Biology
+140122014-cs101 Introduction to Computing
+140122014-cs110 Computing Lab
+140122014-ee102 Basic Electronics Laboratory
+140122014-ma102 Mathematics II
+140122014-me101 Engineering Mechanics
+140122014-me110 Workshop I
+140122014-ph102 Physics II
+140122014-sa102 Course Name/Course No Not Found
+140122015-bt101 Modern Biology
+140122015-cs101 Introduction to Computing
+140122015-cs110 Computing Lab
+140122015-ee102 Basic Electronics Laboratory
+140122015-ma102 Mathematics II
+140122015-me101 Engineering Mechanics
+140122015-me110 Workshop I
+140122015-ph102 Physics II
+140122015-sa102 Course Name/Course No Not Found
+140122016-bt101 Modern Biology
+140122016-cs101 Introduction to Computing
+140122016-cs110 Computing Lab
+140122016-ee102 Basic Electronics Laboratory
+140122016-ma102 Mathematics II
+140122016-me101 Engineering Mechanics
+140122016-me110 Workshop I
+140122016-ph102 Physics II
+140122016-sa102 Course Name/Course No Not Found
+140122017-bt101 Modern Biology
+140122017-cs101 Introduction to Computing
+140122017-cs110 Computing Lab
+140122017-ee102 Basic Electronics Laboratory
+140122017-ma102 Mathematics II
+140122017-me101 Engineering Mechanics
+140122017-me110 Workshop I
+140122017-ph102 Physics II
+140122017-sa102 Course Name/Course No Not Found
+140122018-bt101 Modern Biology
+140122018-cs101 Introduction to Computing
+140122018-cs110 Computing Lab
+140122018-ee102 Basic Electronics Laboratory
+140122018-ma102 Mathematics II
+140122018-me101 Engineering Mechanics
+140122018-me110 Workshop I
+140122018-ph102 Physics II
+140122018-sa102 Course Name/Course No Not Found
+140122019-bt101 Modern Biology
+140122019-cs101 Introduction to Computing
+140122019-cs110 Computing Lab
+140122019-ee102 Basic Electronics Laboratory
+140122019-ma102 Mathematics II
+140122019-me101 Engineering Mechanics
+140122019-me110 Workshop I
+140122019-ph102 Physics II
+140122019-sa102 Course Name/Course No Not Found
+140122020-bt101 Modern Biology
+140122020-cs101 Introduction to Computing
+140122020-cs110 Computing Lab
+140122020-ee102 Basic Electronics Laboratory
+140122020-ma102 Mathematics II
+140122020-me101 Engineering Mechanics
+140122020-me110 Workshop I
+140122020-ph102 Physics II
+140122020-sa102 Course Name/Course No Not Found
+140122021-bt101 Modern Biology
+140122021-cs101 Introduction to Computing
+140122021-cs110 Computing Lab
+140122021-ee102 Basic Electronics Laboratory
+140122021-ma102 Mathematics II
+140122021-me101 Engineering Mechanics
+140122021-me110 Workshop I
+140122021-ph102 Physics II
+140122021-sa102 Course Name/Course No Not Found
+140122022-bt101 Modern Biology
+140122022-cs101 Introduction to Computing
+140122022-cs110 Computing Lab
+140122022-ee102 Basic Electronics Laboratory
+140122022-ma102 Mathematics II
+140122022-me101 Engineering Mechanics
+140122022-me110 Workshop I
+140122022-ph102 Physics II
+140122022-sa102 Course Name/Course No Not Found
+140122023-bt101 Modern Biology
+140122023-cs101 Introduction to Computing
+140122023-cs110 Computing Lab
+140122023-ee102 Basic Electronics Laboratory
+140122023-ma102 Mathematics II
+140122023-me101 Engineering Mechanics
+140122023-me110 Workshop I
+140122023-ph102 Physics II
+140122023-sa102 Course Name/Course No Not Found
+140122024-bt101 Modern Biology
+140122024-cs101 Introduction to Computing
+140122024-cs110 Computing Lab
+140122024-ee102 Basic Electronics Laboratory
+140122024-ma102 Mathematics II
+140122024-me101 Engineering Mechanics
+140122024-me110 Workshop I
+140122024-ph102 Physics II
+140122024-sa102 Course Name/Course No Not Found
+140122025-bt101 Modern Biology
+140122025-cs101 Introduction to Computing
+140122025-cs110 Computing Lab
+140122025-ee102 Basic Electronics Laboratory
+140122025-ma102 Mathematics II
+140122025-me101 Engineering Mechanics
+140122025-me110 Workshop I
+140122025-ph102 Physics II
+140122025-sa102 Course Name/Course No Not Found
+140122026-bt101 Modern Biology
+140122026-cs101 Introduction to Computing
+140122026-cs110 Computing Lab
+140122026-ee102 Basic Electronics Laboratory
+140122026-ma102 Mathematics II
+140122026-me101 Engineering Mechanics
+140122026-me110 Workshop I
+140122026-ph102 Physics II
+140122026-sa102 Course Name/Course No Not Found
+140122027-bt101 Modern Biology
+140122027-cs101 Introduction to Computing
+140122027-cs110 Computing Lab
+140122027-ee102 Basic Electronics Laboratory
+140122027-ma102 Mathematics II
+140122027-me101 Engineering Mechanics
+140122027-me110 Workshop I
+140122027-ph102 Physics II
+140122027-sa102 Course Name/Course No Not Found
+140122028-bt101 Modern Biology
+140122028-cs101 Introduction to Computing
+140122028-cs110 Computing Lab
+140122028-ee102 Basic Electronics Laboratory
+140122028-ma102 Mathematics II
+140122028-me101 Engineering Mechanics
+140122028-me110 Workshop I
+140122028-ph102 Physics II
+140122028-sa102 Course Name/Course No Not Found
+140122029-bt101 Modern Biology
+140122029-cs101 Introduction to Computing
+140122029-cs110 Computing Lab
+140122029-ee102 Basic Electronics Laboratory
+140122029-ma102 Mathematics II
+140122029-me101 Engineering Mechanics
+140122029-me110 Workshop I
+140122029-ph102 Physics II
+140122029-sa102 Course Name/Course No Not Found
+140122030-bt101 Modern Biology
+140122030-cs101 Introduction to Computing
+140122030-cs110 Computing Lab
+140122030-ee102 Basic Electronics Laboratory
+140122030-ma102 Mathematics II
+140122030-me101 Engineering Mechanics
+140122030-me110 Workshop I
+140122030-ph102 Physics II
+140122030-sa102 Course Name/Course No Not Found
+140122031-bt101 Modern Biology
+140122031-cs101 Introduction to Computing
+140122031-cs110 Computing Lab
+140122031-ee102 Basic Electronics Laboratory
+140122031-ma102 Mathematics II
+140122031-me101 Engineering Mechanics
+140122031-me110 Workshop I
+140122031-ph102 Physics II
+140122031-sa102 Course Name/Course No Not Found
+140122033-bt101 Modern Biology
+140122033-cs101 Introduction to Computing
+140122033-cs110 Computing Lab
+140122033-ee102 Basic Electronics Laboratory
+140122033-ma102 Mathematics II
+140122033-me101 Engineering Mechanics
+140122033-me110 Workshop I
+140122033-ph102 Physics II
+140122033-sa102 Course Name/Course No Not Found
+140122034-bt101 Modern Biology
+140122034-cs101 Introduction to Computing
+140122034-cs110 Computing Lab
+140122034-ee102 Basic Electronics Laboratory
+140122034-ma102 Mathematics II
+140122034-me101 Engineering Mechanics
+140122034-me110 Workshop I
+140122034-ph102 Physics II
+140122034-sa102 Course Name/Course No Not Found
+140122035-bt101 Modern Biology
+140122035-cs101 Introduction to Computing
+140122035-cs110 Computing Lab
+140122035-ee102 Basic Electronics Laboratory
+140122035-ma102 Mathematics II
+140122035-me101 Engineering Mechanics
+140122035-me110 Workshop I
+140122035-ph102 Physics II
+140122035-sa102 Course Name/Course No Not Found
+140122036-bt101 Modern Biology
+140122036-cs101 Introduction to Computing
+140122036-cs110 Computing Lab
+140122036-ee102 Basic Electronics Laboratory
+140122036-ma102 Mathematics II
+140122036-me101 Engineering Mechanics
+140122036-me110 Workshop I
+140122036-ph102 Physics II
+140122036-sa102 Course Name/Course No Not Found
+140122037-bt101 Modern Biology
+140122037-cs101 Introduction to Computing
+140122037-cs110 Computing Lab
+140122037-ee102 Basic Electronics Laboratory
+140122037-ma102 Mathematics II
+140122037-me101 Engineering Mechanics
+140122037-me110 Workshop I
+140122037-ph102 Physics II
+140122037-sa102 Course Name/Course No Not Found
+140122038-bt101 Modern Biology
+140122038-cs101 Introduction to Computing
+140122038-cs110 Computing Lab
+140122038-ee102 Basic Electronics Laboratory
+140122038-ma102 Mathematics II
+140122038-me101 Engineering Mechanics
+140122038-me110 Workshop I
+140122038-ph102 Physics II
+140122038-sa102 Course Name/Course No Not Found
+140122040-bt101 Modern Biology
+140122040-cs101 Introduction to Computing
+140122040-cs110 Computing Lab
+140122040-ee102 Basic Electronics Laboratory
+140122040-ma102 Mathematics II
+140122040-me101 Engineering Mechanics
+140122040-me110 Workshop I
+140122040-ph102 Physics II
+140122040-sa102 Course Name/Course No Not Found
+140122042-bt101 Modern Biology
+140122042-cs101 Introduction to Computing
+140122042-cs110 Computing Lab
+140122042-ee102 Basic Electronics Laboratory
+140122042-ma102 Mathematics II
+140122042-me101 Engineering Mechanics
+140122042-me110 Workshop I
+140122042-ph102 Physics II
+140122042-sa102 Course Name/Course No Not Found
+140122043-bt101 Modern Biology
+140122043-cs101 Introduction to Computing
+140122043-cs110 Computing Lab
+140122043-ee102 Basic Electronics Laboratory
+140122043-ma102 Mathematics II
+140122043-me101 Engineering Mechanics
+140122043-me110 Workshop I
+140122043-ph102 Physics II
+140122043-sa102 Course Name/Course No Not Found
+140122044-bt101 Modern Biology
+140122044-cs101 Introduction to Computing
+140122044-cs110 Computing Lab
+140122044-ee102 Basic Electronics Laboratory
+140122044-ma102 Mathematics II
+140122044-me101 Engineering Mechanics
+140122044-me110 Workshop I
+140122044-ph102 Physics II
+140122044-sa102 Course Name/Course No Not Found
+142122001-ch411 Inorganic Reaction Mechanism and Organometallics
+142122001-ch421 Organic Reactions and Mechanisms
+142122001-ch425 Organic Chemistry Laboratory
+142122001-ch433 Applications of Spectroscopy
+142122002-ch411 Inorganic Reaction Mechanism and Organometallics
+142122002-ch421 Organic Reactions and Mechanisms
+142122002-ch425 Organic Chemistry Laboratory
+142122002-ch433 Applications of Spectroscopy
+142122003-ch411 Inorganic Reaction Mechanism and Organometallics
+142122003-ch421 Organic Reactions and Mechanisms
+142122003-ch425 Organic Chemistry Laboratory
+142122003-ch433 Applications of Spectroscopy
+142122004-ch411 Inorganic Reaction Mechanism and Organometallics
+142122004-ch421 Organic Reactions and Mechanisms
+142122004-ch425 Organic Chemistry Laboratory
+142122004-ch433 Applications of Spectroscopy
+142122005-ch411 Inorganic Reaction Mechanism and Organometallics
+142122005-ch421 Organic Reactions and Mechanisms
+142122005-ch425 Organic Chemistry Laboratory
+142122005-ch433 Applications of Spectroscopy
+142122006-ch411 Inorganic Reaction Mechanism and Organometallics
+142122006-ch421 Organic Reactions and Mechanisms
+142122006-ch425 Organic Chemistry Laboratory
+142122006-ch433 Applications of Spectroscopy
+142122007-ch411 Inorganic Reaction Mechanism and Organometallics
+142122007-ch421 Organic Reactions and Mechanisms
+142122007-ch425 Organic Chemistry Laboratory
+142122007-ch433 Applications of Spectroscopy
+142122008-ch411 Inorganic Reaction Mechanism and Organometallics
+142122008-ch421 Organic Reactions and Mechanisms
+142122008-ch425 Organic Chemistry Laboratory
+142122008-ch433 Applications of Spectroscopy
+142122009-ch411 Inorganic Reaction Mechanism and Organometallics
+142122009-ch421 Organic Reactions and Mechanisms
+142122009-ch425 Organic Chemistry Laboratory
+142122009-ch433 Applications of Spectroscopy
+142122010-ch411 Inorganic Reaction Mechanism and Organometallics
+142122010-ch421 Organic Reactions and Mechanisms
+142122010-ch425 Organic Chemistry Laboratory
+142122010-ch433 Applications of Spectroscopy
+142122011-ch411 Inorganic Reaction Mechanism and Organometallics
+142122011-ch421 Organic Reactions and Mechanisms
+142122011-ch425 Organic Chemistry Laboratory
+142122011-ch433 Applications of Spectroscopy
+142122013-ch411 Inorganic Reaction Mechanism and Organometallics
+142122013-ch421 Organic Reactions and Mechanisms
+142122013-ch425 Organic Chemistry Laboratory
+142122013-ch433 Applications of Spectroscopy
+142122014-ch411 Inorganic Reaction Mechanism and Organometallics
+142122014-ch421 Organic Reactions and Mechanisms
+142122014-ch425 Organic Chemistry Laboratory
+142122014-ch433 Applications of Spectroscopy
+142122015-ch411 Inorganic Reaction Mechanism and Organometallics
+142122015-ch421 Organic Reactions and Mechanisms
+142122015-ch425 Organic Chemistry Laboratory
+142122015-ch433 Applications of Spectroscopy
+142122016-ch411 Inorganic Reaction Mechanism and Organometallics
+142122016-ch421 Organic Reactions and Mechanisms
+142122016-ch425 Organic Chemistry Laboratory
+142122016-ch433 Applications of Spectroscopy
+142122017-ch411 Inorganic Reaction Mechanism and Organometallics
+142122017-ch421 Organic Reactions and Mechanisms
+142122017-ch425 Organic Chemistry Laboratory
+142122017-ch433 Applications of Spectroscopy
+142122018-ch411 Inorganic Reaction Mechanism and Organometallics
+142122018-ch421 Organic Reactions and Mechanisms
+142122018-ch425 Organic Chemistry Laboratory
+142122018-ch433 Applications of Spectroscopy
+142122019-ch411 Inorganic Reaction Mechanism and Organometallics
+142122019-ch421 Organic Reactions and Mechanisms
+142122019-ch425 Organic Chemistry Laboratory
+142122019-ch433 Applications of Spectroscopy
+142122020-ch411 Inorganic Reaction Mechanism and Organometallics
+142122020-ch421 Organic Reactions and Mechanisms
+142122020-ch425 Organic Chemistry Laboratory
+142122020-ch433 Applications of Spectroscopy
+142122021-ch411 Inorganic Reaction Mechanism and Organometallics
+142122021-ch421 Organic Reactions and Mechanisms
+142122021-ch425 Organic Chemistry Laboratory
+142122021-ch433 Applications of Spectroscopy
+142122022-ch411 Inorganic Reaction Mechanism and Organometallics
+142122022-ch421 Organic Reactions and Mechanisms
+142122022-ch425 Organic Chemistry Laboratory
+142122022-ch433 Applications of Spectroscopy
+142122023-ch411 Inorganic Reaction Mechanism and Organometallics
+142122023-ch421 Organic Reactions and Mechanisms
+142122023-ch425 Organic Chemistry Laboratory
+142122023-ch433 Applications of Spectroscopy
+142122024-ch411 Inorganic Reaction Mechanism and Organometallics
+142122024-ch421 Organic Reactions and Mechanisms
+142122024-ch425 Organic Chemistry Laboratory
+142122024-ch433 Applications of Spectroscopy
+142122025-ch411 Inorganic Reaction Mechanism and Organometallics
+142122025-ch421 Organic Reactions and Mechanisms
+142122025-ch425 Organic Chemistry Laboratory
+142122025-ch433 Applications of Spectroscopy
+142122026-ch411 Inorganic Reaction Mechanism and Organometallics
+142122026-ch421 Organic Reactions and Mechanisms
+142122026-ch425 Organic Chemistry Laboratory
+142122026-ch433 Applications of Spectroscopy
+142122027-ch411 Inorganic Reaction Mechanism and Organometallics
+142122027-ch421 Organic Reactions and Mechanisms
+142122027-ch425 Organic Chemistry Laboratory
+142122027-ch433 Applications of Spectroscopy
+142122028-ch411 Inorganic Reaction Mechanism and Organometallics
+142122028-ch421 Organic Reactions and Mechanisms
+142122028-ch425 Organic Chemistry Laboratory
+142122028-ch433 Applications of Spectroscopy
+142122029-ch411 Inorganic Reaction Mechanism and Organometallics
+142122029-ch421 Organic Reactions and Mechanisms
+142122029-ch425 Organic Chemistry Laboratory
+142122029-ch433 Applications of Spectroscopy
+142122030-ch411 Inorganic Reaction Mechanism and Organometallics
+142122030-ch421 Organic Reactions and Mechanisms
+142122030-ch425 Organic Chemistry Laboratory
+142122030-ch433 Applications of Spectroscopy
+142122031-ch411 Inorganic Reaction Mechanism and Organometallics
+142122031-ch421 Organic Reactions and Mechanisms
+142122031-ch425 Organic Chemistry Laboratory
+142122031-ch433 Applications of Spectroscopy
+142122032-ch411 Inorganic Reaction Mechanism and Organometallics
+142122032-ch421 Organic Reactions and Mechanisms
+142122032-ch425 Organic Chemistry Laboratory
+142122032-ch433 Applications of Spectroscopy
+142122033-ch411 Inorganic Reaction Mechanism and Organometallics
+142122033-ch421 Organic Reactions and Mechanisms
+142122033-ch425 Organic Chemistry Laboratory
+142122033-ch433 Applications of Spectroscopy
+142122034-ch411 Inorganic Reaction Mechanism and Organometallics
+142122034-ch421 Organic Reactions and Mechanisms
+142122034-ch425 Organic Chemistry Laboratory
+142122034-ch433 Applications of Spectroscopy
+142122035-ch411 Inorganic Reaction Mechanism and Organometallics
+142122035-ch421 Organic Reactions and Mechanisms
+142122035-ch425 Organic Chemistry Laboratory
+142122035-ch433 Applications of Spectroscopy
+142122036-ch411 Inorganic Reaction Mechanism and Organometallics
+142122036-ch421 Organic Reactions and Mechanisms
+142122036-ch425 Organic Chemistry Laboratory
+142122036-ch433 Applications of Spectroscopy
+142122037-ch411 Inorganic Reaction Mechanism and Organometallics
+142122037-ch421 Organic Reactions and Mechanisms
+142122037-ch425 Organic Chemistry Laboratory
+142122037-ch433 Applications of Spectroscopy
+142122038-ch411 Inorganic Reaction Mechanism and Organometallics
+142122038-ch421 Organic Reactions and Mechanisms
+142122038-ch425 Organic Chemistry Laboratory
+142122038-ch433 Applications of Spectroscopy
+142122039-ch411 Inorganic Reaction Mechanism and Organometallics
+142122039-ch421 Organic Reactions and Mechanisms
+142122039-ch425 Organic Chemistry Laboratory
+142122039-ch433 Applications of Spectroscopy
+142122040-ch411 Inorganic Reaction Mechanism and Organometallics
+142122040-ch421 Organic Reactions and Mechanisms
+142122040-ch425 Organic Chemistry Laboratory
+142122040-ch433 Applications of Spectroscopy
+142122041-ch411 Inorganic Reaction Mechanism and Organometallics
+142122041-ch421 Organic Reactions and Mechanisms
+142122041-ch425 Organic Chemistry Laboratory
+142122041-ch433 Applications of Spectroscopy
+142122042-ch411 Inorganic Reaction Mechanism and Organometallics
+142122042-ch421 Organic Reactions and Mechanisms
+142122042-ch425 Organic Chemistry Laboratory
+142122042-ch433 Applications of Spectroscopy
+142122043-ch411 Inorganic Reaction Mechanism and Organometallics
+142122043-ch421 Organic Reactions and Mechanisms
+142122043-ch425 Organic Chemistry Laboratory
+142122043-ch433 Applications of Spectroscopy
+142122044-ch411 Inorganic Reaction Mechanism and Organometallics
+142122044-ch421 Organic Reactions and Mechanisms
+142122044-ch425 Organic Chemistry Laboratory
+142122044-ch433 Applications of Spectroscopy
+142122045-ch411 Inorganic Reaction Mechanism and Organometallics
+142122045-ch421 Organic Reactions and Mechanisms
+142122045-ch425 Organic Chemistry Laboratory
+142122045-ch433 Applications of Spectroscopy
+142122046-ch411 Inorganic Reaction Mechanism and Organometallics
+142122046-ch421 Organic Reactions and Mechanisms
+142122046-ch425 Organic Chemistry Laboratory
+142122046-ch433 Applications of Spectroscopy
+142122047-ch411 Inorganic Reaction Mechanism and Organometallics
+142122047-ch421 Organic Reactions and Mechanisms
+142122047-ch425 Organic Chemistry Laboratory
+142122047-ch433 Applications of Spectroscopy
+142122048-ch411 Inorganic Reaction Mechanism and Organometallics
+142122048-ch421 Organic Reactions and Mechanisms
+142122048-ch425 Organic Chemistry Laboratory
+142122048-ch433 Applications of Spectroscopy
+146122001-ch639 Principles and Applications of Molecular Fluorescence.
+146122002-ch611 Bioinorganic Chemistry
+146122003-ch621 New Reagents for Organic Synthesis
+146122004-ch639 Principles and Applications of Molecular Fluorescence.
+146122005-ch611 Bioinorganic Chemistry
+146122005-ch639 Principles and Applications of Molecular Fluorescence.
+146122006-ch611 Bioinorganic Chemistry
+146122006-ch621 New Reagents for Organic Synthesis
+146122007-ch639 Principles and Applications of Molecular Fluorescence.
+146122008-ch611 Bioinorganic Chemistry
+146122008-ch621 New Reagents for Organic Synthesis
+146122008-ch639 Principles and Applications of Molecular Fluorescence.
+146122011-ch621 New Reagents for Organic Synthesis
+146122012-ch611 Bioinorganic Chemistry
+146122012-ch621 New Reagents for Organic Synthesis
+146122013-ch611 Bioinorganic Chemistry
+146122013-ch621 New Reagents for Organic Synthesis
+146122015-ch611 Bioinorganic Chemistry
+146122016-ch621 New Reagents for Organic Synthesis
+146122017-ch611 Bioinorganic Chemistry
+146122018-ch611 Bioinorganic Chemistry
+146122018-ch621 New Reagents for Organic Synthesis
+146122018-ch639 Principles and Applications of Molecular Fluorescence.
+146122019-ch621 New Reagents for Organic Synthesis
+146122020-ch611 Bioinorganic Chemistry
+146122020-ch621 New Reagents for Organic Synthesis
+146122021-ch611 Bioinorganic Chemistry
+146122021-ch621 New Reagents for Organic Synthesis
+146122023-ch621 New Reagents for Organic Synthesis
+146122023-ch639 Principles and Applications of Molecular Fluorescence.
+146122024-ch611 Bioinorganic Chemistry
+146122025-ch621 New Reagents for Organic Synthesis
+146122026-ch639 Principles and Applications of Molecular Fluorescence.
+146122027-ch639 Principles and Applications of Molecular Fluorescence.
+146122028-ch611 Bioinorganic Chemistry
+146122029-ch611 Bioinorganic Chemistry
+146122032-ch611 Bioinorganic Chemistry
+146122032-ch621 New Reagents for Organic Synthesis
+146122033-ch611 Bioinorganic Chemistry
+146122033-ch639 Principles and Applications of Molecular Fluorescence.
+146122034-ch611 Bioinorganic Chemistry
+146122034-ch621 New Reagents for Organic Synthesis
+146122035-ch611 Bioinorganic Chemistry
+146122035-ch621 New Reagents for Organic Synthesis
+146122036-ch636 Applied Biochemistry
+146122036-ch639 Principles and Applications of Molecular Fluorescence.
+146122037-ch611 Bioinorganic Chemistry
+146122037-ch621 New Reagents for Organic Synthesis

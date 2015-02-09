@@ -1,0 +1,2440 @@
+11010403-ce402 Design Project
+11010403-ce498 Project I
+11010403-ce610 Computational Structural Mechanics
+11010403-ce613 Engineering Fracture and Fatigue Mechanics
+11010403-ce616 Blast and Impact Resistant Structures
+11010404-ce402 Design Project
+11010404-ce498 Project I
+11010404-ce606 Earthquake Engineering
+11010404-ce613 Engineering Fracture and Fatigue Mechanics
+11010404-ce616 Blast and Impact Resistant Structures
+11010404-hs403 Entrepreneurship & Economic Development
+11010405-ce402 Design Project
+11010405-ce498 Project I
+11010405-ce607 Random Vibration
+11010405-ce628 Traffic Flow Modelling and Simulation
+11010405-hs403 Entrepreneurship & Economic Development
+11010405-me664 Theory of Elasticity
+11010406-ce402 Design Project
+11010406-ce498 Project I
+11010406-ce606 Earthquake Engineering
+11010406-ce613 Engineering Fracture and Fatigue Mechanics
+11010406-hs422 Subaltern Voices and Narratives
+11010406-me664 Theory of Elasticity
+11010407-ce402 Design Project
+11010407-ce498 Project I
+11010407-ce616 Blast and Impact Resistant Structures
+11010407-ce628 Traffic Flow Modelling and Simulation
+11010407-ce661 Air Quality Modeling
+11010407-hs403 Entrepreneurship & Economic Development
+11010408-ce402 Design Project
+11010408-ce498 Project I
+11010408-ce618 Mechanics of Unsaturated Soils
+11010408-ce628 Traffic Flow Modelling and Simulation
+11010408-hs410 History of Contemporary India
+11010408-me664 Theory of Elasticity
+11010409-ce402 Design Project
+11010409-ce498 Project I
+11010409-ce612 Advanced Concrete Technology
+11010409-ce616 Blast and Impact Resistant Structures
+11010409-ce643 Earthquake Geotechnical Engg.
+11010409-hs406 Philosophical Issues
+11010411-ce402 Design Project
+11010411-ce498 Project I
+11010411-ce606 Earthquake Engineering
+11010411-ce610 Computational Structural Mechanics
+11010411-hs423 Masculinities in Literature and Popular Culture
+11010411-me664 Theory of Elasticity
+11010412-hs410 History of Contemporary India
+11010413-ce402 Design Project
+11010413-ce498 Project I
+11010413-ce616 Blast and Impact Resistant Structures
+11010413-ce649 Ground Improvement Techniques
+11010413-ce661 Air Quality Modeling
+11010413-hs420 Writing Systems of the World
+11010414-bt630 Physical Cell Biology
+11010414-ce402 Design Project
+11010414-ce498 Project I
+11010414-ce606 Earthquake Engineering
+11010414-ce612 Advanced Concrete Technology
+11010414-hs423 Masculinities in Literature and Popular Culture
+11010415-ce402 Design Project
+11010415-ce498 Project I
+11010415-ce560 Computational Methods in Hydraulics & Environmental Engg.
+11010415-ce618 Mechanics of Unsaturated Soils
+11010415-ee562 Fundamentals of VLSI CAD
+11010415-hs420 Writing Systems of the World
+11010416-bt630 Physical Cell Biology
+11010416-ce402 Design Project
+11010416-ce498 Project I
+11010416-ce606 Earthquake Engineering
+11010416-ce612 Advanced Concrete Technology
+11010416-hs406 Philosophical Issues
+11010417-ce402 Design Project
+11010417-ce498 Project I
+11010417-ce606 Earthquake Engineering
+11010417-ce613 Engineering Fracture and Fatigue Mechanics
+11010417-hs422 Subaltern Voices and Narratives
+11010417-me664 Theory of Elasticity
+11010418-ce402 Design Project
+11010418-ce498 Project I
+11010418-ce607 Random Vibration
+11010418-ce628 Traffic Flow Modelling and Simulation
+11010418-ph446 Fundamentals of Astrophysics
+11010419-ce402 Design Project
+11010419-ce498 Project I
+11010419-ce612 Advanced Concrete Technology
+11010419-ce616 Blast and Impact Resistant Structures
+11010419-ce618 Mechanics of Unsaturated Soils
+11010419-hs422 Subaltern Voices and Narratives
+11010420-hs406 Philosophical Issues
+11010421-ce402 Design Project
+11010421-ce498 Project I
+11010421-ce607 Random Vibration
+11010421-ce628 Traffic Flow Modelling and Simulation
+11010421-ee562 Fundamentals of VLSI CAD
+11010421-hs403 Entrepreneurship & Economic Development
+11010422-ce402 Design Project
+11010422-ce498 Project I
+11010422-ce606 Earthquake Engineering
+11010422-ce612 Advanced Concrete Technology
+11010422-ce616 Blast and Impact Resistant Structures
+11010422-hs422 Subaltern Voices and Narratives
+11010423-ce402 Design Project
+11010423-ce498 Project I
+11010423-ce560 Computational Methods in Hydraulics & Environmental Engg.
+11010423-ce665 Water Distribution and Wastewater Collection System Design
+11010423-cl613 Computational Fluid Dynamics
+11010423-hs410 History of Contemporary India
+11010424-ce402 Design Project
+11010424-ce498 Project I
+11010424-ce612 Advanced Concrete Technology
+11010424-ce616 Blast and Impact Resistant Structures
+11010424-ce618 Mechanics of Unsaturated Soils
+11010424-hs406 Philosophical Issues
+11010425-ce402 Design Project
+11010425-ce498 Project I
+11010425-ce612 Advanced Concrete Technology
+11010425-ce616 Blast and Impact Resistant Structures
+11010425-ce618 Mechanics of Unsaturated Soils
+11010425-hs406 Philosophical Issues
+11010426-ce402 Design Project
+11010426-ce498 Project I
+11010426-ce612 Advanced Concrete Technology
+11010426-ce616 Blast and Impact Resistant Structures
+11010426-ce618 Mechanics of Unsaturated Soils
+11010426-hs420 Writing Systems of the World
+11010427-hs406 Philosophical Issues
+11010429-ce402 Design Project
+11010429-ce498 Project I
+11010429-ce607 Random Vibration
+11010429-ce613 Engineering Fracture and Fatigue Mechanics
+11010429-ce616 Blast and Impact Resistant Structures
+11010429-hs422 Subaltern Voices and Narratives
+11010430-hs420 Writing Systems of the World
+11010431-ce402 Design Project
+11010431-ce498 Project I
+11010431-ce559 Watershed Management & Remote Sensing Application
+11010431-ce628 Traffic Flow Modelling and Simulation
+11010431-hs420 Writing Systems of the World
+11010431-ph446 Fundamentals of Astrophysics
+11010432-ce402 Design Project
+11010432-ce498 Project I
+11010432-ce559 Watershed Management & Remote Sensing Application
+11010432-ce628 Traffic Flow Modelling and Simulation
+11010432-hs423 Masculinities in Literature and Popular Culture
+11010432-me664 Theory of Elasticity
+11010433-ce402 Design Project
+11010433-ce498 Project I
+11010433-ce628 Traffic Flow Modelling and Simulation
+11010433-ce643 Earthquake Geotechnical Engg.
+11010433-hs410 History of Contemporary India
+11010433-ph446 Fundamentals of Astrophysics
+11010434-ce402 Design Project
+11010434-ce498 Project I
+11010434-ce560 Computational Methods in Hydraulics & Environmental Engg.
+11010434-ce665 Water Distribution and Wastewater Collection System Design
+11010434-hs420 Writing Systems of the World
+11010434-ph446 Fundamentals of Astrophysics
+11010436-ce402 Design Project
+11010436-ce498 Project I
+11010436-ce606 Earthquake Engineering
+11010436-ce616 Blast and Impact Resistant Structures
+11010436-ce618 Mechanics of Unsaturated Soils
+11010436-hs406 Philosophical Issues
+11010437-ce402 Design Project
+11010437-ce498 Project I
+11010437-ce606 Earthquake Engineering
+11010437-ce612 Advanced Concrete Technology
+11010437-ce616 Blast and Impact Resistant Structures
+11010437-hs406 Philosophical Issues
+11010438-ce402 Design Project
+11010438-ce498 Project I
+11010438-ce607 Random Vibration
+11010438-ce613 Engineering Fracture and Fatigue Mechanics
+11010438-me664 Theory of Elasticity
+11010439-ce402 Design Project
+11010439-ce498 Project I
+11010439-ce606 Earthquake Engineering
+11010439-ce616 Blast and Impact Resistant Structures
+11010439-ce661 Air Quality Modeling
+11010439-hs422 Subaltern Voices and Narratives
+11010440-ce402 Design Project
+11010440-ce498 Project I
+11010440-ce618 Mechanics of Unsaturated Soils
+11010440-ce628 Traffic Flow Modelling and Simulation
+11010440-ee562 Fundamentals of VLSI CAD
+11010441-ce402 Design Project
+11010441-ce498 Project I
+11010441-ce606 Earthquake Engineering
+11010441-ce612 Advanced Concrete Technology
+11010441-ce616 Blast and Impact Resistant Structures
+11010441-hs423 Masculinities in Literature and Popular Culture
+11010442-ce402 Design Project
+11010442-ce498 Project I
+11010442-ce606 Earthquake Engineering
+11010442-ce612 Advanced Concrete Technology
+11010442-ce616 Blast and Impact Resistant Structures
+11010443-ce402 Design Project
+11010443-ce498 Project I
+11010443-ce606 Earthquake Engineering
+11010443-ce613 Engineering Fracture and Fatigue Mechanics
+11010443-ce616 Blast and Impact Resistant Structures
+11010444-ce402 Design Project
+11010444-ce498 Project I
+11010444-ce612 Advanced Concrete Technology
+11010444-ce616 Blast and Impact Resistant Structures
+11010444-ce618 Mechanics of Unsaturated Soils
+11010444-hs423 Masculinities in Literature and Popular Culture
+11010446-ce402 Design Project
+11010446-ce498 Project I
+11010446-ce606 Earthquake Engineering
+11010446-ce616 Blast and Impact Resistant Structures
+11010446-ce649 Ground Improvement Techniques
+11010446-hs410 History of Contemporary India
+11010448-ce402 Design Project
+11010448-ce498 Project I
+11010448-ce606 Earthquake Engineering
+11010448-ce613 Engineering Fracture and Fatigue Mechanics
+11010448-ce616 Blast and Impact Resistant Structures
+11010448-hs423 Masculinities in Literature and Popular Culture
+11010450-ce402 Design Project
+11010450-ce498 Project I
+11010450-ce606 Earthquake Engineering
+11010450-ce610 Computational Structural Mechanics
+11010450-ce616 Blast and Impact Resistant Structures
+11010450-hs410 History of Contemporary India
+11010452-ce402 Design Project
+11010452-ce498 Project I
+11010452-ce612 Advanced Concrete Technology
+11010452-ce616 Blast and Impact Resistant Structures
+11010452-ce643 Earthquake Geotechnical Engg.
+11010452-hs420 Writing Systems of the World
+11010453-ce402 Design Project
+11010453-ce498 Project I
+11010453-ce607 Random Vibration
+11010453-ce613 Engineering Fracture and Fatigue Mechanics
+11010453-ce616 Blast and Impact Resistant Structures
+11010453-hs422 Subaltern Voices and Narratives
+11010455-ce402 Design Project
+11010455-ce498 Project I
+11010455-ce559 Watershed Management & Remote Sensing Application
+11010455-ce616 Blast and Impact Resistant Structures
+11010455-ce649 Ground Improvement Techniques
+11010455-hs410 History of Contemporary India
+11010456-ce402 Design Project
+11010456-ce498 Project I
+11010456-ce606 Earthquake Engineering
+11010456-ce613 Engineering Fracture and Fatigue Mechanics
+11010456-ce616 Blast and Impact Resistant Structures
+11010457-ce402 Design Project
+11010457-ce498 Project I
+11010457-ce616 Blast and Impact Resistant Structures
+11010457-ce618 Mechanics of Unsaturated Soils
+11010457-ce649 Ground Improvement Techniques
+11010461-hs420 Writing Systems of the World
+11010462-ce402 Design Project
+11010462-ce498 Project I
+11010462-ce612 Advanced Concrete Technology
+11010462-ce616 Blast and Impact Resistant Structures
+11010462-ce643 Earthquake Geotechnical Engg.
+11010462-hs410 History of Contemporary India
+11010463-ce402 Design Project
+11010463-ce498 Project I
+11010463-ce607 Random Vibration
+11010463-ce613 Engineering Fracture and Fatigue Mechanics
+11010463-ce616 Blast and Impact Resistant Structures
+11010464-ce402 Design Project
+11010464-ce498 Project I
+11010464-ce606 Earthquake Engineering
+11010464-ce612 Advanced Concrete Technology
+11010464-ce616 Blast and Impact Resistant Structures
+11010464-hs423 Masculinities in Literature and Popular Culture
+11010465-ce402 Design Project
+11010465-ce498 Project I
+11010465-ce628 Traffic Flow Modelling and Simulation
+11010465-ce661 Air Quality Modeling
+11010465-ee562 Fundamentals of VLSI CAD
+11010468-ce402 Design Project
+11010468-ce498 Project I
+11010468-ce606 Earthquake Engineering
+11010468-ce616 Blast and Impact Resistant Structures
+11010468-ce618 Mechanics of Unsaturated Soils
+11010468-hs423 Masculinities in Literature and Popular Culture
+11010469-ce402 Design Project
+11010469-ce498 Project I
+11010469-ce612 Advanced Concrete Technology
+11010469-ce618 Mechanics of Unsaturated Soils
+11010469-hs403 Entrepreneurship & Economic Development
+11010469-ph446 Fundamentals of Astrophysics
+11010470-bt630 Physical Cell Biology
+11010470-ce402 Design Project
+11010470-ce498 Project I
+11010470-ce606 Earthquake Engineering
+11010470-ce612 Advanced Concrete Technology
+11010470-hs420 Writing Systems of the World
+11010471-ce402 Design Project
+11010471-ce498 Project I
+11010471-ce606 Earthquake Engineering
+11010471-ce613 Engineering Fracture and Fatigue Mechanics
+11010471-cl613 Computational Fluid Dynamics
+11010471-hs410 History of Contemporary India
+11010472-ce402 Design Project
+11010472-ce498 Project I
+11010472-ce606 Earthquake Engineering
+11010472-ce616 Blast and Impact Resistant Structures
+11010472-ce628 Traffic Flow Modelling and Simulation
+11010472-hs423 Masculinities in Literature and Popular Culture
+11010473-bt630 Physical Cell Biology
+11010473-ce402 Design Project
+11010473-ce498 Project I
+11010473-ce612 Advanced Concrete Technology
+11010473-ce618 Mechanics of Unsaturated Soils
+11010473-hs403 Entrepreneurship & Economic Development
+11010474-ce402 Design Project
+11010474-ce498 Project I
+11010474-ce606 Earthquake Engineering
+11010474-ce610 Computational Structural Mechanics
+11010474-ce616 Blast and Impact Resistant Structures
+11010474-hs422 Subaltern Voices and Narratives
+120104001-ce304 Transportation Engg. I
+120104001-ce307 Environmental Engg. I
+120104001-ce308 Construction Technology and Management
+120104001-ce309 Design of Steel Structure
+120104001-ce311 Hydrology & Water Resources Engg
+120104001-ce314 Transportation Engineering I Lab
+120104001-ce315 Environmental Engineering I Lab
+120104002-ce304 Transportation Engg. I
+120104002-ce307 Environmental Engg. I
+120104002-ce308 Construction Technology and Management
+120104002-ce309 Design of Steel Structure
+120104002-ce311 Hydrology & Water Resources Engg
+120104002-ce314 Transportation Engineering I Lab
+120104002-ce315 Environmental Engineering I Lab
+120104002-me321m Fluid Mechanics
+120104003-ce304 Transportation Engg. I
+120104003-ce307 Environmental Engg. I
+120104003-ce308 Construction Technology and Management
+120104003-ce309 Design of Steel Structure
+120104003-ce311 Hydrology & Water Resources Engg
+120104003-ce314 Transportation Engineering I Lab
+120104003-ce315 Environmental Engineering I Lab
+120104004-ce304 Transportation Engg. I
+120104004-ce307 Environmental Engg. I
+120104004-ce308 Construction Technology and Management
+120104004-ce309 Design of Steel Structure
+120104004-ce311 Hydrology & Water Resources Engg
+120104004-ce314 Transportation Engineering I Lab
+120104004-ce315 Environmental Engineering I Lab
+120104004-ma312m Modern Algebra
+120104005-ce304 Transportation Engg. I
+120104005-ce307 Environmental Engg. I
+120104005-ce308 Construction Technology and Management
+120104005-ce309 Design of Steel Structure
+120104005-ce311 Hydrology & Water Resources Engg
+120104005-ce314 Transportation Engineering I Lab
+120104005-ce315 Environmental Engineering I Lab
+120104006-ce304 Transportation Engg. I
+120104006-ce307 Environmental Engg. I
+120104006-ce308 Construction Technology and Management
+120104006-ce309 Design of Steel Structure
+120104006-ce311 Hydrology & Water Resources Engg
+120104006-ce314 Transportation Engineering I Lab
+120104006-ce315 Environmental Engineering I Lab
+120104007-ce304 Transportation Engg. I
+120104007-ce307 Environmental Engg. I
+120104007-ce308 Construction Technology and Management
+120104007-ce309 Design of Steel Structure
+120104007-ce311 Hydrology & Water Resources Engg
+120104007-ce314 Transportation Engineering I Lab
+120104007-ce315 Environmental Engineering I Lab
+120104008-ce304 Transportation Engg. I
+120104008-ce307 Environmental Engg. I
+120104008-ce308 Construction Technology and Management
+120104008-ce309 Design of Steel Structure
+120104008-ce311 Hydrology & Water Resources Engg
+120104008-ce314 Transportation Engineering I Lab
+120104008-ce315 Environmental Engineering I Lab
+120104009-ce304 Transportation Engg. I
+120104009-ce307 Environmental Engg. I
+120104009-ce308 Construction Technology and Management
+120104009-ce309 Design of Steel Structure
+120104009-ce311 Hydrology & Water Resources Engg
+120104009-ce314 Transportation Engineering I Lab
+120104009-ce315 Environmental Engineering I Lab
+120104010-ce304 Transportation Engg. I
+120104010-ce307 Environmental Engg. I
+120104010-ce308 Construction Technology and Management
+120104010-ce309 Design of Steel Structure
+120104010-ce311 Hydrology & Water Resources Engg
+120104010-ce314 Transportation Engineering I Lab
+120104010-ce315 Environmental Engineering I Lab
+120104011-ce304 Transportation Engg. I
+120104011-ce307 Environmental Engg. I
+120104011-ce308 Construction Technology and Management
+120104011-ce309 Design of Steel Structure
+120104011-ce311 Hydrology & Water Resources Engg
+120104011-ce314 Transportation Engineering I Lab
+120104011-ce315 Environmental Engineering I Lab
+120104013-ce304 Transportation Engg. I
+120104013-ce307 Environmental Engg. I
+120104013-ce308 Construction Technology and Management
+120104013-ce309 Design of Steel Structure
+120104013-ce311 Hydrology & Water Resources Engg
+120104013-ce314 Transportation Engineering I Lab
+120104013-ce315 Environmental Engineering I Lab
+120104013-dd320m Product Planning and Strategy
+120104014-ce304 Transportation Engg. I
+120104014-ce307 Environmental Engg. I
+120104014-ce308 Construction Technology and Management
+120104014-ce309 Design of Steel Structure
+120104014-ce311 Hydrology & Water Resources Engg
+120104014-ce314 Transportation Engineering I Lab
+120104014-ce315 Environmental Engineering I Lab
+120104015-ce304 Transportation Engg. I
+120104015-ce307 Environmental Engg. I
+120104015-ce308 Construction Technology and Management
+120104015-ce309 Design of Steel Structure
+120104015-ce311 Hydrology & Water Resources Engg
+120104015-ce314 Transportation Engineering I Lab
+120104015-ce315 Environmental Engineering I Lab
+120104016-ce304 Transportation Engg. I
+120104016-ce307 Environmental Engg. I
+120104016-ce308 Construction Technology and Management
+120104016-ce309 Design of Steel Structure
+120104016-ce311 Hydrology & Water Resources Engg
+120104016-ce314 Transportation Engineering I Lab
+120104016-ce315 Environmental Engineering I Lab
+120104017-ce304 Transportation Engg. I
+120104017-ce307 Environmental Engg. I
+120104017-ce308 Construction Technology and Management
+120104017-ce309 Design of Steel Structure
+120104017-ce311 Hydrology & Water Resources Engg
+120104017-ce314 Transportation Engineering I Lab
+120104017-ce315 Environmental Engineering I Lab
+120104018-ce304 Transportation Engg. I
+120104018-ce307 Environmental Engg. I
+120104018-ce308 Construction Technology and Management
+120104018-ce309 Design of Steel Structure
+120104018-ce311 Hydrology & Water Resources Engg
+120104018-ce314 Transportation Engineering I Lab
+120104018-ce315 Environmental Engineering I Lab
+120104018-ee322m Signal Processing
+120104020-ce304 Transportation Engg. I
+120104020-ce307 Environmental Engg. I
+120104020-ce308 Construction Technology and Management
+120104020-ce309 Design of Steel Structure
+120104020-ce311 Hydrology & Water Resources Engg
+120104020-ce314 Transportation Engineering I Lab
+120104020-ce315 Environmental Engineering I Lab
+120104022-ce304 Transportation Engg. I
+120104022-ce307 Environmental Engg. I
+120104022-ce308 Construction Technology and Management
+120104022-ce309 Design of Steel Structure
+120104022-ce311 Hydrology & Water Resources Engg
+120104022-ce314 Transportation Engineering I Lab
+120104022-ce315 Environmental Engineering I Lab
+120104023-ce304 Transportation Engg. I
+120104023-ce307 Environmental Engg. I
+120104023-ce308 Construction Technology and Management
+120104023-ce309 Design of Steel Structure
+120104023-ce311 Hydrology & Water Resources Engg
+120104023-ce314 Transportation Engineering I Lab
+120104023-ce315 Environmental Engineering I Lab
+120104023-dd320m Product Planning and Strategy
+120104024-ce304 Transportation Engg. I
+120104024-ce307 Environmental Engg. I
+120104024-ce308 Construction Technology and Management
+120104024-ce309 Design of Steel Structure
+120104024-ce311 Hydrology & Water Resources Engg
+120104024-ce314 Transportation Engineering I Lab
+120104024-ce315 Environmental Engineering I Lab
+120104024-ma312m Modern Algebra
+120104025-ce304 Transportation Engg. I
+120104025-ce307 Environmental Engg. I
+120104025-ce308 Construction Technology and Management
+120104025-ce309 Design of Steel Structure
+120104025-ce311 Hydrology & Water Resources Engg
+120104025-ce314 Transportation Engineering I Lab
+120104025-ce315 Environmental Engineering I Lab
+120104027-ce304 Transportation Engg. I
+120104027-ce307 Environmental Engg. I
+120104027-ce308 Construction Technology and Management
+120104027-ce309 Design of Steel Structure
+120104027-ce311 Hydrology & Water Resources Engg
+120104027-ce314 Transportation Engineering I Lab
+120104027-ce315 Environmental Engineering I Lab
+120104028-ce304 Transportation Engg. I
+120104028-ce307 Environmental Engg. I
+120104028-ce308 Construction Technology and Management
+120104028-ce309 Design of Steel Structure
+120104028-ce311 Hydrology & Water Resources Engg
+120104028-ce314 Transportation Engineering I Lab
+120104028-ce315 Environmental Engineering I Lab
+120104029-ce304 Transportation Engg. I
+120104029-ce307 Environmental Engg. I
+120104029-ce308 Construction Technology and Management
+120104029-ce309 Design of Steel Structure
+120104029-ce311 Hydrology & Water Resources Engg
+120104029-ce314 Transportation Engineering I Lab
+120104029-ce315 Environmental Engineering I Lab
+120104029-dd320m Product Planning and Strategy
+120104030-ce304 Transportation Engg. I
+120104030-ce307 Environmental Engg. I
+120104030-ce308 Construction Technology and Management
+120104030-ce309 Design of Steel Structure
+120104030-ce311 Hydrology & Water Resources Engg
+120104030-ce314 Transportation Engineering I Lab
+120104030-ce315 Environmental Engineering I Lab
+120104030-dd320m Product Planning and Strategy
+120104031-ce304 Transportation Engg. I
+120104031-ce307 Environmental Engg. I
+120104031-ce308 Construction Technology and Management
+120104031-ce309 Design of Steel Structure
+120104031-ce311 Hydrology & Water Resources Engg
+120104031-ce314 Transportation Engineering I Lab
+120104031-ce315 Environmental Engineering I Lab
+120104032-ce304 Transportation Engg. I
+120104032-ce307 Environmental Engg. I
+120104032-ce308 Construction Technology and Management
+120104032-ce309 Design of Steel Structure
+120104032-ce311 Hydrology & Water Resources Engg
+120104032-ce314 Transportation Engineering I Lab
+120104032-ce315 Environmental Engineering I Lab
+120104033-ce304 Transportation Engg. I
+120104033-ce307 Environmental Engg. I
+120104033-ce308 Construction Technology and Management
+120104033-ce309 Design of Steel Structure
+120104033-ce311 Hydrology & Water Resources Engg
+120104033-ce314 Transportation Engineering I Lab
+120104033-ce315 Environmental Engineering I Lab
+120104033-dd320m Product Planning and Strategy
+120104034-ce304 Transportation Engg. I
+120104034-ce307 Environmental Engg. I
+120104034-ce308 Construction Technology and Management
+120104034-ce309 Design of Steel Structure
+120104034-ce311 Hydrology & Water Resources Engg
+120104034-ce314 Transportation Engineering I Lab
+120104034-ce315 Environmental Engineering I Lab
+120104035-ce304 Transportation Engg. I
+120104035-ce307 Environmental Engg. I
+120104035-ce308 Construction Technology and Management
+120104035-ce309 Design of Steel Structure
+120104035-ce311 Hydrology & Water Resources Engg
+120104035-ce314 Transportation Engineering I Lab
+120104035-ce315 Environmental Engineering I Lab
+120104035-dd320m Product Planning and Strategy
+120104036-ce304 Transportation Engg. I
+120104036-ce307 Environmental Engg. I
+120104036-ce308 Construction Technology and Management
+120104036-ce309 Design of Steel Structure
+120104036-ce311 Hydrology & Water Resources Engg
+120104036-ce314 Transportation Engineering I Lab
+120104036-ce315 Environmental Engineering I Lab
+120104037-ce304 Transportation Engg. I
+120104037-ce307 Environmental Engg. I
+120104037-ce308 Construction Technology and Management
+120104037-ce309 Design of Steel Structure
+120104037-ce311 Hydrology & Water Resources Engg
+120104037-ce314 Transportation Engineering I Lab
+120104037-ce315 Environmental Engineering I Lab
+120104039-ce304 Transportation Engg. I
+120104039-ce307 Environmental Engg. I
+120104039-ce308 Construction Technology and Management
+120104039-ce309 Design of Steel Structure
+120104039-ce311 Hydrology & Water Resources Engg
+120104039-ce314 Transportation Engineering I Lab
+120104039-ce315 Environmental Engineering I Lab
+120104040-ce304 Transportation Engg. I
+120104040-ce307 Environmental Engg. I
+120104040-ce308 Construction Technology and Management
+120104040-ce309 Design of Steel Structure
+120104040-ce311 Hydrology & Water Resources Engg
+120104040-ce314 Transportation Engineering I Lab
+120104040-ce315 Environmental Engineering I Lab
+120104041-ce304 Transportation Engg. I
+120104041-ce307 Environmental Engg. I
+120104041-ce308 Construction Technology and Management
+120104041-ce309 Design of Steel Structure
+120104041-ce311 Hydrology & Water Resources Engg
+120104041-ce314 Transportation Engineering I Lab
+120104041-ce315 Environmental Engineering I Lab
+120104042-ce304 Transportation Engg. I
+120104042-ce307 Environmental Engg. I
+120104042-ce308 Construction Technology and Management
+120104042-ce309 Design of Steel Structure
+120104042-ce311 Hydrology & Water Resources Engg
+120104042-ce314 Transportation Engineering I Lab
+120104042-ce315 Environmental Engineering I Lab
+120104042-dd320m Product Planning and Strategy
+120104043-ce304 Transportation Engg. I
+120104043-ce307 Environmental Engg. I
+120104043-ce308 Construction Technology and Management
+120104043-ce309 Design of Steel Structure
+120104043-ce311 Hydrology & Water Resources Engg
+120104043-ce314 Transportation Engineering I Lab
+120104043-ce315 Environmental Engineering I Lab
+120104044-ce304 Transportation Engg. I
+120104044-ce307 Environmental Engg. I
+120104044-ce308 Construction Technology and Management
+120104044-ce309 Design of Steel Structure
+120104044-ce311 Hydrology & Water Resources Engg
+120104044-ce314 Transportation Engineering I Lab
+120104044-ce315 Environmental Engineering I Lab
+120104044-dd320m Product Planning and Strategy
+120104045-ce304 Transportation Engg. I
+120104045-ce307 Environmental Engg. I
+120104045-ce308 Construction Technology and Management
+120104045-ce309 Design of Steel Structure
+120104045-ce311 Hydrology & Water Resources Engg
+120104045-ce314 Transportation Engineering I Lab
+120104045-ce315 Environmental Engineering I Lab
+120104049-ce304 Transportation Engg. I
+120104049-ce307 Environmental Engg. I
+120104049-ce308 Construction Technology and Management
+120104049-ce309 Design of Steel Structure
+120104049-ce311 Hydrology & Water Resources Engg
+120104049-ce314 Transportation Engineering I Lab
+120104049-ce315 Environmental Engineering I Lab
+120104050-ce304 Transportation Engg. I
+120104050-ce307 Environmental Engg. I
+120104050-ce308 Construction Technology and Management
+120104050-ce309 Design of Steel Structure
+120104050-ce311 Hydrology & Water Resources Engg
+120104050-ce314 Transportation Engineering I Lab
+120104050-ce315 Environmental Engineering I Lab
+120104051-ce304 Transportation Engg. I
+120104051-ce307 Environmental Engg. I
+120104051-ce308 Construction Technology and Management
+120104051-ce309 Design of Steel Structure
+120104051-ce311 Hydrology & Water Resources Engg
+120104051-ce314 Transportation Engineering I Lab
+120104051-ce315 Environmental Engineering I Lab
+120104054-ce304 Transportation Engg. I
+120104054-ce307 Environmental Engg. I
+120104054-ce308 Construction Technology and Management
+120104054-ce309 Design of Steel Structure
+120104054-ce311 Hydrology & Water Resources Engg
+120104054-ce314 Transportation Engineering I Lab
+120104054-ce315 Environmental Engineering I Lab
+120104055-ce304 Transportation Engg. I
+120104055-ce307 Environmental Engg. I
+120104055-ce308 Construction Technology and Management
+120104055-ce309 Design of Steel Structure
+120104055-ce311 Hydrology & Water Resources Engg
+120104055-ce314 Transportation Engineering I Lab
+120104055-ce315 Environmental Engineering I Lab
+120104056-ce304 Transportation Engg. I
+120104056-ce307 Environmental Engg. I
+120104056-ce308 Construction Technology and Management
+120104056-ce309 Design of Steel Structure
+120104056-ce311 Hydrology & Water Resources Engg
+120104056-ce314 Transportation Engineering I Lab
+120104056-ce315 Environmental Engineering I Lab
+120104057-ce304 Transportation Engg. I
+120104057-ce307 Environmental Engg. I
+120104057-ce308 Construction Technology and Management
+120104057-ce309 Design of Steel Structure
+120104057-ce311 Hydrology & Water Resources Engg
+120104057-ce314 Transportation Engineering I Lab
+120104057-ce315 Environmental Engineering I Lab
+120104059-ce304 Transportation Engg. I
+120104059-ce307 Environmental Engg. I
+120104059-ce308 Construction Technology and Management
+120104059-ce309 Design of Steel Structure
+120104059-ce311 Hydrology & Water Resources Engg
+120104059-ce314 Transportation Engineering I Lab
+120104059-ce315 Environmental Engineering I Lab
+120104060-ce304 Transportation Engg. I
+120104060-ce307 Environmental Engg. I
+120104060-ce308 Construction Technology and Management
+120104060-ce309 Design of Steel Structure
+120104060-ce311 Hydrology & Water Resources Engg
+120104060-ce314 Transportation Engineering I Lab
+120104060-ce315 Environmental Engineering I Lab
+120104061-ce304 Transportation Engg. I
+120104061-ce307 Environmental Engg. I
+120104061-ce308 Construction Technology and Management
+120104061-ce309 Design of Steel Structure
+120104061-ce311 Hydrology & Water Resources Engg
+120104061-ce314 Transportation Engineering I Lab
+120104061-ce315 Environmental Engineering I Lab
+120104062-ce304 Transportation Engg. I
+120104062-ce307 Environmental Engg. I
+120104062-ce308 Construction Technology and Management
+120104062-ce309 Design of Steel Structure
+120104062-ce311 Hydrology & Water Resources Engg
+120104062-ce314 Transportation Engineering I Lab
+120104062-ce315 Environmental Engineering I Lab
+120104063-ce304 Transportation Engg. I
+120104063-ce307 Environmental Engg. I
+120104063-ce308 Construction Technology and Management
+120104063-ce309 Design of Steel Structure
+120104063-ce311 Hydrology & Water Resources Engg
+120104063-ce314 Transportation Engineering I Lab
+120104063-ce315 Environmental Engineering I Lab
+120104064-ce304 Transportation Engg. I
+120104064-ce307 Environmental Engg. I
+120104064-ce308 Construction Technology and Management
+120104064-ce309 Design of Steel Structure
+120104064-ce311 Hydrology & Water Resources Engg
+120104064-ce314 Transportation Engineering I Lab
+120104064-ce315 Environmental Engineering I Lab
+120104065-ce304 Transportation Engg. I
+120104065-ce307 Environmental Engg. I
+120104065-ce308 Construction Technology and Management
+120104065-ce309 Design of Steel Structure
+120104065-ce311 Hydrology & Water Resources Engg
+120104065-ce314 Transportation Engineering I Lab
+120104065-ce315 Environmental Engineering I Lab
+120104066-ce304 Transportation Engg. I
+120104066-ce307 Environmental Engg. I
+120104066-ce308 Construction Technology and Management
+120104066-ce309 Design of Steel Structure
+120104066-ce311 Hydrology & Water Resources Engg
+120104066-ce314 Transportation Engineering I Lab
+120104066-ce315 Environmental Engineering I Lab
+120104067-ce304 Transportation Engg. I
+120104067-ce307 Environmental Engg. I
+120104067-ce308 Construction Technology and Management
+120104067-ce309 Design of Steel Structure
+120104067-ce311 Hydrology & Water Resources Engg
+120104067-ce314 Transportation Engineering I Lab
+120104067-ce315 Environmental Engineering I Lab
+120104070-ce304 Transportation Engg. I
+120104070-ce307 Environmental Engg. I
+120104070-ce308 Construction Technology and Management
+120104070-ce309 Design of Steel Structure
+120104070-ce311 Hydrology & Water Resources Engg
+120104070-ce314 Transportation Engineering I Lab
+120104070-ce315 Environmental Engineering I Lab
+120104072-ce304 Transportation Engg. I
+120104072-ce307 Environmental Engg. I
+120104072-ce308 Construction Technology and Management
+120104072-ce309 Design of Steel Structure
+120104072-ce311 Hydrology & Water Resources Engg
+120104072-ce314 Transportation Engineering I Lab
+120104072-ce315 Environmental Engineering I Lab
+120104074-ce304 Transportation Engg. I
+120104074-ce307 Environmental Engg. I
+120104074-ce308 Construction Technology and Management
+120104074-ce309 Design of Steel Structure
+120104074-ce311 Hydrology & Water Resources Engg
+120104074-ce314 Transportation Engineering I Lab
+120104074-ce315 Environmental Engineering I Lab
+120104075-ce304 Transportation Engg. I
+120104075-ce307 Environmental Engg. I
+120104075-ce308 Construction Technology and Management
+120104075-ce309 Design of Steel Structure
+120104075-ce311 Hydrology & Water Resources Engg
+120104075-ce314 Transportation Engineering I Lab
+120104075-ce315 Environmental Engineering I Lab
+120104075-cs350M 
+120104076-ce304 Transportation Engg. I
+120104076-ce307 Environmental Engg. I
+120104076-ce308 Construction Technology and Management
+120104076-ce309 Design of Steel Structure
+120104076-ce311 Hydrology & Water Resources Engg
+120104076-ce314 Transportation Engineering I Lab
+120104076-ce315 Environmental Engineering I Lab
+120104077-ce304 Transportation Engg. I
+120104077-ce307 Environmental Engg. I
+120104077-ce308 Construction Technology and Management
+120104077-ce309 Design of Steel Structure
+120104077-ce311 Hydrology & Water Resources Engg
+120104077-ce314 Transportation Engineering I Lab
+120104077-ce315 Environmental Engineering I Lab
+120104078-ce304 Transportation Engg. I
+120104078-ce307 Environmental Engg. I
+120104078-ce308 Construction Technology and Management
+120104078-ce309 Design of Steel Structure
+120104078-ce311 Hydrology & Water Resources Engg
+120104078-ce314 Transportation Engineering I Lab
+120104078-ce315 Environmental Engineering I Lab
+120104079-ce304 Transportation Engg. I
+120104079-ce307 Environmental Engg. I
+120104079-ce308 Construction Technology and Management
+120104079-ce309 Design of Steel Structure
+120104079-ce311 Hydrology & Water Resources Engg
+120104079-ce314 Transportation Engineering I Lab
+120104079-ce315 Environmental Engineering I Lab
+120104080-ce304 Transportation Engg. I
+120104080-ce307 Environmental Engg. I
+120104080-ce308 Construction Technology and Management
+120104080-ce309 Design of Steel Structure
+120104080-ce311 Hydrology & Water Resources Engg
+120104080-ce314 Transportation Engineering I Lab
+120104080-ce315 Environmental Engineering I Lab
+124104096-ce691 Project and Thesis Phase II
+130104003-ce203 Fluid Mechanics
+130104003-ce205 Structural Analysis I
+130104003-ce206 Geotechnical Engg.
+130104003-ce213 Surveying Lab
+130104003-ce214 Fluid Mechanics Lab
+130104003-ce215 Geotechnical Engineering Lab
+130104003-hs216 Sociology of India : Conformities & Contradictions
+130104004-ce203 Fluid Mechanics
+130104004-ce205 Structural Analysis I
+130104004-ce206 Geotechnical Engg.
+130104004-ce213 Surveying Lab
+130104004-ce214 Fluid Mechanics Lab
+130104004-ce215 Geotechnical Engineering Lab
+130104004-hs226 Macroeconomics
+130104004-me222m Manufacturing Technology I
+130104005-ce203 Fluid Mechanics
+130104005-ce205 Structural Analysis I
+130104005-ce206 Geotechnical Engg.
+130104005-ce213 Surveying Lab
+130104005-ce214 Fluid Mechanics Lab
+130104005-ce215 Geotechnical Engineering Lab
+130104005-hs237 Introduction to Archeology
+130104006-ce203 Fluid Mechanics
+130104006-ce205 Structural Analysis I
+130104006-ce206 Geotechnical Engg.
+130104006-ce213 Surveying Lab
+130104006-ce214 Fluid Mechanics Lab
+130104006-ce215 Geotechnical Engineering Lab
+130104006-hs234 Introduction to Linguistics
+130104007-ce203 Fluid Mechanics
+130104007-ce205 Structural Analysis I
+130104007-ce206 Geotechnical Engg.
+130104007-ce213 Surveying Lab
+130104007-ce214 Fluid Mechanics Lab
+130104007-ce215 Geotechnical Engineering Lab
+130104008-ce203 Fluid Mechanics
+130104008-ce205 Structural Analysis I
+130104008-ce206 Geotechnical Engg.
+130104008-ce213 Surveying Lab
+130104008-ce214 Fluid Mechanics Lab
+130104008-ce215 Geotechnical Engineering Lab
+130104008-hs213 Consumer Behaviour
+130104009-ce203 Fluid Mechanics
+130104009-ce205 Structural Analysis I
+130104009-ce206 Geotechnical Engg.
+130104009-ce213 Surveying Lab
+130104009-ce214 Fluid Mechanics Lab
+130104009-ce215 Geotechnical Engineering Lab
+130104009-hs222 Understanding Psychology : Individual and Works Settings
+130104010-ce203 Fluid Mechanics
+130104010-ce205 Structural Analysis I
+130104010-ce206 Geotechnical Engg.
+130104010-ce213 Surveying Lab
+130104010-ce214 Fluid Mechanics Lab
+130104010-ce215 Geotechnical Engineering Lab
+130104010-hs234 Introduction to Linguistics
+130104011-ce203 Fluid Mechanics
+130104011-ce205 Structural Analysis I
+130104011-ce206 Geotechnical Engg.
+130104011-ce213 Surveying Lab
+130104011-ce214 Fluid Mechanics Lab
+130104011-ce215 Geotechnical Engineering Lab
+130104011-hs226 Macroeconomics
+130104012-ce203 Fluid Mechanics
+130104012-ce205 Structural Analysis I
+130104012-ce206 Geotechnical Engg.
+130104012-ce213 Surveying Lab
+130104012-ce214 Fluid Mechanics Lab
+130104012-ce215 Geotechnical Engineering Lab
+130104012-hs226 Macroeconomics
+130104013-hs203 Problems of Philosophy
+130104014-ce203 Fluid Mechanics
+130104014-ce205 Structural Analysis I
+130104014-ce206 Geotechnical Engg.
+130104014-ce213 Surveying Lab
+130104014-ce214 Fluid Mechanics Lab
+130104014-ce215 Geotechnical Engineering Lab
+130104014-hs203 Problems of Philosophy
+130104015-ce203 Fluid Mechanics
+130104015-ce205 Structural Analysis I
+130104015-ce206 Geotechnical Engg.
+130104015-ce213 Surveying Lab
+130104015-ce214 Fluid Mechanics Lab
+130104015-ce215 Geotechnical Engineering Lab
+130104015-hs216 Sociology of India : Conformities & Contradictions
+130104016-ce203 Fluid Mechanics
+130104016-ce205 Structural Analysis I
+130104016-ce206 Geotechnical Engg.
+130104016-ce213 Surveying Lab
+130104016-ce214 Fluid Mechanics Lab
+130104016-ce215 Geotechnical Engineering Lab
+130104016-hs226 Macroeconomics
+130104017-ce203 Fluid Mechanics
+130104017-ce205 Structural Analysis I
+130104017-ce206 Geotechnical Engg.
+130104017-ce213 Surveying Lab
+130104017-ce214 Fluid Mechanics Lab
+130104017-ce215 Geotechnical Engineering Lab
+130104017-hs216 Sociology of India : Conformities & Contradictions
+130104017-me222m Manufacturing Technology I
+130104018-ce203 Fluid Mechanics
+130104018-ce205 Structural Analysis I
+130104018-ce206 Geotechnical Engg.
+130104018-ce213 Surveying Lab
+130104018-ce214 Fluid Mechanics Lab
+130104018-ce215 Geotechnical Engineering Lab
+130104018-hs213 Consumer Behaviour
+130104019-hs222 Understanding Psychology : Individual and Works Settings
+130104020-ce203 Fluid Mechanics
+130104020-ce205 Structural Analysis I
+130104020-ce206 Geotechnical Engg.
+130104020-ce213 Surveying Lab
+130104020-ce214 Fluid Mechanics Lab
+130104020-ce215 Geotechnical Engineering Lab
+130104020-hs234 Introduction to Linguistics
+130104021-ce203 Fluid Mechanics
+130104021-ce205 Structural Analysis I
+130104021-ce206 Geotechnical Engg.
+130104021-ce213 Surveying Lab
+130104021-ce214 Fluid Mechanics Lab
+130104021-ce215 Geotechnical Engineering Lab
+130104021-hs226 Macroeconomics
+130104022-ce203 Fluid Mechanics
+130104022-ce205 Structural Analysis I
+130104022-ce206 Geotechnical Engg.
+130104022-ce213 Surveying Lab
+130104022-ce214 Fluid Mechanics Lab
+130104022-ce215 Geotechnical Engineering Lab
+130104022-hs222 Understanding Psychology : Individual and Works Settings
+130104025-ce203 Fluid Mechanics
+130104025-ce205 Structural Analysis I
+130104025-ce206 Geotechnical Engg.
+130104025-ce213 Surveying Lab
+130104025-ce214 Fluid Mechanics Lab
+130104025-ce215 Geotechnical Engineering Lab
+130104025-hs237 Introduction to Archeology
+130104026-ce203 Fluid Mechanics
+130104026-ce205 Structural Analysis I
+130104026-ce206 Geotechnical Engg.
+130104026-ce213 Surveying Lab
+130104026-ce214 Fluid Mechanics Lab
+130104026-ce215 Geotechnical Engineering Lab
+130104026-hs203 Problems of Philosophy
+130104027-ce203 Fluid Mechanics
+130104027-ce205 Structural Analysis I
+130104027-ce206 Geotechnical Engg.
+130104027-ce213 Surveying Lab
+130104027-ce214 Fluid Mechanics Lab
+130104027-ce215 Geotechnical Engineering Lab
+130104027-hs222 Understanding Psychology : Individual and Works Settings
+130104027-me222m Manufacturing Technology I
+130104028-ce203 Fluid Mechanics
+130104028-ce205 Structural Analysis I
+130104028-ce206 Geotechnical Engg.
+130104028-ce213 Surveying Lab
+130104028-ce214 Fluid Mechanics Lab
+130104028-ce215 Geotechnical Engineering Lab
+130104028-hs203 Problems of Philosophy
+130104029-ce203 Fluid Mechanics
+130104029-ce205 Structural Analysis I
+130104029-ce206 Geotechnical Engg.
+130104029-ce213 Surveying Lab
+130104029-ce214 Fluid Mechanics Lab
+130104029-ce215 Geotechnical Engineering Lab
+130104029-hs213 Consumer Behaviour
+130104029-me222m Manufacturing Technology I
+130104030-ce203 Fluid Mechanics
+130104030-ce205 Structural Analysis I
+130104030-ce206 Geotechnical Engg.
+130104030-ce213 Surveying Lab
+130104030-ce214 Fluid Mechanics Lab
+130104030-ce215 Geotechnical Engineering Lab
+130104030-hs222 Understanding Psychology : Individual and Works Settings
+130104031-ce203 Fluid Mechanics
+130104031-ce205 Structural Analysis I
+130104031-ce206 Geotechnical Engg.
+130104031-ce213 Surveying Lab
+130104031-ce214 Fluid Mechanics Lab
+130104031-ce215 Geotechnical Engineering Lab
+130104031-hs226 Macroeconomics
+130104032-ce203 Fluid Mechanics
+130104032-ce205 Structural Analysis I
+130104032-ce206 Geotechnical Engg.
+130104032-ce213 Surveying Lab
+130104032-ce214 Fluid Mechanics Lab
+130104032-ce215 Geotechnical Engineering Lab
+130104032-hs213 Consumer Behaviour
+130104034-ce203 Fluid Mechanics
+130104034-ce205 Structural Analysis I
+130104034-ce206 Geotechnical Engg.
+130104034-ce213 Surveying Lab
+130104034-ce214 Fluid Mechanics Lab
+130104034-ce215 Geotechnical Engineering Lab
+130104034-hs203 Problems of Philosophy
+130104035-ce203 Fluid Mechanics
+130104035-ce205 Structural Analysis I
+130104035-ce206 Geotechnical Engg.
+130104035-ce213 Surveying Lab
+130104035-ce214 Fluid Mechanics Lab
+130104035-ce215 Geotechnical Engineering Lab
+130104035-hs203 Problems of Philosophy
+130104036-ce203 Fluid Mechanics
+130104036-ce205 Structural Analysis I
+130104036-ce206 Geotechnical Engg.
+130104036-ce213 Surveying Lab
+130104036-ce214 Fluid Mechanics Lab
+130104036-ce215 Geotechnical Engineering Lab
+130104036-hs237 Introduction to Archeology
+130104038-ce203 Fluid Mechanics
+130104038-ce205 Structural Analysis I
+130104038-ce206 Geotechnical Engg.
+130104038-ce213 Surveying Lab
+130104038-ce214 Fluid Mechanics Lab
+130104038-ce215 Geotechnical Engineering Lab
+130104038-hs203 Problems of Philosophy
+130104038-ma212m Mathematical Statistics
+130104039-ce203 Fluid Mechanics
+130104039-ce205 Structural Analysis I
+130104039-ce206 Geotechnical Engg.
+130104039-ce213 Surveying Lab
+130104039-ce214 Fluid Mechanics Lab
+130104039-ce215 Geotechnical Engineering Lab
+130104039-hs216 Sociology of India : Conformities & Contradictions
+130104040-ce203 Fluid Mechanics
+130104040-ce205 Structural Analysis I
+130104040-ce206 Geotechnical Engg.
+130104040-ce213 Surveying Lab
+130104040-ce214 Fluid Mechanics Lab
+130104040-ce215 Geotechnical Engineering Lab
+130104040-hs226 Macroeconomics
+130104041-ce203 Fluid Mechanics
+130104041-ce205 Structural Analysis I
+130104041-ce206 Geotechnical Engg.
+130104041-ce213 Surveying Lab
+130104041-ce214 Fluid Mechanics Lab
+130104041-ce215 Geotechnical Engineering Lab
+130104041-hs222 Understanding Psychology : Individual and Works Settings
+130104042-ce203 Fluid Mechanics
+130104042-ce205 Structural Analysis I
+130104042-ce206 Geotechnical Engg.
+130104042-ce213 Surveying Lab
+130104042-ce214 Fluid Mechanics Lab
+130104042-ce215 Geotechnical Engineering Lab
+130104042-hs222 Understanding Psychology : Individual and Works Settings
+130104043-hs213 Consumer Behaviour
+130104044-ce203 Fluid Mechanics
+130104044-ce205 Structural Analysis I
+130104044-ce206 Geotechnical Engg.
+130104044-ce213 Surveying Lab
+130104044-ce214 Fluid Mechanics Lab
+130104044-ce215 Geotechnical Engineering Lab
+130104044-hs213 Consumer Behaviour
+130104045-ce203 Fluid Mechanics
+130104045-ce205 Structural Analysis I
+130104045-ce206 Geotechnical Engg.
+130104045-ce213 Surveying Lab
+130104045-ce214 Fluid Mechanics Lab
+130104045-ce215 Geotechnical Engineering Lab
+130104045-hs216 Sociology of India : Conformities & Contradictions
+130104046-ce203 Fluid Mechanics
+130104046-ce205 Structural Analysis I
+130104046-ce206 Geotechnical Engg.
+130104046-ce213 Surveying Lab
+130104046-ce214 Fluid Mechanics Lab
+130104046-ce215 Geotechnical Engineering Lab
+130104046-dd220m Introduction to Ergonomics
+130104046-hs223 Language and Society
+130104047-ce203 Fluid Mechanics
+130104047-ce205 Structural Analysis I
+130104047-ce206 Geotechnical Engg.
+130104047-ce213 Surveying Lab
+130104047-ce214 Fluid Mechanics Lab
+130104047-ce215 Geotechnical Engineering Lab
+130104047-dd220m Introduction to Ergonomics
+130104047-hs234 Introduction to Linguistics
+130104048-ce203 Fluid Mechanics
+130104048-ce205 Structural Analysis I
+130104048-ce206 Geotechnical Engg.
+130104048-ce213 Surveying Lab
+130104048-ce214 Fluid Mechanics Lab
+130104048-ce215 Geotechnical Engineering Lab
+130104048-hs223 Language and Society
+130104048-me222m Manufacturing Technology I
+130104049-ce203 Fluid Mechanics
+130104049-ce205 Structural Analysis I
+130104049-ce206 Geotechnical Engg.
+130104049-ce213 Surveying Lab
+130104049-ce214 Fluid Mechanics Lab
+130104049-ce215 Geotechnical Engineering Lab
+130104049-hs203 Problems of Philosophy
+130104050-ce203 Fluid Mechanics
+130104050-ce205 Structural Analysis I
+130104050-ce206 Geotechnical Engg.
+130104050-ce213 Surveying Lab
+130104050-ce214 Fluid Mechanics Lab
+130104050-ce215 Geotechnical Engineering Lab
+130104050-hs234 Introduction to Linguistics
+130104052-ce203 Fluid Mechanics
+130104052-ce205 Structural Analysis I
+130104052-ce206 Geotechnical Engg.
+130104052-ce213 Surveying Lab
+130104052-ce214 Fluid Mechanics Lab
+130104052-ce215 Geotechnical Engineering Lab
+130104052-hs222 Understanding Psychology : Individual and Works Settings
+130104053-hs234 Introduction to Linguistics
+130104054-ce203 Fluid Mechanics
+130104054-ce205 Structural Analysis I
+130104054-ce206 Geotechnical Engg.
+130104054-ce213 Surveying Lab
+130104054-ce214 Fluid Mechanics Lab
+130104054-ce215 Geotechnical Engineering Lab
+130104054-hs203 Problems of Philosophy
+130104056-ce203 Fluid Mechanics
+130104056-ce205 Structural Analysis I
+130104056-ce206 Geotechnical Engg.
+130104056-ce213 Surveying Lab
+130104056-ce214 Fluid Mechanics Lab
+130104056-ce215 Geotechnical Engineering Lab
+130104056-dd220m Introduction to Ergonomics
+130104056-hs223 Language and Society
+130104057-ce203 Fluid Mechanics
+130104057-ce205 Structural Analysis I
+130104057-ce206 Geotechnical Engg.
+130104057-ce213 Surveying Lab
+130104057-ce214 Fluid Mechanics Lab
+130104057-ce215 Geotechnical Engineering Lab
+130104057-hs237 Introduction to Archeology
+130104058-ce203 Fluid Mechanics
+130104058-ce205 Structural Analysis I
+130104058-ce206 Geotechnical Engg.
+130104058-ce213 Surveying Lab
+130104058-ce214 Fluid Mechanics Lab
+130104058-ce215 Geotechnical Engineering Lab
+130104058-hs216 Sociology of India : Conformities & Contradictions
+130104059-hs234 Introduction to Linguistics
+130104060-ce203 Fluid Mechanics
+130104060-ce205 Structural Analysis I
+130104060-ce206 Geotechnical Engg.
+130104060-ce213 Surveying Lab
+130104060-ce214 Fluid Mechanics Lab
+130104060-ce215 Geotechnical Engineering Lab
+130104060-hs226 Macroeconomics
+130104061-ce203 Fluid Mechanics
+130104061-ce205 Structural Analysis I
+130104061-ce206 Geotechnical Engg.
+130104061-ce213 Surveying Lab
+130104061-ce214 Fluid Mechanics Lab
+130104061-ce215 Geotechnical Engineering Lab
+130104061-hs213 Consumer Behaviour
+130104062-ce203 Fluid Mechanics
+130104062-ce205 Structural Analysis I
+130104062-ce206 Geotechnical Engg.
+130104062-ce213 Surveying Lab
+130104062-ce214 Fluid Mechanics Lab
+130104062-ce215 Geotechnical Engineering Lab
+130104062-hs222 Understanding Psychology : Individual and Works Settings
+130104063-ce203 Fluid Mechanics
+130104063-ce205 Structural Analysis I
+130104063-ce206 Geotechnical Engg.
+130104063-ce213 Surveying Lab
+130104063-ce214 Fluid Mechanics Lab
+130104063-ce215 Geotechnical Engineering Lab
+130104063-hs222 Understanding Psychology : Individual and Works Settings
+130104064-ce203 Fluid Mechanics
+130104064-ce205 Structural Analysis I
+130104064-ce206 Geotechnical Engg.
+130104064-ce213 Surveying Lab
+130104064-ce214 Fluid Mechanics Lab
+130104064-ce215 Geotechnical Engineering Lab
+130104064-hs223 Language and Society
+130104065-ce203 Fluid Mechanics
+130104065-ce205 Structural Analysis I
+130104065-ce206 Geotechnical Engg.
+130104065-ce213 Surveying Lab
+130104065-ce214 Fluid Mechanics Lab
+130104065-ce215 Geotechnical Engineering Lab
+130104065-hs234 Introduction to Linguistics
+130104066-ce203 Fluid Mechanics
+130104066-ce205 Structural Analysis I
+130104066-ce206 Geotechnical Engg.
+130104066-ce213 Surveying Lab
+130104066-ce214 Fluid Mechanics Lab
+130104066-ce215 Geotechnical Engineering Lab
+130104066-hs213 Consumer Behaviour
+130104067-ce203 Fluid Mechanics
+130104067-ce205 Structural Analysis I
+130104067-ce206 Geotechnical Engg.
+130104067-ce213 Surveying Lab
+130104067-ce214 Fluid Mechanics Lab
+130104067-ce215 Geotechnical Engineering Lab
+130104067-hs216 Sociology of India : Conformities & Contradictions
+130104068-ce203 Fluid Mechanics
+130104068-ce205 Structural Analysis I
+130104068-ce206 Geotechnical Engg.
+130104068-ce213 Surveying Lab
+130104068-ce214 Fluid Mechanics Lab
+130104068-ce215 Geotechnical Engineering Lab
+130104068-dd220m Introduction to Ergonomics
+130104068-hs213 Consumer Behaviour
+130104069-ce203 Fluid Mechanics
+130104069-ce205 Structural Analysis I
+130104069-ce206 Geotechnical Engg.
+130104069-ce213 Surveying Lab
+130104069-ce214 Fluid Mechanics Lab
+130104069-ce215 Geotechnical Engineering Lab
+130104069-hs234 Introduction to Linguistics
+130104070-ce203 Fluid Mechanics
+130104070-ce205 Structural Analysis I
+130104070-ce206 Geotechnical Engg.
+130104070-ce213 Surveying Lab
+130104070-ce214 Fluid Mechanics Lab
+130104070-ce215 Geotechnical Engineering Lab
+130104070-hs237 Introduction to Archeology
+130104071-ce203 Fluid Mechanics
+130104071-ce205 Structural Analysis I
+130104071-ce206 Geotechnical Engg.
+130104071-ce213 Surveying Lab
+130104071-ce214 Fluid Mechanics Lab
+130104071-ce215 Geotechnical Engineering Lab
+130104071-dd220m Introduction to Ergonomics
+130104071-hs213 Consumer Behaviour
+130104072-ce203 Fluid Mechanics
+130104072-ce205 Structural Analysis I
+130104072-ce206 Geotechnical Engg.
+130104072-ce213 Surveying Lab
+130104072-ce214 Fluid Mechanics Lab
+130104072-ce215 Geotechnical Engineering Lab
+130104072-dd220m Introduction to Ergonomics
+130104072-hs203 Problems of Philosophy
+130104073-ce203 Fluid Mechanics
+130104073-ce205 Structural Analysis I
+130104073-ce206 Geotechnical Engg.
+130104073-ce213 Surveying Lab
+130104073-ce214 Fluid Mechanics Lab
+130104073-ce215 Geotechnical Engineering Lab
+130104073-hs226 Macroeconomics
+130104073-ma212m Mathematical Statistics
+130104075-ce203 Fluid Mechanics
+130104075-ce205 Structural Analysis I
+130104075-ce206 Geotechnical Engg.
+130104075-ce213 Surveying Lab
+130104075-ce214 Fluid Mechanics Lab
+130104075-ce215 Geotechnical Engineering Lab
+130104075-hs237 Introduction to Archeology
+130104076-hs222 Understanding Psychology : Individual and Works Settings
+130104077-ce203 Fluid Mechanics
+130104077-ce205 Structural Analysis I
+130104077-ce206 Geotechnical Engg.
+130104077-ce213 Surveying Lab
+130104077-ce214 Fluid Mechanics Lab
+130104077-ce215 Geotechnical Engineering Lab
+130104077-hs222 Understanding Psychology : Individual and Works Settings
+130104078-hs234 Introduction to Linguistics
+130104079-ce203 Fluid Mechanics
+130104079-ce205 Structural Analysis I
+130104079-ce206 Geotechnical Engg.
+130104079-ce213 Surveying Lab
+130104079-ce214 Fluid Mechanics Lab
+130104079-ce215 Geotechnical Engineering Lab
+130104079-hs237 Introduction to Archeology
+130104080-ce203 Fluid Mechanics
+130104080-ce205 Structural Analysis I
+130104080-ce206 Geotechnical Engg.
+130104080-ce213 Surveying Lab
+130104080-ce214 Fluid Mechanics Lab
+130104080-ce215 Geotechnical Engineering Lab
+130104080-dd220m Introduction to Ergonomics
+130104080-hs213 Consumer Behaviour
+134104003-ce699 Project and Thesis Phase II
+134104006-ce699 Project and Thesis Phase II
+134104007-ce699 Project and Thesis Phase II
+134104008-ce699 Project and Thesis Phase II
+134104009-ce699 Project and Thesis Phase II
+134104010-ce699 Project and Thesis Phase II
+134104012-ce699 Project and Thesis Phase II
+134104013-ce699 Project and Thesis Phase II
+134104014-ce699 Project and Thesis Phase II
+134104016-ce699 Project and Thesis Phase II
+134104018-ce699 Project and Thesis Phase II
+134104019-ce699 Project and Thesis Phase II
+134104020-ce699 Project and Thesis Phase II
+134104021-ce699 Project and Thesis Phase II
+134104023-ce550 Project and Thesis Phase II
+134104025-ce550 Project and Thesis Phase II
+134104026-ce550 Project and Thesis Phase II
+134104030-ce550 Project and Thesis Phase II
+134104031-ce693 Project and Thesis Phase II
+134104033-ce550 Project and Thesis Phase II
+134104037-ce550 Project and Thesis Phase II
+134104038-ce550 Project and Thesis Phase II
+134104039-ce550 Project and Thesis Phase II
+134104040-ce550 Project and Thesis Phase II
+134104041-ce693 Project and Thesis Phase II
+134104042-ce693 Project and Thesis Phase II
+134104043-ce693 Project and Thesis Phase II
+134104044-ce693 Project and Thesis Phase II
+134104045-ce699 Project and Thesis Phase II
+134104046-ce699 Project and Thesis Phase II
+134104047-ce693 Project and Thesis Phase II
+134104049-ce693 Project and Thesis Phase II
+134104051-ce693 Project and Thesis Phase II
+134104053-ce693 Project and Thesis Phase II
+134104054-ce693 Project and Thesis Phase II
+134104056-ce697 Project and Dissertation
+134104058-ce550 Project and Thesis Phase II
+134104059-ce697 Project and Dissertation
+134104060-ce697 Project and Dissertation
+134104061-ce693 Project and Thesis Phase II
+134104062-ce697 Project and Dissertation
+134104063-ce697 Project and Dissertation
+134104064-ce697 Project and Dissertation
+134104065-ce697 Project and Dissertation
+134104066-ce697 Project and Dissertation
+134104067-ce697 Project and Dissertation
+134104068-ce697 Project and Dissertation
+134104069-ce697 Project and Dissertation
+134104070-ce697 Project and Dissertation
+134104071-ce697 Project and Dissertation
+134104072-ce697 Project and Dissertation
+134104075-ce695 Project and Thesis Phase II
+134104079-ce695 Project and Thesis Phase II
+134104080-ce691 Project and Thesis Phase II
+134104081-ce691 Project and Thesis Phase II
+134104082-ce691 Project and Thesis Phase II
+134104083-ce691 Project and Thesis Phase II
+134104084-ce691 Project and Thesis Phase II
+134104085-ce691 Project and Thesis Phase II
+134104086-ce691 Project and Thesis Phase II
+134104087-ce691 Project and Thesis Phase II
+134104088-ce691 Project and Thesis Phase II
+134104089-ce691 Project and Thesis Phase II
+134104090-ce691 Project and Thesis Phase II
+134104091-ce691 Project and Thesis Phase II
+134104092-ce691 Project and Thesis Phase II
+134104093-ce691 Project and Thesis Phase II
+134104094-ce691 Project and Thesis Phase II
+134104095-ce691 Project and Thesis Phase II
+134104096-ce691 Project and Thesis Phase II
+134104100-ce504 Advanced Structural Design
+134104100-ce610 Computational Structural Mechanics
+134104101-ce550 Project and Thesis Phase II
+134104105-ce550 Project and Thesis Phase II
+134104106-ce550 Project and Thesis Phase II
+134104107-ce550 Project and Thesis Phase II
+140104002-bt101 Modern Biology
+140104002-cs101 Introduction to Computing
+140104002-cs110 Computing Lab
+140104002-ee102 Basic Electronics Laboratory
+140104002-ma102 Mathematics II
+140104002-me101 Engineering Mechanics
+140104002-ph102 Physics II
+140104002-ph110 Physics Lab.
+140104002-sa102 Course Name/Course No Not Found
+140104003-bt101 Modern Biology
+140104003-cs101 Introduction to Computing
+140104003-cs110 Computing Lab
+140104003-ee102 Basic Electronics Laboratory
+140104003-ma102 Mathematics II
+140104003-me101 Engineering Mechanics
+140104003-ph102 Physics II
+140104003-ph110 Physics Lab.
+140104003-sa102 Course Name/Course No Not Found
+140104004-bt101 Modern Biology
+140104004-cs101 Introduction to Computing
+140104004-cs110 Computing Lab
+140104004-ee102 Basic Electronics Laboratory
+140104004-ma102 Mathematics II
+140104004-me101 Engineering Mechanics
+140104004-ph102 Physics II
+140104004-ph110 Physics Lab.
+140104004-sa102 Course Name/Course No Not Found
+140104005-bt101 Modern Biology
+140104005-cs101 Introduction to Computing
+140104005-cs110 Computing Lab
+140104005-ee102 Basic Electronics Laboratory
+140104005-ma102 Mathematics II
+140104005-me101 Engineering Mechanics
+140104005-ph102 Physics II
+140104005-ph110 Physics Lab.
+140104005-sa102 Course Name/Course No Not Found
+140104006-bt101 Modern Biology
+140104006-cs101 Introduction to Computing
+140104006-cs110 Computing Lab
+140104006-ee102 Basic Electronics Laboratory
+140104006-ma102 Mathematics II
+140104006-me101 Engineering Mechanics
+140104006-ph102 Physics II
+140104006-ph110 Physics Lab.
+140104006-sa102 Course Name/Course No Not Found
+140104007-bt101 Modern Biology
+140104007-cs101 Introduction to Computing
+140104007-cs110 Computing Lab
+140104007-ee102 Basic Electronics Laboratory
+140104007-ma102 Mathematics II
+140104007-me101 Engineering Mechanics
+140104007-ph102 Physics II
+140104007-ph110 Physics Lab.
+140104007-sa102 Course Name/Course No Not Found
+140104008-bt101 Modern Biology
+140104008-cs101 Introduction to Computing
+140104008-cs110 Computing Lab
+140104008-ee102 Basic Electronics Laboratory
+140104008-ma102 Mathematics II
+140104008-me101 Engineering Mechanics
+140104008-ph102 Physics II
+140104008-ph110 Physics Lab.
+140104008-sa102 Course Name/Course No Not Found
+140104009-bt101 Modern Biology
+140104009-cs101 Introduction to Computing
+140104009-cs110 Computing Lab
+140104009-ee102 Basic Electronics Laboratory
+140104009-ma102 Mathematics II
+140104009-me101 Engineering Mechanics
+140104009-ph102 Physics II
+140104009-ph110 Physics Lab.
+140104009-sa102 Course Name/Course No Not Found
+140104010-bt101 Modern Biology
+140104010-cs101 Introduction to Computing
+140104010-cs110 Computing Lab
+140104010-ee102 Basic Electronics Laboratory
+140104010-ma102 Mathematics II
+140104010-me101 Engineering Mechanics
+140104010-ph102 Physics II
+140104010-ph110 Physics Lab.
+140104010-sa102 Course Name/Course No Not Found
+140104011-bt101 Modern Biology
+140104011-cs101 Introduction to Computing
+140104011-cs110 Computing Lab
+140104011-ee102 Basic Electronics Laboratory
+140104011-ma102 Mathematics II
+140104011-me101 Engineering Mechanics
+140104011-ph102 Physics II
+140104011-ph110 Physics Lab.
+140104011-sa102 Course Name/Course No Not Found
+140104012-bt101 Modern Biology
+140104012-cs101 Introduction to Computing
+140104012-cs110 Computing Lab
+140104012-ee102 Basic Electronics Laboratory
+140104012-ma102 Mathematics II
+140104012-me101 Engineering Mechanics
+140104012-ph102 Physics II
+140104012-ph110 Physics Lab.
+140104012-sa102 Course Name/Course No Not Found
+140104013-bt101 Modern Biology
+140104013-cs101 Introduction to Computing
+140104013-cs110 Computing Lab
+140104013-ee102 Basic Electronics Laboratory
+140104013-ma102 Mathematics II
+140104013-me101 Engineering Mechanics
+140104013-ph102 Physics II
+140104013-ph110 Physics Lab.
+140104013-sa102 Course Name/Course No Not Found
+140104014-bt101 Modern Biology
+140104014-cs101 Introduction to Computing
+140104014-cs110 Computing Lab
+140104014-ee102 Basic Electronics Laboratory
+140104014-ma102 Mathematics II
+140104014-me101 Engineering Mechanics
+140104014-ph102 Physics II
+140104014-ph110 Physics Lab.
+140104014-sa102 Course Name/Course No Not Found
+140104015-bt101 Modern Biology
+140104015-cs101 Introduction to Computing
+140104015-cs110 Computing Lab
+140104015-ee102 Basic Electronics Laboratory
+140104015-ma102 Mathematics II
+140104015-me101 Engineering Mechanics
+140104015-ph102 Physics II
+140104015-ph110 Physics Lab.
+140104015-sa102 Course Name/Course No Not Found
+140104016-bt101 Modern Biology
+140104016-cs101 Introduction to Computing
+140104016-cs110 Computing Lab
+140104016-ee102 Basic Electronics Laboratory
+140104016-ma102 Mathematics II
+140104016-me101 Engineering Mechanics
+140104016-ph102 Physics II
+140104016-ph110 Physics Lab.
+140104016-sa102 Course Name/Course No Not Found
+140104017-bt101 Modern Biology
+140104017-cs101 Introduction to Computing
+140104017-cs110 Computing Lab
+140104017-ee102 Basic Electronics Laboratory
+140104017-ma102 Mathematics II
+140104017-me101 Engineering Mechanics
+140104017-ph102 Physics II
+140104017-ph110 Physics Lab.
+140104017-sa102 Course Name/Course No Not Found
+140104018-bt101 Modern Biology
+140104018-cs101 Introduction to Computing
+140104018-cs110 Computing Lab
+140104018-ee102 Basic Electronics Laboratory
+140104018-ma102 Mathematics II
+140104018-me101 Engineering Mechanics
+140104018-ph102 Physics II
+140104018-ph110 Physics Lab.
+140104018-sa102 Course Name/Course No Not Found
+140104020-bt101 Modern Biology
+140104020-cs101 Introduction to Computing
+140104020-cs110 Computing Lab
+140104020-ee102 Basic Electronics Laboratory
+140104020-ma102 Mathematics II
+140104020-me101 Engineering Mechanics
+140104020-ph102 Physics II
+140104020-ph110 Physics Lab.
+140104020-sa102 Course Name/Course No Not Found
+140104021-bt101 Modern Biology
+140104021-cs101 Introduction to Computing
+140104021-cs110 Computing Lab
+140104021-ee102 Basic Electronics Laboratory
+140104021-ma102 Mathematics II
+140104021-me101 Engineering Mechanics
+140104021-ph102 Physics II
+140104021-ph110 Physics Lab.
+140104021-sa102 Course Name/Course No Not Found
+140104022-bt101 Modern Biology
+140104022-cs101 Introduction to Computing
+140104022-cs110 Computing Lab
+140104022-ee102 Basic Electronics Laboratory
+140104022-ma102 Mathematics II
+140104022-me101 Engineering Mechanics
+140104022-ph102 Physics II
+140104022-ph110 Physics Lab.
+140104022-sa102 Course Name/Course No Not Found
+140104023-bt101 Modern Biology
+140104023-cs101 Introduction to Computing
+140104023-cs110 Computing Lab
+140104023-ee102 Basic Electronics Laboratory
+140104023-ma102 Mathematics II
+140104023-me101 Engineering Mechanics
+140104023-ph102 Physics II
+140104023-ph110 Physics Lab.
+140104023-sa102 Course Name/Course No Not Found
+140104024-bt101 Modern Biology
+140104024-cs101 Introduction to Computing
+140104024-cs110 Computing Lab
+140104024-ee102 Basic Electronics Laboratory
+140104024-ma102 Mathematics II
+140104024-me101 Engineering Mechanics
+140104024-ph102 Physics II
+140104024-ph110 Physics Lab.
+140104024-sa102 Course Name/Course No Not Found
+140104025-bt101 Modern Biology
+140104025-cs101 Introduction to Computing
+140104025-cs110 Computing Lab
+140104025-ee102 Basic Electronics Laboratory
+140104025-ma102 Mathematics II
+140104025-me101 Engineering Mechanics
+140104025-ph102 Physics II
+140104025-ph110 Physics Lab.
+140104025-sa102 Course Name/Course No Not Found
+140104026-bt101 Modern Biology
+140104026-cs101 Introduction to Computing
+140104026-cs110 Computing Lab
+140104026-ee102 Basic Electronics Laboratory
+140104026-ma102 Mathematics II
+140104026-me101 Engineering Mechanics
+140104026-ph102 Physics II
+140104026-ph110 Physics Lab.
+140104026-sa102 Course Name/Course No Not Found
+140104027-bt101 Modern Biology
+140104027-cs101 Introduction to Computing
+140104027-cs110 Computing Lab
+140104027-ee102 Basic Electronics Laboratory
+140104027-ma102 Mathematics II
+140104027-me101 Engineering Mechanics
+140104027-ph102 Physics II
+140104027-ph110 Physics Lab.
+140104027-sa102 Course Name/Course No Not Found
+140104028-bt101 Modern Biology
+140104028-cs101 Introduction to Computing
+140104028-cs110 Computing Lab
+140104028-ee102 Basic Electronics Laboratory
+140104028-ma102 Mathematics II
+140104028-me101 Engineering Mechanics
+140104028-ph102 Physics II
+140104028-ph110 Physics Lab.
+140104028-sa102 Course Name/Course No Not Found
+140104029-bt101 Modern Biology
+140104029-cs101 Introduction to Computing
+140104029-cs110 Computing Lab
+140104029-ee102 Basic Electronics Laboratory
+140104029-ma102 Mathematics II
+140104029-me101 Engineering Mechanics
+140104029-ph102 Physics II
+140104029-ph110 Physics Lab.
+140104029-sa102 Course Name/Course No Not Found
+140104030-bt101 Modern Biology
+140104030-cs101 Introduction to Computing
+140104030-cs110 Computing Lab
+140104030-ee102 Basic Electronics Laboratory
+140104030-ma102 Mathematics II
+140104030-me101 Engineering Mechanics
+140104030-ph102 Physics II
+140104030-ph110 Physics Lab.
+140104030-sa102 Course Name/Course No Not Found
+140104031-bt101 Modern Biology
+140104031-cs101 Introduction to Computing
+140104031-cs110 Computing Lab
+140104031-ee102 Basic Electronics Laboratory
+140104031-ma102 Mathematics II
+140104031-me101 Engineering Mechanics
+140104031-ph102 Physics II
+140104031-ph110 Physics Lab.
+140104031-sa102 Course Name/Course No Not Found
+140104032-bt101 Modern Biology
+140104032-cs101 Introduction to Computing
+140104032-cs110 Computing Lab
+140104032-ee102 Basic Electronics Laboratory
+140104032-ma102 Mathematics II
+140104032-me101 Engineering Mechanics
+140104032-ph102 Physics II
+140104032-ph110 Physics Lab.
+140104032-sa102 Course Name/Course No Not Found
+140104033-bt101 Modern Biology
+140104033-cs101 Introduction to Computing
+140104033-cs110 Computing Lab
+140104033-ee102 Basic Electronics Laboratory
+140104033-ma102 Mathematics II
+140104033-me101 Engineering Mechanics
+140104033-ph102 Physics II
+140104033-ph110 Physics Lab.
+140104033-sa102 Course Name/Course No Not Found
+140104034-bt101 Modern Biology
+140104034-cs101 Introduction to Computing
+140104034-cs110 Computing Lab
+140104034-ee102 Basic Electronics Laboratory
+140104034-ma102 Mathematics II
+140104034-me101 Engineering Mechanics
+140104034-ph102 Physics II
+140104034-ph110 Physics Lab.
+140104034-sa102 Course Name/Course No Not Found
+140104035-bt101 Modern Biology
+140104035-cs101 Introduction to Computing
+140104035-cs110 Computing Lab
+140104035-ee102 Basic Electronics Laboratory
+140104035-ma102 Mathematics II
+140104035-me101 Engineering Mechanics
+140104035-ph102 Physics II
+140104035-ph110 Physics Lab.
+140104035-sa102 Course Name/Course No Not Found
+140104036-bt101 Modern Biology
+140104036-cs101 Introduction to Computing
+140104036-cs110 Computing Lab
+140104036-ee102 Basic Electronics Laboratory
+140104036-ma102 Mathematics II
+140104036-me101 Engineering Mechanics
+140104036-ph102 Physics II
+140104036-ph110 Physics Lab.
+140104036-sa102 Course Name/Course No Not Found
+140104037-bt101 Modern Biology
+140104037-cs101 Introduction to Computing
+140104037-cs110 Computing Lab
+140104037-ee102 Basic Electronics Laboratory
+140104037-ma102 Mathematics II
+140104037-me101 Engineering Mechanics
+140104037-ph102 Physics II
+140104037-ph110 Physics Lab.
+140104037-sa102 Course Name/Course No Not Found
+140104038-bt101 Modern Biology
+140104038-cs101 Introduction to Computing
+140104038-cs110 Computing Lab
+140104038-ee102 Basic Electronics Laboratory
+140104038-ma102 Mathematics II
+140104038-me101 Engineering Mechanics
+140104038-ph102 Physics II
+140104038-ph110 Physics Lab.
+140104038-sa102 Course Name/Course No Not Found
+140104039-bt101 Modern Biology
+140104039-cs101 Introduction to Computing
+140104039-cs110 Computing Lab
+140104039-ee102 Basic Electronics Laboratory
+140104039-ma102 Mathematics II
+140104039-me101 Engineering Mechanics
+140104039-ph102 Physics II
+140104039-ph110 Physics Lab.
+140104039-sa102 Course Name/Course No Not Found
+140104040-bt101 Modern Biology
+140104040-cs101 Introduction to Computing
+140104040-cs110 Computing Lab
+140104040-ee102 Basic Electronics Laboratory
+140104040-ma102 Mathematics II
+140104040-me101 Engineering Mechanics
+140104040-ph102 Physics II
+140104040-ph110 Physics Lab.
+140104040-sa102 Course Name/Course No Not Found
+140104041-bt101 Modern Biology
+140104041-cs101 Introduction to Computing
+140104041-cs110 Computing Lab
+140104041-ee102 Basic Electronics Laboratory
+140104041-ma102 Mathematics II
+140104041-me101 Engineering Mechanics
+140104041-ph102 Physics II
+140104041-ph110 Physics Lab.
+140104041-sa102 Course Name/Course No Not Found
+140104042-bt101 Modern Biology
+140104042-cs101 Introduction to Computing
+140104042-cs110 Computing Lab
+140104042-ee102 Basic Electronics Laboratory
+140104042-ma102 Mathematics II
+140104042-me101 Engineering Mechanics
+140104042-ph102 Physics II
+140104042-ph110 Physics Lab.
+140104042-sa102 Course Name/Course No Not Found
+140104043-bt101 Modern Biology
+140104043-cs101 Introduction to Computing
+140104043-cs110 Computing Lab
+140104043-ee102 Basic Electronics Laboratory
+140104043-ma102 Mathematics II
+140104043-me101 Engineering Mechanics
+140104043-ph102 Physics II
+140104043-ph110 Physics Lab.
+140104043-sa102 Course Name/Course No Not Found
+140104044-bt101 Modern Biology
+140104044-cs101 Introduction to Computing
+140104044-cs110 Computing Lab
+140104044-ee102 Basic Electronics Laboratory
+140104044-ma102 Mathematics II
+140104044-me101 Engineering Mechanics
+140104044-ph102 Physics II
+140104044-ph110 Physics Lab.
+140104044-sa102 Course Name/Course No Not Found
+140104045-bt101 Modern Biology
+140104045-cs101 Introduction to Computing
+140104045-cs110 Computing Lab
+140104045-ee102 Basic Electronics Laboratory
+140104045-ma102 Mathematics II
+140104045-me101 Engineering Mechanics
+140104045-ph102 Physics II
+140104045-ph110 Physics Lab.
+140104045-sa102 Course Name/Course No Not Found
+140104047-bt101 Modern Biology
+140104047-cs101 Introduction to Computing
+140104047-cs110 Computing Lab
+140104047-ee102 Basic Electronics Laboratory
+140104047-ma102 Mathematics II
+140104047-me101 Engineering Mechanics
+140104047-ph102 Physics II
+140104047-ph110 Physics Lab.
+140104047-sa102 Course Name/Course No Not Found
+140104048-bt101 Modern Biology
+140104048-cs101 Introduction to Computing
+140104048-cs110 Computing Lab
+140104048-ee102 Basic Electronics Laboratory
+140104048-ma102 Mathematics II
+140104048-me101 Engineering Mechanics
+140104048-ph102 Physics II
+140104048-ph110 Physics Lab.
+140104048-sa102 Course Name/Course No Not Found
+140104049-bt101 Modern Biology
+140104049-cs101 Introduction to Computing
+140104049-cs110 Computing Lab
+140104049-ee102 Basic Electronics Laboratory
+140104049-ma102 Mathematics II
+140104049-me101 Engineering Mechanics
+140104049-ph102 Physics II
+140104049-ph110 Physics Lab.
+140104049-sa102 Course Name/Course No Not Found
+140104050-bt101 Modern Biology
+140104050-cs101 Introduction to Computing
+140104050-cs110 Computing Lab
+140104050-ee102 Basic Electronics Laboratory
+140104050-ma102 Mathematics II
+140104050-me101 Engineering Mechanics
+140104050-ph102 Physics II
+140104050-ph110 Physics Lab.
+140104050-sa102 Course Name/Course No Not Found
+140104051-bt101 Modern Biology
+140104051-cs101 Introduction to Computing
+140104051-cs110 Computing Lab
+140104051-ee102 Basic Electronics Laboratory
+140104051-ma102 Mathematics II
+140104051-me101 Engineering Mechanics
+140104051-ph102 Physics II
+140104051-ph110 Physics Lab.
+140104051-sa102 Course Name/Course No Not Found
+140104052-bt101 Modern Biology
+140104052-cs101 Introduction to Computing
+140104052-cs110 Computing Lab
+140104052-ee102 Basic Electronics Laboratory
+140104052-ma102 Mathematics II
+140104052-me101 Engineering Mechanics
+140104052-ph102 Physics II
+140104052-ph110 Physics Lab.
+140104052-sa102 Course Name/Course No Not Found
+140104053-bt101 Modern Biology
+140104053-cs101 Introduction to Computing
+140104053-cs110 Computing Lab
+140104053-ee102 Basic Electronics Laboratory
+140104053-ma102 Mathematics II
+140104053-me101 Engineering Mechanics
+140104053-ph102 Physics II
+140104053-ph110 Physics Lab.
+140104053-sa102 Course Name/Course No Not Found
+140104054-bt101 Modern Biology
+140104054-cs101 Introduction to Computing
+140104054-cs110 Computing Lab
+140104054-ee102 Basic Electronics Laboratory
+140104054-ma102 Mathematics II
+140104054-me101 Engineering Mechanics
+140104054-ph102 Physics II
+140104054-ph110 Physics Lab.
+140104054-sa102 Course Name/Course No Not Found
+140104055-bt101 Modern Biology
+140104055-cs101 Introduction to Computing
+140104055-cs110 Computing Lab
+140104055-ee102 Basic Electronics Laboratory
+140104055-ma102 Mathematics II
+140104055-me101 Engineering Mechanics
+140104055-ph102 Physics II
+140104055-ph110 Physics Lab.
+140104055-sa102 Course Name/Course No Not Found
+140104056-bt101 Modern Biology
+140104056-cs101 Introduction to Computing
+140104056-cs110 Computing Lab
+140104056-ee102 Basic Electronics Laboratory
+140104056-ma102 Mathematics II
+140104056-me101 Engineering Mechanics
+140104056-ph102 Physics II
+140104056-ph110 Physics Lab.
+140104056-sa102 Course Name/Course No Not Found
+140104057-bt101 Modern Biology
+140104057-cs101 Introduction to Computing
+140104057-cs110 Computing Lab
+140104057-ee102 Basic Electronics Laboratory
+140104057-ma102 Mathematics II
+140104057-me101 Engineering Mechanics
+140104057-ph102 Physics II
+140104057-ph110 Physics Lab.
+140104057-sa102 Course Name/Course No Not Found
+140104058-bt101 Modern Biology
+140104058-cs101 Introduction to Computing
+140104058-cs110 Computing Lab
+140104058-ee102 Basic Electronics Laboratory
+140104058-ma102 Mathematics II
+140104058-me101 Engineering Mechanics
+140104058-ph102 Physics II
+140104058-ph110 Physics Lab.
+140104058-sa102 Course Name/Course No Not Found
+140104059-bt101 Modern Biology
+140104059-cs101 Introduction to Computing
+140104059-cs110 Computing Lab
+140104059-ee102 Basic Electronics Laboratory
+140104059-ma102 Mathematics II
+140104059-me101 Engineering Mechanics
+140104059-ph102 Physics II
+140104059-ph110 Physics Lab.
+140104059-sa102 Course Name/Course No Not Found
+140104060-bt101 Modern Biology
+140104060-cs101 Introduction to Computing
+140104060-cs110 Computing Lab
+140104060-ee102 Basic Electronics Laboratory
+140104060-ma102 Mathematics II
+140104060-me101 Engineering Mechanics
+140104060-ph102 Physics II
+140104060-ph110 Physics Lab.
+140104060-sa102 Course Name/Course No Not Found
+140104061-ma102 Mathematics II
+140104061-ph102 Physics II
+140104061-ph110 Physics Lab.
+140104061-sa102 Course Name/Course No Not Found
+140104062-bt101 Modern Biology
+140104062-cs101 Introduction to Computing
+140104062-cs110 Computing Lab
+140104062-ee102 Basic Electronics Laboratory
+140104062-ma102 Mathematics II
+140104062-me101 Engineering Mechanics
+140104062-ph102 Physics II
+140104062-ph110 Physics Lab.
+140104062-sa102 Course Name/Course No Not Found
+140104063-bt101 Modern Biology
+140104063-cs101 Introduction to Computing
+140104063-cs110 Computing Lab
+140104063-ee102 Basic Electronics Laboratory
+140104063-ma102 Mathematics II
+140104063-me101 Engineering Mechanics
+140104063-ph102 Physics II
+140104063-ph110 Physics Lab.
+140104063-sa102 Course Name/Course No Not Found
+140104064-bt101 Modern Biology
+140104064-cs101 Introduction to Computing
+140104064-cs110 Computing Lab
+140104064-ee102 Basic Electronics Laboratory
+140104064-ma102 Mathematics II
+140104064-me101 Engineering Mechanics
+140104064-ph102 Physics II
+140104064-ph110 Physics Lab.
+140104064-sa102 Course Name/Course No Not Found
+140104065-bt101 Modern Biology
+140104065-cs101 Introduction to Computing
+140104065-cs110 Computing Lab
+140104065-ee102 Basic Electronics Laboratory
+140104065-ma102 Mathematics II
+140104065-me101 Engineering Mechanics
+140104065-ph102 Physics II
+140104065-ph110 Physics Lab.
+140104065-sa102 Course Name/Course No Not Found
+140104066-bt101 Modern Biology
+140104066-cs101 Introduction to Computing
+140104066-cs110 Computing Lab
+140104066-ee102 Basic Electronics Laboratory
+140104066-ma102 Mathematics II
+140104066-me101 Engineering Mechanics
+140104066-ph102 Physics II
+140104066-ph110 Physics Lab.
+140104066-sa102 Course Name/Course No Not Found
+140104067-bt101 Modern Biology
+140104067-cs101 Introduction to Computing
+140104067-cs110 Computing Lab
+140104067-ee102 Basic Electronics Laboratory
+140104067-ma102 Mathematics II
+140104067-me101 Engineering Mechanics
+140104067-ph102 Physics II
+140104067-ph110 Physics Lab.
+140104067-sa102 Course Name/Course No Not Found
+140104068-bt101 Modern Biology
+140104068-cs101 Introduction to Computing
+140104068-cs110 Computing Lab
+140104068-ee102 Basic Electronics Laboratory
+140104068-ma102 Mathematics II
+140104068-me101 Engineering Mechanics
+140104068-ph102 Physics II
+140104068-ph110 Physics Lab.
+140104068-sa102 Course Name/Course No Not Found
+140104069-bt101 Modern Biology
+140104069-cs101 Introduction to Computing
+140104069-cs110 Computing Lab
+140104069-ee102 Basic Electronics Laboratory
+140104069-ma102 Mathematics II
+140104069-me101 Engineering Mechanics
+140104069-ph102 Physics II
+140104069-ph110 Physics Lab.
+140104069-sa102 Course Name/Course No Not Found
+140104070-bt101 Modern Biology
+140104070-cs101 Introduction to Computing
+140104070-cs110 Computing Lab
+140104070-ee102 Basic Electronics Laboratory
+140104070-ma102 Mathematics II
+140104070-me101 Engineering Mechanics
+140104070-ph102 Physics II
+140104070-ph110 Physics Lab.
+140104070-sa102 Course Name/Course No Not Found
+140104071-bt101 Modern Biology
+140104071-cs101 Introduction to Computing
+140104071-cs110 Computing Lab
+140104071-ee102 Basic Electronics Laboratory
+140104071-ma102 Mathematics II
+140104071-me101 Engineering Mechanics
+140104071-ph102 Physics II
+140104071-ph110 Physics Lab.
+140104071-sa102 Course Name/Course No Not Found
+140104072-bt101 Modern Biology
+140104072-cs101 Introduction to Computing
+140104072-cs110 Computing Lab
+140104072-ee102 Basic Electronics Laboratory
+140104072-ma102 Mathematics II
+140104072-me101 Engineering Mechanics
+140104072-ph102 Physics II
+140104072-ph110 Physics Lab.
+140104072-sa102 Course Name/Course No Not Found
+140104073-bt101 Modern Biology
+140104073-cs101 Introduction to Computing
+140104073-cs110 Computing Lab
+140104073-ee102 Basic Electronics Laboratory
+140104073-ma102 Mathematics II
+140104073-me101 Engineering Mechanics
+140104073-ph102 Physics II
+140104073-ph110 Physics Lab.
+140104073-sa102 Course Name/Course No Not Found
+140104074-bt101 Modern Biology
+140104074-cs101 Introduction to Computing
+140104074-cs110 Computing Lab
+140104074-ee102 Basic Electronics Laboratory
+140104074-ma102 Mathematics II
+140104074-me101 Engineering Mechanics
+140104074-ph102 Physics II
+140104074-ph110 Physics Lab.
+140104074-sa102 Course Name/Course No Not Found
+140104076-bt101 Modern Biology
+140104076-cs101 Introduction to Computing
+140104076-cs110 Computing Lab
+140104076-ee102 Basic Electronics Laboratory
+140104076-ma102 Mathematics II
+140104076-me101 Engineering Mechanics
+140104076-ph102 Physics II
+140104076-ph110 Physics Lab.
+140104076-sa102 Course Name/Course No Not Found
+140104077-bt101 Modern Biology
+140104077-cs101 Introduction to Computing
+140104077-cs110 Computing Lab
+140104077-ee102 Basic Electronics Laboratory
+140104077-ma102 Mathematics II
+140104077-me101 Engineering Mechanics
+140104077-ph102 Physics II
+140104077-ph110 Physics Lab.
+140104077-sa102 Course Name/Course No Not Found
+140104078-bt101 Modern Biology
+140104078-cs101 Introduction to Computing
+140104078-cs110 Computing Lab
+140104078-ee102 Basic Electronics Laboratory
+140104078-ma102 Mathematics II
+140104078-me101 Engineering Mechanics
+140104078-ph102 Physics II
+140104078-ph110 Physics Lab.
+140104078-sa102 Course Name/Course No Not Found
+140104079-bt101 Modern Biology
+140104079-cs101 Introduction to Computing
+140104079-cs110 Computing Lab
+140104079-ee102 Basic Electronics Laboratory
+140104079-ma102 Mathematics II
+140104079-me101 Engineering Mechanics
+140104079-ph102 Physics II
+140104079-ph110 Physics Lab.
+140104079-sa102 Course Name/Course No Not Found
+140104080-bt101 Modern Biology
+140104080-cs101 Introduction to Computing
+140104080-cs110 Computing Lab
+140104080-ee102 Basic Electronics Laboratory
+140104080-ma102 Mathematics II
+140104080-me101 Engineering Mechanics
+140104080-ph102 Physics II
+140104080-ph110 Physics Lab.
+140104080-sa102 Course Name/Course No Not Found
+144104001-ce504 Advanced Structural Design
+144104001-ce505 Analysis And Design Of Bridges
+144104001-ce610 Computational Structural Mechanics
+144104001-ce613 Engineering Fracture and Fatigue Mechanics
+144104001-ce616 Blast and Impact Resistant Structures
+144104002-ce504 Advanced Structural Design
+144104002-ce505 Analysis And Design Of Bridges
+144104002-ce610 Computational Structural Mechanics
+144104002-ce613 Engineering Fracture and Fatigue Mechanics
+144104002-ce616 Blast and Impact Resistant Structures
+144104004-ce504 Advanced Structural Design
+144104004-ce505 Analysis And Design Of Bridges
+144104004-ce606 Earthquake Engineering
+144104004-ce607 Random Vibration
+144104004-ce612 Advanced Concrete Technology
+144104005-ce504 Advanced Structural Design
+144104005-ce505 Analysis And Design Of Bridges
+144104005-ce606 Earthquake Engineering
+144104005-ce610 Computational Structural Mechanics
+144104005-ce613 Engineering Fracture and Fatigue Mechanics
+144104007-ce504 Advanced Structural Design
+144104007-ce505 Analysis And Design Of Bridges
+144104007-ce606 Earthquake Engineering
+144104007-ce607 Random Vibration
+144104007-ce610 Computational Structural Mechanics
+144104008-ce504 Advanced Structural Design
+144104008-ce505 Analysis And Design Of Bridges
+144104008-ce606 Earthquake Engineering
+144104008-ce607 Random Vibration
+144104008-ce610 Computational Structural Mechanics
+144104009-ce504 Advanced Structural Design
+144104009-ce505 Analysis And Design Of Bridges
+144104009-ce606 Earthquake Engineering
+144104009-ce607 Random Vibration
+144104009-ce612 Advanced Concrete Technology
+144104010-ce504 Advanced Structural Design
+144104010-ce505 Analysis And Design Of Bridges
+144104010-ce606 Earthquake Engineering
+144104010-ce610 Computational Structural Mechanics
+144104010-ce613 Engineering Fracture and Fatigue Mechanics
+144104011-ce504 Advanced Structural Design
+144104011-ce505 Analysis And Design Of Bridges
+144104011-ce606 Earthquake Engineering
+144104011-ce607 Random Vibration
+144104011-ce610 Computational Structural Mechanics
+144104012-ce504 Advanced Structural Design
+144104012-ce505 Analysis And Design Of Bridges
+144104012-ce606 Earthquake Engineering
+144104012-ce607 Random Vibration
+144104012-ce610 Computational Structural Mechanics
+144104013-ce504 Advanced Structural Design
+144104013-ce505 Analysis And Design Of Bridges
+144104013-ce606 Earthquake Engineering
+144104013-ce607 Random Vibration
+144104013-ce610 Computational Structural Mechanics
+144104014-ce504 Advanced Structural Design
+144104014-ce505 Analysis And Design Of Bridges
+144104014-ce606 Earthquake Engineering
+144104014-ce610 Computational Structural Mechanics
+144104014-ce616 Blast and Impact Resistant Structures
+144104015-ce504 Advanced Structural Design
+144104015-ce505 Analysis And Design Of Bridges
+144104015-ce606 Earthquake Engineering
+144104015-ce610 Computational Structural Mechanics
+144104015-ce616 Blast and Impact Resistant Structures
+144104016-ce504 Advanced Structural Design
+144104016-ce505 Analysis And Design Of Bridges
+144104016-ce606 Earthquake Engineering
+144104016-ce610 Computational Structural Mechanics
+144104016-ce612 Advanced Concrete Technology
+144104017-ce504 Advanced Structural Design
+144104017-ce505 Analysis And Design Of Bridges
+144104017-ce606 Earthquake Engineering
+144104017-ce610 Computational Structural Mechanics
+144104017-ce616 Blast and Impact Resistant Structures
+144104018-ce504 Advanced Structural Design
+144104018-ce505 Analysis And Design Of Bridges
+144104018-ce606 Earthquake Engineering
+144104018-ce607 Random Vibration
+144104018-ce610 Computational Structural Mechanics
+144104019-ce504 Advanced Structural Design
+144104019-ce505 Analysis And Design Of Bridges
+144104019-ce606 Earthquake Engineering
+144104019-ce607 Random Vibration
+144104019-ce610 Computational Structural Mechanics
+144104020-ce504 Advanced Structural Design
+144104020-ce505 Analysis And Design Of Bridges
+144104020-ce606 Earthquake Engineering
+144104020-ce610 Computational Structural Mechanics
+144104020-ce616 Blast and Impact Resistant Structures
+144104022-ce504 Advanced Structural Design
+144104022-ce505 Analysis And Design Of Bridges
+144104022-ce606 Earthquake Engineering
+144104022-ce610 Computational Structural Mechanics
+144104022-ce612 Advanced Concrete Technology
+144104025-ce533 Advanced Foundation Engg.
+144104025-ce534 Seminar
+144104025-ce618 Mechanics of Unsaturated Soils
+144104025-ce645 Soil-Structure Interaction
+144104025-ce646 Rock Mechanics
+144104026-ce504 Advanced Structural Design
+144104026-ce505 Analysis And Design Of Bridges
+144104026-ce606 Earthquake Engineering
+144104026-ce607 Random Vibration
+144104026-ce610 Computational Structural Mechanics
+144104030-ce533 Advanced Foundation Engg.
+144104030-ce534 Seminar
+144104030-ce643 Earthquake Geotechnical Engg.
+144104030-ce645 Soil-Structure Interaction
+144104030-ce649 Ground Improvement Techniques
+144104031-ce533 Advanced Foundation Engg.
+144104031-ce534 Seminar
+144104031-ce643 Earthquake Geotechnical Engg.
+144104031-ce645 Soil-Structure Interaction
+144104031-ce649 Ground Improvement Techniques
+144104033-ce583 Pavement Analysis and Design
+144104033-ce584 Traffic Engineering
+144104033-ce585 Credit Seminar
+144104033-ce623 Pavement Evaluation
+144104033-ce649 Ground Improvement Techniques
+144104035-ce533 Advanced Foundation Engg.
+144104035-ce534 Seminar
+144104035-ce618 Mechanics of Unsaturated Soils
+144104035-ce643 Earthquake Geotechnical Engg.
+144104035-ce645 Soil-Structure Interaction
+144104035-ce646 Rock Mechanics
+144104035-ce649 Ground Improvement Techniques
+144104036-ce533 Advanced Foundation Engg.
+144104036-ce534 Seminar
+144104036-ce643 Earthquake Geotechnical Engg.
+144104036-ce645 Soil-Structure Interaction
+144104036-ce646 Rock Mechanics
+144104037-ce533 Advanced Foundation Engg.
+144104037-ce534 Seminar
+144104037-ce643 Earthquake Geotechnical Engg.
+144104037-ce645 Soil-Structure Interaction
+144104037-ce649 Ground Improvement Techniques
+144104038-ce533 Advanced Foundation Engg.
+144104038-ce534 Seminar
+144104038-ce643 Earthquake Geotechnical Engg.
+144104038-ce645 Soil-Structure Interaction
+144104038-ce646 Rock Mechanics
+144104039-ce533 Advanced Foundation Engg.
+144104039-ce534 Seminar
+144104039-ce643 Earthquake Geotechnical Engg.
+144104039-ce645 Soil-Structure Interaction
+144104039-ce649 Ground Improvement Techniques
+144104041-ce583 Pavement Analysis and Design
+144104041-ce584 Traffic Engineering
+144104041-ce585 Credit Seminar
+144104041-ce623 Pavement Evaluation
+144104041-ce628 Traffic Flow Modelling and Simulation
+144104043-ce583 Pavement Analysis and Design
+144104043-ce584 Traffic Engineering
+144104043-ce585 Credit Seminar
+144104043-ce623 Pavement Evaluation
+144104043-ce628 Traffic Flow Modelling and Simulation
+144104044-ce583 Pavement Analysis and Design
+144104044-ce584 Traffic Engineering
+144104044-ce585 Credit Seminar
+144104044-ce623 Pavement Evaluation
+144104044-ce628 Traffic Flow Modelling and Simulation
+144104045-ce583 Pavement Analysis and Design
+144104045-ce584 Traffic Engineering
+144104045-ce585 Credit Seminar
+144104045-ce623 Pavement Evaluation
+144104045-ce628 Traffic Flow Modelling and Simulation
+144104046-ce533 Advanced Foundation Engg.
+144104046-ce534 Seminar
+144104046-ce643 Earthquake Geotechnical Engg.
+144104046-ce646 Rock Mechanics
+144104046-ce649 Ground Improvement Techniques
+144104047-ce533 Advanced Foundation Engg.
+144104047-ce534 Seminar
+144104047-ce643 Earthquake Geotechnical Engg.
+144104047-ce645 Soil-Structure Interaction
+144104047-ce649 Ground Improvement Techniques
+144104048-ce583 Pavement Analysis and Design
+144104048-ce584 Traffic Engineering
+144104048-ce585 Credit Seminar
+144104048-ce623 Pavement Evaluation
+144104048-ce628 Traffic Flow Modelling and Simulation
+144104049-ce583 Pavement Analysis and Design
+144104049-ce584 Traffic Engineering
+144104049-ce585 Credit Seminar
+144104049-ce623 Pavement Evaluation
+144104049-ce628 Traffic Flow Modelling and Simulation
+144104051-ce583 Pavement Analysis and Design
+144104051-ce584 Traffic Engineering
+144104051-ce585 Credit Seminar
+144104051-ce623 Pavement Evaluation
+144104051-ce628 Traffic Flow Modelling and Simulation
+144104053-ce583 Pavement Analysis and Design
+144104053-ce584 Traffic Engineering
+144104053-ce585 Credit Seminar
+144104053-ce623 Pavement Evaluation
+144104053-ce628 Traffic Flow Modelling and Simulation
+144104054-ce583 Pavement Analysis and Design
+144104054-ce584 Traffic Engineering
+144104054-ce585 Credit Seminar
+144104054-ce628 Traffic Flow Modelling and Simulation
+144104054-ce649 Ground Improvement Techniques
+144104055-ce583 Pavement Analysis and Design
+144104055-ce584 Traffic Engineering
+144104055-ce585 Credit Seminar
+144104055-ce623 Pavement Evaluation
+144104055-ce649 Ground Improvement Techniques
+144104056-ce552 Water Resources Systems Analysis
+144104056-ce555 Principles of Water Quality & EIA
+144104056-ce556 Subsurface Hydrology
+144104056-ce560 Computational Methods in Hydraulics & Environmental Engg.
+144104056-ce570 River Engineering
+144104057-ce552 Water Resources Systems Analysis
+144104057-ce555 Principles of Water Quality & EIA
+144104057-ce556 Subsurface Hydrology
+144104057-ce559 Watershed Management & Remote Sensing Application
+144104057-ce570 River Engineering
+144104058-ce552 Water Resources Systems Analysis
+144104058-ce555 Principles of Water Quality & EIA
+144104058-ce556 Subsurface Hydrology
+144104058-ce559 Watershed Management & Remote Sensing Application
+144104058-ce570 River Engineering
+144104059-ce552 Water Resources Systems Analysis
+144104059-ce555 Principles of Water Quality & EIA
+144104059-ce556 Subsurface Hydrology
+144104059-ce559 Watershed Management & Remote Sensing Application
+144104059-ce570 River Engineering
+144104060-ce552 Water Resources Systems Analysis
+144104060-ce555 Principles of Water Quality & EIA
+144104060-ce556 Subsurface Hydrology
+144104060-ce559 Watershed Management & Remote Sensing Application
+144104060-ce570 River Engineering
+144104061-ce552 Water Resources Systems Analysis
+144104061-ce555 Principles of Water Quality & EIA
+144104061-ce556 Subsurface Hydrology
+144104061-ce559 Watershed Management & Remote Sensing Application
+144104061-ce570 River Engineering
+144104062-ce552 Water Resources Systems Analysis
+144104062-ce555 Principles of Water Quality & EIA
+144104062-ce556 Subsurface Hydrology
+144104062-ce560 Computational Methods in Hydraulics & Environmental Engg.
+144104062-ce570 River Engineering
+144104063-ce552 Water Resources Systems Analysis
+144104063-ce555 Principles of Water Quality & EIA
+144104063-ce556 Subsurface Hydrology
+144104063-ce559 Watershed Management & Remote Sensing Application
+144104063-ce570 River Engineering
+144104064-ce552 Water Resources Systems Analysis
+144104064-ce555 Principles of Water Quality & EIA
+144104064-ce556 Subsurface Hydrology
+144104064-ce559 Watershed Management & Remote Sensing Application
+144104064-ce570 River Engineering
+144104065-ce552 Water Resources Systems Analysis
+144104065-ce555 Principles of Water Quality & EIA
+144104065-ce556 Subsurface Hydrology
+144104065-ce559 Watershed Management & Remote Sensing Application
+144104065-ce570 River Engineering
+144104067-ce552 Water Resources Systems Analysis
+144104067-ce555 Principles of Water Quality & EIA
+144104067-ce556 Subsurface Hydrology
+144104067-ce559 Watershed Management & Remote Sensing Application
+144104067-ce570 River Engineering
+144104068-ce552 Water Resources Systems Analysis
+144104068-ce555 Principles of Water Quality & EIA
+144104068-ce556 Subsurface Hydrology
+144104068-ce559 Watershed Management & Remote Sensing Application
+144104068-ce570 River Engineering
+144104069-ce552 Water Resources Systems Analysis
+144104069-ce555 Principles of Water Quality & EIA
+144104069-ce556 Subsurface Hydrology
+144104069-ce560 Computational Methods in Hydraulics & Environmental Engg.
+144104069-ce570 River Engineering
+144104070-ce552 Water Resources Systems Analysis
+144104070-ce555 Principles of Water Quality & EIA
+144104070-ce556 Subsurface Hydrology
+144104070-ce559 Watershed Management & Remote Sensing Application
+144104070-ce570 River Engineering
+144104071-ce552 Water Resources Systems Analysis
+144104071-ce555 Principles of Water Quality & EIA
+144104071-ce556 Subsurface Hydrology
+144104071-ce559 Watershed Management & Remote Sensing Application
+144104071-ce570 River Engineering
+144104072-ce552 Water Resources Systems Analysis
+144104072-ce555 Principles of Water Quality & EIA
+144104072-ce556 Subsurface Hydrology
+144104072-ce559 Watershed Management & Remote Sensing Application
+144104072-ce570 River Engineering
+144104075-ce510 Quality And Safety Management In Construction
+144104075-ce544 Project Management Laboratory
+144104075-ce552 Water Resources Systems Analysis
+144104075-ce612 Advanced Concrete Technology
+144104075-ce614 Financing Infrastructure Projects
+144104076-ce583 Pavement Analysis and Design
+144104076-ce584 Traffic Engineering
+144104076-ce585 Credit Seminar
+144104076-ce623 Pavement Evaluation
+144104076-ce628 Traffic Flow Modelling and Simulation
+144104077-ce583 Pavement Analysis and Design
+144104077-ce584 Traffic Engineering
+144104077-ce585 Credit Seminar
+144104077-ce623 Pavement Evaluation
+144104077-ce628 Traffic Flow Modelling and Simulation
+144104078-ce510 Quality And Safety Management In Construction
+144104078-ce544 Project Management Laboratory
+144104078-ce552 Water Resources Systems Analysis
+144104078-ce612 Advanced Concrete Technology
+144104078-ce614 Financing Infrastructure Projects
+144104080-ce524 Biological Processes in Environmental Engg
+144104080-ce525 Solid and Hazardous Waste Management
+144104080-ce661 Air Quality Modeling
+144104080-ce665 Water Distribution and Wastewater Collection System Design
+144104081-ce524 Biological Processes in Environmental Engg
+144104081-ce525 Solid and Hazardous Waste Management
+144104081-ce661 Air Quality Modeling
+144104081-ce665 Water Distribution and Wastewater Collection System Design
+144104082-ce524 Biological Processes in Environmental Engg
+144104082-ce525 Solid and Hazardous Waste Management
+144104082-ce661 Air Quality Modeling
+144104082-ce665 Water Distribution and Wastewater Collection System Design
+144104083-ce524 Biological Processes in Environmental Engg
+144104083-ce525 Solid and Hazardous Waste Management
+144104083-ce661 Air Quality Modeling
+144104083-ce665 Water Distribution and Wastewater Collection System Design
+144104084-ce524 Biological Processes in Environmental Engg
+144104084-ce525 Solid and Hazardous Waste Management
+144104084-ce661 Air Quality Modeling
+144104084-ce665 Water Distribution and Wastewater Collection System Design
+144104085-ce524 Biological Processes in Environmental Engg
+144104085-ce525 Solid and Hazardous Waste Management
+144104085-ce664 Industrial Wastewater Pollution Control
+144104085-ce665 Water Distribution and Wastewater Collection System Design
+144104087-ce524 Biological Processes in Environmental Engg
+144104087-ce525 Solid and Hazardous Waste Management
+144104087-ce661 Air Quality Modeling
+144104087-ce665 Water Distribution and Wastewater Collection System Design
+144104088-ce524 Biological Processes in Environmental Engg
+144104088-ce525 Solid and Hazardous Waste Management
+144104088-ce661 Air Quality Modeling
+144104088-ce665 Water Distribution and Wastewater Collection System Design
+144104090-ce524 Biological Processes in Environmental Engg
+144104090-ce525 Solid and Hazardous Waste Management
+144104090-ce661 Air Quality Modeling
+144104090-ce665 Water Distribution and Wastewater Collection System Design
+144104091-ce533 Advanced Foundation Engg.
+144104091-ce534 Seminar
+144104091-ce643 Earthquake Geotechnical Engg.
+144104091-ce645 Soil-Structure Interaction
+144104091-ce649 Ground Improvement Techniques
+144104093-ce524 Biological Processes in Environmental Engg
+144104093-ce525 Solid and Hazardous Waste Management
+144104093-ce664 Industrial Wastewater Pollution Control
+144104093-ce665 Water Distribution and Wastewater Collection System Design
+144104094-ce524 Biological Processes in Environmental Engg
+144104094-ce525 Solid and Hazardous Waste Management
+144104094-ce661 Air Quality Modeling
+144104094-ce665 Water Distribution and Wastewater Collection System Design
+144104095-ce524 Biological Processes in Environmental Engg
+144104095-ce525 Solid and Hazardous Waste Management
+144104095-ce664 Industrial Wastewater Pollution Control
+144104095-ce665 Water Distribution and Wastewater Collection System Design
+144104098-ce533 Advanced Foundation Engg.
+144104098-ce534 Seminar
+144104098-ce643 Earthquake Geotechnical Engg.
+144104098-ce645 Soil-Structure Interaction
+144104098-ce649 Ground Improvement Techniques
+144104099-ce504 Advanced Structural Design
+144104099-ce505 Analysis And Design Of Bridges
+144104099-ce610 Computational Structural Mechanics
+144104099-ce613 Engineering Fracture and Fatigue Mechanics
+144104099-ce616 Blast and Impact Resistant Structures
+144104100-ce504 Advanced Structural Design
+144104100-ce505 Analysis And Design Of Bridges
+144104100-ce606 Earthquake Engineering
+144104100-ce610 Computational Structural Mechanics
+144104100-ce613 Engineering Fracture and Fatigue Mechanics
+144104101-ce504 Advanced Structural Design
+144104101-ce505 Analysis And Design Of Bridges
+144104101-ce606 Earthquake Engineering
+144104101-ce610 Computational Structural Mechanics
+144104101-ce616 Blast and Impact Resistant Structures
+144104102-ce504 Advanced Structural Design
+144104102-ce505 Analysis And Design Of Bridges
+144104102-ce606 Earthquake Engineering
+144104102-ce610 Computational Structural Mechanics
+144104102-ce616 Blast and Impact Resistant Structures
+144104104-ce504 Advanced Structural Design
+144104104-ce505 Analysis And Design Of Bridges
+144104104-ce606 Earthquake Engineering
+144104104-ce612 Advanced Concrete Technology
+144104104-ce613 Engineering Fracture and Fatigue Mechanics
+144104105-ce533 Advanced Foundation Engg.
+144104105-ce534 Seminar
+144104105-ce643 Earthquake Geotechnical Engg.
+144104105-ce645 Soil-Structure Interaction
+144104105-ce649 Ground Improvement Techniques
+144104107-ce533 Advanced Foundation Engg.
+144104107-ce534 Seminar
+144104107-ce643 Earthquake Geotechnical Engg.
+144104107-ce645 Soil-Structure Interaction
+144104107-ce649 Ground Improvement Techniques
+144104108-ce533 Advanced Foundation Engg.
+144104108-ce534 Seminar
+144104108-ce618 Mechanics of Unsaturated Soils
+144104108-ce645 Soil-Structure Interaction
+144104108-ce646 Rock Mechanics
+144104111-ce510 Quality And Safety Management In Construction
+144104111-ce544 Project Management Laboratory
+144104111-ce552 Water Resources Systems Analysis
+144104111-ce612 Advanced Concrete Technology
+144104111-ce614 Financing Infrastructure Projects
+144104115-ce524 Biological Processes in Environmental Engg
+144104115-ce525 Solid and Hazardous Waste Management
+144104115-ce661 Air Quality Modeling
+144104115-ce665 Water Distribution and Wastewater Collection System Design
+144104116-ce524 Biological Processes in Environmental Engg
+144104116-ce525 Solid and Hazardous Waste Management
+144104116-ce661 Air Quality Modeling
+144104116-ce665 Water Distribution and Wastewater Collection System Design
+146104007-ce612 Advanced Concrete Technology
+146104010-ce584 Traffic Engineering
+146104010-ce623 Pavement Evaluation
+146104016-ce552 Water Resources Systems Analysis
+146104036-ce607 Random Vibration
+146104036-ce610 Computational Structural Mechanics
+146104036-ce612 Advanced Concrete Technology
+146104036-ce613 Engineering Fracture and Fatigue Mechanics
+146104036-ce616 Blast and Impact Resistant Structures
+146104040-ce524 Biological Processes in Environmental Engg
+146104040-ce664 Industrial Wastewater Pollution Control

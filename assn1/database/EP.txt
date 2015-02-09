@@ -1,0 +1,1325 @@
+11012101-ee562 Fundamentals of VLSI CAD
+11012101-hs422 Subaltern Voices and Narratives
+11012101-ph414 Nanoelectronics and Nanophotonics
+11012101-ph499 Project I
+11012101-ph536 Quantum Optics
+11012101-ph543 Quantum Field Theory
+11012102-hs420 Writing Systems of the World
+11012103-hs423 Masculinities in Literature and Popular Culture
+11012103-ph414 Nanoelectronics and Nanophotonics
+11012103-ph499 Project I
+11012103-ph536 Quantum Optics
+11012103-ph543 Quantum Field Theory
+11012105-ph414 Nanoelectronics and Nanophotonics
+11012105-ph446 Fundamentals of Astrophysics
+11012105-ph499 Project I
+11012105-ph536 Quantum Optics
+11012105-ph543 Quantum Field Theory
+11012106-hs420 Writing Systems of the World
+11012106-ph414 Nanoelectronics and Nanophotonics
+11012106-ph446 Fundamentals of Astrophysics
+11012106-ph499 Project I
+11012106-ph536 Quantum Optics
+11012106-ph544 High Energy Physics
+11012107-hs420 Writing Systems of the World
+11012107-ph414 Nanoelectronics and Nanophotonics
+11012107-ph446 Fundamentals of Astrophysics
+11012107-ph499 Project I
+11012107-ph536 Quantum Optics
+11012107-ph544 High Energy Physics
+11012109-ee562 Fundamentals of VLSI CAD
+11012109-hs422 Subaltern Voices and Narratives
+11012109-ph414 Nanoelectronics and Nanophotonics
+11012109-ph499 Project I
+11012109-ph536 Quantum Optics
+11012109-ph543 Quantum Field Theory
+11012111-hs422 Subaltern Voices and Narratives
+11012111-ph414 Nanoelectronics and Nanophotonics
+11012111-ph446 Fundamentals of Astrophysics
+11012111-ph499 Project I
+11012111-ph536 Quantum Optics
+11012111-ph543 Quantum Field Theory
+11012112-hs420 Writing Systems of the World
+11012112-ph414 Nanoelectronics and Nanophotonics
+11012112-ph446 Fundamentals of Astrophysics
+11012112-ph499 Project I
+11012112-ph536 Quantum Optics
+11012112-ph544 High Energy Physics
+11012114-ph414 Nanoelectronics and Nanophotonics
+11012114-ph446 Fundamentals of Astrophysics
+11012114-ph499 Project I
+11012114-ph536 Quantum Optics
+11012114-ph543 Quantum Field Theory
+11012116-hs422 Subaltern Voices and Narratives
+11012116-ph414 Nanoelectronics and Nanophotonics
+11012116-ph446 Fundamentals of Astrophysics
+11012116-ph499 Project I
+11012116-ph543 Quantum Field Theory
+11012116-ph544 High Energy Physics
+11012117-hs423 Masculinities in Literature and Popular Culture
+11012117-ph414 Nanoelectronics and Nanophotonics
+11012117-ph446 Fundamentals of Astrophysics
+11012117-ph499 Project I
+11012117-ph543 Quantum Field Theory
+11012117-ph544 High Energy Physics
+11012118-ee653 Nonlinear Systems and Control
+11012118-hs423 Masculinities in Literature and Popular Culture
+11012118-ph414 Nanoelectronics and Nanophotonics
+11012118-ph499 Project I
+11012118-ph536 Quantum Optics
+11012118-ph544 High Energy Physics
+11012119-ee562 Fundamentals of VLSI CAD
+11012119-hs403 Entrepreneurship & Economic Development
+11012119-ph414 Nanoelectronics and Nanophotonics
+11012119-ph499 Project I
+11012119-ph536 Quantum Optics
+11012119-ph543 Quantum Field Theory
+11012120-hs420 Writing Systems of the World
+11012120-ph414 Nanoelectronics and Nanophotonics
+11012120-ph446 Fundamentals of Astrophysics
+11012120-ph499 Project I
+11012120-ph543 Quantum Field Theory
+11012120-ph544 High Energy Physics
+11012122-hs423 Masculinities in Literature and Popular Culture
+11012122-ph414 Nanoelectronics and Nanophotonics
+11012122-ph446 Fundamentals of Astrophysics
+11012122-ph499 Project I
+11012122-ph536 Quantum Optics
+11012122-ph543 Quantum Field Theory
+11012123-ee562 Fundamentals of VLSI CAD
+11012123-ph414 Nanoelectronics and Nanophotonics
+11012123-ph499 Project I
+11012123-ph536 Quantum Optics
+11012123-ph544 High Energy Physics
+11012124-hs422 Subaltern Voices and Narratives
+11012127-hs422 Subaltern Voices and Narratives
+11012127-ph414 Nanoelectronics and Nanophotonics
+11012127-ph446 Fundamentals of Astrophysics
+11012127-ph499 Project I
+11012127-ph536 Quantum Optics
+11012127-ph543 Quantum Field Theory
+11012128-hs422 Subaltern Voices and Narratives
+11012129-hs422 Subaltern Voices and Narratives
+11012129-ph414 Nanoelectronics and Nanophotonics
+11012129-ph446 Fundamentals of Astrophysics
+11012129-ph499 Project I
+11012129-ph543 Quantum Field Theory
+11012129-ph544 High Energy Physics
+11012130-hs406 Philosophical Issues
+11012130-ph414 Nanoelectronics and Nanophotonics
+11012130-ph446 Fundamentals of Astrophysics
+11012130-ph499 Project I
+11012130-ph543 Quantum Field Theory
+11012130-ph544 High Energy Physics
+11012132-hs406 Philosophical Issues
+11012132-ph414 Nanoelectronics and Nanophotonics
+11012132-ph446 Fundamentals of Astrophysics
+11012132-ph499 Project I
+11012132-ph536 Quantum Optics
+11012132-ph543 Quantum Field Theory
+11012133-hs422 Subaltern Voices and Narratives
+11012134-ph414 Nanoelectronics and Nanophotonics
+11012134-ph446 Fundamentals of Astrophysics
+11012134-ph499 Project I
+11012134-ph536 Quantum Optics
+11012134-ph543 Quantum Field Theory
+11012135-hs410 History of Contemporary India
+11012135-ph414 Nanoelectronics and Nanophotonics
+11012135-ph446 Fundamentals of Astrophysics
+11012135-ph499 Project I
+11012135-ph536 Quantum Optics
+11012135-ph543 Quantum Field Theory
+11012136-hs403 Entrepreneurship & Economic Development
+11012136-ph414 Nanoelectronics and Nanophotonics
+11012136-ph446 Fundamentals of Astrophysics
+11012136-ph499 Project I
+11012136-ph543 Quantum Field Theory
+11012136-ph544 High Energy Physics
+11012137-hs422 Subaltern Voices and Narratives
+11012138-hs422 Subaltern Voices and Narratives
+11012139-hs423 Masculinities in Literature and Popular Culture
+11012139-ph414 Nanoelectronics and Nanophotonics
+11012139-ph446 Fundamentals of Astrophysics
+11012139-ph499 Project I
+11012139-ph536 Quantum Optics
+11012139-ph543 Quantum Field Theory
+11012140-hs423 Masculinities in Literature and Popular Culture
+11012140-ph414 Nanoelectronics and Nanophotonics
+11012140-ph446 Fundamentals of Astrophysics
+11012140-ph499 Project I
+11012140-ph536 Quantum Optics
+11012140-ph543 Quantum Field Theory
+120121001-ph302 Solid State Physics
+120121001-ph304 Engineering Optics
+120121001-ph306 Nuclear Science and Engineering
+120121001-ph308 Measurement Techniques
+120121001-ph320 General Physics Lab
+120121001-ph445 Optical Communication Systems
+120121002-ee657 Pattern Recognition and Machine Learning
+120121002-ph302 Solid State Physics
+120121002-ph304 Engineering Optics
+120121002-ph306 Nuclear Science and Engineering
+120121002-ph308 Measurement Techniques
+120121002-ph320 General Physics Lab
+120121004-ee657 Pattern Recognition and Machine Learning
+120121004-ph302 Solid State Physics
+120121004-ph304 Engineering Optics
+120121004-ph306 Nuclear Science and Engineering
+120121004-ph308 Measurement Techniques
+120121004-ph320 General Physics Lab
+120121005-ph302 Solid State Physics
+120121005-ph304 Engineering Optics
+120121005-ph306 Nuclear Science and Engineering
+120121005-ph308 Measurement Techniques
+120121005-ph320 General Physics Lab
+120121005-ph445 Optical Communication Systems
+120121006-ee657 Pattern Recognition and Machine Learning
+120121006-ph302 Solid State Physics
+120121006-ph304 Engineering Optics
+120121006-ph306 Nuclear Science and Engineering
+120121006-ph308 Measurement Techniques
+120121006-ph320 General Physics Lab
+120121007-ee322m Signal Processing
+120121007-ee657 Pattern Recognition and Machine Learning
+120121007-ph302 Solid State Physics
+120121007-ph304 Engineering Optics
+120121007-ph306 Nuclear Science and Engineering
+120121007-ph308 Measurement Techniques
+120121007-ph320 General Physics Lab
+120121008-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120121008-ph302 Solid State Physics
+120121008-ph304 Engineering Optics
+120121008-ph306 Nuclear Science and Engineering
+120121008-ph308 Measurement Techniques
+120121008-ph320 General Physics Lab
+120121009-ph302 Solid State Physics
+120121009-ph304 Engineering Optics
+120121009-ph306 Nuclear Science and Engineering
+120121009-ph308 Measurement Techniques
+120121009-ph320 General Physics Lab
+120121009-ph445 Optical Communication Systems
+120121011-ph302 Solid State Physics
+120121011-ph304 Engineering Optics
+120121011-ph306 Nuclear Science and Engineering
+120121011-ph308 Measurement Techniques
+120121011-ph320 General Physics Lab
+120121011-ph445 Optical Communication Systems
+120121013-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120121013-dd320m Product Planning and Strategy
+120121013-ph302 Solid State Physics
+120121013-ph304 Engineering Optics
+120121013-ph306 Nuclear Science and Engineering
+120121013-ph308 Measurement Techniques
+120121013-ph320 General Physics Lab
+120121016-ee657 Pattern Recognition and Machine Learning
+120121016-ph302 Solid State Physics
+120121016-ph304 Engineering Optics
+120121016-ph306 Nuclear Science and Engineering
+120121016-ph308 Measurement Techniques
+120121016-ph320 General Physics Lab
+120121017-ee657 Pattern Recognition and Machine Learning
+120121017-ph302 Solid State Physics
+120121017-ph304 Engineering Optics
+120121017-ph306 Nuclear Science and Engineering
+120121017-ph308 Measurement Techniques
+120121017-ph320 General Physics Lab
+120121020-ph302 Solid State Physics
+120121020-ph304 Engineering Optics
+120121020-ph306 Nuclear Science and Engineering
+120121020-ph308 Measurement Techniques
+120121020-ph320 General Physics Lab
+120121020-ph445 Optical Communication Systems
+120121021-ma312m Modern Algebra
+120121021-ph302 Solid State Physics
+120121021-ph304 Engineering Optics
+120121021-ph306 Nuclear Science and Engineering
+120121021-ph308 Measurement Techniques
+120121021-ph320 General Physics Lab
+120121021-ph445 Optical Communication Systems
+120121022-ph302 Solid State Physics
+120121022-ph304 Engineering Optics
+120121022-ph306 Nuclear Science and Engineering
+120121022-ph308 Measurement Techniques
+120121022-ph320 General Physics Lab
+120121022-ph445 Optical Communication Systems
+120121023-ph302 Solid State Physics
+120121023-ph304 Engineering Optics
+120121023-ph306 Nuclear Science and Engineering
+120121023-ph308 Measurement Techniques
+120121023-ph320 General Physics Lab
+120121023-ph445 Optical Communication Systems
+120121026-ph302 Solid State Physics
+120121026-ph304 Engineering Optics
+120121026-ph306 Nuclear Science and Engineering
+120121026-ph308 Measurement Techniques
+120121026-ph320 General Physics Lab
+120121026-ph445 Optical Communication Systems
+120121027-ee657 Pattern Recognition and Machine Learning
+120121027-ph302 Solid State Physics
+120121027-ph304 Engineering Optics
+120121027-ph306 Nuclear Science and Engineering
+120121027-ph308 Measurement Techniques
+120121027-ph320 General Physics Lab
+120121028-ee322m Signal Processing
+120121028-ee657 Pattern Recognition and Machine Learning
+120121028-ph302 Solid State Physics
+120121028-ph304 Engineering Optics
+120121028-ph306 Nuclear Science and Engineering
+120121028-ph308 Measurement Techniques
+120121028-ph320 General Physics Lab
+120121029-ph302 Solid State Physics
+120121029-ph304 Engineering Optics
+120121029-ph306 Nuclear Science and Engineering
+120121029-ph308 Measurement Techniques
+120121029-ph320 General Physics Lab
+120121029-ph445 Optical Communication Systems
+120121031-ph302 Solid State Physics
+120121031-ph304 Engineering Optics
+120121031-ph306 Nuclear Science and Engineering
+120121031-ph308 Measurement Techniques
+120121031-ph320 General Physics Lab
+120121031-ph445 Optical Communication Systems
+120121033-ph302 Solid State Physics
+120121033-ph304 Engineering Optics
+120121033-ph306 Nuclear Science and Engineering
+120121033-ph308 Measurement Techniques
+120121033-ph320 General Physics Lab
+120121033-ph445 Optical Communication Systems
+120121034-ee657 Pattern Recognition and Machine Learning
+120121034-ph302 Solid State Physics
+120121034-ph304 Engineering Optics
+120121034-ph306 Nuclear Science and Engineering
+120121034-ph308 Measurement Techniques
+120121034-ph320 General Physics Lab
+120121036-ee657 Pattern Recognition and Machine Learning
+120121036-ph302 Solid State Physics
+120121036-ph304 Engineering Optics
+120121036-ph306 Nuclear Science and Engineering
+120121036-ph308 Measurement Techniques
+120121036-ph320 General Physics Lab
+120121037-ee657 Pattern Recognition and Machine Learning
+120121037-ph302 Solid State Physics
+120121037-ph304 Engineering Optics
+120121037-ph306 Nuclear Science and Engineering
+120121037-ph308 Measurement Techniques
+120121037-ph320 General Physics Lab
+120121038-ee657 Pattern Recognition and Machine Learning
+120121038-me321m Fluid Mechanics
+120121038-ph302 Solid State Physics
+120121038-ph304 Engineering Optics
+120121038-ph306 Nuclear Science and Engineering
+120121038-ph308 Measurement Techniques
+120121038-ph320 General Physics Lab
+120121039-ma312m Modern Algebra
+120121039-ph302 Solid State Physics
+120121039-ph304 Engineering Optics
+120121039-ph306 Nuclear Science and Engineering
+120121039-ph308 Measurement Techniques
+120121039-ph320 General Physics Lab
+120121039-ph445 Optical Communication Systems
+120121040-ee657 Pattern Recognition and Machine Learning
+120121040-ph302 Solid State Physics
+120121040-ph304 Engineering Optics
+120121040-ph306 Nuclear Science and Engineering
+120121040-ph308 Measurement Techniques
+120121040-ph320 General Physics Lab
+120121043-ee657 Pattern Recognition and Machine Learning
+120121043-ph302 Solid State Physics
+120121043-ph304 Engineering Optics
+120121043-ph306 Nuclear Science and Engineering
+120121043-ph308 Measurement Techniques
+120121043-ph320 General Physics Lab
+120121044-ee322m Signal Processing
+120121044-ee657 Pattern Recognition and Machine Learning
+120121044-ph302 Solid State Physics
+120121044-ph304 Engineering Optics
+120121044-ph306 Nuclear Science and Engineering
+120121044-ph308 Measurement Techniques
+120121044-ph320 General Physics Lab
+130121001-bt205 Biophysics
+130121001-hs237 Introduction to Archeology
+130121001-ph202 Electromagnetics
+130121001-ph204 Quantum Mechanics
+130121001-ph206 Analog and Digital Electronics
+130121001-ph210 Electronic Lab I
+130121002-bt205 Biophysics
+130121002-hs226 Macroeconomics
+130121002-ma212m Mathematical Statistics
+130121002-ph202 Electromagnetics
+130121002-ph204 Quantum Mechanics
+130121002-ph206 Analog and Digital Electronics
+130121002-ph210 Electronic Lab I
+130121003-bt205 Biophysics
+130121003-hs216 Sociology of India : Conformities & Contradictions
+130121003-ph202 Electromagnetics
+130121003-ph204 Quantum Mechanics
+130121003-ph206 Analog and Digital Electronics
+130121003-ph210 Electronic Lab I
+130121005-bt205 Biophysics
+130121005-hs216 Sociology of India : Conformities & Contradictions
+130121005-ph202 Electromagnetics
+130121005-ph204 Quantum Mechanics
+130121005-ph206 Analog and Digital Electronics
+130121005-ph210 Electronic Lab I
+130121006-bt205 Biophysics
+130121006-hs223 Language and Society
+130121006-ma212m Mathematical Statistics
+130121006-ph202 Electromagnetics
+130121006-ph204 Quantum Mechanics
+130121006-ph206 Analog and Digital Electronics
+130121006-ph210 Electronic Lab I
+130121007-bt205 Biophysics
+130121007-hs216 Sociology of India : Conformities & Contradictions
+130121007-ph202 Electromagnetics
+130121007-ph204 Quantum Mechanics
+130121007-ph206 Analog and Digital Electronics
+130121007-ph210 Electronic Lab I
+130121008-bt205 Biophysics
+130121008-hs222 Understanding Psychology : Individual and Works Settings
+130121008-ph202 Electromagnetics
+130121008-ph204 Quantum Mechanics
+130121008-ph206 Analog and Digital Electronics
+130121008-ph210 Electronic Lab I
+130121009-bt205 Biophysics
+130121009-hs234 Introduction to Linguistics
+130121009-ph202 Electromagnetics
+130121009-ph204 Quantum Mechanics
+130121009-ph206 Analog and Digital Electronics
+130121009-ph210 Electronic Lab I
+130121010-bt205 Biophysics
+130121010-hs234 Introduction to Linguistics
+130121010-ma212m Mathematical Statistics
+130121010-ph202 Electromagnetics
+130121010-ph204 Quantum Mechanics
+130121010-ph206 Analog and Digital Electronics
+130121010-ph210 Electronic Lab I
+130121011-hs203 Problems of Philosophy
+130121012-bt205 Biophysics
+130121012-hs234 Introduction to Linguistics
+130121012-ph202 Electromagnetics
+130121012-ph204 Quantum Mechanics
+130121012-ph206 Analog and Digital Electronics
+130121012-ph210 Electronic Lab I
+130121013-bt205 Biophysics
+130121013-hs234 Introduction to Linguistics
+130121013-ph202 Electromagnetics
+130121013-ph204 Quantum Mechanics
+130121013-ph206 Analog and Digital Electronics
+130121013-ph210 Electronic Lab I
+130121014-hs234 Introduction to Linguistics
+130121015-bt205 Biophysics
+130121015-hs237 Introduction to Archeology
+130121015-ph202 Electromagnetics
+130121015-ph204 Quantum Mechanics
+130121015-ph206 Analog and Digital Electronics
+130121015-ph210 Electronic Lab I
+130121016-bt205 Biophysics
+130121016-hs203 Problems of Philosophy
+130121016-ma212m Mathematical Statistics
+130121016-ph202 Electromagnetics
+130121016-ph204 Quantum Mechanics
+130121016-ph206 Analog and Digital Electronics
+130121016-ph210 Electronic Lab I
+130121017-bt205 Biophysics
+130121017-hs226 Macroeconomics
+130121017-ph202 Electromagnetics
+130121017-ph204 Quantum Mechanics
+130121017-ph206 Analog and Digital Electronics
+130121017-ph210 Electronic Lab I
+130121018-bt205 Biophysics
+130121018-hs237 Introduction to Archeology
+130121018-ph202 Electromagnetics
+130121018-ph204 Quantum Mechanics
+130121018-ph206 Analog and Digital Electronics
+130121018-ph210 Electronic Lab I
+130121019-bt205 Biophysics
+130121019-hs216 Sociology of India : Conformities & Contradictions
+130121019-ph202 Electromagnetics
+130121019-ph204 Quantum Mechanics
+130121019-ph206 Analog and Digital Electronics
+130121019-ph210 Electronic Lab I
+130121020-bt205 Biophysics
+130121020-hs237 Introduction to Archeology
+130121020-ph202 Electromagnetics
+130121020-ph204 Quantum Mechanics
+130121020-ph206 Analog and Digital Electronics
+130121020-ph210 Electronic Lab I
+130121022-bt205 Biophysics
+130121022-hs237 Introduction to Archeology
+130121022-ph202 Electromagnetics
+130121022-ph204 Quantum Mechanics
+130121022-ph206 Analog and Digital Electronics
+130121022-ph210 Electronic Lab I
+130121023-bt205 Biophysics
+130121023-hs223 Language and Society
+130121023-ph202 Electromagnetics
+130121023-ph204 Quantum Mechanics
+130121023-ph206 Analog and Digital Electronics
+130121023-ph210 Electronic Lab I
+130121026-bt205 Biophysics
+130121026-hs203 Problems of Philosophy
+130121026-ph202 Electromagnetics
+130121026-ph204 Quantum Mechanics
+130121026-ph206 Analog and Digital Electronics
+130121026-ph210 Electronic Lab I
+130121027-bt205 Biophysics
+130121027-hs226 Macroeconomics
+130121027-ma212m Mathematical Statistics
+130121027-ph202 Electromagnetics
+130121027-ph204 Quantum Mechanics
+130121027-ph206 Analog and Digital Electronics
+130121027-ph210 Electronic Lab I
+130121028-bt205 Biophysics
+130121028-hs237 Introduction to Archeology
+130121028-ph202 Electromagnetics
+130121028-ph204 Quantum Mechanics
+130121028-ph206 Analog and Digital Electronics
+130121028-ph210 Electronic Lab I
+130121030-bt205 Biophysics
+130121030-hs234 Introduction to Linguistics
+130121030-ph202 Electromagnetics
+130121030-ph204 Quantum Mechanics
+130121030-ph206 Analog and Digital Electronics
+130121030-ph210 Electronic Lab I
+130121031-bt205 Biophysics
+130121031-hs234 Introduction to Linguistics
+130121031-ph202 Electromagnetics
+130121031-ph204 Quantum Mechanics
+130121031-ph206 Analog and Digital Electronics
+130121031-ph210 Electronic Lab I
+130121032-bt205 Biophysics
+130121032-hs203 Problems of Philosophy
+130121032-ph202 Electromagnetics
+130121032-ph204 Quantum Mechanics
+130121032-ph206 Analog and Digital Electronics
+130121032-ph210 Electronic Lab I
+130121033-bt205 Biophysics
+130121033-hs223 Language and Society
+130121033-ph202 Electromagnetics
+130121033-ph204 Quantum Mechanics
+130121033-ph206 Analog and Digital Electronics
+130121033-ph210 Electronic Lab I
+130121034-bt205 Biophysics
+130121034-hs203 Problems of Philosophy
+130121034-ma212m Mathematical Statistics
+130121034-ph202 Electromagnetics
+130121034-ph204 Quantum Mechanics
+130121034-ph206 Analog and Digital Electronics
+130121034-ph210 Electronic Lab I
+130121035-bt205 Biophysics
+130121035-hs222 Understanding Psychology : Individual and Works Settings
+130121035-ma212m Mathematical Statistics
+130121035-ph202 Electromagnetics
+130121035-ph204 Quantum Mechanics
+130121035-ph206 Analog and Digital Electronics
+130121035-ph210 Electronic Lab I
+130121036-bt205 Biophysics
+130121036-hs203 Problems of Philosophy
+130121036-ph202 Electromagnetics
+130121036-ph204 Quantum Mechanics
+130121036-ph206 Analog and Digital Electronics
+130121036-ph210 Electronic Lab I
+130121037-hs222 Understanding Psychology : Individual and Works Settings
+130121039-bt205 Biophysics
+130121039-hs222 Understanding Psychology : Individual and Works Settings
+130121039-ma212m Mathematical Statistics
+130121039-ph202 Electromagnetics
+130121039-ph204 Quantum Mechanics
+130121039-ph206 Analog and Digital Electronics
+130121039-ph210 Electronic Lab I
+130121040-bt205 Biophysics
+130121040-hs203 Problems of Philosophy
+130121040-ph202 Electromagnetics
+130121040-ph204 Quantum Mechanics
+130121040-ph206 Analog and Digital Electronics
+130121040-ph210 Electronic Lab I
+130121041-hs222 Understanding Psychology : Individual and Works Settings
+130121042-bt205 Biophysics
+130121042-hs203 Problems of Philosophy
+130121042-ph202 Electromagnetics
+130121042-ph204 Quantum Mechanics
+130121042-ph206 Analog and Digital Electronics
+130121042-ph210 Electronic Lab I
+130121044-bt205 Biophysics
+130121044-hs237 Introduction to Archeology
+130121044-ma212m Mathematical Statistics
+130121044-ph202 Electromagnetics
+130121044-ph204 Quantum Mechanics
+130121044-ph206 Analog and Digital Electronics
+130121044-ph210 Electronic Lab I
+130121045-bt205 Biophysics
+130121045-hs213 Consumer Behaviour
+130121045-ph202 Electromagnetics
+130121045-ph204 Quantum Mechanics
+130121045-ph206 Analog and Digital Electronics
+130121045-ph210 Electronic Lab I
+130121046-bt205 Biophysics
+130121046-hs222 Understanding Psychology : Individual and Works Settings
+130121046-ph202 Electromagnetics
+130121046-ph204 Quantum Mechanics
+130121046-ph206 Analog and Digital Electronics
+130121046-ph210 Electronic Lab I
+132121001-ph516 Advanced Physics Laboaratory
+132121001-ph523 Magnetism and Superconductivity
+132121001-ph536 Quantum Optics
+132121001-ph543 Quantum Field Theory
+132121002-ph516 Advanced Physics Laboaratory
+132121002-ph524 Thin Film Phenomena
+132121002-ph527 Nanostructured Materials
+132121002-ph543 Quantum Field Theory
+132121005-ph516 Advanced Physics Laboaratory
+132121005-ph523 Magnetism and Superconductivity
+132121005-ph524 Thin Film Phenomena
+132121005-ph527 Nanostructured Materials
+132121006-ph516 Advanced Physics Laboaratory
+132121006-ph523 Magnetism and Superconductivity
+132121006-ph527 Nanostructured Materials
+132121006-ph536 Quantum Optics
+132121007-ph516 Advanced Physics Laboaratory
+132121007-ph523 Magnetism and Superconductivity
+132121007-ph527 Nanostructured Materials
+132121007-ph536 Quantum Optics
+132121008-ph516 Advanced Physics Laboaratory
+132121008-ph523 Magnetism and Superconductivity
+132121008-ph527 Nanostructured Materials
+132121008-ph543 Quantum Field Theory
+132121009-ph516 Advanced Physics Laboaratory
+132121009-ph523 Magnetism and Superconductivity
+132121009-ph527 Nanostructured Materials
+132121009-ph536 Quantum Optics
+132121010-ph516 Advanced Physics Laboaratory
+132121010-ph524 Thin Film Phenomena
+132121010-ph527 Nanostructured Materials
+132121010-ph543 Quantum Field Theory
+132121011-ph516 Advanced Physics Laboaratory
+132121011-ph523 Magnetism and Superconductivity
+132121011-ph527 Nanostructured Materials
+132121011-ph543 Quantum Field Theory
+132121012-ph516 Advanced Physics Laboaratory
+132121012-ph524 Thin Film Phenomena
+132121012-ph527 Nanostructured Materials
+132121012-ph536 Quantum Optics
+132121013-ph516 Advanced Physics Laboaratory
+132121013-ph524 Thin Film Phenomena
+132121013-ph543 Quantum Field Theory
+132121013-ph544 High Energy Physics
+132121014-ph516 Advanced Physics Laboaratory
+132121014-ph524 Thin Film Phenomena
+132121014-ph543 Quantum Field Theory
+132121014-ph544 High Energy Physics
+132121015-ph516 Advanced Physics Laboaratory
+132121015-ph523 Magnetism and Superconductivity
+132121015-ph527 Nanostructured Materials
+132121015-ph536 Quantum Optics
+132121017-ph516 Advanced Physics Laboaratory
+132121017-ph523 Magnetism and Superconductivity
+132121017-ph527 Nanostructured Materials
+132121017-ph536 Quantum Optics
+132121018-ph516 Advanced Physics Laboaratory
+132121018-ph523 Magnetism and Superconductivity
+132121018-ph536 Quantum Optics
+132121018-ph543 Quantum Field Theory
+132121019-ph516 Advanced Physics Laboaratory
+132121019-ph523 Magnetism and Superconductivity
+132121019-ph524 Thin Film Phenomena
+132121019-ph527 Nanostructured Materials
+132121020-ph516 Advanced Physics Laboaratory
+132121020-ph524 Thin Film Phenomena
+132121020-ph543 Quantum Field Theory
+132121020-ph544 High Energy Physics
+132121021-ph516 Advanced Physics Laboaratory
+132121021-ph523 Magnetism and Superconductivity
+132121021-ph527 Nanostructured Materials
+132121021-ph536 Quantum Optics
+132121022-ph516 Advanced Physics Laboaratory
+132121022-ph523 Magnetism and Superconductivity
+132121022-ph527 Nanostructured Materials
+132121022-ph536 Quantum Optics
+132121023-ph516 Advanced Physics Laboaratory
+132121023-ph523 Magnetism and Superconductivity
+132121023-ph524 Thin Film Phenomena
+132121023-ph527 Nanostructured Materials
+132121024-ph516 Advanced Physics Laboaratory
+132121024-ph523 Magnetism and Superconductivity
+132121024-ph524 Thin Film Phenomena
+132121024-ph527 Nanostructured Materials
+132121026-ph516 Advanced Physics Laboaratory
+132121026-ph524 Thin Film Phenomena
+132121026-ph543 Quantum Field Theory
+132121026-ph544 High Energy Physics
+132121027-ph516 Advanced Physics Laboaratory
+132121027-ph524 Thin Film Phenomena
+132121027-ph543 Quantum Field Theory
+132121027-ph544 High Energy Physics
+132121028-ph516 Advanced Physics Laboaratory
+132121028-ph523 Magnetism and Superconductivity
+132121028-ph524 Thin Film Phenomena
+132121028-ph527 Nanostructured Materials
+132121029-ph516 Advanced Physics Laboaratory
+132121029-ph523 Magnetism and Superconductivity
+132121029-ph524 Thin Film Phenomena
+132121029-ph536 Quantum Optics
+132121031-ph516 Advanced Physics Laboaratory
+132121031-ph523 Magnetism and Superconductivity
+132121031-ph524 Thin Film Phenomena
+132121031-ph527 Nanostructured Materials
+132121032-ph516 Advanced Physics Laboaratory
+132121032-ph524 Thin Film Phenomena
+132121032-ph527 Nanostructured Materials
+132121032-ph543 Quantum Field Theory
+132121033-ph516 Advanced Physics Laboaratory
+132121033-ph524 Thin Film Phenomena
+132121033-ph527 Nanostructured Materials
+132121033-ph543 Quantum Field Theory
+132121034-ph516 Advanced Physics Laboaratory
+132121034-ph524 Thin Film Phenomena
+132121034-ph543 Quantum Field Theory
+132121034-ph544 High Energy Physics
+132121036-ph516 Advanced Physics Laboaratory
+132121036-ph523 Magnetism and Superconductivity
+132121036-ph524 Thin Film Phenomena
+132121036-ph527 Nanostructured Materials
+132121037-ph516 Advanced Physics Laboaratory
+132121037-ph527 Nanostructured Materials
+132121037-ph543 Quantum Field Theory
+132121037-ph544 High Energy Physics
+132121038-ph516 Advanced Physics Laboaratory
+132121038-ph524 Thin Film Phenomena
+132121038-ph543 Quantum Field Theory
+132121038-ph544 High Energy Physics
+132121040-ph516 Advanced Physics Laboaratory
+132121040-ph523 Magnetism and Superconductivity
+132121040-ph527 Nanostructured Materials
+132121040-ph536 Quantum Optics
+132121042-ph516 Advanced Physics Laboaratory
+132121042-ph536 Quantum Optics
+132121042-ph543 Quantum Field Theory
+132121042-ph544 High Energy Physics
+140121001-bt101 Modern Biology
+140121001-cs101 Introduction to Computing
+140121001-cs110 Computing Lab
+140121001-ee102 Basic Electronics Laboratory
+140121001-ma102 Mathematics II
+140121001-me101 Engineering Mechanics
+140121001-me110 Workshop I
+140121001-ph102 Physics II
+140121001-sa102 Course Name/Course No Not Found
+140121002-bt101 Modern Biology
+140121002-cs101 Introduction to Computing
+140121002-cs110 Computing Lab
+140121002-ee102 Basic Electronics Laboratory
+140121002-ma102 Mathematics II
+140121002-me101 Engineering Mechanics
+140121002-me110 Workshop I
+140121002-ph102 Physics II
+140121002-sa102 Course Name/Course No Not Found
+140121003-bt101 Modern Biology
+140121003-cs101 Introduction to Computing
+140121003-cs110 Computing Lab
+140121003-ee102 Basic Electronics Laboratory
+140121003-ma102 Mathematics II
+140121003-me101 Engineering Mechanics
+140121003-me110 Workshop I
+140121003-ph102 Physics II
+140121003-sa102 Course Name/Course No Not Found
+140121004-bt101 Modern Biology
+140121004-cs101 Introduction to Computing
+140121004-cs110 Computing Lab
+140121004-ee102 Basic Electronics Laboratory
+140121004-ma102 Mathematics II
+140121004-me101 Engineering Mechanics
+140121004-me110 Workshop I
+140121004-ph102 Physics II
+140121004-sa102 Course Name/Course No Not Found
+140121006-bt101 Modern Biology
+140121006-cs101 Introduction to Computing
+140121006-cs110 Computing Lab
+140121006-ee102 Basic Electronics Laboratory
+140121006-ma102 Mathematics II
+140121006-me101 Engineering Mechanics
+140121006-me110 Workshop I
+140121006-ph102 Physics II
+140121006-sa102 Course Name/Course No Not Found
+140121007-ma102 Mathematics II
+140121007-ph102 Physics II
+140121007-sa102 Course Name/Course No Not Found
+140121008-bt101 Modern Biology
+140121008-cs101 Introduction to Computing
+140121008-cs110 Computing Lab
+140121008-ee102 Basic Electronics Laboratory
+140121008-ma102 Mathematics II
+140121008-me101 Engineering Mechanics
+140121008-me110 Workshop I
+140121008-ph102 Physics II
+140121008-sa102 Course Name/Course No Not Found
+140121009-bt101 Modern Biology
+140121009-cs101 Introduction to Computing
+140121009-cs110 Computing Lab
+140121009-ee102 Basic Electronics Laboratory
+140121009-ma102 Mathematics II
+140121009-me101 Engineering Mechanics
+140121009-me110 Workshop I
+140121009-ph102 Physics II
+140121009-sa102 Course Name/Course No Not Found
+140121010-bt101 Modern Biology
+140121010-cs101 Introduction to Computing
+140121010-cs110 Computing Lab
+140121010-ee102 Basic Electronics Laboratory
+140121010-ma102 Mathematics II
+140121010-me101 Engineering Mechanics
+140121010-me110 Workshop I
+140121010-ph102 Physics II
+140121010-sa102 Course Name/Course No Not Found
+140121011-bt101 Modern Biology
+140121011-cs101 Introduction to Computing
+140121011-cs110 Computing Lab
+140121011-ee102 Basic Electronics Laboratory
+140121011-ma102 Mathematics II
+140121011-me101 Engineering Mechanics
+140121011-me110 Workshop I
+140121011-ph102 Physics II
+140121011-sa102 Course Name/Course No Not Found
+140121013-bt101 Modern Biology
+140121013-cs101 Introduction to Computing
+140121013-cs110 Computing Lab
+140121013-ee102 Basic Electronics Laboratory
+140121013-ma102 Mathematics II
+140121013-me101 Engineering Mechanics
+140121013-me110 Workshop I
+140121013-ph102 Physics II
+140121013-sa102 Course Name/Course No Not Found
+140121014-bt101 Modern Biology
+140121014-cs101 Introduction to Computing
+140121014-cs110 Computing Lab
+140121014-ee102 Basic Electronics Laboratory
+140121014-ma102 Mathematics II
+140121014-me101 Engineering Mechanics
+140121014-me110 Workshop I
+140121014-ph102 Physics II
+140121014-sa102 Course Name/Course No Not Found
+140121015-bt101 Modern Biology
+140121015-cs101 Introduction to Computing
+140121015-cs110 Computing Lab
+140121015-ee102 Basic Electronics Laboratory
+140121015-ma102 Mathematics II
+140121015-me101 Engineering Mechanics
+140121015-me110 Workshop I
+140121015-ph102 Physics II
+140121015-sa102 Course Name/Course No Not Found
+140121016-bt101 Modern Biology
+140121016-cs101 Introduction to Computing
+140121016-cs110 Computing Lab
+140121016-ee102 Basic Electronics Laboratory
+140121016-ma102 Mathematics II
+140121016-me101 Engineering Mechanics
+140121016-me110 Workshop I
+140121016-ph102 Physics II
+140121016-sa102 Course Name/Course No Not Found
+140121017-bt101 Modern Biology
+140121017-cs101 Introduction to Computing
+140121017-cs110 Computing Lab
+140121017-ee102 Basic Electronics Laboratory
+140121017-ma102 Mathematics II
+140121017-me101 Engineering Mechanics
+140121017-me110 Workshop I
+140121017-ph102 Physics II
+140121017-sa102 Course Name/Course No Not Found
+140121018-bt101 Modern Biology
+140121018-cs101 Introduction to Computing
+140121018-cs110 Computing Lab
+140121018-ee102 Basic Electronics Laboratory
+140121018-ma102 Mathematics II
+140121018-me101 Engineering Mechanics
+140121018-me110 Workshop I
+140121018-ph102 Physics II
+140121018-sa102 Course Name/Course No Not Found
+140121019-bt101 Modern Biology
+140121019-cs101 Introduction to Computing
+140121019-cs110 Computing Lab
+140121019-ee102 Basic Electronics Laboratory
+140121019-ma102 Mathematics II
+140121019-me101 Engineering Mechanics
+140121019-me110 Workshop I
+140121019-ph102 Physics II
+140121019-sa102 Course Name/Course No Not Found
+140121020-bt101 Modern Biology
+140121020-cs101 Introduction to Computing
+140121020-cs110 Computing Lab
+140121020-ee102 Basic Electronics Laboratory
+140121020-ma102 Mathematics II
+140121020-me101 Engineering Mechanics
+140121020-me110 Workshop I
+140121020-ph102 Physics II
+140121020-sa102 Course Name/Course No Not Found
+140121021-bt101 Modern Biology
+140121021-cs101 Introduction to Computing
+140121021-cs110 Computing Lab
+140121021-ee102 Basic Electronics Laboratory
+140121021-ma102 Mathematics II
+140121021-me101 Engineering Mechanics
+140121021-me110 Workshop I
+140121021-ph102 Physics II
+140121021-sa102 Course Name/Course No Not Found
+140121022-ma102 Mathematics II
+140121022-ph102 Physics II
+140121022-sa102 Course Name/Course No Not Found
+140121023-bt101 Modern Biology
+140121023-cs101 Introduction to Computing
+140121023-cs110 Computing Lab
+140121023-ee102 Basic Electronics Laboratory
+140121023-ma102 Mathematics II
+140121023-me101 Engineering Mechanics
+140121023-me110 Workshop I
+140121023-ph102 Physics II
+140121023-sa102 Course Name/Course No Not Found
+140121024-bt101 Modern Biology
+140121024-cs101 Introduction to Computing
+140121024-cs110 Computing Lab
+140121024-ee102 Basic Electronics Laboratory
+140121024-ma102 Mathematics II
+140121024-me101 Engineering Mechanics
+140121024-me110 Workshop I
+140121024-ph102 Physics II
+140121024-sa102 Course Name/Course No Not Found
+140121026-bt101 Modern Biology
+140121026-cs101 Introduction to Computing
+140121026-cs110 Computing Lab
+140121026-ee102 Basic Electronics Laboratory
+140121026-ma102 Mathematics II
+140121026-me101 Engineering Mechanics
+140121026-me110 Workshop I
+140121026-ph102 Physics II
+140121026-sa102 Course Name/Course No Not Found
+140121027-bt101 Modern Biology
+140121027-cs101 Introduction to Computing
+140121027-cs110 Computing Lab
+140121027-ee102 Basic Electronics Laboratory
+140121027-ma102 Mathematics II
+140121027-me101 Engineering Mechanics
+140121027-me110 Workshop I
+140121027-ph102 Physics II
+140121027-sa102 Course Name/Course No Not Found
+140121028-bt101 Modern Biology
+140121028-cs101 Introduction to Computing
+140121028-cs110 Computing Lab
+140121028-ee102 Basic Electronics Laboratory
+140121028-ma102 Mathematics II
+140121028-me101 Engineering Mechanics
+140121028-me110 Workshop I
+140121028-ph102 Physics II
+140121028-sa102 Course Name/Course No Not Found
+140121029-bt101 Modern Biology
+140121029-cs101 Introduction to Computing
+140121029-cs110 Computing Lab
+140121029-ee102 Basic Electronics Laboratory
+140121029-ma102 Mathematics II
+140121029-me101 Engineering Mechanics
+140121029-me110 Workshop I
+140121029-ph102 Physics II
+140121029-sa102 Course Name/Course No Not Found
+140121030-bt101 Modern Biology
+140121030-cs101 Introduction to Computing
+140121030-cs110 Computing Lab
+140121030-ee102 Basic Electronics Laboratory
+140121030-ma102 Mathematics II
+140121030-me101 Engineering Mechanics
+140121030-me110 Workshop I
+140121030-ph102 Physics II
+140121030-sa102 Course Name/Course No Not Found
+140121031-bt101 Modern Biology
+140121031-cs101 Introduction to Computing
+140121031-cs110 Computing Lab
+140121031-ee102 Basic Electronics Laboratory
+140121031-ma102 Mathematics II
+140121031-me101 Engineering Mechanics
+140121031-me110 Workshop I
+140121031-ph102 Physics II
+140121031-sa102 Course Name/Course No Not Found
+140121032-bt101 Modern Biology
+140121032-cs101 Introduction to Computing
+140121032-cs110 Computing Lab
+140121032-ee102 Basic Electronics Laboratory
+140121032-ma102 Mathematics II
+140121032-me101 Engineering Mechanics
+140121032-me110 Workshop I
+140121032-ph102 Physics II
+140121032-sa102 Course Name/Course No Not Found
+140121033-bt101 Modern Biology
+140121033-cs101 Introduction to Computing
+140121033-cs110 Computing Lab
+140121033-ee102 Basic Electronics Laboratory
+140121033-ma102 Mathematics II
+140121033-me101 Engineering Mechanics
+140121033-me110 Workshop I
+140121033-ph102 Physics II
+140121033-sa102 Course Name/Course No Not Found
+140121034-bt101 Modern Biology
+140121034-cs101 Introduction to Computing
+140121034-cs110 Computing Lab
+140121034-ee102 Basic Electronics Laboratory
+140121034-ma102 Mathematics II
+140121034-me101 Engineering Mechanics
+140121034-me110 Workshop I
+140121034-ph102 Physics II
+140121034-sa102 Course Name/Course No Not Found
+140121035-bt101 Modern Biology
+140121035-cs101 Introduction to Computing
+140121035-cs110 Computing Lab
+140121035-ee102 Basic Electronics Laboratory
+140121035-ma102 Mathematics II
+140121035-me101 Engineering Mechanics
+140121035-me110 Workshop I
+140121035-ph102 Physics II
+140121035-sa102 Course Name/Course No Not Found
+140121036-bt101 Modern Biology
+140121036-cs101 Introduction to Computing
+140121036-cs110 Computing Lab
+140121036-ee102 Basic Electronics Laboratory
+140121036-ma102 Mathematics II
+140121036-me101 Engineering Mechanics
+140121036-me110 Workshop I
+140121036-ph102 Physics II
+140121036-sa102 Course Name/Course No Not Found
+140121037-bt101 Modern Biology
+140121037-cs101 Introduction to Computing
+140121037-cs110 Computing Lab
+140121037-ee102 Basic Electronics Laboratory
+140121037-ma102 Mathematics II
+140121037-me101 Engineering Mechanics
+140121037-me110 Workshop I
+140121037-ph102 Physics II
+140121037-sa102 Course Name/Course No Not Found
+140121038-bt101 Modern Biology
+140121038-cs101 Introduction to Computing
+140121038-cs110 Computing Lab
+140121038-ee102 Basic Electronics Laboratory
+140121038-ma102 Mathematics II
+140121038-me101 Engineering Mechanics
+140121038-me110 Workshop I
+140121038-ph102 Physics II
+140121038-sa102 Course Name/Course No Not Found
+140121039-bt101 Modern Biology
+140121039-cs101 Introduction to Computing
+140121039-cs110 Computing Lab
+140121039-ee102 Basic Electronics Laboratory
+140121039-ma102 Mathematics II
+140121039-me101 Engineering Mechanics
+140121039-me110 Workshop I
+140121039-ph102 Physics II
+140121039-sa102 Course Name/Course No Not Found
+140121040-bt101 Modern Biology
+140121040-cs101 Introduction to Computing
+140121040-cs110 Computing Lab
+140121040-ee102 Basic Electronics Laboratory
+140121040-ma102 Mathematics II
+140121040-me101 Engineering Mechanics
+140121040-me110 Workshop I
+140121040-ph102 Physics II
+140121040-sa102 Course Name/Course No Not Found
+140121042-bt101 Modern Biology
+140121042-cs101 Introduction to Computing
+140121042-cs110 Computing Lab
+140121042-ee102 Basic Electronics Laboratory
+140121042-ma102 Mathematics II
+140121042-me101 Engineering Mechanics
+140121042-me110 Workshop I
+140121042-ph102 Physics II
+140121042-sa102 Course Name/Course No Not Found
+140121043-bt101 Modern Biology
+140121043-cs101 Introduction to Computing
+140121043-cs110 Computing Lab
+140121043-ee102 Basic Electronics Laboratory
+140121043-ma102 Mathematics II
+140121043-me101 Engineering Mechanics
+140121043-me110 Workshop I
+140121043-ph102 Physics II
+140121043-sa102 Course Name/Course No Not Found
+140121044-bt101 Modern Biology
+140121044-cs101 Introduction to Computing
+140121044-cs110 Computing Lab
+140121044-ee102 Basic Electronics Laboratory
+140121044-ma102 Mathematics II
+140121044-me101 Engineering Mechanics
+140121044-me110 Workshop I
+140121044-ph102 Physics II
+140121044-sa102 Course Name/Course No Not Found
+142121001-ph402 Mathematical Physics II
+142121001-ph404 Statistical Mechanics
+142121001-ph406 Quantum Mechanics II
+142121001-ph408 Numerical Methods & Computational Physics
+142121001-ph410 Electrodynamics I
+142121001-ph412 General Physics Laboratory I
+142121003-ph402 Mathematical Physics II
+142121003-ph404 Statistical Mechanics
+142121003-ph406 Quantum Mechanics II
+142121003-ph408 Numerical Methods & Computational Physics
+142121003-ph410 Electrodynamics I
+142121003-ph412 General Physics Laboratory I
+142121004-ph402 Mathematical Physics II
+142121004-ph404 Statistical Mechanics
+142121004-ph406 Quantum Mechanics II
+142121004-ph408 Numerical Methods & Computational Physics
+142121004-ph410 Electrodynamics I
+142121004-ph412 General Physics Laboratory I
+142121005-ph402 Mathematical Physics II
+142121005-ph404 Statistical Mechanics
+142121005-ph406 Quantum Mechanics II
+142121005-ph408 Numerical Methods & Computational Physics
+142121005-ph410 Electrodynamics I
+142121005-ph412 General Physics Laboratory I
+142121006-ph402 Mathematical Physics II
+142121006-ph404 Statistical Mechanics
+142121006-ph406 Quantum Mechanics II
+142121006-ph408 Numerical Methods & Computational Physics
+142121006-ph410 Electrodynamics I
+142121006-ph412 General Physics Laboratory I
+142121007-ph402 Mathematical Physics II
+142121007-ph404 Statistical Mechanics
+142121007-ph406 Quantum Mechanics II
+142121007-ph408 Numerical Methods & Computational Physics
+142121007-ph410 Electrodynamics I
+142121007-ph412 General Physics Laboratory I
+142121008-ph402 Mathematical Physics II
+142121008-ph404 Statistical Mechanics
+142121008-ph406 Quantum Mechanics II
+142121008-ph408 Numerical Methods & Computational Physics
+142121008-ph410 Electrodynamics I
+142121008-ph412 General Physics Laboratory I
+142121009-ph402 Mathematical Physics II
+142121009-ph404 Statistical Mechanics
+142121009-ph406 Quantum Mechanics II
+142121009-ph408 Numerical Methods & Computational Physics
+142121009-ph410 Electrodynamics I
+142121009-ph412 General Physics Laboratory I
+142121010-ph402 Mathematical Physics II
+142121010-ph404 Statistical Mechanics
+142121010-ph406 Quantum Mechanics II
+142121010-ph408 Numerical Methods & Computational Physics
+142121010-ph410 Electrodynamics I
+142121010-ph412 General Physics Laboratory I
+142121011-ph402 Mathematical Physics II
+142121011-ph404 Statistical Mechanics
+142121011-ph406 Quantum Mechanics II
+142121011-ph408 Numerical Methods & Computational Physics
+142121011-ph410 Electrodynamics I
+142121011-ph412 General Physics Laboratory I
+142121012-ph402 Mathematical Physics II
+142121012-ph404 Statistical Mechanics
+142121012-ph406 Quantum Mechanics II
+142121012-ph408 Numerical Methods & Computational Physics
+142121012-ph410 Electrodynamics I
+142121012-ph412 General Physics Laboratory I
+142121013-ph402 Mathematical Physics II
+142121013-ph404 Statistical Mechanics
+142121013-ph406 Quantum Mechanics II
+142121013-ph408 Numerical Methods & Computational Physics
+142121013-ph410 Electrodynamics I
+142121013-ph412 General Physics Laboratory I
+142121014-ph402 Mathematical Physics II
+142121014-ph404 Statistical Mechanics
+142121014-ph406 Quantum Mechanics II
+142121014-ph408 Numerical Methods & Computational Physics
+142121014-ph410 Electrodynamics I
+142121014-ph412 General Physics Laboratory I
+142121015-ph402 Mathematical Physics II
+142121015-ph404 Statistical Mechanics
+142121015-ph406 Quantum Mechanics II
+142121015-ph408 Numerical Methods & Computational Physics
+142121015-ph410 Electrodynamics I
+142121015-ph412 General Physics Laboratory I
+142121016-ph402 Mathematical Physics II
+142121016-ph404 Statistical Mechanics
+142121016-ph406 Quantum Mechanics II
+142121016-ph408 Numerical Methods & Computational Physics
+142121016-ph410 Electrodynamics I
+142121016-ph412 General Physics Laboratory I
+142121017-ph402 Mathematical Physics II
+142121017-ph404 Statistical Mechanics
+142121017-ph406 Quantum Mechanics II
+142121017-ph408 Numerical Methods & Computational Physics
+142121017-ph410 Electrodynamics I
+142121017-ph412 General Physics Laboratory I
+142121018-ph402 Mathematical Physics II
+142121018-ph404 Statistical Mechanics
+142121018-ph406 Quantum Mechanics II
+142121018-ph408 Numerical Methods & Computational Physics
+142121018-ph410 Electrodynamics I
+142121018-ph412 General Physics Laboratory I
+142121019-ph402 Mathematical Physics II
+142121019-ph404 Statistical Mechanics
+142121019-ph406 Quantum Mechanics II
+142121019-ph408 Numerical Methods & Computational Physics
+142121019-ph410 Electrodynamics I
+142121019-ph412 General Physics Laboratory I
+142121020-ph402 Mathematical Physics II
+142121020-ph404 Statistical Mechanics
+142121020-ph406 Quantum Mechanics II
+142121020-ph408 Numerical Methods & Computational Physics
+142121020-ph410 Electrodynamics I
+142121020-ph412 General Physics Laboratory I
+142121021-ph402 Mathematical Physics II
+142121021-ph404 Statistical Mechanics
+142121021-ph406 Quantum Mechanics II
+142121021-ph408 Numerical Methods & Computational Physics
+142121021-ph410 Electrodynamics I
+142121021-ph412 General Physics Laboratory I
+142121022-ph402 Mathematical Physics II
+142121022-ph404 Statistical Mechanics
+142121022-ph406 Quantum Mechanics II
+142121022-ph408 Numerical Methods & Computational Physics
+142121022-ph410 Electrodynamics I
+142121022-ph412 General Physics Laboratory I
+142121023-ph402 Mathematical Physics II
+142121023-ph404 Statistical Mechanics
+142121023-ph406 Quantum Mechanics II
+142121023-ph408 Numerical Methods & Computational Physics
+142121023-ph410 Electrodynamics I
+142121023-ph412 General Physics Laboratory I
+142121024-ph402 Mathematical Physics II
+142121024-ph404 Statistical Mechanics
+142121024-ph406 Quantum Mechanics II
+142121024-ph408 Numerical Methods & Computational Physics
+142121024-ph410 Electrodynamics I
+142121024-ph412 General Physics Laboratory I
+142121025-ph402 Mathematical Physics II
+142121025-ph404 Statistical Mechanics
+142121025-ph406 Quantum Mechanics II
+142121025-ph408 Numerical Methods & Computational Physics
+142121025-ph410 Electrodynamics I
+142121025-ph412 General Physics Laboratory I
+142121026-ph402 Mathematical Physics II
+142121026-ph404 Statistical Mechanics
+142121026-ph406 Quantum Mechanics II
+142121026-ph408 Numerical Methods & Computational Physics
+142121026-ph410 Electrodynamics I
+142121026-ph412 General Physics Laboratory I
+142121027-ph402 Mathematical Physics II
+142121027-ph404 Statistical Mechanics
+142121027-ph406 Quantum Mechanics II
+142121027-ph408 Numerical Methods & Computational Physics
+142121027-ph410 Electrodynamics I
+142121027-ph412 General Physics Laboratory I
+142121028-ph402 Mathematical Physics II
+142121028-ph404 Statistical Mechanics
+142121028-ph406 Quantum Mechanics II
+142121028-ph408 Numerical Methods & Computational Physics
+142121028-ph410 Electrodynamics I
+142121028-ph412 General Physics Laboratory I
+142121029-ph402 Mathematical Physics II
+142121029-ph404 Statistical Mechanics
+142121029-ph406 Quantum Mechanics II
+142121029-ph408 Numerical Methods & Computational Physics
+142121029-ph410 Electrodynamics I
+142121029-ph412 General Physics Laboratory I
+142121030-ph402 Mathematical Physics II
+142121030-ph404 Statistical Mechanics
+142121030-ph406 Quantum Mechanics II
+142121030-ph408 Numerical Methods & Computational Physics
+142121030-ph410 Electrodynamics I
+142121030-ph412 General Physics Laboratory I
+142121031-ph402 Mathematical Physics II
+142121031-ph404 Statistical Mechanics
+142121031-ph406 Quantum Mechanics II
+142121031-ph408 Numerical Methods & Computational Physics
+142121031-ph410 Electrodynamics I
+142121031-ph412 General Physics Laboratory I
+142121032-ph402 Mathematical Physics II
+142121032-ph404 Statistical Mechanics
+142121032-ph406 Quantum Mechanics II
+142121032-ph408 Numerical Methods & Computational Physics
+142121032-ph410 Electrodynamics I
+142121032-ph412 General Physics Laboratory I
+142121033-ph402 Mathematical Physics II
+142121033-ph404 Statistical Mechanics
+142121033-ph406 Quantum Mechanics II
+142121033-ph408 Numerical Methods & Computational Physics
+142121033-ph410 Electrodynamics I
+142121033-ph412 General Physics Laboratory I
+142121034-ph402 Mathematical Physics II
+142121034-ph404 Statistical Mechanics
+142121034-ph406 Quantum Mechanics II
+142121034-ph408 Numerical Methods & Computational Physics
+142121034-ph410 Electrodynamics I
+142121034-ph412 General Physics Laboratory I
+142121035-ph402 Mathematical Physics II
+142121035-ph404 Statistical Mechanics
+142121035-ph406 Quantum Mechanics II
+142121035-ph408 Numerical Methods & Computational Physics
+142121035-ph410 Electrodynamics I
+142121035-ph412 General Physics Laboratory I
+142121036-ph402 Mathematical Physics II
+142121036-ph404 Statistical Mechanics
+142121036-ph406 Quantum Mechanics II
+142121036-ph408 Numerical Methods & Computational Physics
+142121036-ph410 Electrodynamics I
+142121036-ph412 General Physics Laboratory I
+142121037-ph402 Mathematical Physics II
+142121037-ph404 Statistical Mechanics
+142121037-ph406 Quantum Mechanics II
+142121037-ph408 Numerical Methods & Computational Physics
+142121037-ph410 Electrodynamics I
+142121037-ph412 General Physics Laboratory I
+142121038-ph402 Mathematical Physics II
+142121038-ph404 Statistical Mechanics
+142121038-ph406 Quantum Mechanics II
+142121038-ph408 Numerical Methods & Computational Physics
+142121038-ph410 Electrodynamics I
+142121038-ph412 General Physics Laboratory I
+142121039-ph402 Mathematical Physics II
+142121039-ph404 Statistical Mechanics
+142121039-ph406 Quantum Mechanics II
+142121039-ph408 Numerical Methods & Computational Physics
+142121039-ph410 Electrodynamics I
+142121039-ph412 General Physics Laboratory I
+142121040-ph402 Mathematical Physics II
+142121040-ph404 Statistical Mechanics
+142121040-ph406 Quantum Mechanics II
+142121040-ph408 Numerical Methods & Computational Physics
+142121040-ph410 Electrodynamics I
+142121040-ph412 General Physics Laboratory I
+142121041-ph402 Mathematical Physics II
+142121041-ph404 Statistical Mechanics
+142121041-ph406 Quantum Mechanics II
+142121041-ph408 Numerical Methods & Computational Physics
+142121041-ph410 Electrodynamics I
+142121041-ph412 General Physics Laboratory I
+142121042-ph402 Mathematical Physics II
+142121042-ph404 Statistical Mechanics
+142121042-ph406 Quantum Mechanics II
+142121042-ph408 Numerical Methods & Computational Physics
+142121042-ph410 Electrodynamics I
+142121042-ph412 General Physics Laboratory I
+142121043-ph402 Mathematical Physics II
+142121043-ph404 Statistical Mechanics
+142121043-ph406 Quantum Mechanics II
+142121043-ph408 Numerical Methods & Computational Physics
+142121043-ph410 Electrodynamics I
+142121043-ph412 General Physics Laboratory I
+142121044-ph402 Mathematical Physics II
+142121044-ph404 Statistical Mechanics
+142121044-ph406 Quantum Mechanics II
+142121044-ph408 Numerical Methods & Computational Physics
+142121044-ph410 Electrodynamics I
+142121044-ph412 General Physics Laboratory I
+142121045-ph402 Mathematical Physics II
+142121045-ph404 Statistical Mechanics
+142121045-ph406 Quantum Mechanics II
+142121045-ph408 Numerical Methods & Computational Physics
+142121045-ph410 Electrodynamics I
+142121045-ph412 General Physics Laboratory I
+142121047-ph402 Mathematical Physics II
+142121047-ph404 Statistical Mechanics
+142121047-ph406 Quantum Mechanics II
+142121047-ph408 Numerical Methods & Computational Physics
+142121047-ph410 Electrodynamics I
+142121047-ph412 General Physics Laboratory I
+142121048-ph402 Mathematical Physics II
+142121048-ph404 Statistical Mechanics
+142121048-ph406 Quantum Mechanics II
+142121048-ph408 Numerical Methods & Computational Physics
+142121048-ph410 Electrodynamics I
+142121048-ph412 General Physics Laboratory I
+146121030-ph702 Electrodynamics
+146121030-ph703 Quantum Mechanics
+146121030-ph704 Statistical Mechanics
+146121030-ph706 Experimental and Numerical Techniques

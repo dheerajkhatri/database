@@ -1,0 +1,181 @@
+#include <dirent.h>
+#include <iostream>
+#include <bits/stdc++.h>
+#include <algorithm>
+#include <string>
+
+using namespace std;
+
+string basepath = "database/";
+string dept[12] = {"BT","CE","CH","CL","CSE","DD","EEE","HS","MA","ME","PH","SA"};
+map<string,string> mymap;
+map<string,string>coursemap;  //bt101->Biotechnology
+
+void intialize(){
+	mymap["01"] = "CSE"; mymap["02"] = "ECE"; mymap["03"] = "ME"; mymap["04"] = "CE"; mymap["05"] = "DD"; mymap["06"] = "BT";
+	mymap["07"] = "CL"; mymap["08"] = "EEE"; mymap["21"] = "EP"; mymap["22"] = "CT"; mymap["23"] = "MC"; mymap["41"] = "HS";
+}
+
+
+
+//storing all contents of file in vector to display file in given sorted order!
+void ArrangeinFormat(){
+	map<string,string> ::iterator it;
+	vector<string> VforSort;
+	string line,final;
+
+	for(it=mymap.begin();it!=mymap.end();it++){
+		VforSort.clear();
+		ifstream file;
+		file.open((it->second + ".txt").c_str());
+		while ( getline (file,line)  && !line.empty()){
+			VforSort.push_back(line);
+		}
+		sort(VforSort.begin(),VforSort.end());
+		file.close();
+		ofstream filep;
+		filep.open((it->second + ".txt").c_str(),std::ofstream::out);
+		vector<string>::iterator vit;
+		for(vit=VforSort.begin();vit!=VforSort.end();vit++){
+			filep<<*vit<<endl;
+		}
+		filep.close();
+	}
+	
+}
+
+void mapCourse(){
+	ifstream file;
+	file.open("index.txt");
+	string temp,token,line1,line2;
+		
+
+	while(getline (file,temp)){
+		//cout<<temp<<endl;
+    	char * pch;
+    	pch = strtok (const_cast<char*>(temp.c_str()),",");
+    	line1 = string(pch);
+    	//cout<<line1<<endl;
+    	while(pch!=NULL){
+    		pch = strtok(NULL,",");	
+    		line2 = string(pch);
+    		break;
+    	}
+    	
+    	//cout<<line1<<"->"<<line2<<endl;
+    	coursemap[line1] = line2;
+	}
+}
+
+
+void addStudents(const char* filename,int folder){
+
+	//cout<<"course name received is "<<filename<<endl;
+	char *cou,*fil;
+	fil = const_cast<char*>(filename);
+	cou = strtok(fil,".");
+	string course(cou);
+
+	//opening reading file
+	ifstream in_stream;	
+	string lol = filename;
+	string temp = basepath+dept[folder]+"/"+lol+".txt";
+	cout<<"Processing on file "<<temp<<".............."<<endl;
+	in_stream.open(temp.c_str());
+	
+	int i;
+	string line;
+	
+	ofstream myfile;
+	//cin>>line;
+
+	while ( getline (in_stream,line)  && !line.empty()){
+		char *rollno,*stri;
+		//cout<<"line is "<<line<<endl;
+		stri = const_cast<char*>(line.c_str());		
+		rollno = strtok(stri,",");
+		//cout<<rollno<<endl;
+		//cout<<"line and rollno "<<line<<"->"<<rollno<<endl;
+		if(rollno[4]=='0'){			
+			if(rollno[5]=='1'){
+				myfile.open("CSE.txt",ios::app);
+			}else if(rollno[5]=='2'){
+				myfile.open("ECE.txt",ios::app);
+			}else if(rollno[5]=='3'){
+				myfile.open("ME.txt",ios::app);
+			}else if(rollno[5]=='4'){
+				myfile.open("CE.txt",ios::app);
+			}else if(rollno[5]=='5'){
+				myfile.open("DD.txt",ios::app);
+			}else if(rollno[5]=='6'){			
+				myfile.open("BT.txt",ios::app);
+			}else if(rollno[5]=='7'){
+				myfile.open("CL.txt",ios::app);
+			}else if(rollno[5]=='8'){
+				myfile.open("EEE.txt",ios::app);
+			}
+		}else if(rollno[4]=='2'){			
+			if(rollno[5]=='1'){
+				myfile.open("EP.txt",ios::app);
+			}else if(rollno[5]=='2'){
+				myfile.open("CT.txt",ios::app);
+			}else if(rollno[5]=='3'){
+				myfile.open("MC.txt",ios::app);
+			}
+		}else if(rollno[4]=='4'){		
+			if(rollno[5]=='1'){
+				myfile.open("HS.txt",ios::app);
+			}
+		}
+	myfile<<rollno<<"-"<<course<<" "<<coursemap[course]<<endl;
+	//cout<<rollno<<" "<<course<<endl;
+	myfile.close();
+	}
+
+	//closing all files
+	in_stream.close();
+	
+
+	//in reading file for all entries check dept by 5-6 digit and write in corresponding filename
+
+}
+
+int main(){
+	string path;
+	intialize();
+	mapCourse();
+	string temp;
+	//const char basePath[] = "/home/dheeraj/Academic/sem6/db/assn1/as1/database/BT";
+	DIR *d;
+	struct dirent *po;
+	bool isCurrent;
+
+	for(int i=0;i<12;i++){
+
+		string path = basepath+dept[i];
+		//cout<<"i and path is "<<i<<"->"<<path<<endl;
+		const char *Path = path.c_str();
+		d = opendir(Path);
+		
+		po = readdir(d);	
+
+		for(;;){
+			errno = 0;
+			po = readdir(d);
+
+			if(po==NULL)break;					
+
+			if (strcmp(po->d_name, ".") == 0 || strcmp(po->d_name, "..") == 0)
+				continue;
+
+			if(!isCurrent){
+				//cout<<"file is "<<po->d_name<<endl;			
+				addStudents(po->d_name,i);
+			}
+			
+		}
+	}
+	ArrangeinFormat();	
+	cout<<"All Directories and files are processed!\n";
+	return 0;
+}

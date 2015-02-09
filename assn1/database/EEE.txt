@@ -1,0 +1,1109 @@
+11010801-ee499 Project II
+11010801-ee562 Fundamentals of VLSI CAD
+11010801-ee630 Photonic Integrated Circuits
+11010801-ee660 Biometrics
+11010801-ee673 Synchrophasor Technology
+11010801-hs422 Subaltern Voices and Narratives
+11010802-ee499 Project II
+11010802-ee562 Fundamentals of VLSI CAD
+11010802-ee630 Photonic Integrated Circuits
+11010802-ee660 Biometrics
+11010802-ee673 Synchrophasor Technology
+11010802-hs403 Entrepreneurship & Economic Development
+11010803-ee499 Project II
+11010803-ee562 Fundamentals of VLSI CAD
+11010803-ee625 Computer Vision
+11010803-ee660 Biometrics
+11010803-ee661 Selected Topics in Information Theory
+11010803-hs406 Philosophical Issues
+11010804-hs420 Writing Systems of the World
+11010805-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+11010805-ee499 Project II
+11010805-ee562 Fundamentals of VLSI CAD
+11010805-ee630 Photonic Integrated Circuits
+11010805-ee660 Biometrics
+11010805-ee673 Synchrophasor Technology
+11010805-hs423 Masculinities in Literature and Popular Culture
+11010806-bt630 Physical Cell Biology
+11010806-ee499 Project II
+11010806-ee625 Computer Vision
+11010806-ee628 Speech Technology
+11010806-ee660 Biometrics
+11010806-hs403 Entrepreneurship & Economic Development
+11010807-hs420 Writing Systems of the World
+11010808-ee499 Project II
+11010808-ee562 Fundamentals of VLSI CAD
+11010808-ee630 Photonic Integrated Circuits
+11010808-ee660 Biometrics
+11010808-ee673 Synchrophasor Technology
+11010808-hs423 Masculinities in Literature and Popular Culture
+11010809-ee499 Project II
+11010809-ee562 Fundamentals of VLSI CAD
+11010809-ee660 Biometrics
+11010809-ee661 Selected Topics in Information Theory
+11010809-ee673 Synchrophasor Technology
+11010809-hs403 Entrepreneurship & Economic Development
+11010810-hs422 Subaltern Voices and Narratives
+11010811-ee499 Project II
+11010811-ee562 Fundamentals of VLSI CAD
+11010811-ee630 Photonic Integrated Circuits
+11010811-ee660 Biometrics
+11010811-ee673 Synchrophasor Technology
+11010811-hs420 Writing Systems of the World
+11010812-ee499 Project II
+11010812-ee625 Computer Vision
+11010812-ee628 Speech Technology
+11010812-ee653 Nonlinear Systems and Control
+11010812-ee660 Biometrics
+11010812-hs423 Masculinities in Literature and Popular Culture
+11010814-hs410 History of Contemporary India
+11010816-ee499 Project II
+11010816-ee562 Fundamentals of VLSI CAD
+11010816-ee660 Biometrics
+11010816-ee661 Selected Topics in Information Theory
+11010816-ee673 Synchrophasor Technology
+11010816-hs423 Masculinities in Literature and Popular Culture
+11010818-ee499 Project II
+11010818-ee626 Biomedical Signal Processing
+11010818-ee641 Modeling & Simulation of Advanced Nanoscale Devices
+11010818-ee653 Nonlinear Systems and Control
+11010818-ee660 Biometrics
+11010818-hs420 Writing Systems of the World
+11010819-ee499 Project II
+11010819-ee625 Computer Vision
+11010819-ee628 Speech Technology
+11010819-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010819-ee660 Biometrics
+11010819-hs422 Subaltern Voices and Narratives
+11010820-bt630 Physical Cell Biology
+11010820-cs350M 
+11010820-ee499 Project II
+11010820-ee625 Computer Vision
+11010820-ee628 Speech Technology
+11010820-ee660 Biometrics
+11010820-hs423 Masculinities in Literature and Popular Culture
+11010821-ee499 Project II
+11010821-ee625 Computer Vision
+11010821-ee628 Speech Technology
+11010821-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010821-ee660 Biometrics
+11010822-hs423 Masculinities in Literature and Popular Culture
+11010823-ee499 Project II
+11010823-ee562 Fundamentals of VLSI CAD
+11010823-ee660 Biometrics
+11010823-ee661 Selected Topics in Information Theory
+11010823-ee673 Synchrophasor Technology
+11010824-ee499 Project II
+11010824-ee562 Fundamentals of VLSI CAD
+11010824-ee625 Computer Vision
+11010824-ee628 Speech Technology
+11010824-ee660 Biometrics
+11010824-hs420 Writing Systems of the World
+11010825-ee499 Project II
+11010825-ee625 Computer Vision
+11010825-ee628 Speech Technology
+11010825-ee660 Biometrics
+11010825-hs423 Masculinities in Literature and Popular Culture
+11010825-ph446 Fundamentals of Astrophysics
+11010826-ee499 Project II
+11010826-ee562 Fundamentals of VLSI CAD
+11010826-ee630 Photonic Integrated Circuits
+11010826-ee660 Biometrics
+11010826-ee673 Synchrophasor Technology
+11010826-hs422 Subaltern Voices and Narratives
+11010827-ee499 Project II
+11010827-ee562 Fundamentals of VLSI CAD
+11010827-ee625 Computer Vision
+11010827-ee629 Insulation and High Voltage Engineering
+11010827-ee640 Modeling and Control of Power Electronic Converters
+11010827-hs420 Writing Systems of the World
+11010828-ee499 Project II
+11010828-ee562 Fundamentals of VLSI CAD
+11010828-ee630 Photonic Integrated Circuits
+11010828-ee660 Biometrics
+11010828-ee673 Synchrophasor Technology
+11010828-hs422 Subaltern Voices and Narratives
+11010829-ee499 Project II
+11010829-ee625 Computer Vision
+11010829-ee628 Speech Technology
+11010829-ee653 Nonlinear Systems and Control
+11010829-ee660 Biometrics
+11010829-hs403 Entrepreneurship & Economic Development
+11010830-hs420 Writing Systems of the World
+11010831-ee499 Project II
+11010831-ee562 Fundamentals of VLSI CAD
+11010831-ee660 Biometrics
+11010831-ee661 Selected Topics in Information Theory
+11010831-ee673 Synchrophasor Technology
+11010831-hs420 Writing Systems of the World
+11010832-ee499 Project II
+11010832-ee625 Computer Vision
+11010832-ee628 Speech Technology
+11010832-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010832-ee660 Biometrics
+11010832-hs406 Philosophical Issues
+11010834-hs420 Writing Systems of the World
+11010835-ee499 Project II
+11010835-ee562 Fundamentals of VLSI CAD
+11010835-ee660 Biometrics
+11010835-ee661 Selected Topics in Information Theory
+11010835-ee673 Synchrophasor Technology
+11010835-hs410 History of Contemporary India
+11010836-ee499 Project II
+11010836-ee628 Speech Technology
+11010836-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010836-ee660 Biometrics
+11010836-ee673 Synchrophasor Technology
+11010836-hs403 Entrepreneurship & Economic Development
+11010837-ee499 Project II
+11010837-ee562 Fundamentals of VLSI CAD
+11010837-ee628 Speech Technology
+11010837-ee660 Biometrics
+11010837-ee673 Synchrophasor Technology
+11010837-hs406 Philosophical Issues
+11010838-ee499 Project II
+11010838-ee562 Fundamentals of VLSI CAD
+11010838-ee626 Biomedical Signal Processing
+11010838-ee660 Biometrics
+11010838-ee673 Synchrophasor Technology
+11010838-hs420 Writing Systems of the World
+11010839-hs403 Entrepreneurship & Economic Development
+11010840-ee499 Project II
+11010840-ee562 Fundamentals of VLSI CAD
+11010840-ee625 Computer Vision
+11010840-ee628 Speech Technology
+11010840-ee660 Biometrics
+11010841-ee499 Project II
+11010841-ee562 Fundamentals of VLSI CAD
+11010841-ee625 Computer Vision
+11010841-ee628 Speech Technology
+11010841-ee660 Biometrics
+11010841-hs406 Philosophical Issues
+11010842-ee499 Project II
+11010842-ee625 Computer Vision
+11010842-ee628 Speech Technology
+11010842-ee660 Biometrics
+11010842-hs423 Masculinities in Literature and Popular Culture
+11010842-ph446 Fundamentals of Astrophysics
+11010843-ee499 Project II
+11010843-ee625 Computer Vision
+11010843-ee626 Biomedical Signal Processing
+11010843-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010843-ee660 Biometrics
+11010843-hs406 Philosophical Issues
+11010844-ee499 Project II
+11010844-ee625 Computer Vision
+11010844-ee628 Speech Technology
+11010844-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010844-ee660 Biometrics
+11010844-hs406 Philosophical Issues
+11010845-ee499 Project II
+11010845-ee625 Computer Vision
+11010845-ee628 Speech Technology
+11010845-ee653 Nonlinear Systems and Control
+11010845-ee660 Biometrics
+11010845-hs423 Masculinities in Literature and Popular Culture
+11010846-ee499 Project II
+11010846-ee562 Fundamentals of VLSI CAD
+11010846-ee626 Biomedical Signal Processing
+11010846-ee641 Modeling & Simulation of Advanced Nanoscale Devices
+11010846-ee660 Biometrics
+11010846-hs406 Philosophical Issues
+11010847-ee499 Project II
+11010847-ee562 Fundamentals of VLSI CAD
+11010847-ee626 Biomedical Signal Processing
+11010847-ee641 Modeling & Simulation of Advanced Nanoscale Devices
+11010847-ee660 Biometrics
+11010848-ee499 Project II
+11010848-ee625 Computer Vision
+11010848-ee626 Biomedical Signal Processing
+11010848-ee639 Sparse Representation & Compressive Sensing: Theory & Applications
+11010848-ee660 Biometrics
+11010848-hs410 History of Contemporary India
+120108001-ee304 Design Laboratory
+120108001-ee351 Advanced Control Systems
+120108001-ee360 Embedded Systems
+120108001-ee371 Control and Instrumentation Lab
+120108001-ee385 Power Electronics and Drives
+120108001-ee657 Pattern Recognition and Machine Learning
+120108003-ee304 Design Laboratory
+120108003-ee351 Advanced Control Systems
+120108003-ee360 Embedded Systems
+120108003-ee371 Control and Instrumentation Lab
+120108003-ee385 Power Electronics and Drives
+120108003-ee657 Pattern Recognition and Machine Learning
+120108004-ee304 Design Laboratory
+120108004-ee351 Advanced Control Systems
+120108004-ee360 Embedded Systems
+120108004-ee371 Control and Instrumentation Lab
+120108004-ee385 Power Electronics and Drives
+120108004-ee657 Pattern Recognition and Machine Learning
+120108005-ee304 Design Laboratory
+120108005-ee351 Advanced Control Systems
+120108005-ee360 Embedded Systems
+120108005-ee371 Control and Instrumentation Lab
+120108005-ee385 Power Electronics and Drives
+120108005-ee657 Pattern Recognition and Machine Learning
+120108006-ee304 Design Laboratory
+120108006-ee351 Advanced Control Systems
+120108006-ee360 Embedded Systems
+120108006-ee371 Control and Instrumentation Lab
+120108006-ee385 Power Electronics and Drives
+120108006-ee657 Pattern Recognition and Machine Learning
+120108007-ee304 Design Laboratory
+120108007-ee351 Advanced Control Systems
+120108007-ee360 Embedded Systems
+120108007-ee371 Control and Instrumentation Lab
+120108007-ee385 Power Electronics and Drives
+120108007-ee657 Pattern Recognition and Machine Learning
+120108009-ee304 Design Laboratory
+120108009-ee351 Advanced Control Systems
+120108009-ee360 Embedded Systems
+120108009-ee371 Control and Instrumentation Lab
+120108009-ee385 Power Electronics and Drives
+120108009-ee657 Pattern Recognition and Machine Learning
+120108011-ee304 Design Laboratory
+120108011-ee351 Advanced Control Systems
+120108011-ee360 Embedded Systems
+120108011-ee371 Control and Instrumentation Lab
+120108011-ee385 Power Electronics and Drives
+120108011-ee657 Pattern Recognition and Machine Learning
+120108013-ee304 Design Laboratory
+120108013-ee351 Advanced Control Systems
+120108013-ee360 Embedded Systems
+120108013-ee371 Control and Instrumentation Lab
+120108013-ee385 Power Electronics and Drives
+120108013-ee657 Pattern Recognition and Machine Learning
+120108014-cs350M 
+120108014-ee304 Design Laboratory
+120108014-ee351 Advanced Control Systems
+120108014-ee360 Embedded Systems
+120108014-ee371 Control and Instrumentation Lab
+120108014-ee385 Power Electronics and Drives
+120108014-ph445 Optical Communication Systems
+120108019-ee304 Design Laboratory
+120108019-ee351 Advanced Control Systems
+120108019-ee360 Embedded Systems
+120108019-ee371 Control and Instrumentation Lab
+120108019-ee385 Power Electronics and Drives
+120108019-ee657 Pattern Recognition and Machine Learning
+120108020-ee304 Design Laboratory
+120108020-ee351 Advanced Control Systems
+120108020-ee360 Embedded Systems
+120108020-ee371 Control and Instrumentation Lab
+120108020-ee385 Power Electronics and Drives
+120108020-ee657 Pattern Recognition and Machine Learning
+120108021-ee304 Design Laboratory
+120108021-ee351 Advanced Control Systems
+120108021-ee360 Embedded Systems
+120108021-ee371 Control and Instrumentation Lab
+120108021-ee385 Power Electronics and Drives
+120108021-ee657 Pattern Recognition and Machine Learning
+120108023-ee304 Design Laboratory
+120108023-ee351 Advanced Control Systems
+120108023-ee360 Embedded Systems
+120108023-ee371 Control and Instrumentation Lab
+120108023-ee385 Power Electronics and Drives
+120108023-ee657 Pattern Recognition and Machine Learning
+120108026-ee304 Design Laboratory
+120108026-ee351 Advanced Control Systems
+120108026-ee360 Embedded Systems
+120108026-ee371 Control and Instrumentation Lab
+120108026-ee385 Power Electronics and Drives
+120108026-ee657 Pattern Recognition and Machine Learning
+120108027-ee304 Design Laboratory
+120108027-ee351 Advanced Control Systems
+120108027-ee360 Embedded Systems
+120108027-ee371 Control and Instrumentation Lab
+120108027-ee385 Power Electronics and Drives
+120108027-ee657 Pattern Recognition and Machine Learning
+120108028-ee304 Design Laboratory
+120108028-ee351 Advanced Control Systems
+120108028-ee360 Embedded Systems
+120108028-ee371 Control and Instrumentation Lab
+120108028-ee385 Power Electronics and Drives
+120108028-ee657 Pattern Recognition and Machine Learning
+120108029-ee304 Design Laboratory
+120108029-ee351 Advanced Control Systems
+120108029-ee360 Embedded Systems
+120108029-ee371 Control and Instrumentation Lab
+120108029-ee385 Power Electronics and Drives
+120108029-ee657 Pattern Recognition and Machine Learning
+120108030-ee304 Design Laboratory
+120108030-ee351 Advanced Control Systems
+120108030-ee360 Embedded Systems
+120108030-ee371 Control and Instrumentation Lab
+120108030-ee385 Power Electronics and Drives
+120108030-ee657 Pattern Recognition and Machine Learning
+120108031-ee304 Design Laboratory
+120108031-ee351 Advanced Control Systems
+120108031-ee360 Embedded Systems
+120108031-ee371 Control and Instrumentation Lab
+120108031-ee385 Power Electronics and Drives
+120108031-ee657 Pattern Recognition and Machine Learning
+120108032-ee304 Design Laboratory
+120108032-ee351 Advanced Control Systems
+120108032-ee360 Embedded Systems
+120108032-ee371 Control and Instrumentation Lab
+120108032-ee385 Power Electronics and Drives
+120108032-ee657 Pattern Recognition and Machine Learning
+120108034-cs350M 
+120108034-ee304 Design Laboratory
+120108034-ee351 Advanced Control Systems
+120108034-ee360 Embedded Systems
+120108034-ee371 Control and Instrumentation Lab
+120108034-ee385 Power Electronics and Drives
+120108034-ee657 Pattern Recognition and Machine Learning
+120108035-dd320m Product Planning and Strategy
+120108035-ee304 Design Laboratory
+120108035-ee351 Advanced Control Systems
+120108035-ee360 Embedded Systems
+120108035-ee371 Control and Instrumentation Lab
+120108035-ee385 Power Electronics and Drives
+120108035-ee657 Pattern Recognition and Machine Learning
+120108036-ee304 Design Laboratory
+120108036-ee351 Advanced Control Systems
+120108036-ee360 Embedded Systems
+120108036-ee371 Control and Instrumentation Lab
+120108036-ee385 Power Electronics and Drives
+120108036-ee657 Pattern Recognition and Machine Learning
+120108037-ee304 Design Laboratory
+120108037-ee351 Advanced Control Systems
+120108037-ee360 Embedded Systems
+120108037-ee371 Control and Instrumentation Lab
+120108037-ee385 Power Electronics and Drives
+120108037-ee657 Pattern Recognition and Machine Learning
+120108038-ee304 Design Laboratory
+120108038-ee351 Advanced Control Systems
+120108038-ee360 Embedded Systems
+120108038-ee371 Control and Instrumentation Lab
+120108038-ee385 Power Electronics and Drives
+120108038-ee657 Pattern Recognition and Machine Learning
+120108039-ee304 Design Laboratory
+120108039-ee351 Advanced Control Systems
+120108039-ee360 Embedded Systems
+120108039-ee371 Control and Instrumentation Lab
+120108039-ee385 Power Electronics and Drives
+120108039-ee657 Pattern Recognition and Machine Learning
+120108041-ee304 Design Laboratory
+120108041-ee351 Advanced Control Systems
+120108041-ee360 Embedded Systems
+120108041-ee371 Control and Instrumentation Lab
+120108041-ee385 Power Electronics and Drives
+120108041-ee657 Pattern Recognition and Machine Learning
+120108043-cs350M 
+120108043-ee304 Design Laboratory
+120108043-ee351 Advanced Control Systems
+120108043-ee360 Embedded Systems
+120108043-ee371 Control and Instrumentation Lab
+120108043-ee385 Power Electronics and Drives
+120108043-ee657 Pattern Recognition and Machine Learning
+120108044-ee304 Design Laboratory
+120108044-ee351 Advanced Control Systems
+120108044-ee360 Embedded Systems
+120108044-ee371 Control and Instrumentation Lab
+120108044-ee385 Power Electronics and Drives
+120108044-ee657 Pattern Recognition and Machine Learning
+120108045-ee304 Design Laboratory
+120108045-ee351 Advanced Control Systems
+120108045-ee360 Embedded Systems
+120108045-ee371 Control and Instrumentation Lab
+120108045-ee385 Power Electronics and Drives
+120108045-ee657 Pattern Recognition and Machine Learning
+120108046-ee304 Design Laboratory
+120108046-ee351 Advanced Control Systems
+120108046-ee360 Embedded Systems
+120108046-ee371 Control and Instrumentation Lab
+120108046-ee385 Power Electronics and Drives
+120108046-ee657 Pattern Recognition and Machine Learning
+120108047-cs350M 
+120108047-ee304 Design Laboratory
+120108047-ee351 Advanced Control Systems
+120108047-ee360 Embedded Systems
+120108047-ee371 Control and Instrumentation Lab
+120108047-ee385 Power Electronics and Drives
+120108047-ee657 Pattern Recognition and Machine Learning
+120108048-ee304 Design Laboratory
+120108048-ee351 Advanced Control Systems
+120108048-ee360 Embedded Systems
+120108048-ee371 Control and Instrumentation Lab
+120108048-ee385 Power Electronics and Drives
+120108048-ee657 Pattern Recognition and Machine Learning
+120108049-cs350M 
+120108049-ee304 Design Laboratory
+120108049-ee351 Advanced Control Systems
+120108049-ee360 Embedded Systems
+120108049-ee371 Control and Instrumentation Lab
+120108049-ee385 Power Electronics and Drives
+120108049-ee657 Pattern Recognition and Machine Learning
+120108050-ee304 Design Laboratory
+120108050-ee351 Advanced Control Systems
+120108050-ee360 Embedded Systems
+120108050-ee371 Control and Instrumentation Lab
+120108050-ee385 Power Electronics and Drives
+120108050-ee657 Pattern Recognition and Machine Learning
+120108051-ee351 Advanced Control Systems
+120108051-ee360 Embedded Systems
+120108051-ee371 Control and Instrumentation Lab
+120108051-ee385 Power Electronics and Drives
+120108051-ee657 Pattern Recognition and Machine Learning
+130108001-dd220m Introduction to Ergonomics
+130108001-ee203 Analog Integrated Circuits
+130108001-ee204 Analog Circuits Laboratory
+130108001-ee221 Probability and Random Processes
+130108001-ee230 Principles of Communication
+130108001-ee270 Measurement and Instrumentation
+130108001-hs213 Consumer Behaviour
+130108002-dd220m Introduction to Ergonomics
+130108002-ee203 Analog Integrated Circuits
+130108002-ee204 Analog Circuits Laboratory
+130108002-ee221 Probability and Random Processes
+130108002-ee230 Principles of Communication
+130108002-ee270 Measurement and Instrumentation
+130108002-hs213 Consumer Behaviour
+130108003-ee203 Analog Integrated Circuits
+130108003-ee204 Analog Circuits Laboratory
+130108003-ee221 Probability and Random Processes
+130108003-ee230 Principles of Communication
+130108003-ee270 Measurement and Instrumentation
+130108003-hs234 Introduction to Linguistics
+130108004-ee203 Analog Integrated Circuits
+130108004-ee204 Analog Circuits Laboratory
+130108004-ee221 Probability and Random Processes
+130108004-ee230 Principles of Communication
+130108004-ee270 Measurement and Instrumentation
+130108004-hs203 Problems of Philosophy
+130108005-ee203 Analog Integrated Circuits
+130108005-ee204 Analog Circuits Laboratory
+130108005-ee221 Probability and Random Processes
+130108005-ee230 Principles of Communication
+130108005-ee270 Measurement and Instrumentation
+130108005-hs222 Understanding Psychology : Individual and Works Settings
+130108006-ee203 Analog Integrated Circuits
+130108006-ee204 Analog Circuits Laboratory
+130108006-ee221 Probability and Random Processes
+130108006-ee230 Principles of Communication
+130108006-ee270 Measurement and Instrumentation
+130108006-hs213 Consumer Behaviour
+130108006-ma212m Mathematical Statistics
+130108008-ee203 Analog Integrated Circuits
+130108008-ee204 Analog Circuits Laboratory
+130108008-ee221 Probability and Random Processes
+130108008-ee230 Principles of Communication
+130108008-ee270 Measurement and Instrumentation
+130108008-hs237 Introduction to Archeology
+130108009-ee203 Analog Integrated Circuits
+130108009-ee204 Analog Circuits Laboratory
+130108009-ee221 Probability and Random Processes
+130108009-ee230 Principles of Communication
+130108009-ee270 Measurement and Instrumentation
+130108009-hs216 Sociology of India : Conformities & Contradictions
+130108010-ee203 Analog Integrated Circuits
+130108010-ee204 Analog Circuits Laboratory
+130108010-ee221 Probability and Random Processes
+130108010-ee230 Principles of Communication
+130108010-ee270 Measurement and Instrumentation
+130108010-hs237 Introduction to Archeology
+130108012-dd220m Introduction to Ergonomics
+130108012-ee203 Analog Integrated Circuits
+130108012-ee204 Analog Circuits Laboratory
+130108012-ee221 Probability and Random Processes
+130108012-ee230 Principles of Communication
+130108012-ee270 Measurement and Instrumentation
+130108012-hs213 Consumer Behaviour
+130108013-ee203 Analog Integrated Circuits
+130108013-ee204 Analog Circuits Laboratory
+130108013-ee221 Probability and Random Processes
+130108013-ee230 Principles of Communication
+130108013-ee270 Measurement and Instrumentation
+130108013-hs234 Introduction to Linguistics
+130108014-cs206M 
+130108014-ee203 Analog Integrated Circuits
+130108014-ee204 Analog Circuits Laboratory
+130108014-ee221 Probability and Random Processes
+130108014-ee230 Principles of Communication
+130108014-ee270 Measurement and Instrumentation
+130108014-hs216 Sociology of India : Conformities & Contradictions
+130108015-ee203 Analog Integrated Circuits
+130108015-ee204 Analog Circuits Laboratory
+130108015-ee221 Probability and Random Processes
+130108015-ee230 Principles of Communication
+130108015-ee270 Measurement and Instrumentation
+130108015-hs213 Consumer Behaviour
+130108016-dd220m Introduction to Ergonomics
+130108016-ee203 Analog Integrated Circuits
+130108016-ee204 Analog Circuits Laboratory
+130108016-ee221 Probability and Random Processes
+130108016-ee230 Principles of Communication
+130108016-ee270 Measurement and Instrumentation
+130108016-hs234 Introduction to Linguistics
+130108018-ee203 Analog Integrated Circuits
+130108018-ee204 Analog Circuits Laboratory
+130108018-ee221 Probability and Random Processes
+130108018-ee230 Principles of Communication
+130108018-ee270 Measurement and Instrumentation
+130108018-hs223 Language and Society
+130108018-ma212m Mathematical Statistics
+130108019-ee203 Analog Integrated Circuits
+130108019-ee204 Analog Circuits Laboratory
+130108019-ee221 Probability and Random Processes
+130108019-ee230 Principles of Communication
+130108019-ee270 Measurement and Instrumentation
+130108019-hs226 Macroeconomics
+130108020-ee203 Analog Integrated Circuits
+130108020-ee204 Analog Circuits Laboratory
+130108020-ee221 Probability and Random Processes
+130108020-ee230 Principles of Communication
+130108020-ee270 Measurement and Instrumentation
+130108020-hs203 Problems of Philosophy
+130108020-ph282m Engineering Optics
+130108021-ee203 Analog Integrated Circuits
+130108021-ee204 Analog Circuits Laboratory
+130108021-ee221 Probability and Random Processes
+130108021-ee230 Principles of Communication
+130108021-ee270 Measurement and Instrumentation
+130108021-hs216 Sociology of India : Conformities & Contradictions
+130108022-dd220m Introduction to Ergonomics
+130108022-ee203 Analog Integrated Circuits
+130108022-ee204 Analog Circuits Laboratory
+130108022-ee221 Probability and Random Processes
+130108022-ee230 Principles of Communication
+130108022-ee270 Measurement and Instrumentation
+130108022-hs203 Problems of Philosophy
+130108023-ee203 Analog Integrated Circuits
+130108023-ee204 Analog Circuits Laboratory
+130108023-ee221 Probability and Random Processes
+130108023-ee230 Principles of Communication
+130108023-ee270 Measurement and Instrumentation
+130108023-hs222 Understanding Psychology : Individual and Works Settings
+130108024-dd220m Introduction to Ergonomics
+130108024-ee203 Analog Integrated Circuits
+130108024-ee204 Analog Circuits Laboratory
+130108024-ee221 Probability and Random Processes
+130108024-ee230 Principles of Communication
+130108024-ee270 Measurement and Instrumentation
+130108024-hs226 Macroeconomics
+130108025-ee203 Analog Integrated Circuits
+130108025-ee204 Analog Circuits Laboratory
+130108025-ee221 Probability and Random Processes
+130108025-ee230 Principles of Communication
+130108025-ee270 Measurement and Instrumentation
+130108025-hs216 Sociology of India : Conformities & Contradictions
+130108026-cs206M 
+130108026-ee203 Analog Integrated Circuits
+130108026-ee204 Analog Circuits Laboratory
+130108026-ee221 Probability and Random Processes
+130108026-ee230 Principles of Communication
+130108026-ee270 Measurement and Instrumentation
+130108026-hs216 Sociology of India : Conformities & Contradictions
+130108027-ee203 Analog Integrated Circuits
+130108027-ee204 Analog Circuits Laboratory
+130108027-ee221 Probability and Random Processes
+130108027-ee230 Principles of Communication
+130108027-ee270 Measurement and Instrumentation
+130108027-hs234 Introduction to Linguistics
+130108028-ee203 Analog Integrated Circuits
+130108028-ee204 Analog Circuits Laboratory
+130108028-ee221 Probability and Random Processes
+130108028-ee230 Principles of Communication
+130108028-ee270 Measurement and Instrumentation
+130108028-hs222 Understanding Psychology : Individual and Works Settings
+130108029-cs206M 
+130108029-ee203 Analog Integrated Circuits
+130108029-ee204 Analog Circuits Laboratory
+130108029-ee221 Probability and Random Processes
+130108029-ee230 Principles of Communication
+130108029-ee270 Measurement and Instrumentation
+130108029-hs226 Macroeconomics
+130108030-cs206M 
+130108030-ee203 Analog Integrated Circuits
+130108030-ee204 Analog Circuits Laboratory
+130108030-ee221 Probability and Random Processes
+130108030-ee230 Principles of Communication
+130108030-ee270 Measurement and Instrumentation
+130108030-hs226 Macroeconomics
+130108031-ee203 Analog Integrated Circuits
+130108031-ee204 Analog Circuits Laboratory
+130108031-ee221 Probability and Random Processes
+130108031-ee230 Principles of Communication
+130108031-ee270 Measurement and Instrumentation
+130108031-hs203 Problems of Philosophy
+130108032-ee203 Analog Integrated Circuits
+130108032-ee204 Analog Circuits Laboratory
+130108032-ee221 Probability and Random Processes
+130108032-ee230 Principles of Communication
+130108032-ee270 Measurement and Instrumentation
+130108032-hs203 Problems of Philosophy
+130108033-ee203 Analog Integrated Circuits
+130108033-ee204 Analog Circuits Laboratory
+130108033-ee221 Probability and Random Processes
+130108033-ee230 Principles of Communication
+130108033-ee270 Measurement and Instrumentation
+130108033-hs223 Language and Society
+130108034-dd220m Introduction to Ergonomics
+130108034-ee203 Analog Integrated Circuits
+130108034-ee204 Analog Circuits Laboratory
+130108034-ee221 Probability and Random Processes
+130108034-ee230 Principles of Communication
+130108034-ee270 Measurement and Instrumentation
+130108034-hs223 Language and Society
+130108035-ee203 Analog Integrated Circuits
+130108035-ee204 Analog Circuits Laboratory
+130108035-ee221 Probability and Random Processes
+130108035-ee230 Principles of Communication
+130108035-ee270 Measurement and Instrumentation
+130108035-hs222 Understanding Psychology : Individual and Works Settings
+130108036-ee203 Analog Integrated Circuits
+130108036-ee204 Analog Circuits Laboratory
+130108036-ee221 Probability and Random Processes
+130108036-ee230 Principles of Communication
+130108036-ee270 Measurement and Instrumentation
+130108036-hs203 Problems of Philosophy
+130108037-ee203 Analog Integrated Circuits
+130108037-ee204 Analog Circuits Laboratory
+130108037-ee221 Probability and Random Processes
+130108037-ee230 Principles of Communication
+130108037-ee270 Measurement and Instrumentation
+130108037-hs223 Language and Society
+130108038-ee203 Analog Integrated Circuits
+130108038-ee204 Analog Circuits Laboratory
+130108038-ee221 Probability and Random Processes
+130108038-ee230 Principles of Communication
+130108038-ee270 Measurement and Instrumentation
+130108038-hs234 Introduction to Linguistics
+130108039-hs222 Understanding Psychology : Individual and Works Settings
+130108040-ee203 Analog Integrated Circuits
+130108040-ee204 Analog Circuits Laboratory
+130108040-ee221 Probability and Random Processes
+130108040-ee230 Principles of Communication
+130108040-ee270 Measurement and Instrumentation
+130108040-hs237 Introduction to Archeology
+130108041-ee203 Analog Integrated Circuits
+130108041-ee204 Analog Circuits Laboratory
+130108041-ee221 Probability and Random Processes
+130108041-ee230 Principles of Communication
+130108041-ee270 Measurement and Instrumentation
+130108041-hs237 Introduction to Archeology
+130108042-ee203 Analog Integrated Circuits
+130108042-ee204 Analog Circuits Laboratory
+130108042-ee221 Probability and Random Processes
+130108042-ee230 Principles of Communication
+130108042-ee270 Measurement and Instrumentation
+130108042-hs237 Introduction to Archeology
+130108043-cs206M 
+130108043-ee203 Analog Integrated Circuits
+130108043-ee204 Analog Circuits Laboratory
+130108043-ee221 Probability and Random Processes
+130108043-ee230 Principles of Communication
+130108043-ee270 Measurement and Instrumentation
+130108043-hs226 Macroeconomics
+130108044-bt202m Molecular Biotechnology
+130108044-ee203 Analog Integrated Circuits
+130108044-ee204 Analog Circuits Laboratory
+130108044-ee221 Probability and Random Processes
+130108044-ee230 Principles of Communication
+130108044-ee270 Measurement and Instrumentation
+130108044-hs226 Macroeconomics
+130108045-cs206M 
+130108045-ee203 Analog Integrated Circuits
+130108045-ee204 Analog Circuits Laboratory
+130108045-ee221 Probability and Random Processes
+130108045-ee230 Principles of Communication
+130108045-ee270 Measurement and Instrumentation
+130108045-hs226 Macroeconomics
+130108046-cs206M 
+130108046-ee203 Analog Integrated Circuits
+130108046-ee204 Analog Circuits Laboratory
+130108046-ee221 Probability and Random Processes
+130108046-ee230 Principles of Communication
+130108046-ee270 Measurement and Instrumentation
+130108046-hs213 Consumer Behaviour
+130108047-cs206M 
+130108047-ee203 Analog Integrated Circuits
+130108047-ee204 Analog Circuits Laboratory
+130108047-ee221 Probability and Random Processes
+130108047-ee230 Principles of Communication
+130108047-ee270 Measurement and Instrumentation
+130108047-hs216 Sociology of India : Conformities & Contradictions
+130108048-ee203 Analog Integrated Circuits
+130108048-ee204 Analog Circuits Laboratory
+130108048-ee221 Probability and Random Processes
+130108048-ee230 Principles of Communication
+130108048-ee270 Measurement and Instrumentation
+130108048-hs203 Problems of Philosophy
+130108049-cs206M 
+130108049-ee203 Analog Integrated Circuits
+130108049-ee204 Analog Circuits Laboratory
+130108049-ee221 Probability and Random Processes
+130108049-ee230 Principles of Communication
+130108049-ee270 Measurement and Instrumentation
+130108049-hs213 Consumer Behaviour
+140108001-bt101 Modern Biology
+140108001-cs101 Introduction to Computing
+140108001-cs110 Computing Lab
+140108001-ee102 Basic Electronics Laboratory
+140108001-ma102 Mathematics II
+140108001-me101 Engineering Mechanics
+140108001-ph102 Physics II
+140108001-ph110 Physics Lab.
+140108001-sa102 Course Name/Course No Not Found
+140108002-bt101 Modern Biology
+140108002-cs101 Introduction to Computing
+140108002-cs110 Computing Lab
+140108002-ee102 Basic Electronics Laboratory
+140108002-ma102 Mathematics II
+140108002-me101 Engineering Mechanics
+140108002-ph102 Physics II
+140108002-ph110 Physics Lab.
+140108002-sa102 Course Name/Course No Not Found
+140108003-bt101 Modern Biology
+140108003-cs101 Introduction to Computing
+140108003-cs110 Computing Lab
+140108003-ee102 Basic Electronics Laboratory
+140108003-ma102 Mathematics II
+140108003-me101 Engineering Mechanics
+140108003-ph102 Physics II
+140108003-ph110 Physics Lab.
+140108003-sa102 Course Name/Course No Not Found
+140108004-bt101 Modern Biology
+140108004-cs101 Introduction to Computing
+140108004-cs110 Computing Lab
+140108004-ee102 Basic Electronics Laboratory
+140108004-ma102 Mathematics II
+140108004-me101 Engineering Mechanics
+140108004-ph102 Physics II
+140108004-ph110 Physics Lab.
+140108004-sa102 Course Name/Course No Not Found
+140108005-bt101 Modern Biology
+140108005-cs101 Introduction to Computing
+140108005-cs110 Computing Lab
+140108005-ee102 Basic Electronics Laboratory
+140108005-ma102 Mathematics II
+140108005-me101 Engineering Mechanics
+140108005-ph102 Physics II
+140108005-ph110 Physics Lab.
+140108005-sa102 Course Name/Course No Not Found
+140108006-bt101 Modern Biology
+140108006-cs101 Introduction to Computing
+140108006-cs110 Computing Lab
+140108006-ee102 Basic Electronics Laboratory
+140108006-ma102 Mathematics II
+140108006-me101 Engineering Mechanics
+140108006-ph102 Physics II
+140108006-ph110 Physics Lab.
+140108006-sa102 Course Name/Course No Not Found
+140108007-bt101 Modern Biology
+140108007-cs101 Introduction to Computing
+140108007-cs110 Computing Lab
+140108007-ee102 Basic Electronics Laboratory
+140108007-ma102 Mathematics II
+140108007-me101 Engineering Mechanics
+140108007-ph102 Physics II
+140108007-ph110 Physics Lab.
+140108007-sa102 Course Name/Course No Not Found
+140108008-bt101 Modern Biology
+140108008-cs101 Introduction to Computing
+140108008-cs110 Computing Lab
+140108008-ee102 Basic Electronics Laboratory
+140108008-ma102 Mathematics II
+140108008-me101 Engineering Mechanics
+140108008-ph102 Physics II
+140108008-ph110 Physics Lab.
+140108008-sa102 Course Name/Course No Not Found
+140108009-bt101 Modern Biology
+140108009-cs101 Introduction to Computing
+140108009-cs110 Computing Lab
+140108009-ee102 Basic Electronics Laboratory
+140108009-ma102 Mathematics II
+140108009-me101 Engineering Mechanics
+140108009-ph102 Physics II
+140108009-ph110 Physics Lab.
+140108009-sa102 Course Name/Course No Not Found
+140108010-bt101 Modern Biology
+140108010-cs101 Introduction to Computing
+140108010-cs110 Computing Lab
+140108010-ee102 Basic Electronics Laboratory
+140108010-ma102 Mathematics II
+140108010-me101 Engineering Mechanics
+140108010-ph102 Physics II
+140108010-ph110 Physics Lab.
+140108010-sa102 Course Name/Course No Not Found
+140108011-bt101 Modern Biology
+140108011-cs101 Introduction to Computing
+140108011-cs110 Computing Lab
+140108011-ee102 Basic Electronics Laboratory
+140108011-ma102 Mathematics II
+140108011-me101 Engineering Mechanics
+140108011-ph102 Physics II
+140108011-ph110 Physics Lab.
+140108011-sa102 Course Name/Course No Not Found
+140108012-bt101 Modern Biology
+140108012-cs101 Introduction to Computing
+140108012-cs110 Computing Lab
+140108012-ee102 Basic Electronics Laboratory
+140108012-ma102 Mathematics II
+140108012-me101 Engineering Mechanics
+140108012-ph102 Physics II
+140108012-ph110 Physics Lab.
+140108012-sa102 Course Name/Course No Not Found
+140108013-bt101 Modern Biology
+140108013-cs101 Introduction to Computing
+140108013-cs110 Computing Lab
+140108013-ee102 Basic Electronics Laboratory
+140108013-ma102 Mathematics II
+140108013-me101 Engineering Mechanics
+140108013-ph102 Physics II
+140108013-ph110 Physics Lab.
+140108013-sa102 Course Name/Course No Not Found
+140108014-bt101 Modern Biology
+140108014-cs101 Introduction to Computing
+140108014-cs110 Computing Lab
+140108014-ee102 Basic Electronics Laboratory
+140108014-ma102 Mathematics II
+140108014-me101 Engineering Mechanics
+140108014-ph102 Physics II
+140108014-ph110 Physics Lab.
+140108014-sa102 Course Name/Course No Not Found
+140108015-bt101 Modern Biology
+140108015-cs101 Introduction to Computing
+140108015-cs110 Computing Lab
+140108015-ee102 Basic Electronics Laboratory
+140108015-ma102 Mathematics II
+140108015-me101 Engineering Mechanics
+140108015-ph102 Physics II
+140108015-ph110 Physics Lab.
+140108015-sa102 Course Name/Course No Not Found
+140108016-bt101 Modern Biology
+140108016-cs101 Introduction to Computing
+140108016-cs110 Computing Lab
+140108016-ee102 Basic Electronics Laboratory
+140108016-ma102 Mathematics II
+140108016-me101 Engineering Mechanics
+140108016-ph102 Physics II
+140108016-ph110 Physics Lab.
+140108016-sa102 Course Name/Course No Not Found
+140108017-bt101 Modern Biology
+140108017-cs101 Introduction to Computing
+140108017-cs110 Computing Lab
+140108017-ee102 Basic Electronics Laboratory
+140108017-ma102 Mathematics II
+140108017-me101 Engineering Mechanics
+140108017-ph102 Physics II
+140108017-ph110 Physics Lab.
+140108017-sa102 Course Name/Course No Not Found
+140108018-bt101 Modern Biology
+140108018-cs101 Introduction to Computing
+140108018-cs110 Computing Lab
+140108018-ee102 Basic Electronics Laboratory
+140108018-ma102 Mathematics II
+140108018-me101 Engineering Mechanics
+140108018-ph102 Physics II
+140108018-ph110 Physics Lab.
+140108018-sa102 Course Name/Course No Not Found
+140108019-bt101 Modern Biology
+140108019-cs101 Introduction to Computing
+140108019-cs110 Computing Lab
+140108019-ee102 Basic Electronics Laboratory
+140108019-ma102 Mathematics II
+140108019-me101 Engineering Mechanics
+140108019-ph102 Physics II
+140108019-ph110 Physics Lab.
+140108019-sa102 Course Name/Course No Not Found
+140108020-bt101 Modern Biology
+140108020-cs101 Introduction to Computing
+140108020-cs110 Computing Lab
+140108020-ee102 Basic Electronics Laboratory
+140108020-ma102 Mathematics II
+140108020-me101 Engineering Mechanics
+140108020-ph102 Physics II
+140108020-ph110 Physics Lab.
+140108020-sa102 Course Name/Course No Not Found
+140108021-bt101 Modern Biology
+140108021-cs101 Introduction to Computing
+140108021-cs110 Computing Lab
+140108021-ee102 Basic Electronics Laboratory
+140108021-ma102 Mathematics II
+140108021-me101 Engineering Mechanics
+140108021-ph102 Physics II
+140108021-ph110 Physics Lab.
+140108021-sa102 Course Name/Course No Not Found
+140108022-bt101 Modern Biology
+140108022-cs101 Introduction to Computing
+140108022-cs110 Computing Lab
+140108022-ee102 Basic Electronics Laboratory
+140108022-ma102 Mathematics II
+140108022-me101 Engineering Mechanics
+140108022-ph102 Physics II
+140108022-ph110 Physics Lab.
+140108022-sa102 Course Name/Course No Not Found
+140108023-bt101 Modern Biology
+140108023-cs101 Introduction to Computing
+140108023-cs110 Computing Lab
+140108023-ee102 Basic Electronics Laboratory
+140108023-ma102 Mathematics II
+140108023-me101 Engineering Mechanics
+140108023-ph102 Physics II
+140108023-ph110 Physics Lab.
+140108023-sa102 Course Name/Course No Not Found
+140108024-bt101 Modern Biology
+140108024-cs101 Introduction to Computing
+140108024-cs110 Computing Lab
+140108024-ee102 Basic Electronics Laboratory
+140108024-ma102 Mathematics II
+140108024-me101 Engineering Mechanics
+140108024-ph102 Physics II
+140108024-ph110 Physics Lab.
+140108024-sa102 Course Name/Course No Not Found
+140108025-bt101 Modern Biology
+140108025-cs101 Introduction to Computing
+140108025-cs110 Computing Lab
+140108025-ee102 Basic Electronics Laboratory
+140108025-ma102 Mathematics II
+140108025-me101 Engineering Mechanics
+140108025-ph102 Physics II
+140108025-ph110 Physics Lab.
+140108025-sa102 Course Name/Course No Not Found
+140108026-bt101 Modern Biology
+140108026-cs101 Introduction to Computing
+140108026-cs110 Computing Lab
+140108026-ee102 Basic Electronics Laboratory
+140108026-ma102 Mathematics II
+140108026-me101 Engineering Mechanics
+140108026-ph102 Physics II
+140108026-ph110 Physics Lab.
+140108026-sa102 Course Name/Course No Not Found
+140108027-bt101 Modern Biology
+140108027-cs101 Introduction to Computing
+140108027-cs110 Computing Lab
+140108027-ee102 Basic Electronics Laboratory
+140108027-ma102 Mathematics II
+140108027-me101 Engineering Mechanics
+140108027-ph102 Physics II
+140108027-ph110 Physics Lab.
+140108027-sa102 Course Name/Course No Not Found
+140108028-bt101 Modern Biology
+140108028-cs101 Introduction to Computing
+140108028-cs110 Computing Lab
+140108028-ee102 Basic Electronics Laboratory
+140108028-ma102 Mathematics II
+140108028-me101 Engineering Mechanics
+140108028-ph102 Physics II
+140108028-ph110 Physics Lab.
+140108028-sa102 Course Name/Course No Not Found
+140108029-bt101 Modern Biology
+140108029-cs101 Introduction to Computing
+140108029-cs110 Computing Lab
+140108029-ee102 Basic Electronics Laboratory
+140108029-ma102 Mathematics II
+140108029-me101 Engineering Mechanics
+140108029-ph102 Physics II
+140108029-ph110 Physics Lab.
+140108029-sa102 Course Name/Course No Not Found
+140108030-bt101 Modern Biology
+140108030-cs101 Introduction to Computing
+140108030-cs110 Computing Lab
+140108030-ee102 Basic Electronics Laboratory
+140108030-ma102 Mathematics II
+140108030-me101 Engineering Mechanics
+140108030-ph102 Physics II
+140108030-ph110 Physics Lab.
+140108030-sa102 Course Name/Course No Not Found
+140108031-bt101 Modern Biology
+140108031-cs101 Introduction to Computing
+140108031-cs110 Computing Lab
+140108031-ee102 Basic Electronics Laboratory
+140108031-ma102 Mathematics II
+140108031-me101 Engineering Mechanics
+140108031-ph102 Physics II
+140108031-ph110 Physics Lab.
+140108031-sa102 Course Name/Course No Not Found
+140108032-bt101 Modern Biology
+140108032-cs101 Introduction to Computing
+140108032-cs110 Computing Lab
+140108032-ee102 Basic Electronics Laboratory
+140108032-ma102 Mathematics II
+140108032-me101 Engineering Mechanics
+140108032-ph102 Physics II
+140108032-ph110 Physics Lab.
+140108032-sa102 Course Name/Course No Not Found
+140108033-bt101 Modern Biology
+140108033-cs101 Introduction to Computing
+140108033-cs110 Computing Lab
+140108033-ee102 Basic Electronics Laboratory
+140108033-ma102 Mathematics II
+140108033-me101 Engineering Mechanics
+140108033-ph102 Physics II
+140108033-ph110 Physics Lab.
+140108033-sa102 Course Name/Course No Not Found
+140108034-bt101 Modern Biology
+140108034-cs101 Introduction to Computing
+140108034-cs110 Computing Lab
+140108034-ee102 Basic Electronics Laboratory
+140108034-ma102 Mathematics II
+140108034-me101 Engineering Mechanics
+140108034-ph102 Physics II
+140108034-ph110 Physics Lab.
+140108034-sa102 Course Name/Course No Not Found
+140108035-bt101 Modern Biology
+140108035-cs101 Introduction to Computing
+140108035-cs110 Computing Lab
+140108035-ee102 Basic Electronics Laboratory
+140108035-ma102 Mathematics II
+140108035-me101 Engineering Mechanics
+140108035-ph102 Physics II
+140108035-ph110 Physics Lab.
+140108035-sa102 Course Name/Course No Not Found
+140108036-bt101 Modern Biology
+140108036-cs101 Introduction to Computing
+140108036-cs110 Computing Lab
+140108036-ee102 Basic Electronics Laboratory
+140108036-ma102 Mathematics II
+140108036-me101 Engineering Mechanics
+140108036-ph102 Physics II
+140108036-ph110 Physics Lab.
+140108036-sa102 Course Name/Course No Not Found
+140108037-bt101 Modern Biology
+140108037-cs101 Introduction to Computing
+140108037-cs110 Computing Lab
+140108037-ee102 Basic Electronics Laboratory
+140108037-ma102 Mathematics II
+140108037-me101 Engineering Mechanics
+140108037-ph102 Physics II
+140108037-ph110 Physics Lab.
+140108037-sa102 Course Name/Course No Not Found
+140108038-bt101 Modern Biology
+140108038-cs101 Introduction to Computing
+140108038-cs110 Computing Lab
+140108038-ee102 Basic Electronics Laboratory
+140108038-ma102 Mathematics II
+140108038-me101 Engineering Mechanics
+140108038-ph102 Physics II
+140108038-ph110 Physics Lab.
+140108038-sa102 Course Name/Course No Not Found
+140108039-bt101 Modern Biology
+140108039-cs101 Introduction to Computing
+140108039-cs110 Computing Lab
+140108039-ee102 Basic Electronics Laboratory
+140108039-ma102 Mathematics II
+140108039-me101 Engineering Mechanics
+140108039-ph102 Physics II
+140108039-ph110 Physics Lab.
+140108039-sa102 Course Name/Course No Not Found
+140108041-bt101 Modern Biology
+140108041-cs101 Introduction to Computing
+140108041-cs110 Computing Lab
+140108041-ee102 Basic Electronics Laboratory
+140108041-ma102 Mathematics II
+140108041-me101 Engineering Mechanics
+140108041-ph102 Physics II
+140108041-ph110 Physics Lab.
+140108041-sa102 Course Name/Course No Not Found
+140108042-bt101 Modern Biology
+140108042-cs101 Introduction to Computing
+140108042-cs110 Computing Lab
+140108042-ee102 Basic Electronics Laboratory
+140108042-ma102 Mathematics II
+140108042-me101 Engineering Mechanics
+140108042-ph102 Physics II
+140108042-ph110 Physics Lab.
+140108042-sa102 Course Name/Course No Not Found

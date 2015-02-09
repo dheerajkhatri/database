@@ -1,0 +1,1883 @@
+11010701-cl401 Process Design and Project Engineering
+11010701-cl404 Material Science
+11010701-cl499 Project II
+11010701-cl613 Computational Fluid Dynamics
+11010701-cl630 Composites Materials
+11010701-hs403 Entrepreneurship & Economic Development
+11010702-cl401 Process Design and Project Engineering
+11010702-cl404 Material Science
+11010702-cl499 Project II
+11010702-cl613 Computational Fluid Dynamics
+11010702-cl630 Composites Materials
+11010702-hs406 Philosophical Issues
+11010703-cl401 Process Design and Project Engineering
+11010703-cl404 Material Science
+11010703-cl499 Project II
+11010703-cl613 Computational Fluid Dynamics
+11010703-cl630 Composites Materials
+11010703-hs410 History of Contemporary India
+11010705-bt630 Physical Cell Biology
+11010705-cl401 Process Design and Project Engineering
+11010705-cl404 Material Science
+11010705-cl499 Project II
+11010705-cl630 Composites Materials
+11010706-bt630 Physical Cell Biology
+11010706-cl401 Process Design and Project Engineering
+11010706-cl404 Material Science
+11010706-cl499 Project II
+11010706-cl626 Energy Sources
+11010706-hs410 History of Contemporary India
+11010707-cl401 Process Design and Project Engineering
+11010707-cl404 Material Science
+11010707-cl499 Project II
+11010707-cl613 Computational Fluid Dynamics
+11010707-cl630 Composites Materials
+11010707-hs410 History of Contemporary India
+11010708-cl401 Process Design and Project Engineering
+11010708-cl404 Material Science
+11010708-cl499 Project II
+11010708-cl613 Computational Fluid Dynamics
+11010708-cl630 Composites Materials
+11010708-hs422 Subaltern Voices and Narratives
+11010709-cl401 Process Design and Project Engineering
+11010709-cl404 Material Science
+11010709-cl499 Project II
+11010709-cl630 Composites Materials
+11010709-hs410 History of Contemporary India
+11010709-me664 Theory of Elasticity
+11010710-hs420 Writing Systems of the World
+11010711-hs420 Writing Systems of the World
+11010712-cl401 Process Design and Project Engineering
+11010712-cl404 Material Science
+11010712-cl499 Project II
+11010712-cl613 Computational Fluid Dynamics
+11010712-cl619 Refinery Process Design
+11010712-hs406 Philosophical Issues
+11010713-cl401 Process Design and Project Engineering
+11010713-cl404 Material Science
+11010713-cl499 Project II
+11010713-cl613 Computational Fluid Dynamics
+11010713-cl630 Composites Materials
+11010713-hs406 Philosophical Issues
+11010714-cl401 Process Design and Project Engineering
+11010714-cl404 Material Science
+11010714-cl499 Project II
+11010714-cl613 Computational Fluid Dynamics
+11010714-cl619 Refinery Process Design
+11010714-hs422 Subaltern Voices and Narratives
+11010715-cl401 Process Design and Project Engineering
+11010715-cl404 Material Science
+11010715-cl499 Project II
+11010715-cl613 Computational Fluid Dynamics
+11010715-cl614 Fluidization Engineering
+11010715-hs423 Masculinities in Literature and Popular Culture
+11010716-cl401 Process Design and Project Engineering
+11010716-cl404 Material Science
+11010716-cl499 Project II
+11010716-cl613 Computational Fluid Dynamics
+11010716-cl619 Refinery Process Design
+11010716-hs423 Masculinities in Literature and Popular Culture
+11010717-cl401 Process Design and Project Engineering
+11010717-cl404 Material Science
+11010717-cl499 Project II
+11010717-cl613 Computational Fluid Dynamics
+11010717-cl635 Advanced Clean Fuel Technologies
+11010717-hs410 History of Contemporary India
+11010718-cl401 Process Design and Project Engineering
+11010718-cl404 Material Science
+11010718-cl499 Project II
+11010718-cl613 Computational Fluid Dynamics
+11010718-cl630 Composites Materials
+11010718-hs410 History of Contemporary India
+11010719-cl401 Process Design and Project Engineering
+11010719-cl404 Material Science
+11010719-cl499 Project II
+11010719-cl613 Computational Fluid Dynamics
+11010719-cl630 Composites Materials
+11010720-cl401 Process Design and Project Engineering
+11010720-cl404 Material Science
+11010720-cl499 Project II
+11010720-cl613 Computational Fluid Dynamics
+11010720-cl633 Applied Statistical Thermodynamics
+11010720-hs422 Subaltern Voices and Narratives
+11010721-cl401 Process Design and Project Engineering
+11010721-cl404 Material Science
+11010721-cl499 Project II
+11010721-cl613 Computational Fluid Dynamics
+11010721-cl618 Natural Gas Engineering
+11010721-hs422 Subaltern Voices and Narratives
+11010722-cl401 Process Design and Project Engineering
+11010722-cl404 Material Science
+11010722-cl499 Project II
+11010722-cl613 Computational Fluid Dynamics
+11010722-cl614 Fluidization Engineering
+11010722-hs406 Philosophical Issues
+11010723-cl401 Process Design and Project Engineering
+11010723-cl404 Material Science
+11010723-cl499 Project II
+11010723-cl613 Computational Fluid Dynamics
+11010723-cl630 Composites Materials
+11010723-hs410 History of Contemporary India
+11010724-cl401 Process Design and Project Engineering
+11010724-cl404 Material Science
+11010724-cl499 Project II
+11010724-cl613 Computational Fluid Dynamics
+11010724-cl622 Molecular Simulations: Principles and Applications
+11010724-hs406 Philosophical Issues
+11010725-hs410 History of Contemporary India
+11010726-cl401 Process Design and Project Engineering
+11010726-cl404 Material Science
+11010726-cl499 Project II
+11010726-cl613 Computational Fluid Dynamics
+11010726-cl619 Refinery Process Design
+11010726-hs422 Subaltern Voices and Narratives
+11010727-cl401 Process Design and Project Engineering
+11010727-cl404 Material Science
+11010727-cl499 Project II
+11010727-cl613 Computational Fluid Dynamics
+11010727-cl623 Polymer Science and Technology
+11010727-hs420 Writing Systems of the World
+11010728-cl401 Process Design and Project Engineering
+11010728-cl404 Material Science
+11010728-cl499 Project II
+11010728-cl635 Advanced Clean Fuel Technologies
+11010728-ee562 Fundamentals of VLSI CAD
+11010728-hs410 History of Contemporary India
+11010729-cl401 Process Design and Project Engineering
+11010729-cl404 Material Science
+11010729-cl499 Project II
+11010729-cl613 Computational Fluid Dynamics
+11010729-cl619 Refinery Process Design
+11010729-hs410 History of Contemporary India
+11010730-cl401 Process Design and Project Engineering
+11010730-cl404 Material Science
+11010730-cl499 Project II
+11010730-cl613 Computational Fluid Dynamics
+11010730-cl630 Composites Materials
+11010730-hs420 Writing Systems of the World
+11010731-cl401 Process Design and Project Engineering
+11010731-cl404 Material Science
+11010731-cl499 Project II
+11010731-cl613 Computational Fluid Dynamics
+11010731-cl630 Composites Materials
+11010731-hs406 Philosophical Issues
+11010732-cl401 Process Design and Project Engineering
+11010732-cl404 Material Science
+11010732-cl499 Project II
+11010732-cl613 Computational Fluid Dynamics
+11010732-cl635 Advanced Clean Fuel Technologies
+11010732-hs410 History of Contemporary India
+11010733-cl401 Process Design and Project Engineering
+11010733-cl404 Material Science
+11010733-cl499 Project II
+11010733-cl613 Computational Fluid Dynamics
+11010733-cl635 Advanced Clean Fuel Technologies
+11010733-hs410 History of Contemporary India
+11010734-cl401 Process Design and Project Engineering
+11010734-cl404 Material Science
+11010734-cl499 Project II
+11010734-cl613 Computational Fluid Dynamics
+11010734-cl614 Fluidization Engineering
+11010735-cl401 Process Design and Project Engineering
+11010735-cl404 Material Science
+11010735-cl499 Project II
+11010735-cl613 Computational Fluid Dynamics
+11010735-cl630 Composites Materials
+11010735-hs410 History of Contemporary India
+11010737-cl401 Process Design and Project Engineering
+11010737-cl404 Material Science
+11010737-cl499 Project II
+11010737-cl613 Computational Fluid Dynamics
+11010737-cl623 Polymer Science and Technology
+11010738-cl401 Process Design and Project Engineering
+11010738-cl404 Material Science
+11010738-cl499 Project II
+11010738-cl613 Computational Fluid Dynamics
+11010738-cl633 Applied Statistical Thermodynamics
+11010738-hs403 Entrepreneurship & Economic Development
+11010739-cl401 Process Design and Project Engineering
+11010739-cl404 Material Science
+11010739-cl499 Project II
+11010739-cl613 Computational Fluid Dynamics
+11010739-cl622 Molecular Simulations: Principles and Applications
+11010740-bt630 Physical Cell Biology
+11010740-cl401 Process Design and Project Engineering
+11010740-cl404 Material Science
+11010740-cl499 Project II
+11010740-cl635 Advanced Clean Fuel Technologies
+11010741-cl401 Process Design and Project Engineering
+11010741-cl404 Material Science
+11010741-cl499 Project II
+11010741-cl613 Computational Fluid Dynamics
+11010741-cl630 Composites Materials
+11010741-hs422 Subaltern Voices and Narratives
+11010742-cl401 Process Design and Project Engineering
+11010742-cl404 Material Science
+11010742-cl499 Project II
+11010742-cl613 Computational Fluid Dynamics
+11010742-cl622 Molecular Simulations: Principles and Applications
+11010743-cl401 Process Design and Project Engineering
+11010743-cl404 Material Science
+11010743-cl499 Project II
+11010743-cl613 Computational Fluid Dynamics
+11010743-cl623 Polymer Science and Technology
+11010743-hs420 Writing Systems of the World
+11010744-cl401 Process Design and Project Engineering
+11010744-cl404 Material Science
+11010744-cl499 Project II
+11010744-cl613 Computational Fluid Dynamics
+11010744-cl619 Refinery Process Design
+11010744-hs406 Philosophical Issues
+11010745-cl401 Process Design and Project Engineering
+11010745-cl404 Material Science
+11010745-cl499 Project II
+11010745-cl613 Computational Fluid Dynamics
+11010745-cl630 Composites Materials
+11010745-hs422 Subaltern Voices and Narratives
+11010749-cl401 Process Design and Project Engineering
+11010749-cl404 Material Science
+11010749-cl499 Project II
+11010749-cl613 Computational Fluid Dynamics
+11010749-cl619 Refinery Process Design
+11010749-hs403 Entrepreneurship & Economic Development
+11010750-hs420 Writing Systems of the World
+11010751-cl401 Process Design and Project Engineering
+11010751-cl404 Material Science
+11010751-cl499 Project II
+11010751-cl613 Computational Fluid Dynamics
+11010751-cl630 Composites Materials
+11010751-hs410 History of Contemporary India
+11010753-cl401 Process Design and Project Engineering
+11010753-cl404 Material Science
+11010753-cl499 Project II
+11010753-cl613 Computational Fluid Dynamics
+11010753-cl630 Composites Materials
+11010753-hs410 History of Contemporary India
+11010754-hs406 Philosophical Issues
+11010755-hs406 Philosophical Issues
+11010756-hs420 Writing Systems of the World
+11010757-cl401 Process Design and Project Engineering
+11010757-cl404 Material Science
+11010757-cl499 Project II
+11010757-cl613 Computational Fluid Dynamics
+11010757-cl630 Composites Materials
+11010757-hs420 Writing Systems of the World
+11010758-cl401 Process Design and Project Engineering
+11010758-cl404 Material Science
+11010758-cl499 Project II
+11010758-cl613 Computational Fluid Dynamics
+11010758-cl630 Composites Materials
+11010758-hs422 Subaltern Voices and Narratives
+11010759-cl401 Process Design and Project Engineering
+11010759-cl404 Material Science
+11010759-cl499 Project II
+11010759-cl613 Computational Fluid Dynamics
+11010759-cl622 Molecular Simulations: Principles and Applications
+11010760-cl401 Process Design and Project Engineering
+11010760-cl404 Material Science
+11010760-cl499 Project II
+11010760-cl613 Computational Fluid Dynamics
+11010760-cl619 Refinery Process Design
+11010760-hs422 Subaltern Voices and Narratives
+11010761-cl401 Process Design and Project Engineering
+11010761-cl404 Material Science
+11010761-cl499 Project II
+11010761-cl622 Molecular Simulations: Principles and Applications
+11010761-hs422 Subaltern Voices and Narratives
+11010761-ph446 Fundamentals of Astrophysics
+11010762-hs420 Writing Systems of the World
+11010764-cl401 Process Design and Project Engineering
+11010764-cl404 Material Science
+11010764-cl499 Project II
+11010764-cl613 Computational Fluid Dynamics
+11010764-cl630 Composites Materials
+11010764-hs420 Writing Systems of the World
+120107001-cl307 Transport Phenomenon
+120107001-cl308 Chemical Reaction Engg. Engg. II
+120107001-cl309 Process Control and Instrumentation
+120107001-cl314 Numerical Methods in Chemical Engineering
+120107001-cl315 Mechanical Operations Lab
+120107001-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107002-cl307 Transport Phenomenon
+120107002-cl308 Chemical Reaction Engg. Engg. II
+120107002-cl309 Process Control and Instrumentation
+120107002-cl314 Numerical Methods in Chemical Engineering
+120107002-cl315 Mechanical Operations Lab
+120107002-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107003-cl307 Transport Phenomenon
+120107003-cl308 Chemical Reaction Engg. Engg. II
+120107003-cl309 Process Control and Instrumentation
+120107003-cl314 Numerical Methods in Chemical Engineering
+120107003-cl315 Mechanical Operations Lab
+120107003-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107003-me321m Fluid Mechanics
+120107004-cl307 Transport Phenomenon
+120107004-cl308 Chemical Reaction Engg. Engg. II
+120107004-cl309 Process Control and Instrumentation
+120107004-cl314 Numerical Methods in Chemical Engineering
+120107004-cl315 Mechanical Operations Lab
+120107004-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107005-cl307 Transport Phenomenon
+120107005-cl308 Chemical Reaction Engg. Engg. II
+120107005-cl309 Process Control and Instrumentation
+120107005-cl314 Numerical Methods in Chemical Engineering
+120107005-cl315 Mechanical Operations Lab
+120107005-ee657 Pattern Recognition and Machine Learning
+120107006-cl307 Transport Phenomenon
+120107006-cl308 Chemical Reaction Engg. Engg. II
+120107006-cl309 Process Control and Instrumentation
+120107006-cl314 Numerical Methods in Chemical Engineering
+120107006-cl315 Mechanical Operations Lab
+120107006-ee657 Pattern Recognition and Machine Learning
+120107007-cl307 Transport Phenomenon
+120107007-cl308 Chemical Reaction Engg. Engg. II
+120107007-cl309 Process Control and Instrumentation
+120107007-cl314 Numerical Methods in Chemical Engineering
+120107007-cl315 Mechanical Operations Lab
+120107007-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107008-cl307 Transport Phenomenon
+120107008-cl308 Chemical Reaction Engg. Engg. II
+120107008-cl309 Process Control and Instrumentation
+120107008-cl314 Numerical Methods in Chemical Engineering
+120107008-cl315 Mechanical Operations Lab
+120107008-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107008-me321m Fluid Mechanics
+120107009-cl307 Transport Phenomenon
+120107009-cl308 Chemical Reaction Engg. Engg. II
+120107009-cl309 Process Control and Instrumentation
+120107009-cl314 Numerical Methods in Chemical Engineering
+120107009-cl315 Mechanical Operations Lab
+120107009-ee657 Pattern Recognition and Machine Learning
+120107011-cl307 Transport Phenomenon
+120107011-cl308 Chemical Reaction Engg. Engg. II
+120107011-cl309 Process Control and Instrumentation
+120107011-cl314 Numerical Methods in Chemical Engineering
+120107011-cl315 Mechanical Operations Lab
+120107011-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107012-cl307 Transport Phenomenon
+120107012-cl308 Chemical Reaction Engg. Engg. II
+120107012-cl309 Process Control and Instrumentation
+120107012-cl314 Numerical Methods in Chemical Engineering
+120107012-cl315 Mechanical Operations Lab
+120107012-ee657 Pattern Recognition and Machine Learning
+120107013-cl307 Transport Phenomenon
+120107013-cl308 Chemical Reaction Engg. Engg. II
+120107013-cl309 Process Control and Instrumentation
+120107013-cl314 Numerical Methods in Chemical Engineering
+120107013-cl315 Mechanical Operations Lab
+120107013-ee657 Pattern Recognition and Machine Learning
+120107014-cl307 Transport Phenomenon
+120107014-cl308 Chemical Reaction Engg. Engg. II
+120107014-cl309 Process Control and Instrumentation
+120107014-cl314 Numerical Methods in Chemical Engineering
+120107014-cl315 Mechanical Operations Lab
+120107014-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107015-cl307 Transport Phenomenon
+120107015-cl308 Chemical Reaction Engg. Engg. II
+120107015-cl309 Process Control and Instrumentation
+120107015-cl314 Numerical Methods in Chemical Engineering
+120107015-cl315 Mechanical Operations Lab
+120107015-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107016-cl307 Transport Phenomenon
+120107016-cl308 Chemical Reaction Engg. Engg. II
+120107016-cl309 Process Control and Instrumentation
+120107016-cl314 Numerical Methods in Chemical Engineering
+120107016-cl315 Mechanical Operations Lab
+120107016-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107017-cl307 Transport Phenomenon
+120107017-cl308 Chemical Reaction Engg. Engg. II
+120107017-cl309 Process Control and Instrumentation
+120107017-cl314 Numerical Methods in Chemical Engineering
+120107017-cl315 Mechanical Operations Lab
+120107017-ee657 Pattern Recognition and Machine Learning
+120107018-cl307 Transport Phenomenon
+120107018-cl308 Chemical Reaction Engg. Engg. II
+120107018-cl309 Process Control and Instrumentation
+120107018-cl314 Numerical Methods in Chemical Engineering
+120107018-cl315 Mechanical Operations Lab
+120107018-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107019-cl307 Transport Phenomenon
+120107019-cl308 Chemical Reaction Engg. Engg. II
+120107019-cl309 Process Control and Instrumentation
+120107019-cl314 Numerical Methods in Chemical Engineering
+120107019-cl315 Mechanical Operations Lab
+120107019-ee657 Pattern Recognition and Machine Learning
+120107020-cl307 Transport Phenomenon
+120107020-cl308 Chemical Reaction Engg. Engg. II
+120107020-cl309 Process Control and Instrumentation
+120107020-cl314 Numerical Methods in Chemical Engineering
+120107020-cl315 Mechanical Operations Lab
+120107020-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107021-cl307 Transport Phenomenon
+120107021-cl308 Chemical Reaction Engg. Engg. II
+120107021-cl309 Process Control and Instrumentation
+120107021-cl314 Numerical Methods in Chemical Engineering
+120107021-cl315 Mechanical Operations Lab
+120107021-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107021-me321m Fluid Mechanics
+120107025-cl307 Transport Phenomenon
+120107025-cl308 Chemical Reaction Engg. Engg. II
+120107025-cl309 Process Control and Instrumentation
+120107025-cl314 Numerical Methods in Chemical Engineering
+120107025-cl315 Mechanical Operations Lab
+120107025-ee657 Pattern Recognition and Machine Learning
+120107026-cl307 Transport Phenomenon
+120107026-cl308 Chemical Reaction Engg. Engg. II
+120107026-cl309 Process Control and Instrumentation
+120107026-cl314 Numerical Methods in Chemical Engineering
+120107026-cl315 Mechanical Operations Lab
+120107026-ee657 Pattern Recognition and Machine Learning
+120107026-me321m Fluid Mechanics
+120107028-cl307 Transport Phenomenon
+120107028-cl308 Chemical Reaction Engg. Engg. II
+120107028-cl309 Process Control and Instrumentation
+120107028-cl314 Numerical Methods in Chemical Engineering
+120107028-cl315 Mechanical Operations Lab
+120107028-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107029-cl307 Transport Phenomenon
+120107029-cl308 Chemical Reaction Engg. Engg. II
+120107029-cl309 Process Control and Instrumentation
+120107029-cl314 Numerical Methods in Chemical Engineering
+120107029-cl315 Mechanical Operations Lab
+120107029-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107031-cl307 Transport Phenomenon
+120107031-cl308 Chemical Reaction Engg. Engg. II
+120107031-cl309 Process Control and Instrumentation
+120107031-cl314 Numerical Methods in Chemical Engineering
+120107031-cl315 Mechanical Operations Lab
+120107031-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107033-cl307 Transport Phenomenon
+120107033-cl308 Chemical Reaction Engg. Engg. II
+120107033-cl309 Process Control and Instrumentation
+120107033-cl314 Numerical Methods in Chemical Engineering
+120107033-cl315 Mechanical Operations Lab
+120107033-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107034-cl307 Transport Phenomenon
+120107034-cl308 Chemical Reaction Engg. Engg. II
+120107034-cl309 Process Control and Instrumentation
+120107034-cl314 Numerical Methods in Chemical Engineering
+120107034-cl315 Mechanical Operations Lab
+120107034-ee657 Pattern Recognition and Machine Learning
+120107035-cl307 Transport Phenomenon
+120107035-cl308 Chemical Reaction Engg. Engg. II
+120107035-cl309 Process Control and Instrumentation
+120107035-cl314 Numerical Methods in Chemical Engineering
+120107035-cl315 Mechanical Operations Lab
+120107035-ee657 Pattern Recognition and Machine Learning
+120107035-ma312m Modern Algebra
+120107036-cl307 Transport Phenomenon
+120107036-cl308 Chemical Reaction Engg. Engg. II
+120107036-cl309 Process Control and Instrumentation
+120107036-cl314 Numerical Methods in Chemical Engineering
+120107036-cl315 Mechanical Operations Lab
+120107036-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107037-cl307 Transport Phenomenon
+120107037-cl308 Chemical Reaction Engg. Engg. II
+120107037-cl309 Process Control and Instrumentation
+120107037-cl314 Numerical Methods in Chemical Engineering
+120107037-cl315 Mechanical Operations Lab
+120107037-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107038-cl307 Transport Phenomenon
+120107038-cl308 Chemical Reaction Engg. Engg. II
+120107038-cl309 Process Control and Instrumentation
+120107038-cl314 Numerical Methods in Chemical Engineering
+120107038-cl315 Mechanical Operations Lab
+120107038-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107039-cl307 Transport Phenomenon
+120107039-cl308 Chemical Reaction Engg. Engg. II
+120107039-cl309 Process Control and Instrumentation
+120107039-cl314 Numerical Methods in Chemical Engineering
+120107039-cl315 Mechanical Operations Lab
+120107039-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107040-cl307 Transport Phenomenon
+120107040-cl308 Chemical Reaction Engg. Engg. II
+120107040-cl309 Process Control and Instrumentation
+120107040-cl314 Numerical Methods in Chemical Engineering
+120107040-cl315 Mechanical Operations Lab
+120107040-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107041-cl307 Transport Phenomenon
+120107041-cl308 Chemical Reaction Engg. Engg. II
+120107041-cl309 Process Control and Instrumentation
+120107041-cl314 Numerical Methods in Chemical Engineering
+120107041-cl315 Mechanical Operations Lab
+120107041-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107043-cl307 Transport Phenomenon
+120107043-cl308 Chemical Reaction Engg. Engg. II
+120107043-cl309 Process Control and Instrumentation
+120107043-cl314 Numerical Methods in Chemical Engineering
+120107043-cl315 Mechanical Operations Lab
+120107043-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107044-cl307 Transport Phenomenon
+120107044-cl308 Chemical Reaction Engg. Engg. II
+120107044-cl309 Process Control and Instrumentation
+120107044-cl314 Numerical Methods in Chemical Engineering
+120107044-cl315 Mechanical Operations Lab
+120107044-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107045-cl307 Transport Phenomenon
+120107045-cl308 Chemical Reaction Engg. Engg. II
+120107045-cl309 Process Control and Instrumentation
+120107045-cl314 Numerical Methods in Chemical Engineering
+120107045-cl315 Mechanical Operations Lab
+120107045-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107046-cl307 Transport Phenomenon
+120107046-cl308 Chemical Reaction Engg. Engg. II
+120107046-cl309 Process Control and Instrumentation
+120107046-cl314 Numerical Methods in Chemical Engineering
+120107046-cl315 Mechanical Operations Lab
+120107046-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107047-cl307 Transport Phenomenon
+120107047-cl308 Chemical Reaction Engg. Engg. II
+120107047-cl309 Process Control and Instrumentation
+120107047-cl314 Numerical Methods in Chemical Engineering
+120107047-cl315 Mechanical Operations Lab
+120107047-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107048-cl307 Transport Phenomenon
+120107048-cl308 Chemical Reaction Engg. Engg. II
+120107048-cl309 Process Control and Instrumentation
+120107048-cl314 Numerical Methods in Chemical Engineering
+120107048-cl315 Mechanical Operations Lab
+120107048-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107052-cl307 Transport Phenomenon
+120107052-cl308 Chemical Reaction Engg. Engg. II
+120107052-cl309 Process Control and Instrumentation
+120107052-cl314 Numerical Methods in Chemical Engineering
+120107052-cl315 Mechanical Operations Lab
+120107052-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107053-cl307 Transport Phenomenon
+120107053-cl308 Chemical Reaction Engg. Engg. II
+120107053-cl309 Process Control and Instrumentation
+120107053-cl314 Numerical Methods in Chemical Engineering
+120107053-cl315 Mechanical Operations Lab
+120107053-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107054-cl307 Transport Phenomenon
+120107054-cl308 Chemical Reaction Engg. Engg. II
+120107054-cl309 Process Control and Instrumentation
+120107054-cl314 Numerical Methods in Chemical Engineering
+120107054-cl315 Mechanical Operations Lab
+120107054-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107055-cl307 Transport Phenomenon
+120107055-cl308 Chemical Reaction Engg. Engg. II
+120107055-cl309 Process Control and Instrumentation
+120107055-cl314 Numerical Methods in Chemical Engineering
+120107055-cl315 Mechanical Operations Lab
+120107055-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107056-cl307 Transport Phenomenon
+120107056-cl308 Chemical Reaction Engg. Engg. II
+120107056-cl309 Process Control and Instrumentation
+120107056-cl314 Numerical Methods in Chemical Engineering
+120107056-cl315 Mechanical Operations Lab
+120107056-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107057-cl307 Transport Phenomenon
+120107057-cl308 Chemical Reaction Engg. Engg. II
+120107057-cl309 Process Control and Instrumentation
+120107057-cl314 Numerical Methods in Chemical Engineering
+120107057-cl315 Mechanical Operations Lab
+120107057-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107059-cl307 Transport Phenomenon
+120107059-cl308 Chemical Reaction Engg. Engg. II
+120107059-cl309 Process Control and Instrumentation
+120107059-cl314 Numerical Methods in Chemical Engineering
+120107059-cl315 Mechanical Operations Lab
+120107059-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107061-cl307 Transport Phenomenon
+120107061-cl308 Chemical Reaction Engg. Engg. II
+120107061-cl309 Process Control and Instrumentation
+120107061-cl314 Numerical Methods in Chemical Engineering
+120107061-cl315 Mechanical Operations Lab
+120107061-ph445 Optical Communication Systems
+120107062-cl307 Transport Phenomenon
+120107062-cl308 Chemical Reaction Engg. Engg. II
+120107062-cl309 Process Control and Instrumentation
+120107062-cl314 Numerical Methods in Chemical Engineering
+120107062-cl315 Mechanical Operations Lab
+120107062-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107064-cl307 Transport Phenomenon
+120107064-cl308 Chemical Reaction Engg. Engg. II
+120107064-cl309 Process Control and Instrumentation
+120107064-cl314 Numerical Methods in Chemical Engineering
+120107064-cl315 Mechanical Operations Lab
+120107064-ee657 Pattern Recognition and Machine Learning
+120107069-cl307 Transport Phenomenon
+120107069-cl308 Chemical Reaction Engg. Engg. II
+120107069-cl309 Process Control and Instrumentation
+120107069-cl314 Numerical Methods in Chemical Engineering
+120107069-cl315 Mechanical Operations Lab
+120107069-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+120107070-cl307 Transport Phenomenon
+120107070-cl308 Chemical Reaction Engg. Engg. II
+120107070-cl309 Process Control and Instrumentation
+120107070-cl314 Numerical Methods in Chemical Engineering
+120107070-cl315 Mechanical Operations Lab
+120107070-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+130107001-cl204 Heat Transfer Operations
+130107001-cl205 Mass Transfer Operations I
+130107001-cl206 Process Equipment Design I
+130107001-cl207 Chemical Engineering Thermodynamics II
+130107001-cl210 Fluid Mechanics Laboratory
+130107001-cl211 Thermodynamics Lab
+130107001-hs226 Macroeconomics
+130107004-cl204 Heat Transfer Operations
+130107004-cl205 Mass Transfer Operations I
+130107004-cl206 Process Equipment Design I
+130107004-cl207 Chemical Engineering Thermodynamics II
+130107004-cl210 Fluid Mechanics Laboratory
+130107004-cl211 Thermodynamics Lab
+130107004-hs237 Introduction to Archeology
+130107005-cl204 Heat Transfer Operations
+130107005-cl205 Mass Transfer Operations I
+130107005-cl206 Process Equipment Design I
+130107005-cl207 Chemical Engineering Thermodynamics II
+130107005-cl210 Fluid Mechanics Laboratory
+130107005-cl211 Thermodynamics Lab
+130107005-hs203 Problems of Philosophy
+130107006-cl204 Heat Transfer Operations
+130107006-cl205 Mass Transfer Operations I
+130107006-cl206 Process Equipment Design I
+130107006-cl207 Chemical Engineering Thermodynamics II
+130107006-cl210 Fluid Mechanics Laboratory
+130107006-cl211 Thermodynamics Lab
+130107006-hs213 Consumer Behaviour
+130107007-cl204 Heat Transfer Operations
+130107007-cl205 Mass Transfer Operations I
+130107007-cl206 Process Equipment Design I
+130107007-cl207 Chemical Engineering Thermodynamics II
+130107007-cl210 Fluid Mechanics Laboratory
+130107007-cl211 Thermodynamics Lab
+130107007-hs237 Introduction to Archeology
+130107007-ma212m Mathematical Statistics
+130107008-cl204 Heat Transfer Operations
+130107008-cl205 Mass Transfer Operations I
+130107008-cl206 Process Equipment Design I
+130107008-cl207 Chemical Engineering Thermodynamics II
+130107008-cl210 Fluid Mechanics Laboratory
+130107008-cl211 Thermodynamics Lab
+130107008-hs237 Introduction to Archeology
+130107009-cl204 Heat Transfer Operations
+130107009-cl205 Mass Transfer Operations I
+130107009-cl206 Process Equipment Design I
+130107009-cl207 Chemical Engineering Thermodynamics II
+130107009-cl210 Fluid Mechanics Laboratory
+130107009-cl211 Thermodynamics Lab
+130107009-hs216 Sociology of India : Conformities & Contradictions
+130107010-hs234 Introduction to Linguistics
+130107011-cl204 Heat Transfer Operations
+130107011-cl205 Mass Transfer Operations I
+130107011-cl206 Process Equipment Design I
+130107011-cl207 Chemical Engineering Thermodynamics II
+130107011-cl210 Fluid Mechanics Laboratory
+130107011-cl211 Thermodynamics Lab
+130107011-hs223 Language and Society
+130107013-cl204 Heat Transfer Operations
+130107013-cl205 Mass Transfer Operations I
+130107013-cl206 Process Equipment Design I
+130107013-cl207 Chemical Engineering Thermodynamics II
+130107013-cl210 Fluid Mechanics Laboratory
+130107013-cl211 Thermodynamics Lab
+130107013-hs237 Introduction to Archeology
+130107014-cl204 Heat Transfer Operations
+130107014-cl205 Mass Transfer Operations I
+130107014-cl206 Process Equipment Design I
+130107014-cl207 Chemical Engineering Thermodynamics II
+130107014-cl210 Fluid Mechanics Laboratory
+130107014-cl211 Thermodynamics Lab
+130107014-dd220m Introduction to Ergonomics
+130107014-hs226 Macroeconomics
+130107015-cl204 Heat Transfer Operations
+130107015-cl205 Mass Transfer Operations I
+130107015-cl206 Process Equipment Design I
+130107015-cl207 Chemical Engineering Thermodynamics II
+130107015-cl210 Fluid Mechanics Laboratory
+130107015-cl211 Thermodynamics Lab
+130107015-hs222 Understanding Psychology : Individual and Works Settings
+130107016-hs237 Introduction to Archeology
+130107017-cl204 Heat Transfer Operations
+130107017-cl205 Mass Transfer Operations I
+130107017-cl206 Process Equipment Design I
+130107017-cl207 Chemical Engineering Thermodynamics II
+130107017-cl210 Fluid Mechanics Laboratory
+130107017-cl211 Thermodynamics Lab
+130107017-hs237 Introduction to Archeology
+130107018-cl204 Heat Transfer Operations
+130107018-cl205 Mass Transfer Operations I
+130107018-cl206 Process Equipment Design I
+130107018-cl207 Chemical Engineering Thermodynamics II
+130107018-cl210 Fluid Mechanics Laboratory
+130107018-cl211 Thermodynamics Lab
+130107018-hs216 Sociology of India : Conformities & Contradictions
+130107019-cl204 Heat Transfer Operations
+130107019-cl205 Mass Transfer Operations I
+130107019-cl206 Process Equipment Design I
+130107019-cl207 Chemical Engineering Thermodynamics II
+130107019-cl210 Fluid Mechanics Laboratory
+130107019-cl211 Thermodynamics Lab
+130107019-hs234 Introduction to Linguistics
+130107020-cl204 Heat Transfer Operations
+130107020-cl205 Mass Transfer Operations I
+130107020-cl206 Process Equipment Design I
+130107020-cl207 Chemical Engineering Thermodynamics II
+130107020-cl210 Fluid Mechanics Laboratory
+130107020-cl211 Thermodynamics Lab
+130107020-hs213 Consumer Behaviour
+130107021-cl204 Heat Transfer Operations
+130107021-cl205 Mass Transfer Operations I
+130107021-cl206 Process Equipment Design I
+130107021-cl207 Chemical Engineering Thermodynamics II
+130107021-cl210 Fluid Mechanics Laboratory
+130107021-cl211 Thermodynamics Lab
+130107021-hs223 Language and Society
+130107021-me222m Manufacturing Technology I
+130107022-cl204 Heat Transfer Operations
+130107022-cl205 Mass Transfer Operations I
+130107022-cl206 Process Equipment Design I
+130107022-cl207 Chemical Engineering Thermodynamics II
+130107022-cl210 Fluid Mechanics Laboratory
+130107022-cl211 Thermodynamics Lab
+130107022-hs237 Introduction to Archeology
+130107022-me222m Manufacturing Technology I
+130107023-cl204 Heat Transfer Operations
+130107023-cl205 Mass Transfer Operations I
+130107023-cl206 Process Equipment Design I
+130107023-cl207 Chemical Engineering Thermodynamics II
+130107023-cl210 Fluid Mechanics Laboratory
+130107023-cl211 Thermodynamics Lab
+130107023-hs203 Problems of Philosophy
+130107024-hs234 Introduction to Linguistics
+130107025-cl204 Heat Transfer Operations
+130107025-cl205 Mass Transfer Operations I
+130107025-cl206 Process Equipment Design I
+130107025-cl207 Chemical Engineering Thermodynamics II
+130107025-cl210 Fluid Mechanics Laboratory
+130107025-cl211 Thermodynamics Lab
+130107025-hs213 Consumer Behaviour
+130107026-cl204 Heat Transfer Operations
+130107026-cl205 Mass Transfer Operations I
+130107026-cl206 Process Equipment Design I
+130107026-cl207 Chemical Engineering Thermodynamics II
+130107026-cl210 Fluid Mechanics Laboratory
+130107026-cl211 Thermodynamics Lab
+130107026-hs216 Sociology of India : Conformities & Contradictions
+130107027-cl204 Heat Transfer Operations
+130107027-cl205 Mass Transfer Operations I
+130107027-cl206 Process Equipment Design I
+130107027-cl207 Chemical Engineering Thermodynamics II
+130107027-cl210 Fluid Mechanics Laboratory
+130107027-cl211 Thermodynamics Lab
+130107027-hs216 Sociology of India : Conformities & Contradictions
+130107028-cl204 Heat Transfer Operations
+130107028-cl205 Mass Transfer Operations I
+130107028-cl206 Process Equipment Design I
+130107028-cl207 Chemical Engineering Thermodynamics II
+130107028-cl210 Fluid Mechanics Laboratory
+130107028-cl211 Thermodynamics Lab
+130107028-hs237 Introduction to Archeology
+130107029-cl204 Heat Transfer Operations
+130107029-cl205 Mass Transfer Operations I
+130107029-cl206 Process Equipment Design I
+130107029-cl207 Chemical Engineering Thermodynamics II
+130107029-cl210 Fluid Mechanics Laboratory
+130107029-cl211 Thermodynamics Lab
+130107029-hs216 Sociology of India : Conformities & Contradictions
+130107030-cl204 Heat Transfer Operations
+130107030-cl205 Mass Transfer Operations I
+130107030-cl206 Process Equipment Design I
+130107030-cl207 Chemical Engineering Thermodynamics II
+130107030-cl210 Fluid Mechanics Laboratory
+130107030-cl211 Thermodynamics Lab
+130107030-hs216 Sociology of India : Conformities & Contradictions
+130107031-cl204 Heat Transfer Operations
+130107031-cl205 Mass Transfer Operations I
+130107031-cl206 Process Equipment Design I
+130107031-cl207 Chemical Engineering Thermodynamics II
+130107031-cl210 Fluid Mechanics Laboratory
+130107031-cl211 Thermodynamics Lab
+130107031-hs203 Problems of Philosophy
+130107033-cl204 Heat Transfer Operations
+130107033-cl205 Mass Transfer Operations I
+130107033-cl206 Process Equipment Design I
+130107033-cl207 Chemical Engineering Thermodynamics II
+130107033-cl210 Fluid Mechanics Laboratory
+130107033-cl211 Thermodynamics Lab
+130107033-hs216 Sociology of India : Conformities & Contradictions
+130107035-cl204 Heat Transfer Operations
+130107035-cl205 Mass Transfer Operations I
+130107035-cl206 Process Equipment Design I
+130107035-cl207 Chemical Engineering Thermodynamics II
+130107035-cl210 Fluid Mechanics Laboratory
+130107035-cl211 Thermodynamics Lab
+130107035-hs237 Introduction to Archeology
+130107035-me222m Manufacturing Technology I
+130107036-cl204 Heat Transfer Operations
+130107036-cl205 Mass Transfer Operations I
+130107036-cl206 Process Equipment Design I
+130107036-cl207 Chemical Engineering Thermodynamics II
+130107036-cl210 Fluid Mechanics Laboratory
+130107036-cl211 Thermodynamics Lab
+130107036-hs226 Macroeconomics
+130107036-me222m Manufacturing Technology I
+130107037-cl204 Heat Transfer Operations
+130107037-cl205 Mass Transfer Operations I
+130107037-cl206 Process Equipment Design I
+130107037-cl207 Chemical Engineering Thermodynamics II
+130107037-cl210 Fluid Mechanics Laboratory
+130107037-cl211 Thermodynamics Lab
+130107037-hs237 Introduction to Archeology
+130107039-cl204 Heat Transfer Operations
+130107039-cl205 Mass Transfer Operations I
+130107039-cl206 Process Equipment Design I
+130107039-cl207 Chemical Engineering Thermodynamics II
+130107039-cl210 Fluid Mechanics Laboratory
+130107039-cl211 Thermodynamics Lab
+130107039-ee213m Digital Circuits
+130107039-hs237 Introduction to Archeology
+130107040-cl204 Heat Transfer Operations
+130107040-cl205 Mass Transfer Operations I
+130107040-cl206 Process Equipment Design I
+130107040-cl207 Chemical Engineering Thermodynamics II
+130107040-cl210 Fluid Mechanics Laboratory
+130107040-cl211 Thermodynamics Lab
+130107040-hs216 Sociology of India : Conformities & Contradictions
+130107041-hs234 Introduction to Linguistics
+130107042-cl204 Heat Transfer Operations
+130107042-cl205 Mass Transfer Operations I
+130107042-cl206 Process Equipment Design I
+130107042-cl207 Chemical Engineering Thermodynamics II
+130107042-cl210 Fluid Mechanics Laboratory
+130107042-cl211 Thermodynamics Lab
+130107042-cs206M 
+130107042-hs216 Sociology of India : Conformities & Contradictions
+130107043-cl204 Heat Transfer Operations
+130107043-cl205 Mass Transfer Operations I
+130107043-cl206 Process Equipment Design I
+130107043-cl207 Chemical Engineering Thermodynamics II
+130107043-cl210 Fluid Mechanics Laboratory
+130107043-cl211 Thermodynamics Lab
+130107043-hs223 Language and Society
+130107044-cl204 Heat Transfer Operations
+130107044-cl205 Mass Transfer Operations I
+130107044-cl206 Process Equipment Design I
+130107044-cl207 Chemical Engineering Thermodynamics II
+130107044-cl210 Fluid Mechanics Laboratory
+130107044-cl211 Thermodynamics Lab
+130107044-hs203 Problems of Philosophy
+130107045-cl204 Heat Transfer Operations
+130107045-cl205 Mass Transfer Operations I
+130107045-cl206 Process Equipment Design I
+130107045-cl207 Chemical Engineering Thermodynamics II
+130107045-cl210 Fluid Mechanics Laboratory
+130107045-cl211 Thermodynamics Lab
+130107045-hs213 Consumer Behaviour
+130107047-cl204 Heat Transfer Operations
+130107047-cl205 Mass Transfer Operations I
+130107047-cl206 Process Equipment Design I
+130107047-cl207 Chemical Engineering Thermodynamics II
+130107047-cl210 Fluid Mechanics Laboratory
+130107047-cl211 Thermodynamics Lab
+130107047-hs237 Introduction to Archeology
+130107049-hs234 Introduction to Linguistics
+130107052-cl204 Heat Transfer Operations
+130107052-cl205 Mass Transfer Operations I
+130107052-cl206 Process Equipment Design I
+130107052-cl207 Chemical Engineering Thermodynamics II
+130107052-cl210 Fluid Mechanics Laboratory
+130107052-cl211 Thermodynamics Lab
+130107052-hs226 Macroeconomics
+130107053-cl204 Heat Transfer Operations
+130107053-cl205 Mass Transfer Operations I
+130107053-cl206 Process Equipment Design I
+130107053-cl207 Chemical Engineering Thermodynamics II
+130107053-cl210 Fluid Mechanics Laboratory
+130107053-cl211 Thermodynamics Lab
+130107053-hs203 Problems of Philosophy
+130107054-cl204 Heat Transfer Operations
+130107054-cl205 Mass Transfer Operations I
+130107054-cl206 Process Equipment Design I
+130107054-cl207 Chemical Engineering Thermodynamics II
+130107054-cl210 Fluid Mechanics Laboratory
+130107054-cl211 Thermodynamics Lab
+130107054-hs213 Consumer Behaviour
+130107056-cl204 Heat Transfer Operations
+130107056-cl205 Mass Transfer Operations I
+130107056-cl206 Process Equipment Design I
+130107056-cl207 Chemical Engineering Thermodynamics II
+130107056-cl210 Fluid Mechanics Laboratory
+130107056-cl211 Thermodynamics Lab
+130107056-cs206M 
+130107056-hs226 Macroeconomics
+130107057-bt202m Molecular Biotechnology
+130107057-cl204 Heat Transfer Operations
+130107057-cl205 Mass Transfer Operations I
+130107057-cl206 Process Equipment Design I
+130107057-cl207 Chemical Engineering Thermodynamics II
+130107057-cl210 Fluid Mechanics Laboratory
+130107057-cl211 Thermodynamics Lab
+130107057-hs222 Understanding Psychology : Individual and Works Settings
+130107058-cl204 Heat Transfer Operations
+130107058-cl205 Mass Transfer Operations I
+130107058-cl206 Process Equipment Design I
+130107058-cl207 Chemical Engineering Thermodynamics II
+130107058-cl210 Fluid Mechanics Laboratory
+130107058-cl211 Thermodynamics Lab
+130107058-hs226 Macroeconomics
+130107060-cl204 Heat Transfer Operations
+130107060-cl205 Mass Transfer Operations I
+130107060-cl206 Process Equipment Design I
+130107060-cl207 Chemical Engineering Thermodynamics II
+130107060-cl210 Fluid Mechanics Laboratory
+130107060-cl211 Thermodynamics Lab
+130107060-hs234 Introduction to Linguistics
+130107062-cl204 Heat Transfer Operations
+130107062-cl205 Mass Transfer Operations I
+130107062-cl206 Process Equipment Design I
+130107062-cl207 Chemical Engineering Thermodynamics II
+130107062-cl210 Fluid Mechanics Laboratory
+130107062-cl211 Thermodynamics Lab
+130107062-hs234 Introduction to Linguistics
+130107063-hs223 Language and Society
+130107064-cl204 Heat Transfer Operations
+130107064-cl205 Mass Transfer Operations I
+130107064-cl206 Process Equipment Design I
+130107064-cl207 Chemical Engineering Thermodynamics II
+130107064-cl210 Fluid Mechanics Laboratory
+130107064-cl211 Thermodynamics Lab
+130107064-hs234 Introduction to Linguistics
+130107064-ph282m Engineering Optics
+130107065-cl204 Heat Transfer Operations
+130107065-cl205 Mass Transfer Operations I
+130107065-cl206 Process Equipment Design I
+130107065-cl207 Chemical Engineering Thermodynamics II
+130107065-cl210 Fluid Mechanics Laboratory
+130107065-cl211 Thermodynamics Lab
+130107065-dd220m Introduction to Ergonomics
+130107065-hs213 Consumer Behaviour
+130107066-cl204 Heat Transfer Operations
+130107066-cl205 Mass Transfer Operations I
+130107066-cl206 Process Equipment Design I
+130107066-cl207 Chemical Engineering Thermodynamics II
+130107066-cl210 Fluid Mechanics Laboratory
+130107066-cl211 Thermodynamics Lab
+130107066-hs223 Language and Society
+130107067-hs222 Understanding Psychology : Individual and Works Settings
+130107068-cl204 Heat Transfer Operations
+130107068-cl205 Mass Transfer Operations I
+130107068-cl206 Process Equipment Design I
+130107068-cl207 Chemical Engineering Thermodynamics II
+130107068-cl210 Fluid Mechanics Laboratory
+130107068-cl211 Thermodynamics Lab
+130107068-hs223 Language and Society
+130107069-cl204 Heat Transfer Operations
+130107069-cl205 Mass Transfer Operations I
+130107069-cl206 Process Equipment Design I
+130107069-cl207 Chemical Engineering Thermodynamics II
+130107069-cl210 Fluid Mechanics Laboratory
+130107069-cl211 Thermodynamics Lab
+130107069-hs234 Introduction to Linguistics
+134107002-cl699 Project
+134107003-cl699 Project
+134107004-cl699 Project
+134107005-cl699 Project
+134107006-cl699 Project
+134107008-cl699 Project
+134107009-cl699 Project
+134107011-cl699 Project
+134107012-cl699 Project
+134107013-cl699 Project
+134107014-cl699 Project
+134107015-cl699 Project
+134107016-cl699 Project
+134107017-cl699 Project
+134107018-cl699 Project
+134107019-cl699 Project
+134107020-cl699 Project
+134107022-cl699 Project
+134107024-cl699 Project
+134107025-cl699 Project
+134107026-cl699 Project
+134107027-cl699 Project
+134107028-cl699 Project
+134107029-cl699 Project
+134107030-cl699 Project
+134107031-cl699 Project
+134107034-cl699 Project
+134107037-cl699 Project
+134107043-cl699 Project
+134107044-cl699 Project
+134107046-cl699 Project
+134107052-cl699 Project
+134107056-cl699 Project
+134107059-cl699 Project
+134107060-cl699 Project
+134107061-cl699 Project
+134107064-cl699 Project
+134107068-cl699 Project
+134107072-cl699 Project
+140107001-bt101 Modern Biology
+140107001-cs101 Introduction to Computing
+140107001-cs110 Computing Lab
+140107001-ee102 Basic Electronics Laboratory
+140107001-ma102 Mathematics II
+140107001-me101 Engineering Mechanics
+140107001-me110 Workshop I
+140107001-ph102 Physics II
+140107001-sa102 Course Name/Course No Not Found
+140107002-bt101 Modern Biology
+140107002-cs101 Introduction to Computing
+140107002-cs110 Computing Lab
+140107002-ee102 Basic Electronics Laboratory
+140107002-ma102 Mathematics II
+140107002-me101 Engineering Mechanics
+140107002-me110 Workshop I
+140107002-ph102 Physics II
+140107002-sa102 Course Name/Course No Not Found
+140107003-bt101 Modern Biology
+140107003-cs101 Introduction to Computing
+140107003-cs110 Computing Lab
+140107003-ee102 Basic Electronics Laboratory
+140107003-ma102 Mathematics II
+140107003-me101 Engineering Mechanics
+140107003-me110 Workshop I
+140107003-ph102 Physics II
+140107003-sa102 Course Name/Course No Not Found
+140107004-bt101 Modern Biology
+140107004-cs101 Introduction to Computing
+140107004-cs110 Computing Lab
+140107004-ee102 Basic Electronics Laboratory
+140107004-ma102 Mathematics II
+140107004-me101 Engineering Mechanics
+140107004-me110 Workshop I
+140107004-ph102 Physics II
+140107004-sa102 Course Name/Course No Not Found
+140107005-bt101 Modern Biology
+140107005-cs101 Introduction to Computing
+140107005-cs110 Computing Lab
+140107005-ee102 Basic Electronics Laboratory
+140107005-ma102 Mathematics II
+140107005-me101 Engineering Mechanics
+140107005-me110 Workshop I
+140107005-ph102 Physics II
+140107005-sa102 Course Name/Course No Not Found
+140107006-bt101 Modern Biology
+140107006-cs101 Introduction to Computing
+140107006-cs110 Computing Lab
+140107006-ee102 Basic Electronics Laboratory
+140107006-ma102 Mathematics II
+140107006-me101 Engineering Mechanics
+140107006-me110 Workshop I
+140107006-ph102 Physics II
+140107006-sa102 Course Name/Course No Not Found
+140107007-bt101 Modern Biology
+140107007-cs101 Introduction to Computing
+140107007-cs110 Computing Lab
+140107007-ee102 Basic Electronics Laboratory
+140107007-ma102 Mathematics II
+140107007-me101 Engineering Mechanics
+140107007-me110 Workshop I
+140107007-ph102 Physics II
+140107007-sa102 Course Name/Course No Not Found
+140107009-bt101 Modern Biology
+140107009-cs101 Introduction to Computing
+140107009-cs110 Computing Lab
+140107009-ee102 Basic Electronics Laboratory
+140107009-ma102 Mathematics II
+140107009-me101 Engineering Mechanics
+140107009-me110 Workshop I
+140107009-ph102 Physics II
+140107009-sa102 Course Name/Course No Not Found
+140107010-bt101 Modern Biology
+140107010-cs101 Introduction to Computing
+140107010-cs110 Computing Lab
+140107010-ee102 Basic Electronics Laboratory
+140107010-ma102 Mathematics II
+140107010-me101 Engineering Mechanics
+140107010-me110 Workshop I
+140107010-ph102 Physics II
+140107010-sa102 Course Name/Course No Not Found
+140107011-bt101 Modern Biology
+140107011-cs101 Introduction to Computing
+140107011-cs110 Computing Lab
+140107011-ee102 Basic Electronics Laboratory
+140107011-ma102 Mathematics II
+140107011-me101 Engineering Mechanics
+140107011-me110 Workshop I
+140107011-ph102 Physics II
+140107011-sa102 Course Name/Course No Not Found
+140107012-bt101 Modern Biology
+140107012-cs101 Introduction to Computing
+140107012-cs110 Computing Lab
+140107012-ee102 Basic Electronics Laboratory
+140107012-ma102 Mathematics II
+140107012-me101 Engineering Mechanics
+140107012-me110 Workshop I
+140107012-ph102 Physics II
+140107012-sa102 Course Name/Course No Not Found
+140107013-bt101 Modern Biology
+140107013-cs101 Introduction to Computing
+140107013-cs110 Computing Lab
+140107013-ee102 Basic Electronics Laboratory
+140107013-ma102 Mathematics II
+140107013-me101 Engineering Mechanics
+140107013-me110 Workshop I
+140107013-ph102 Physics II
+140107013-sa102 Course Name/Course No Not Found
+140107014-bt101 Modern Biology
+140107014-cs101 Introduction to Computing
+140107014-cs110 Computing Lab
+140107014-ee102 Basic Electronics Laboratory
+140107014-ma102 Mathematics II
+140107014-me101 Engineering Mechanics
+140107014-me110 Workshop I
+140107014-ph102 Physics II
+140107014-sa102 Course Name/Course No Not Found
+140107015-bt101 Modern Biology
+140107015-cs101 Introduction to Computing
+140107015-cs110 Computing Lab
+140107015-ee102 Basic Electronics Laboratory
+140107015-ma102 Mathematics II
+140107015-me101 Engineering Mechanics
+140107015-me110 Workshop I
+140107015-ph102 Physics II
+140107015-sa102 Course Name/Course No Not Found
+140107016-bt101 Modern Biology
+140107016-cs101 Introduction to Computing
+140107016-cs110 Computing Lab
+140107016-ee102 Basic Electronics Laboratory
+140107016-ma102 Mathematics II
+140107016-me101 Engineering Mechanics
+140107016-me110 Workshop I
+140107016-ph102 Physics II
+140107016-sa102 Course Name/Course No Not Found
+140107017-bt101 Modern Biology
+140107017-cs101 Introduction to Computing
+140107017-cs110 Computing Lab
+140107017-ee102 Basic Electronics Laboratory
+140107017-ma102 Mathematics II
+140107017-me101 Engineering Mechanics
+140107017-me110 Workshop I
+140107017-ph102 Physics II
+140107017-sa102 Course Name/Course No Not Found
+140107018-bt101 Modern Biology
+140107018-cs101 Introduction to Computing
+140107018-cs110 Computing Lab
+140107018-ee102 Basic Electronics Laboratory
+140107018-ma102 Mathematics II
+140107018-me101 Engineering Mechanics
+140107018-me110 Workshop I
+140107018-ph102 Physics II
+140107018-sa102 Course Name/Course No Not Found
+140107019-bt101 Modern Biology
+140107019-cs101 Introduction to Computing
+140107019-cs110 Computing Lab
+140107019-ee102 Basic Electronics Laboratory
+140107019-ma102 Mathematics II
+140107019-me101 Engineering Mechanics
+140107019-me110 Workshop I
+140107019-ph102 Physics II
+140107019-sa102 Course Name/Course No Not Found
+140107020-bt101 Modern Biology
+140107020-cs101 Introduction to Computing
+140107020-cs110 Computing Lab
+140107020-ee102 Basic Electronics Laboratory
+140107020-ma102 Mathematics II
+140107020-me101 Engineering Mechanics
+140107020-me110 Workshop I
+140107020-ph102 Physics II
+140107020-sa102 Course Name/Course No Not Found
+140107021-bt101 Modern Biology
+140107021-cs101 Introduction to Computing
+140107021-cs110 Computing Lab
+140107021-ee102 Basic Electronics Laboratory
+140107021-ma102 Mathematics II
+140107021-me101 Engineering Mechanics
+140107021-me110 Workshop I
+140107021-ph102 Physics II
+140107021-sa102 Course Name/Course No Not Found
+140107022-bt101 Modern Biology
+140107022-cs101 Introduction to Computing
+140107022-cs110 Computing Lab
+140107022-ee102 Basic Electronics Laboratory
+140107022-ma102 Mathematics II
+140107022-me101 Engineering Mechanics
+140107022-me110 Workshop I
+140107022-ph102 Physics II
+140107022-sa102 Course Name/Course No Not Found
+140107023-bt101 Modern Biology
+140107023-cs101 Introduction to Computing
+140107023-cs110 Computing Lab
+140107023-ee102 Basic Electronics Laboratory
+140107023-ma102 Mathematics II
+140107023-me101 Engineering Mechanics
+140107023-me110 Workshop I
+140107023-ph102 Physics II
+140107023-sa102 Course Name/Course No Not Found
+140107024-bt101 Modern Biology
+140107024-cs101 Introduction to Computing
+140107024-cs110 Computing Lab
+140107024-ee102 Basic Electronics Laboratory
+140107024-ma102 Mathematics II
+140107024-me101 Engineering Mechanics
+140107024-me110 Workshop I
+140107024-ph102 Physics II
+140107024-sa102 Course Name/Course No Not Found
+140107025-bt101 Modern Biology
+140107025-cs101 Introduction to Computing
+140107025-cs110 Computing Lab
+140107025-ee102 Basic Electronics Laboratory
+140107025-ma102 Mathematics II
+140107025-me101 Engineering Mechanics
+140107025-me110 Workshop I
+140107025-ph102 Physics II
+140107025-sa102 Course Name/Course No Not Found
+140107026-bt101 Modern Biology
+140107026-cs101 Introduction to Computing
+140107026-cs110 Computing Lab
+140107026-ee102 Basic Electronics Laboratory
+140107026-ma102 Mathematics II
+140107026-me101 Engineering Mechanics
+140107026-me110 Workshop I
+140107026-ph102 Physics II
+140107026-sa102 Course Name/Course No Not Found
+140107027-bt101 Modern Biology
+140107027-cs101 Introduction to Computing
+140107027-cs110 Computing Lab
+140107027-ee102 Basic Electronics Laboratory
+140107027-ma102 Mathematics II
+140107027-me101 Engineering Mechanics
+140107027-me110 Workshop I
+140107027-ph102 Physics II
+140107027-sa102 Course Name/Course No Not Found
+140107028-bt101 Modern Biology
+140107028-cs101 Introduction to Computing
+140107028-cs110 Computing Lab
+140107028-ee102 Basic Electronics Laboratory
+140107028-ma102 Mathematics II
+140107028-me101 Engineering Mechanics
+140107028-me110 Workshop I
+140107028-ph102 Physics II
+140107028-sa102 Course Name/Course No Not Found
+140107029-bt101 Modern Biology
+140107029-cs101 Introduction to Computing
+140107029-cs110 Computing Lab
+140107029-ee102 Basic Electronics Laboratory
+140107029-ma102 Mathematics II
+140107029-me101 Engineering Mechanics
+140107029-me110 Workshop I
+140107029-ph102 Physics II
+140107029-sa102 Course Name/Course No Not Found
+140107030-bt101 Modern Biology
+140107030-cs101 Introduction to Computing
+140107030-cs110 Computing Lab
+140107030-ee102 Basic Electronics Laboratory
+140107030-ma102 Mathematics II
+140107030-me101 Engineering Mechanics
+140107030-me110 Workshop I
+140107030-ph102 Physics II
+140107030-sa102 Course Name/Course No Not Found
+140107031-bt101 Modern Biology
+140107031-cs101 Introduction to Computing
+140107031-cs110 Computing Lab
+140107031-ee102 Basic Electronics Laboratory
+140107031-ma102 Mathematics II
+140107031-me101 Engineering Mechanics
+140107031-me110 Workshop I
+140107031-ph102 Physics II
+140107031-sa102 Course Name/Course No Not Found
+140107032-bt101 Modern Biology
+140107032-cs101 Introduction to Computing
+140107032-cs110 Computing Lab
+140107032-ee102 Basic Electronics Laboratory
+140107032-ma102 Mathematics II
+140107032-me101 Engineering Mechanics
+140107032-me110 Workshop I
+140107032-ph102 Physics II
+140107032-sa102 Course Name/Course No Not Found
+140107033-bt101 Modern Biology
+140107033-cs101 Introduction to Computing
+140107033-cs110 Computing Lab
+140107033-ee102 Basic Electronics Laboratory
+140107033-ma102 Mathematics II
+140107033-me101 Engineering Mechanics
+140107033-me110 Workshop I
+140107033-ph102 Physics II
+140107033-sa102 Course Name/Course No Not Found
+140107034-bt101 Modern Biology
+140107034-cs101 Introduction to Computing
+140107034-cs110 Computing Lab
+140107034-ee102 Basic Electronics Laboratory
+140107034-ma102 Mathematics II
+140107034-me101 Engineering Mechanics
+140107034-me110 Workshop I
+140107034-ph102 Physics II
+140107034-sa102 Course Name/Course No Not Found
+140107035-bt101 Modern Biology
+140107035-cs101 Introduction to Computing
+140107035-cs110 Computing Lab
+140107035-ee102 Basic Electronics Laboratory
+140107035-ma102 Mathematics II
+140107035-me101 Engineering Mechanics
+140107035-me110 Workshop I
+140107035-ph102 Physics II
+140107035-sa102 Course Name/Course No Not Found
+140107036-bt101 Modern Biology
+140107036-cs101 Introduction to Computing
+140107036-cs110 Computing Lab
+140107036-ee102 Basic Electronics Laboratory
+140107036-ma102 Mathematics II
+140107036-me101 Engineering Mechanics
+140107036-me110 Workshop I
+140107036-ph102 Physics II
+140107036-sa102 Course Name/Course No Not Found
+140107037-bt101 Modern Biology
+140107037-cs101 Introduction to Computing
+140107037-cs110 Computing Lab
+140107037-ee102 Basic Electronics Laboratory
+140107037-ma102 Mathematics II
+140107037-me101 Engineering Mechanics
+140107037-me110 Workshop I
+140107037-ph102 Physics II
+140107037-sa102 Course Name/Course No Not Found
+140107038-bt101 Modern Biology
+140107038-cs101 Introduction to Computing
+140107038-cs110 Computing Lab
+140107038-ee102 Basic Electronics Laboratory
+140107038-ma102 Mathematics II
+140107038-me101 Engineering Mechanics
+140107038-me110 Workshop I
+140107038-ph102 Physics II
+140107038-sa102 Course Name/Course No Not Found
+140107039-bt101 Modern Biology
+140107039-cs101 Introduction to Computing
+140107039-cs110 Computing Lab
+140107039-ee102 Basic Electronics Laboratory
+140107039-ma102 Mathematics II
+140107039-me101 Engineering Mechanics
+140107039-me110 Workshop I
+140107039-ph102 Physics II
+140107039-sa102 Course Name/Course No Not Found
+140107040-bt101 Modern Biology
+140107040-cs101 Introduction to Computing
+140107040-cs110 Computing Lab
+140107040-ee102 Basic Electronics Laboratory
+140107040-ma102 Mathematics II
+140107040-me101 Engineering Mechanics
+140107040-me110 Workshop I
+140107040-ph102 Physics II
+140107040-sa102 Course Name/Course No Not Found
+140107041-bt101 Modern Biology
+140107041-cs101 Introduction to Computing
+140107041-cs110 Computing Lab
+140107041-ee102 Basic Electronics Laboratory
+140107041-ma102 Mathematics II
+140107041-me101 Engineering Mechanics
+140107041-me110 Workshop I
+140107041-ph102 Physics II
+140107041-sa102 Course Name/Course No Not Found
+140107042-bt101 Modern Biology
+140107042-cs101 Introduction to Computing
+140107042-cs110 Computing Lab
+140107042-ee102 Basic Electronics Laboratory
+140107042-ma102 Mathematics II
+140107042-me101 Engineering Mechanics
+140107042-me110 Workshop I
+140107042-ph102 Physics II
+140107042-sa102 Course Name/Course No Not Found
+140107043-bt101 Modern Biology
+140107043-cs101 Introduction to Computing
+140107043-cs110 Computing Lab
+140107043-ee102 Basic Electronics Laboratory
+140107043-ma102 Mathematics II
+140107043-me101 Engineering Mechanics
+140107043-me110 Workshop I
+140107043-ph102 Physics II
+140107043-sa102 Course Name/Course No Not Found
+140107044-bt101 Modern Biology
+140107044-cs101 Introduction to Computing
+140107044-cs110 Computing Lab
+140107044-ee102 Basic Electronics Laboratory
+140107044-ma102 Mathematics II
+140107044-me101 Engineering Mechanics
+140107044-me110 Workshop I
+140107044-ph102 Physics II
+140107044-sa102 Course Name/Course No Not Found
+140107045-bt101 Modern Biology
+140107045-cs101 Introduction to Computing
+140107045-cs110 Computing Lab
+140107045-ee102 Basic Electronics Laboratory
+140107045-ma102 Mathematics II
+140107045-me101 Engineering Mechanics
+140107045-me110 Workshop I
+140107045-ph102 Physics II
+140107045-sa102 Course Name/Course No Not Found
+140107046-bt101 Modern Biology
+140107046-cs101 Introduction to Computing
+140107046-cs110 Computing Lab
+140107046-ee102 Basic Electronics Laboratory
+140107046-ma102 Mathematics II
+140107046-me101 Engineering Mechanics
+140107046-me110 Workshop I
+140107046-ph102 Physics II
+140107046-sa102 Course Name/Course No Not Found
+140107047-bt101 Modern Biology
+140107047-cs101 Introduction to Computing
+140107047-cs110 Computing Lab
+140107047-ee102 Basic Electronics Laboratory
+140107047-ma102 Mathematics II
+140107047-me101 Engineering Mechanics
+140107047-me110 Workshop I
+140107047-ph102 Physics II
+140107047-sa102 Course Name/Course No Not Found
+140107048-bt101 Modern Biology
+140107048-cs101 Introduction to Computing
+140107048-cs110 Computing Lab
+140107048-ee102 Basic Electronics Laboratory
+140107048-ma102 Mathematics II
+140107048-me101 Engineering Mechanics
+140107048-me110 Workshop I
+140107048-ph102 Physics II
+140107048-sa102 Course Name/Course No Not Found
+140107049-bt101 Modern Biology
+140107049-cs101 Introduction to Computing
+140107049-cs110 Computing Lab
+140107049-ee102 Basic Electronics Laboratory
+140107049-ma102 Mathematics II
+140107049-me101 Engineering Mechanics
+140107049-me110 Workshop I
+140107049-ph102 Physics II
+140107049-sa102 Course Name/Course No Not Found
+140107050-bt101 Modern Biology
+140107050-cs101 Introduction to Computing
+140107050-cs110 Computing Lab
+140107050-ee102 Basic Electronics Laboratory
+140107050-ma102 Mathematics II
+140107050-me101 Engineering Mechanics
+140107050-me110 Workshop I
+140107050-ph102 Physics II
+140107050-sa102 Course Name/Course No Not Found
+140107051-bt101 Modern Biology
+140107051-cs101 Introduction to Computing
+140107051-cs110 Computing Lab
+140107051-ee102 Basic Electronics Laboratory
+140107051-ma102 Mathematics II
+140107051-me101 Engineering Mechanics
+140107051-me110 Workshop I
+140107051-ph102 Physics II
+140107051-sa102 Course Name/Course No Not Found
+140107052-bt101 Modern Biology
+140107052-cs101 Introduction to Computing
+140107052-cs110 Computing Lab
+140107052-ee102 Basic Electronics Laboratory
+140107052-ma102 Mathematics II
+140107052-me101 Engineering Mechanics
+140107052-me110 Workshop I
+140107052-ph102 Physics II
+140107052-sa102 Course Name/Course No Not Found
+140107053-bt101 Modern Biology
+140107053-cs101 Introduction to Computing
+140107053-cs110 Computing Lab
+140107053-ee102 Basic Electronics Laboratory
+140107053-ma102 Mathematics II
+140107053-me101 Engineering Mechanics
+140107053-me110 Workshop I
+140107053-ph102 Physics II
+140107053-sa102 Course Name/Course No Not Found
+140107054-bt101 Modern Biology
+140107054-cs101 Introduction to Computing
+140107054-cs110 Computing Lab
+140107054-ee102 Basic Electronics Laboratory
+140107054-ma102 Mathematics II
+140107054-me101 Engineering Mechanics
+140107054-me110 Workshop I
+140107054-ph102 Physics II
+140107054-sa102 Course Name/Course No Not Found
+140107055-bt101 Modern Biology
+140107055-cs101 Introduction to Computing
+140107055-cs110 Computing Lab
+140107055-ee102 Basic Electronics Laboratory
+140107055-ma102 Mathematics II
+140107055-me101 Engineering Mechanics
+140107055-me110 Workshop I
+140107055-ph102 Physics II
+140107055-sa102 Course Name/Course No Not Found
+140107056-bt101 Modern Biology
+140107056-cs101 Introduction to Computing
+140107056-cs110 Computing Lab
+140107056-ee102 Basic Electronics Laboratory
+140107056-ma102 Mathematics II
+140107056-me101 Engineering Mechanics
+140107056-me110 Workshop I
+140107056-ph102 Physics II
+140107056-sa102 Course Name/Course No Not Found
+140107057-bt101 Modern Biology
+140107057-cs101 Introduction to Computing
+140107057-cs110 Computing Lab
+140107057-ee102 Basic Electronics Laboratory
+140107057-ma102 Mathematics II
+140107057-me101 Engineering Mechanics
+140107057-me110 Workshop I
+140107057-ph102 Physics II
+140107057-sa102 Course Name/Course No Not Found
+140107058-bt101 Modern Biology
+140107058-cs101 Introduction to Computing
+140107058-cs110 Computing Lab
+140107058-ee102 Basic Electronics Laboratory
+140107058-ma102 Mathematics II
+140107058-me101 Engineering Mechanics
+140107058-me110 Workshop I
+140107058-ph102 Physics II
+140107058-sa102 Course Name/Course No Not Found
+140107059-bt101 Modern Biology
+140107059-cs101 Introduction to Computing
+140107059-cs110 Computing Lab
+140107059-ee102 Basic Electronics Laboratory
+140107059-ma102 Mathematics II
+140107059-me101 Engineering Mechanics
+140107059-me110 Workshop I
+140107059-ph102 Physics II
+140107059-sa102 Course Name/Course No Not Found
+140107060-bt101 Modern Biology
+140107060-cs101 Introduction to Computing
+140107060-cs110 Computing Lab
+140107060-ee102 Basic Electronics Laboratory
+140107060-ma102 Mathematics II
+140107060-me101 Engineering Mechanics
+140107060-me110 Workshop I
+140107060-ph102 Physics II
+140107060-sa102 Course Name/Course No Not Found
+140107061-bt101 Modern Biology
+140107061-cs101 Introduction to Computing
+140107061-cs110 Computing Lab
+140107061-ee102 Basic Electronics Laboratory
+140107061-ma102 Mathematics II
+140107061-me101 Engineering Mechanics
+140107061-me110 Workshop I
+140107061-ph102 Physics II
+140107061-sa102 Course Name/Course No Not Found
+140107063-bt101 Modern Biology
+140107063-cs101 Introduction to Computing
+140107063-cs110 Computing Lab
+140107063-ee102 Basic Electronics Laboratory
+140107063-ma102 Mathematics II
+140107063-me101 Engineering Mechanics
+140107063-me110 Workshop I
+140107063-ph102 Physics II
+140107063-sa102 Course Name/Course No Not Found
+140107064-bt101 Modern Biology
+140107064-cs101 Introduction to Computing
+140107064-cs110 Computing Lab
+140107064-ee102 Basic Electronics Laboratory
+140107064-ma102 Mathematics II
+140107064-me101 Engineering Mechanics
+140107064-me110 Workshop I
+140107064-ph102 Physics II
+140107064-sa102 Course Name/Course No Not Found
+140107065-bt101 Modern Biology
+140107065-cs101 Introduction to Computing
+140107065-cs110 Computing Lab
+140107065-ee102 Basic Electronics Laboratory
+140107065-ma102 Mathematics II
+140107065-me101 Engineering Mechanics
+140107065-me110 Workshop I
+140107065-ph102 Physics II
+140107065-sa102 Course Name/Course No Not Found
+140107067-bt101 Modern Biology
+140107067-cs101 Introduction to Computing
+140107067-cs110 Computing Lab
+140107067-ee102 Basic Electronics Laboratory
+140107067-ma102 Mathematics II
+140107067-me101 Engineering Mechanics
+140107067-me110 Workshop I
+140107067-ph102 Physics II
+140107067-sa102 Course Name/Course No Not Found
+140107068-bt101 Modern Biology
+140107068-cs101 Introduction to Computing
+140107068-cs110 Computing Lab
+140107068-ee102 Basic Electronics Laboratory
+140107068-ma102 Mathematics II
+140107068-me101 Engineering Mechanics
+140107068-me110 Workshop I
+140107068-ph102 Physics II
+140107068-sa102 Course Name/Course No Not Found
+140107069-bt101 Modern Biology
+140107069-cs101 Introduction to Computing
+140107069-cs110 Computing Lab
+140107069-ee102 Basic Electronics Laboratory
+140107069-ma102 Mathematics II
+140107069-me101 Engineering Mechanics
+140107069-me110 Workshop I
+140107069-ph102 Physics II
+140107069-sa102 Course Name/Course No Not Found
+140107070-bt101 Modern Biology
+140107070-cs101 Introduction to Computing
+140107070-cs110 Computing Lab
+140107070-ee102 Basic Electronics Laboratory
+140107070-ma102 Mathematics II
+140107070-me101 Engineering Mechanics
+140107070-me110 Workshop I
+140107070-ph102 Physics II
+140107070-sa102 Course Name/Course No Not Found
+140107071-bt101 Modern Biology
+140107071-cs101 Introduction to Computing
+140107071-cs110 Computing Lab
+140107071-ee102 Basic Electronics Laboratory
+140107071-ma102 Mathematics II
+140107071-me101 Engineering Mechanics
+140107071-me110 Workshop I
+140107071-ph102 Physics II
+140107071-sa102 Course Name/Course No Not Found
+140107072-bt101 Modern Biology
+140107072-cs101 Introduction to Computing
+140107072-cs110 Computing Lab
+140107072-ee102 Basic Electronics Laboratory
+140107072-ma102 Mathematics II
+140107072-me101 Engineering Mechanics
+140107072-me110 Workshop I
+140107072-ph102 Physics II
+140107072-sa102 Course Name/Course No Not Found
+144107001-cl503 Advanced Thermodynamics
+144107001-cl504 Reaction Engineering
+144107001-cl599 Seminar
+144107001-cl613 Computational Fluid Dynamics
+144107001-cl619 Refinery Process Design
+144107003-cl503 Advanced Thermodynamics
+144107003-cl504 Reaction Engineering
+144107003-cl599 Seminar
+144107003-cl619 Refinery Process Design
+144107003-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107004-cl503 Advanced Thermodynamics
+144107004-cl504 Reaction Engineering
+144107004-cl599 Seminar
+144107004-cl619 Refinery Process Design
+144107004-cl635 Advanced Clean Fuel Technologies
+144107005-cl503 Advanced Thermodynamics
+144107005-cl504 Reaction Engineering
+144107005-cl599 Seminar
+144107005-cl614 Fluidization Engineering
+144107005-cl626 Energy Sources
+144107006-cl503 Advanced Thermodynamics
+144107006-cl504 Reaction Engineering
+144107006-cl599 Seminar
+144107006-cl619 Refinery Process Design
+144107006-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107007-cl503 Advanced Thermodynamics
+144107007-cl504 Reaction Engineering
+144107007-cl599 Seminar
+144107007-cl614 Fluidization Engineering
+144107007-cl623 Polymer Science and Technology
+144107008-cl503 Advanced Thermodynamics
+144107008-cl504 Reaction Engineering
+144107008-cl599 Seminar
+144107008-cl613 Computational Fluid Dynamics
+144107008-cl619 Refinery Process Design
+144107010-cl503 Advanced Thermodynamics
+144107010-cl504 Reaction Engineering
+144107010-cl599 Seminar
+144107010-cl613 Computational Fluid Dynamics
+144107010-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107011-cl503 Advanced Thermodynamics
+144107011-cl504 Reaction Engineering
+144107011-cl599 Seminar
+144107011-cl614 Fluidization Engineering
+144107011-cl618 Natural Gas Engineering
+144107012-cl503 Advanced Thermodynamics
+144107012-cl504 Reaction Engineering
+144107012-cl599 Seminar
+144107012-cl613 Computational Fluid Dynamics
+144107012-cl619 Refinery Process Design
+144107012-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107013-cl503 Advanced Thermodynamics
+144107013-cl504 Reaction Engineering
+144107013-cl599 Seminar
+144107013-cl613 Computational Fluid Dynamics
+144107013-cl619 Refinery Process Design
+144107014-cl503 Advanced Thermodynamics
+144107014-cl504 Reaction Engineering
+144107014-cl599 Seminar
+144107014-cl613 Computational Fluid Dynamics
+144107014-cl619 Refinery Process Design
+144107016-cl503 Advanced Thermodynamics
+144107016-cl504 Reaction Engineering
+144107016-cl599 Seminar
+144107016-cl613 Computational Fluid Dynamics
+144107016-cl619 Refinery Process Design
+144107017-cl503 Advanced Thermodynamics
+144107017-cl504 Reaction Engineering
+144107017-cl599 Seminar
+144107017-cl614 Fluidization Engineering
+144107017-cl619 Refinery Process Design
+144107018-cl503 Advanced Thermodynamics
+144107018-cl504 Reaction Engineering
+144107018-cl599 Seminar
+144107018-cl613 Computational Fluid Dynamics
+144107018-cl618 Natural Gas Engineering
+144107019-cl503 Advanced Thermodynamics
+144107019-cl504 Reaction Engineering
+144107019-cl599 Seminar
+144107019-cl619 Refinery Process Design
+144107019-cl635 Advanced Clean Fuel Technologies
+144107020-cl503 Advanced Thermodynamics
+144107020-cl504 Reaction Engineering
+144107020-cl599 Seminar
+144107020-cl619 Refinery Process Design
+144107020-cl635 Advanced Clean Fuel Technologies
+144107021-cl503 Advanced Thermodynamics
+144107021-cl504 Reaction Engineering
+144107021-cl599 Seminar
+144107021-cl614 Fluidization Engineering
+144107021-cl635 Advanced Clean Fuel Technologies
+144107022-cl503 Advanced Thermodynamics
+144107022-cl504 Reaction Engineering
+144107022-cl599 Seminar
+144107022-cl613 Computational Fluid Dynamics
+144107022-cl619 Refinery Process Design
+144107023-cl503 Advanced Thermodynamics
+144107023-cl504 Reaction Engineering
+144107023-cl599 Seminar
+144107023-cl613 Computational Fluid Dynamics
+144107024-cl503 Advanced Thermodynamics
+144107024-cl504 Reaction Engineering
+144107024-cl599 Seminar
+144107024-cl619 Refinery Process Design
+144107024-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107025-cl503 Advanced Thermodynamics
+144107025-cl504 Reaction Engineering
+144107025-cl599 Seminar
+144107025-cl613 Computational Fluid Dynamics
+144107025-cl619 Refinery Process Design
+144107026-cl503 Advanced Thermodynamics
+144107026-cl504 Reaction Engineering
+144107026-cl599 Seminar
+144107026-cl613 Computational Fluid Dynamics
+144107027-cl503 Advanced Thermodynamics
+144107027-cl504 Reaction Engineering
+144107027-cl599 Seminar
+144107027-cl619 Refinery Process Design
+144107027-cl635 Advanced Clean Fuel Technologies
+144107028-cl503 Advanced Thermodynamics
+144107028-cl504 Reaction Engineering
+144107028-cl599 Seminar
+144107028-cl619 Refinery Process Design
+144107028-cl635 Advanced Clean Fuel Technologies
+144107029-cl503 Advanced Thermodynamics
+144107029-cl504 Reaction Engineering
+144107029-cl599 Seminar
+144107029-cl613 Computational Fluid Dynamics
+144107029-cl623 Polymer Science and Technology
+144107030-cl503 Advanced Thermodynamics
+144107030-cl504 Reaction Engineering
+144107030-cl599 Seminar
+144107030-cl619 Refinery Process Design
+144107030-cl635 Advanced Clean Fuel Technologies
+144107031-cl503 Advanced Thermodynamics
+144107031-cl504 Reaction Engineering
+144107031-cl599 Seminar
+144107031-cl613 Computational Fluid Dynamics
+144107031-cl622 Molecular Simulations: Principles and Applications
+144107031-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107032-cl503 Advanced Thermodynamics
+144107032-cl504 Reaction Engineering
+144107032-cl599 Seminar
+144107032-cl622 Molecular Simulations: Principles and Applications
+144107032-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107033-cl503 Advanced Thermodynamics
+144107033-cl504 Reaction Engineering
+144107033-cl599 Seminar
+144107033-cl613 Computational Fluid Dynamics
+144107033-cl618 Natural Gas Engineering
+144107034-cl503 Advanced Thermodynamics
+144107034-cl504 Reaction Engineering
+144107034-cl599 Seminar
+144107034-cl613 Computational Fluid Dynamics
+144107035-cl503 Advanced Thermodynamics
+144107035-cl504 Reaction Engineering
+144107035-cl599 Seminar
+144107035-cl614 Fluidization Engineering
+144107035-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107037-cl503 Advanced Thermodynamics
+144107037-cl504 Reaction Engineering
+144107037-cl599 Seminar
+144107037-cl623 Polymer Science and Technology
+144107037-cl630 Composites Materials
+144107038-cl503 Advanced Thermodynamics
+144107038-cl504 Reaction Engineering
+144107038-cl599 Seminar
+144107038-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107038-cl630 Composites Materials
+144107043-cl503 Advanced Thermodynamics
+144107043-cl504 Reaction Engineering
+144107043-cl599 Seminar
+144107043-cl630 Composites Materials
+144107043-cl635 Advanced Clean Fuel Technologies
+144107044-cl503 Advanced Thermodynamics
+144107044-cl504 Reaction Engineering
+144107044-cl599 Seminar
+144107044-cl613 Computational Fluid Dynamics
+144107046-cl503 Advanced Thermodynamics
+144107046-cl504 Reaction Engineering
+144107046-cl599 Seminar
+144107046-cl630 Composites Materials
+144107047-cl503 Advanced Thermodynamics
+144107047-cl504 Reaction Engineering
+144107047-cl599 Seminar
+144107047-cl614 Fluidization Engineering
+144107051-cl503 Advanced Thermodynamics
+144107051-cl504 Reaction Engineering
+144107051-cl599 Seminar
+144107051-cl614 Fluidization Engineering
+144107052-cl503 Advanced Thermodynamics
+144107052-cl504 Reaction Engineering
+144107052-cl599 Seminar
+144107052-cl612 Colloid and Interface Science
+144107052-cl614 Fluidization Engineering
+144107053-cl503 Advanced Thermodynamics
+144107053-cl504 Reaction Engineering
+144107053-cl599 Seminar
+144107053-cl630 Composites Materials
+144107055-cl503 Advanced Thermodynamics
+144107055-cl504 Reaction Engineering
+144107055-cl599 Seminar
+144107055-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107055-cl630 Composites Materials
+144107056-cl503 Advanced Thermodynamics
+144107056-cl504 Reaction Engineering
+144107056-cl599 Seminar
+144107056-cl614 Fluidization Engineering
+144107056-cl630 Composites Materials
+144107058-cl503 Advanced Thermodynamics
+144107058-cl504 Reaction Engineering
+144107058-cl599 Seminar
+144107058-cl614 Fluidization Engineering
+144107058-cl630 Composites Materials
+144107059-cl503 Advanced Thermodynamics
+144107059-cl504 Reaction Engineering
+144107059-cl599 Seminar
+144107059-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107059-cl635 Advanced Clean Fuel Technologies
+144107062-cl503 Advanced Thermodynamics
+144107062-cl504 Reaction Engineering
+144107062-cl599 Seminar
+144107062-cl613 Computational Fluid Dynamics
+144107062-cl622 Molecular Simulations: Principles and Applications
+144107062-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107065-cl503 Advanced Thermodynamics
+144107065-cl504 Reaction Engineering
+144107065-cl599 Seminar
+144107065-cl622 Molecular Simulations: Principles and Applications
+144107065-cl635 Advanced Clean Fuel Technologies
+144107070-cl503 Advanced Thermodynamics
+144107070-cl504 Reaction Engineering
+144107070-cl599 Seminar
+144107070-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+144107070-cl635 Advanced Clean Fuel Technologies
+146107003-cl635 Advanced Clean Fuel Technologies
+146107008-cs561 Artificial Intelligence
+146107008-ma451 Parallel Computing
+146107008-ma691 Statistical Simulation and data Analysis
+146107008-me685 Evolutionary Computation
+146107009-cl622 Molecular Simulations: Principles and Applications
+146107009-cl625 Fundamentals of Micro-nano Fluidics and Micro-Fabrication
+146107012-cl504 Reaction Engineering
+146107012-cl635 Advanced Clean Fuel Technologies
+146107015-cl504 Reaction Engineering
+146107015-cl613 Computational Fluid Dynamics
+146107015-cl626 Energy Sources
+146107015-cl635 Advanced Clean Fuel Technologies
+146107019-bt609 Bioprocess Engineering
+146107021-ce664 Industrial Wastewater Pollution Control

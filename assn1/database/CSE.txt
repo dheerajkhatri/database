@@ -1,0 +1,2470 @@
+11010101-hs420 Writing Systems of the World
+11010102-cs499 Project I
+11010102-cs522 Embedded Systems
+11010102-cs544 Topics in Networks
+11010102-cs561 Artificial Intelligence
+11010102-hs423 Masculinities in Literature and Popular Culture
+11010103-hs420 Writing Systems of the World
+11010104-cs499 Project I
+11010104-cs544 Topics in Networks
+11010104-cs561 Artificial Intelligence
+11010104-cs572 Computational Systems Biology
+11010104-hs423 Masculinities in Literature and Popular Culture
+11010105-hs423 Masculinities in Literature and Popular Culture
+11010106-cs499 Project I
+11010106-cs544 Topics in Networks
+11010106-cs561 Artificial Intelligence
+11010106-cs572 Computational Systems Biology
+11010108-cs499 Project I
+11010108-cs522 Embedded Systems
+11010108-cs544 Topics in Networks
+11010108-cs561 Artificial Intelligence
+11010108-hs423 Masculinities in Literature and Popular Culture
+11010109-cs499 Project I
+11010109-cs503 RANDOMIZED ALGORITHMS
+11010109-cs556 Performance Modeling of Communication and Computer Systems
+11010109-cs561 Artificial Intelligence
+11010109-hs406 Philosophical Issues
+11010110-cs499 Project I
+11010110-cs544 Topics in Networks
+11010110-cs561 Artificial Intelligence
+11010110-cs572 Computational Systems Biology
+11010110-hs406 Philosophical Issues
+11010111-cs499 Project I
+11010111-cs510 Information and Randomness
+11010111-cs544 Topics in Networks
+11010111-cs572 Computational Systems Biology
+11010111-hs403 Entrepreneurship & Economic Development
+11010112-cs499 Project I
+11010112-cs556 Performance Modeling of Communication and Computer Systems
+11010112-cs561 Artificial Intelligence
+11010112-cs572 Computational Systems Biology
+11010113-cs499 Project I
+11010113-cs544 Topics in Networks
+11010113-cs561 Artificial Intelligence
+11010113-cs572 Computational Systems Biology
+11010113-hs403 Entrepreneurship & Economic Development
+11010114-hs420 Writing Systems of the World
+11010115-cs499 Project I
+11010115-cs522 Embedded Systems
+11010115-cs561 Artificial Intelligence
+11010115-cs572 Computational Systems Biology
+11010115-hs403 Entrepreneurship & Economic Development
+11010116-cs499 Project I
+11010116-cs544 Topics in Networks
+11010116-cs561 Artificial Intelligence
+11010116-cs572 Computational Systems Biology
+11010116-hs423 Masculinities in Literature and Popular Culture
+11010117-cs499 Project I
+11010117-cs544 Topics in Networks
+11010117-cs561 Artificial Intelligence
+11010117-cs572 Computational Systems Biology
+11010117-hs423 Masculinities in Literature and Popular Culture
+11010118-hs423 Masculinities in Literature and Popular Culture
+11010119-cs499 Project I
+11010119-cs503 RANDOMIZED ALGORITHMS
+11010119-cs544 Topics in Networks
+11010119-cs561 Artificial Intelligence
+11010119-hs403 Entrepreneurship & Economic Development
+11010120-cs499 Project I
+11010120-cs503 RANDOMIZED ALGORITHMS
+11010120-cs510 Information and Randomness
+11010120-cs572 Computational Systems Biology
+11010120-hs422 Subaltern Voices and Narratives
+11010121-cs499 Project I
+11010121-cs522 Embedded Systems
+11010121-cs544 Topics in Networks
+11010121-cs572 Computational Systems Biology
+11010121-hs406 Philosophical Issues
+11010122-cs499 Project I
+11010122-cs522 Embedded Systems
+11010122-cs561 Artificial Intelligence
+11010122-cs572 Computational Systems Biology
+11010122-hs406 Philosophical Issues
+11010123-cs499 Project I
+11010123-cs544 Topics in Networks
+11010123-cs561 Artificial Intelligence
+11010123-cs572 Computational Systems Biology
+11010123-hs403 Entrepreneurship & Economic Development
+11010124-hs410 History of Contemporary India
+11010125-cs499 Project I
+11010125-cs544 Topics in Networks
+11010125-cs561 Artificial Intelligence
+11010125-cs572 Computational Systems Biology
+11010125-hs406 Philosophical Issues
+11010126-cs499 Project I
+11010126-cs544 Topics in Networks
+11010126-cs561 Artificial Intelligence
+11010126-cs572 Computational Systems Biology
+11010126-hs420 Writing Systems of the World
+11010127-cs499 Project I
+11010127-cs544 Topics in Networks
+11010127-cs561 Artificial Intelligence
+11010127-cs572 Computational Systems Biology
+11010127-hs406 Philosophical Issues
+11010128-hs422 Subaltern Voices and Narratives
+11010129-cs499 Project I
+11010129-cs544 Topics in Networks
+11010129-cs561 Artificial Intelligence
+11010129-cs572 Computational Systems Biology
+11010129-hs410 History of Contemporary India
+11010130-cs499 Project I
+11010130-cs544 Topics in Networks
+11010130-cs561 Artificial Intelligence
+11010130-cs572 Computational Systems Biology
+11010130-hs410 History of Contemporary India
+11010131-cs499 Project I
+11010131-cs544 Topics in Networks
+11010131-cs561 Artificial Intelligence
+11010131-cs572 Computational Systems Biology
+11010131-hs420 Writing Systems of the World
+11010132-cs499 Project I
+11010132-cs522 Embedded Systems
+11010132-cs561 Artificial Intelligence
+11010132-cs572 Computational Systems Biology
+11010132-hs422 Subaltern Voices and Narratives
+11010133-hs410 History of Contemporary India
+11010134-cs499 Project I
+11010134-cs522 Embedded Systems
+11010134-cs544 Topics in Networks
+11010134-cs561 Artificial Intelligence
+11010134-hs422 Subaltern Voices and Narratives
+11010136-hs410 History of Contemporary India
+11010137-cs499 Project I
+11010137-cs544 Topics in Networks
+11010137-cs561 Artificial Intelligence
+11010137-cs572 Computational Systems Biology
+11010137-hs406 Philosophical Issues
+11010138-cs499 Project I
+11010138-cs510 Information and Randomness
+11010138-cs561 Artificial Intelligence
+11010138-cs572 Computational Systems Biology
+11010138-hs423 Masculinities in Literature and Popular Culture
+11010139-cs499 Project I
+11010139-cs522 Embedded Systems
+11010139-cs544 Topics in Networks
+11010139-cs561 Artificial Intelligence
+11010139-hs403 Entrepreneurship & Economic Development
+11010141-hs410 History of Contemporary India
+11010142-cs499 Project I
+11010142-cs544 Topics in Networks
+11010142-cs561 Artificial Intelligence
+11010142-cs572 Computational Systems Biology
+11010142-hs420 Writing Systems of the World
+11010143-hs410 History of Contemporary India
+11010144-cs499 Project I
+11010144-cs522 Embedded Systems
+11010144-cs561 Artificial Intelligence
+11010144-cs572 Computational Systems Biology
+11010144-hs422 Subaltern Voices and Narratives
+11010145-hs403 Entrepreneurship & Economic Development
+11010146-cs499 Project I
+11010146-cs503 RANDOMIZED ALGORITHMS
+11010146-cs544 Topics in Networks
+11010146-cs561 Artificial Intelligence
+11010147-cs499 Project I
+11010147-cs556 Performance Modeling of Communication and Computer Systems
+11010147-cs561 Artificial Intelligence
+11010147-cs572 Computational Systems Biology
+11010147-hs406 Philosophical Issues
+11010148-cs499 Project I
+11010148-cs544 Topics in Networks
+11010148-cs561 Artificial Intelligence
+11010148-cs572 Computational Systems Biology
+11010148-hs420 Writing Systems of the World
+11010149-cs499 Project I
+11010149-cs522 Embedded Systems
+11010149-cs561 Artificial Intelligence
+11010149-cs572 Computational Systems Biology
+11010149-hs422 Subaltern Voices and Narratives
+11010150-hs420 Writing Systems of the World
+11010151-hs423 Masculinities in Literature and Popular Culture
+11010152-cs499 Project I
+11010152-cs522 Embedded Systems
+11010152-cs561 Artificial Intelligence
+11010152-cs572 Computational Systems Biology
+11010152-hs423 Masculinities in Literature and Popular Culture
+11010153-cs499 Project I
+11010153-cs544 Topics in Networks
+11010153-cs561 Artificial Intelligence
+11010153-cs572 Computational Systems Biology
+11010153-hs423 Masculinities in Literature and Popular Culture
+11010154-cs499 Project I
+11010154-cs544 Topics in Networks
+11010154-cs561 Artificial Intelligence
+11010154-cs572 Computational Systems Biology
+11010154-hs403 Entrepreneurship & Economic Development
+11010155-cs499 Project I
+11010155-cs503 RANDOMIZED ALGORITHMS
+11010155-cs561 Artificial Intelligence
+11010155-cs572 Computational Systems Biology
+11010155-hs422 Subaltern Voices and Narratives
+11010156-cs499 Project I
+11010156-cs556 Performance Modeling of Communication and Computer Systems
+11010156-cs561 Artificial Intelligence
+11010156-cs572 Computational Systems Biology
+11010156-hs423 Masculinities in Literature and Popular Culture
+11010157-cs499 Project I
+11010157-cs544 Topics in Networks
+11010157-cs561 Artificial Intelligence
+11010157-cs572 Computational Systems Biology
+11010157-hs422 Subaltern Voices and Narratives
+11010158-cs499 Project I
+11010158-cs556 Performance Modeling of Communication and Computer Systems
+11010158-cs561 Artificial Intelligence
+11010158-cs572 Computational Systems Biology
+11010158-hs403 Entrepreneurship & Economic Development
+11010159-cs499 Project I
+11010159-cs522 Embedded Systems
+11010159-cs561 Artificial Intelligence
+11010159-cs572 Computational Systems Biology
+11010160-cs499 Project I
+11010160-cs522 Embedded Systems
+11010160-cs544 Topics in Networks
+11010160-cs561 Artificial Intelligence
+11010160-hs403 Entrepreneurship & Economic Development
+11010161-hs410 History of Contemporary India
+11010162-cs499 Project I
+11010162-cs556 Performance Modeling of Communication and Computer Systems
+11010162-cs561 Artificial Intelligence
+11010162-cs572 Computational Systems Biology
+11010162-hs403 Entrepreneurship & Economic Development
+11010163-hs420 Writing Systems of the World
+11010164-cs499 Project I
+11010164-cs522 Embedded Systems
+11010164-cs561 Artificial Intelligence
+11010164-cs572 Computational Systems Biology
+11010164-hs420 Writing Systems of the World
+11010165-cs499 Project I
+11010165-cs556 Performance Modeling of Communication and Computer Systems
+11010165-cs561 Artificial Intelligence
+11010165-cs572 Computational Systems Biology
+11010165-hs423 Masculinities in Literature and Popular Culture
+11010166-cs499 Project I
+11010166-cs522 Embedded Systems
+11010166-cs544 Topics in Networks
+11010166-cs561 Artificial Intelligence
+11010166-hs422 Subaltern Voices and Narratives
+11010167-cs499 Project I
+11010167-cs544 Topics in Networks
+11010167-cs561 Artificial Intelligence
+11010167-cs572 Computational Systems Biology
+11010167-hs422 Subaltern Voices and Narratives
+11010168-cs499 Project I
+11010168-cs544 Topics in Networks
+11010168-cs561 Artificial Intelligence
+11010168-cs572 Computational Systems Biology
+11010168-hs403 Entrepreneurship & Economic Development
+11010169-cs499 Project I
+11010169-cs503 RANDOMIZED ALGORITHMS
+11010169-cs510 Information and Randomness
+11010169-cs572 Computational Systems Biology
+11010169-hs406 Philosophical Issues
+11010170-cs499 Project I
+11010170-cs556 Performance Modeling of Communication and Computer Systems
+11010170-cs561 Artificial Intelligence
+11010170-cs572 Computational Systems Biology
+11010170-hs406 Philosophical Issues
+11010171-cs499 Project I
+11010171-cs522 Embedded Systems
+11010171-cs561 Artificial Intelligence
+11010171-cs572 Computational Systems Biology
+11010171-hs422 Subaltern Voices and Narratives
+11010172-cs499 Project I
+11010172-cs522 Embedded Systems
+11010172-cs544 Topics in Networks
+11010172-cs561 Artificial Intelligence
+11010172-hs410 History of Contemporary India
+11010173-cs499 Project I
+11010173-cs544 Topics in Networks
+11010173-cs561 Artificial Intelligence
+11010173-cs572 Computational Systems Biology
+11010173-hs406 Philosophical Issues
+11010174-cs499 Project I
+11010174-cs510 Information and Randomness
+11010174-cs544 Topics in Networks
+11010174-cs561 Artificial Intelligence
+11010175-cs499 Project I
+11010175-cs510 Information and Randomness
+11010175-cs556 Performance Modeling of Communication and Computer Systems
+11010175-cs572 Computational Systems Biology
+11010175-hs406 Philosophical Issues
+11010176-cs499 Project I
+11010176-cs544 Topics in Networks
+11010176-cs561 Artificial Intelligence
+11010176-cs572 Computational Systems Biology
+11010176-hs422 Subaltern Voices and Narratives
+11010177-cs499 Project I
+11010177-cs522 Embedded Systems
+11010177-cs544 Topics in Networks
+11010177-cs561 Artificial Intelligence
+11010177-hs423 Masculinities in Literature and Popular Culture
+11010178-cs499 Project I
+11010178-cs522 Embedded Systems
+11010178-cs544 Topics in Networks
+11010178-cs561 Artificial Intelligence
+11010178-hs422 Subaltern Voices and Narratives
+11010179-cs499 Project I
+11010179-cs522 Embedded Systems
+11010179-cs561 Artificial Intelligence
+11010179-cs572 Computational Systems Biology
+11010179-hs423 Masculinities in Literature and Popular Culture
+11010180-cs499 Project I
+11010180-cs544 Topics in Networks
+11010180-cs561 Artificial Intelligence
+11010180-cs572 Computational Systems Biology
+120101001-cs344 Databases
+120101001-cs346 Compilers
+120101001-cs347 Compilers Lab
+120101001-cs348 Computer Networks
+120101001-cs349 Networks Lab
+120101001-ma321 Optimization
+120101002-cs344 Databases
+120101002-cs346 Compilers
+120101002-cs347 Compilers Lab
+120101002-cs348 Computer Networks
+120101002-cs349 Networks Lab
+120101002-ma321 Optimization
+120101003-cs344 Databases
+120101003-cs346 Compilers
+120101003-cs347 Compilers Lab
+120101003-cs348 Computer Networks
+120101003-cs349 Networks Lab
+120101003-ma321 Optimization
+120101004-cs344 Databases
+120101004-cs346 Compilers
+120101004-cs347 Compilers Lab
+120101004-cs348 Computer Networks
+120101004-cs349 Networks Lab
+120101004-ma321 Optimization
+120101005-cs344 Databases
+120101005-cs346 Compilers
+120101005-cs347 Compilers Lab
+120101005-cs348 Computer Networks
+120101005-cs349 Networks Lab
+120101005-ma321 Optimization
+120101006-cs344 Databases
+120101006-cs346 Compilers
+120101006-cs347 Compilers Lab
+120101006-cs348 Computer Networks
+120101006-cs349 Networks Lab
+120101006-ma321 Optimization
+120101007-cs344 Databases
+120101007-cs346 Compilers
+120101007-cs347 Compilers Lab
+120101007-cs348 Computer Networks
+120101007-cs349 Networks Lab
+120101007-ma321 Optimization
+120101008-cs344 Databases
+120101008-cs346 Compilers
+120101008-cs347 Compilers Lab
+120101008-cs348 Computer Networks
+120101008-cs349 Networks Lab
+120101008-ma321 Optimization
+120101009-cs344 Databases
+120101009-cs346 Compilers
+120101009-cs347 Compilers Lab
+120101009-cs348 Computer Networks
+120101009-cs349 Networks Lab
+120101009-ma321 Optimization
+120101010-cs344 Databases
+120101010-cs346 Compilers
+120101010-cs347 Compilers Lab
+120101010-cs348 Computer Networks
+120101010-cs349 Networks Lab
+120101010-ma321 Optimization
+120101012-cs344 Databases
+120101012-cs346 Compilers
+120101012-cs347 Compilers Lab
+120101012-cs348 Computer Networks
+120101012-cs349 Networks Lab
+120101012-ma321 Optimization
+120101014-cs344 Databases
+120101014-cs346 Compilers
+120101014-cs347 Compilers Lab
+120101014-cs348 Computer Networks
+120101014-cs349 Networks Lab
+120101014-ma321 Optimization
+120101016-cs344 Databases
+120101016-cs346 Compilers
+120101016-cs347 Compilers Lab
+120101016-cs348 Computer Networks
+120101016-cs349 Networks Lab
+120101016-ma321 Optimization
+120101017-cs344 Databases
+120101017-cs346 Compilers
+120101017-cs347 Compilers Lab
+120101017-cs348 Computer Networks
+120101017-cs349 Networks Lab
+120101017-ma321 Optimization
+120101018-cs344 Databases
+120101018-cs346 Compilers
+120101018-cs347 Compilers Lab
+120101018-cs348 Computer Networks
+120101018-cs349 Networks Lab
+120101018-dd320m Product Planning and Strategy
+120101018-ma321 Optimization
+120101020-cs344 Databases
+120101020-cs346 Compilers
+120101020-cs347 Compilers Lab
+120101020-cs348 Computer Networks
+120101020-cs349 Networks Lab
+120101020-ma321 Optimization
+120101021-cs344 Databases
+120101021-cs346 Compilers
+120101021-cs347 Compilers Lab
+120101021-cs348 Computer Networks
+120101021-cs349 Networks Lab
+120101021-ma321 Optimization
+120101022-cs344 Databases
+120101022-cs346 Compilers
+120101022-cs347 Compilers Lab
+120101022-cs348 Computer Networks
+120101022-cs349 Networks Lab
+120101022-ma321 Optimization
+120101023-cs344 Databases
+120101023-cs346 Compilers
+120101023-cs347 Compilers Lab
+120101023-cs348 Computer Networks
+120101023-cs349 Networks Lab
+120101023-ma321 Optimization
+120101024-cs344 Databases
+120101024-cs346 Compilers
+120101024-cs347 Compilers Lab
+120101024-cs348 Computer Networks
+120101024-cs349 Networks Lab
+120101024-ma321 Optimization
+120101025-cs344 Databases
+120101025-cs346 Compilers
+120101025-cs347 Compilers Lab
+120101025-cs348 Computer Networks
+120101025-cs349 Networks Lab
+120101025-ma321 Optimization
+120101026-cs344 Databases
+120101026-cs346 Compilers
+120101026-cs347 Compilers Lab
+120101026-cs348 Computer Networks
+120101026-cs349 Networks Lab
+120101026-ma321 Optimization
+120101027-cs344 Databases
+120101027-cs346 Compilers
+120101027-cs347 Compilers Lab
+120101027-cs348 Computer Networks
+120101027-cs349 Networks Lab
+120101027-ma321 Optimization
+120101028-cs344 Databases
+120101028-cs346 Compilers
+120101028-cs347 Compilers Lab
+120101028-cs348 Computer Networks
+120101028-cs349 Networks Lab
+120101028-ma321 Optimization
+120101029-cs344 Databases
+120101029-cs346 Compilers
+120101029-cs347 Compilers Lab
+120101029-cs348 Computer Networks
+120101029-cs349 Networks Lab
+120101029-ma321 Optimization
+120101031-cs344 Databases
+120101031-cs346 Compilers
+120101031-cs347 Compilers Lab
+120101031-cs348 Computer Networks
+120101031-cs349 Networks Lab
+120101031-ma321 Optimization
+120101032-cs344 Databases
+120101032-cs346 Compilers
+120101032-cs347 Compilers Lab
+120101032-cs348 Computer Networks
+120101032-cs349 Networks Lab
+120101032-ma321 Optimization
+120101034-cs344 Databases
+120101034-cs346 Compilers
+120101034-cs347 Compilers Lab
+120101034-cs348 Computer Networks
+120101034-cs349 Networks Lab
+120101034-ma321 Optimization
+120101035-cs344 Databases
+120101035-cs346 Compilers
+120101035-cs347 Compilers Lab
+120101035-cs348 Computer Networks
+120101035-cs349 Networks Lab
+120101035-ma321 Optimization
+120101036-cs344 Databases
+120101036-cs346 Compilers
+120101036-cs347 Compilers Lab
+120101036-cs348 Computer Networks
+120101036-cs349 Networks Lab
+120101036-ma321 Optimization
+120101037-cs344 Databases
+120101037-cs346 Compilers
+120101037-cs347 Compilers Lab
+120101037-cs348 Computer Networks
+120101037-cs349 Networks Lab
+120101037-ma321 Optimization
+120101038-cs344 Databases
+120101038-cs346 Compilers
+120101038-cs347 Compilers Lab
+120101038-cs348 Computer Networks
+120101038-cs349 Networks Lab
+120101038-ma321 Optimization
+120101039-cs344 Databases
+120101039-cs346 Compilers
+120101039-cs347 Compilers Lab
+120101039-cs348 Computer Networks
+120101039-cs349 Networks Lab
+120101039-ma321 Optimization
+120101040-cs344 Databases
+120101040-cs346 Compilers
+120101040-cs347 Compilers Lab
+120101040-cs348 Computer Networks
+120101040-cs349 Networks Lab
+120101040-ma321 Optimization
+120101041-cs344 Databases
+120101041-cs346 Compilers
+120101041-cs347 Compilers Lab
+120101041-cs348 Computer Networks
+120101041-cs349 Networks Lab
+120101041-ma321 Optimization
+120101042-cs344 Databases
+120101042-cs346 Compilers
+120101042-cs347 Compilers Lab
+120101042-cs348 Computer Networks
+120101042-cs349 Networks Lab
+120101042-ma321 Optimization
+120101043-cs344 Databases
+120101043-cs346 Compilers
+120101043-cs347 Compilers Lab
+120101043-cs348 Computer Networks
+120101043-cs349 Networks Lab
+120101043-cs561 Artificial Intelligence
+120101043-ma321 Optimization
+120101045-cs344 Databases
+120101045-cs346 Compilers
+120101045-cs347 Compilers Lab
+120101045-cs348 Computer Networks
+120101045-cs349 Networks Lab
+120101045-ma321 Optimization
+120101046-cs344 Databases
+120101046-cs346 Compilers
+120101046-cs347 Compilers Lab
+120101046-cs348 Computer Networks
+120101046-cs349 Networks Lab
+120101046-ma321 Optimization
+120101047-cs344 Databases
+120101047-cs346 Compilers
+120101047-cs347 Compilers Lab
+120101047-cs348 Computer Networks
+120101047-cs349 Networks Lab
+120101047-ma321 Optimization
+120101048-cs344 Databases
+120101048-cs346 Compilers
+120101048-cs347 Compilers Lab
+120101048-cs348 Computer Networks
+120101048-cs349 Networks Lab
+120101048-ma321 Optimization
+120101049-cs344 Databases
+120101049-cs346 Compilers
+120101049-cs347 Compilers Lab
+120101049-cs348 Computer Networks
+120101049-cs349 Networks Lab
+120101049-ma321 Optimization
+120101050-cs344 Databases
+120101050-cs346 Compilers
+120101050-cs347 Compilers Lab
+120101050-cs348 Computer Networks
+120101050-cs349 Networks Lab
+120101050-ma321 Optimization
+120101051-cs344 Databases
+120101051-cs346 Compilers
+120101051-cs347 Compilers Lab
+120101051-cs348 Computer Networks
+120101051-cs349 Networks Lab
+120101051-ma321 Optimization
+120101052-cs344 Databases
+120101052-cs346 Compilers
+120101052-cs347 Compilers Lab
+120101052-cs348 Computer Networks
+120101052-cs349 Networks Lab
+120101052-ma321 Optimization
+120101053-cs344 Databases
+120101053-cs346 Compilers
+120101053-cs347 Compilers Lab
+120101053-cs348 Computer Networks
+120101053-cs349 Networks Lab
+120101053-ma321 Optimization
+120101054-cs344 Databases
+120101054-cs346 Compilers
+120101054-cs347 Compilers Lab
+120101054-cs348 Computer Networks
+120101054-cs349 Networks Lab
+120101054-ma321 Optimization
+120101055-cs344 Databases
+120101055-cs346 Compilers
+120101055-cs347 Compilers Lab
+120101055-cs348 Computer Networks
+120101055-cs349 Networks Lab
+120101055-ma321 Optimization
+120101056-cs344 Databases
+120101056-cs346 Compilers
+120101056-cs347 Compilers Lab
+120101056-cs348 Computer Networks
+120101056-cs349 Networks Lab
+120101056-ma321 Optimization
+120101057-cs344 Databases
+120101057-cs346 Compilers
+120101057-cs347 Compilers Lab
+120101057-cs348 Computer Networks
+120101057-cs349 Networks Lab
+120101057-ma321 Optimization
+120101058-cs344 Databases
+120101058-cs346 Compilers
+120101058-cs347 Compilers Lab
+120101058-cs348 Computer Networks
+120101058-cs349 Networks Lab
+120101058-ma321 Optimization
+120101059-cs344 Databases
+120101059-cs346 Compilers
+120101059-cs347 Compilers Lab
+120101059-cs348 Computer Networks
+120101059-cs349 Networks Lab
+120101059-ma312m Modern Algebra
+120101059-ma321 Optimization
+120101060-cs344 Databases
+120101060-cs346 Compilers
+120101060-cs347 Compilers Lab
+120101060-cs348 Computer Networks
+120101060-cs349 Networks Lab
+120101060-ma321 Optimization
+120101061-cs344 Databases
+120101061-cs346 Compilers
+120101061-cs347 Compilers Lab
+120101061-cs348 Computer Networks
+120101061-cs349 Networks Lab
+120101061-ma321 Optimization
+120101062-cs344 Databases
+120101062-cs346 Compilers
+120101062-cs347 Compilers Lab
+120101062-cs348 Computer Networks
+120101062-cs349 Networks Lab
+120101062-ma321 Optimization
+120101063-cs344 Databases
+120101063-cs346 Compilers
+120101063-cs347 Compilers Lab
+120101063-cs348 Computer Networks
+120101063-cs349 Networks Lab
+120101063-ma321 Optimization
+120101064-cs344 Databases
+120101064-cs346 Compilers
+120101064-cs347 Compilers Lab
+120101064-cs348 Computer Networks
+120101064-cs349 Networks Lab
+120101064-ma321 Optimization
+120101065-cs344 Databases
+120101065-cs346 Compilers
+120101065-cs347 Compilers Lab
+120101065-cs348 Computer Networks
+120101065-cs349 Networks Lab
+120101065-ma321 Optimization
+120101067-cs344 Databases
+120101067-cs346 Compilers
+120101067-cs347 Compilers Lab
+120101067-cs348 Computer Networks
+120101067-cs349 Networks Lab
+120101067-ma321 Optimization
+120101069-cs344 Databases
+120101069-cs346 Compilers
+120101069-cs347 Compilers Lab
+120101069-cs348 Computer Networks
+120101069-cs349 Networks Lab
+120101069-ma321 Optimization
+120101070-cs344 Databases
+120101070-cs346 Compilers
+120101070-cs347 Compilers Lab
+120101070-cs348 Computer Networks
+120101070-cs349 Networks Lab
+120101070-ma321 Optimization
+120101071-cs344 Databases
+120101071-cs346 Compilers
+120101071-cs347 Compilers Lab
+120101071-cs348 Computer Networks
+120101071-cs349 Networks Lab
+120101071-ma321 Optimization
+120101072-cs344 Databases
+120101072-cs346 Compilers
+120101072-cs347 Compilers Lab
+120101072-cs348 Computer Networks
+120101072-cs349 Networks Lab
+120101072-ma321 Optimization
+120101073-cs344 Databases
+120101073-cs346 Compilers
+120101073-cs347 Compilers Lab
+120101073-cs348 Computer Networks
+120101073-cs349 Networks Lab
+120101073-ma321 Optimization
+120101074-cs344 Databases
+120101074-cs346 Compilers
+120101074-cs347 Compilers Lab
+120101074-cs348 Computer Networks
+120101074-cs349 Networks Lab
+120101074-ma321 Optimization
+120101076-cs344 Databases
+120101076-cs346 Compilers
+120101076-cs347 Compilers Lab
+120101076-cs348 Computer Networks
+120101076-cs349 Networks Lab
+120101076-ma321 Optimization
+120101077-cs344 Databases
+120101077-cs346 Compilers
+120101077-cs347 Compilers Lab
+120101077-cs348 Computer Networks
+120101077-cs349 Networks Lab
+120101077-ma321 Optimization
+120101079-cs344 Databases
+120101079-cs346 Compilers
+120101079-cs347 Compilers Lab
+120101079-cs348 Computer Networks
+120101079-cs349 Networks Lab
+120101079-ma321 Optimization
+120101080-cs344 Databases
+120101080-cs346 Compilers
+120101080-cs347 Compilers Lab
+120101080-cs348 Computer Networks
+120101080-cs349 Networks Lab
+120101080-ma321 Optimization
+120101081-cs344 Databases
+120101081-cs346 Compilers
+120101081-cs347 Compilers Lab
+120101081-cs348 Computer Networks
+120101081-cs349 Networks Lab
+120101081-ma321 Optimization
+120101082-cs344 Databases
+120101082-cs346 Compilers
+120101082-cs347 Compilers Lab
+120101082-cs348 Computer Networks
+120101082-cs349 Networks Lab
+120101082-ma321 Optimization
+120101083-cs344 Databases
+120101083-cs346 Compilers
+120101083-cs347 Compilers Lab
+120101083-cs348 Computer Networks
+120101083-cs349 Networks Lab
+120101083-ma321 Optimization
+120101084-cs344 Databases
+120101084-cs346 Compilers
+120101084-cs347 Compilers Lab
+120101084-cs348 Computer Networks
+120101084-cs349 Networks Lab
+120101084-ma321 Optimization
+120101085-cs344 Databases
+120101085-cs346 Compilers
+120101085-cs347 Compilers Lab
+120101085-cs348 Computer Networks
+120101085-cs349 Networks Lab
+120101085-ma321 Optimization
+120101086-cs344 Databases
+120101086-cs346 Compilers
+120101086-cs347 Compilers Lab
+120101086-cs348 Computer Networks
+120101086-cs349 Networks Lab
+120101086-ma321 Optimization
+120101087-cs344 Databases
+120101087-cs346 Compilers
+120101087-cs347 Compilers Lab
+120101087-cs348 Computer Networks
+120101087-cs349 Networks Lab
+120101087-ma321 Optimization
+120101088-cs344 Databases
+120101088-cs346 Compilers
+120101088-cs347 Compilers Lab
+120101088-cs348 Computer Networks
+120101088-cs349 Networks Lab
+120101088-ma321 Optimization
+130101001-cs203 Formal Languages and Automata Theory
+130101001-cs204 Algorithms
+130101001-cs222 Computer Organization & Architecture
+130101001-cs223 Hardware Laboratory
+130101001-cs242 Software Engineering
+130101001-cs243 Software Engineering Lab
+130101001-cs244 Systems Programming Lab
+130101001-hs226 Macroeconomics
+130101002-cs203 Formal Languages and Automata Theory
+130101002-cs204 Algorithms
+130101002-cs222 Computer Organization & Architecture
+130101002-cs223 Hardware Laboratory
+130101002-cs242 Software Engineering
+130101002-cs243 Software Engineering Lab
+130101002-cs244 Systems Programming Lab
+130101002-hs216 Sociology of India : Conformities & Contradictions
+130101003-cs203 Formal Languages and Automata Theory
+130101003-cs204 Algorithms
+130101003-cs222 Computer Organization & Architecture
+130101003-cs223 Hardware Laboratory
+130101003-cs242 Software Engineering
+130101003-cs243 Software Engineering Lab
+130101003-cs244 Systems Programming Lab
+130101003-hs216 Sociology of India : Conformities & Contradictions
+130101004-cs203 Formal Languages and Automata Theory
+130101004-cs204 Algorithms
+130101004-cs222 Computer Organization & Architecture
+130101004-cs223 Hardware Laboratory
+130101004-cs242 Software Engineering
+130101004-cs243 Software Engineering Lab
+130101004-cs244 Systems Programming Lab
+130101004-hs226 Macroeconomics
+130101005-cs203 Formal Languages and Automata Theory
+130101005-cs204 Algorithms
+130101005-cs222 Computer Organization & Architecture
+130101005-cs223 Hardware Laboratory
+130101005-cs242 Software Engineering
+130101005-cs243 Software Engineering Lab
+130101005-cs244 Systems Programming Lab
+130101005-hs237 Introduction to Archeology
+130101005-ph282m Engineering Optics
+130101006-cs203 Formal Languages and Automata Theory
+130101006-cs204 Algorithms
+130101006-cs222 Computer Organization & Architecture
+130101006-cs223 Hardware Laboratory
+130101006-cs242 Software Engineering
+130101006-cs243 Software Engineering Lab
+130101006-cs244 Systems Programming Lab
+130101006-hs226 Macroeconomics
+130101007-bt202m Molecular Biotechnology
+130101007-cs203 Formal Languages and Automata Theory
+130101007-cs204 Algorithms
+130101007-cs222 Computer Organization & Architecture
+130101007-cs223 Hardware Laboratory
+130101007-cs242 Software Engineering
+130101007-cs243 Software Engineering Lab
+130101007-cs244 Systems Programming Lab
+130101007-hs213 Consumer Behaviour
+130101008-cs203 Formal Languages and Automata Theory
+130101008-cs204 Algorithms
+130101008-cs222 Computer Organization & Architecture
+130101008-cs223 Hardware Laboratory
+130101008-cs242 Software Engineering
+130101008-cs243 Software Engineering Lab
+130101008-cs244 Systems Programming Lab
+130101008-hs234 Introduction to Linguistics
+130101009-cs203 Formal Languages and Automata Theory
+130101009-cs204 Algorithms
+130101009-cs222 Computer Organization & Architecture
+130101009-cs223 Hardware Laboratory
+130101009-cs242 Software Engineering
+130101009-cs243 Software Engineering Lab
+130101009-cs244 Systems Programming Lab
+130101009-hs203 Problems of Philosophy
+130101010-cs203 Formal Languages and Automata Theory
+130101010-cs204 Algorithms
+130101010-cs222 Computer Organization & Architecture
+130101010-cs223 Hardware Laboratory
+130101010-cs242 Software Engineering
+130101010-cs243 Software Engineering Lab
+130101010-cs244 Systems Programming Lab
+130101010-hs216 Sociology of India : Conformities & Contradictions
+130101011-cs203 Formal Languages and Automata Theory
+130101011-cs204 Algorithms
+130101011-cs222 Computer Organization & Architecture
+130101011-cs223 Hardware Laboratory
+130101011-cs242 Software Engineering
+130101011-cs243 Software Engineering Lab
+130101011-cs244 Systems Programming Lab
+130101011-hs216 Sociology of India : Conformities & Contradictions
+130101012-cs203 Formal Languages and Automata Theory
+130101012-cs204 Algorithms
+130101012-cs222 Computer Organization & Architecture
+130101012-cs223 Hardware Laboratory
+130101012-cs242 Software Engineering
+130101012-cs243 Software Engineering Lab
+130101012-cs244 Systems Programming Lab
+130101012-hs237 Introduction to Archeology
+130101013-cs203 Formal Languages and Automata Theory
+130101013-cs204 Algorithms
+130101013-cs222 Computer Organization & Architecture
+130101013-cs223 Hardware Laboratory
+130101013-cs242 Software Engineering
+130101013-cs243 Software Engineering Lab
+130101013-cs244 Systems Programming Lab
+130101013-dd220m Introduction to Ergonomics
+130101013-hs203 Problems of Philosophy
+130101014-cs203 Formal Languages and Automata Theory
+130101014-cs204 Algorithms
+130101014-cs222 Computer Organization & Architecture
+130101014-cs223 Hardware Laboratory
+130101014-cs242 Software Engineering
+130101014-cs243 Software Engineering Lab
+130101014-cs244 Systems Programming Lab
+130101014-hs223 Language and Society
+130101015-cs203 Formal Languages and Automata Theory
+130101015-cs204 Algorithms
+130101015-cs222 Computer Organization & Architecture
+130101015-cs223 Hardware Laboratory
+130101015-cs242 Software Engineering
+130101015-cs243 Software Engineering Lab
+130101015-cs244 Systems Programming Lab
+130101015-hs222 Understanding Psychology : Individual and Works Settings
+130101016-cs203 Formal Languages and Automata Theory
+130101016-cs204 Algorithms
+130101016-cs222 Computer Organization & Architecture
+130101016-cs223 Hardware Laboratory
+130101016-cs242 Software Engineering
+130101016-cs243 Software Engineering Lab
+130101016-cs244 Systems Programming Lab
+130101016-hs222 Understanding Psychology : Individual and Works Settings
+130101017-cs203 Formal Languages and Automata Theory
+130101017-cs204 Algorithms
+130101017-cs222 Computer Organization & Architecture
+130101017-cs223 Hardware Laboratory
+130101017-cs242 Software Engineering
+130101017-cs243 Software Engineering Lab
+130101017-cs244 Systems Programming Lab
+130101017-hs213 Consumer Behaviour
+130101018-cs203 Formal Languages and Automata Theory
+130101018-cs204 Algorithms
+130101018-cs222 Computer Organization & Architecture
+130101018-cs223 Hardware Laboratory
+130101018-cs242 Software Engineering
+130101018-cs243 Software Engineering Lab
+130101018-cs244 Systems Programming Lab
+130101018-hs223 Language and Society
+130101019-cs203 Formal Languages and Automata Theory
+130101019-cs204 Algorithms
+130101019-cs222 Computer Organization & Architecture
+130101019-cs223 Hardware Laboratory
+130101019-cs242 Software Engineering
+130101019-cs243 Software Engineering Lab
+130101019-cs244 Systems Programming Lab
+130101019-hs203 Problems of Philosophy
+130101020-cs203 Formal Languages and Automata Theory
+130101020-cs204 Algorithms
+130101020-cs222 Computer Organization & Architecture
+130101020-cs223 Hardware Laboratory
+130101020-cs242 Software Engineering
+130101020-cs243 Software Engineering Lab
+130101020-cs244 Systems Programming Lab
+130101020-hs234 Introduction to Linguistics
+130101021-cs203 Formal Languages and Automata Theory
+130101021-cs204 Algorithms
+130101021-cs222 Computer Organization & Architecture
+130101021-cs223 Hardware Laboratory
+130101021-cs242 Software Engineering
+130101021-cs243 Software Engineering Lab
+130101021-cs244 Systems Programming Lab
+130101021-hs234 Introduction to Linguistics
+130101022-cs203 Formal Languages and Automata Theory
+130101022-cs204 Algorithms
+130101022-cs222 Computer Organization & Architecture
+130101022-cs223 Hardware Laboratory
+130101022-cs242 Software Engineering
+130101022-cs243 Software Engineering Lab
+130101022-cs244 Systems Programming Lab
+130101022-hs213 Consumer Behaviour
+130101023-cs203 Formal Languages and Automata Theory
+130101023-cs204 Algorithms
+130101023-cs222 Computer Organization & Architecture
+130101023-cs223 Hardware Laboratory
+130101023-cs242 Software Engineering
+130101023-cs243 Software Engineering Lab
+130101023-cs244 Systems Programming Lab
+130101023-hs203 Problems of Philosophy
+130101024-cs203 Formal Languages and Automata Theory
+130101024-cs204 Algorithms
+130101024-cs222 Computer Organization & Architecture
+130101024-cs223 Hardware Laboratory
+130101024-cs242 Software Engineering
+130101024-cs243 Software Engineering Lab
+130101024-cs244 Systems Programming Lab
+130101024-hs216 Sociology of India : Conformities & Contradictions
+130101025-cs203 Formal Languages and Automata Theory
+130101025-cs204 Algorithms
+130101025-cs222 Computer Organization & Architecture
+130101025-cs223 Hardware Laboratory
+130101025-cs242 Software Engineering
+130101025-cs243 Software Engineering Lab
+130101025-cs244 Systems Programming Lab
+130101025-hs237 Introduction to Archeology
+130101026-cs203 Formal Languages and Automata Theory
+130101026-cs204 Algorithms
+130101026-cs222 Computer Organization & Architecture
+130101026-cs223 Hardware Laboratory
+130101026-cs242 Software Engineering
+130101026-cs243 Software Engineering Lab
+130101026-cs244 Systems Programming Lab
+130101026-hs237 Introduction to Archeology
+130101027-hs223 Language and Society
+130101028-cs203 Formal Languages and Automata Theory
+130101028-cs204 Algorithms
+130101028-cs222 Computer Organization & Architecture
+130101028-cs223 Hardware Laboratory
+130101028-cs242 Software Engineering
+130101028-cs243 Software Engineering Lab
+130101028-cs244 Systems Programming Lab
+130101028-hs213 Consumer Behaviour
+130101029-cs203 Formal Languages and Automata Theory
+130101029-cs204 Algorithms
+130101029-cs222 Computer Organization & Architecture
+130101029-cs223 Hardware Laboratory
+130101029-cs242 Software Engineering
+130101029-cs243 Software Engineering Lab
+130101029-cs244 Systems Programming Lab
+130101029-hs223 Language and Society
+130101031-hs222 Understanding Psychology : Individual and Works Settings
+130101032-cs203 Formal Languages and Automata Theory
+130101032-cs204 Algorithms
+130101032-cs222 Computer Organization & Architecture
+130101032-cs223 Hardware Laboratory
+130101032-cs242 Software Engineering
+130101032-cs243 Software Engineering Lab
+130101032-cs244 Systems Programming Lab
+130101032-hs223 Language and Society
+130101033-cs203 Formal Languages and Automata Theory
+130101033-cs204 Algorithms
+130101033-cs222 Computer Organization & Architecture
+130101033-cs223 Hardware Laboratory
+130101033-cs242 Software Engineering
+130101033-cs243 Software Engineering Lab
+130101033-cs244 Systems Programming Lab
+130101033-hs216 Sociology of India : Conformities & Contradictions
+130101034-cs203 Formal Languages and Automata Theory
+130101034-cs204 Algorithms
+130101034-cs222 Computer Organization & Architecture
+130101034-cs223 Hardware Laboratory
+130101034-cs242 Software Engineering
+130101034-cs243 Software Engineering Lab
+130101034-cs244 Systems Programming Lab
+130101034-hs213 Consumer Behaviour
+130101035-cs203 Formal Languages and Automata Theory
+130101035-cs204 Algorithms
+130101035-cs222 Computer Organization & Architecture
+130101035-cs223 Hardware Laboratory
+130101035-cs242 Software Engineering
+130101035-cs243 Software Engineering Lab
+130101035-cs244 Systems Programming Lab
+130101035-hs237 Introduction to Archeology
+130101036-cs203 Formal Languages and Automata Theory
+130101036-cs204 Algorithms
+130101036-cs222 Computer Organization & Architecture
+130101036-cs223 Hardware Laboratory
+130101036-cs242 Software Engineering
+130101036-cs243 Software Engineering Lab
+130101036-cs244 Systems Programming Lab
+130101036-hs226 Macroeconomics
+130101037-cs203 Formal Languages and Automata Theory
+130101037-cs204 Algorithms
+130101037-cs222 Computer Organization & Architecture
+130101037-cs223 Hardware Laboratory
+130101037-cs242 Software Engineering
+130101037-cs243 Software Engineering Lab
+130101037-cs244 Systems Programming Lab
+130101037-hs223 Language and Society
+130101038-cs203 Formal Languages and Automata Theory
+130101038-cs204 Algorithms
+130101038-cs222 Computer Organization & Architecture
+130101038-cs223 Hardware Laboratory
+130101038-cs242 Software Engineering
+130101038-cs243 Software Engineering Lab
+130101038-cs244 Systems Programming Lab
+130101038-hs213 Consumer Behaviour
+130101039-hs222 Understanding Psychology : Individual and Works Settings
+130101040-cs203 Formal Languages and Automata Theory
+130101040-cs204 Algorithms
+130101040-cs222 Computer Organization & Architecture
+130101040-cs223 Hardware Laboratory
+130101040-cs242 Software Engineering
+130101040-cs243 Software Engineering Lab
+130101040-cs244 Systems Programming Lab
+130101040-hs234 Introduction to Linguistics
+130101041-cs203 Formal Languages and Automata Theory
+130101041-cs204 Algorithms
+130101041-cs222 Computer Organization & Architecture
+130101041-cs223 Hardware Laboratory
+130101041-cs242 Software Engineering
+130101041-cs243 Software Engineering Lab
+130101041-cs244 Systems Programming Lab
+130101041-hs216 Sociology of India : Conformities & Contradictions
+130101042-cs203 Formal Languages and Automata Theory
+130101042-cs204 Algorithms
+130101042-cs222 Computer Organization & Architecture
+130101042-cs223 Hardware Laboratory
+130101042-cs242 Software Engineering
+130101042-cs243 Software Engineering Lab
+130101042-cs244 Systems Programming Lab
+130101042-hs216 Sociology of India : Conformities & Contradictions
+130101043-cs203 Formal Languages and Automata Theory
+130101043-cs204 Algorithms
+130101043-cs222 Computer Organization & Architecture
+130101043-cs223 Hardware Laboratory
+130101043-cs242 Software Engineering
+130101043-cs243 Software Engineering Lab
+130101043-cs244 Systems Programming Lab
+130101043-hs223 Language and Society
+130101044-hs234 Introduction to Linguistics
+130101045-cs203 Formal Languages and Automata Theory
+130101045-cs204 Algorithms
+130101045-cs222 Computer Organization & Architecture
+130101045-cs223 Hardware Laboratory
+130101045-cs242 Software Engineering
+130101045-cs243 Software Engineering Lab
+130101045-cs244 Systems Programming Lab
+130101045-hs203 Problems of Philosophy
+130101046-cs203 Formal Languages and Automata Theory
+130101046-cs204 Algorithms
+130101046-cs222 Computer Organization & Architecture
+130101046-cs223 Hardware Laboratory
+130101046-cs242 Software Engineering
+130101046-cs243 Software Engineering Lab
+130101046-cs244 Systems Programming Lab
+130101046-hs237 Introduction to Archeology
+130101047-cs203 Formal Languages and Automata Theory
+130101047-cs204 Algorithms
+130101047-cs222 Computer Organization & Architecture
+130101047-cs223 Hardware Laboratory
+130101047-cs242 Software Engineering
+130101047-cs243 Software Engineering Lab
+130101047-cs244 Systems Programming Lab
+130101047-hs237 Introduction to Archeology
+130101047-ph282m Engineering Optics
+130101048-cs203 Formal Languages and Automata Theory
+130101048-cs204 Algorithms
+130101048-cs222 Computer Organization & Architecture
+130101048-cs223 Hardware Laboratory
+130101048-cs242 Software Engineering
+130101048-cs243 Software Engineering Lab
+130101048-cs244 Systems Programming Lab
+130101048-cs561 Artificial Intelligence
+130101048-ee657 Pattern Recognition and Machine Learning
+130101048-hs226 Macroeconomics
+130101049-cs203 Formal Languages and Automata Theory
+130101049-cs204 Algorithms
+130101049-cs222 Computer Organization & Architecture
+130101049-cs223 Hardware Laboratory
+130101049-cs242 Software Engineering
+130101049-cs243 Software Engineering Lab
+130101049-cs244 Systems Programming Lab
+130101049-hs216 Sociology of India : Conformities & Contradictions
+130101050-cs203 Formal Languages and Automata Theory
+130101050-cs204 Algorithms
+130101050-cs222 Computer Organization & Architecture
+130101050-cs223 Hardware Laboratory
+130101050-cs242 Software Engineering
+130101050-cs243 Software Engineering Lab
+130101050-cs244 Systems Programming Lab
+130101050-hs222 Understanding Psychology : Individual and Works Settings
+130101051-cs203 Formal Languages and Automata Theory
+130101051-cs204 Algorithms
+130101051-cs222 Computer Organization & Architecture
+130101051-cs223 Hardware Laboratory
+130101051-cs242 Software Engineering
+130101051-cs243 Software Engineering Lab
+130101051-cs244 Systems Programming Lab
+130101051-hs203 Problems of Philosophy
+130101052-hs213 Consumer Behaviour
+130101053-cs203 Formal Languages and Automata Theory
+130101053-cs204 Algorithms
+130101053-cs222 Computer Organization & Architecture
+130101053-cs223 Hardware Laboratory
+130101053-cs242 Software Engineering
+130101053-cs243 Software Engineering Lab
+130101053-cs244 Systems Programming Lab
+130101053-hs237 Introduction to Archeology
+130101054-cs203 Formal Languages and Automata Theory
+130101054-cs204 Algorithms
+130101054-cs222 Computer Organization & Architecture
+130101054-cs223 Hardware Laboratory
+130101054-cs242 Software Engineering
+130101054-cs243 Software Engineering Lab
+130101054-cs244 Systems Programming Lab
+130101054-hs213 Consumer Behaviour
+130101055-cs203 Formal Languages and Automata Theory
+130101055-cs204 Algorithms
+130101055-cs222 Computer Organization & Architecture
+130101055-cs223 Hardware Laboratory
+130101055-cs242 Software Engineering
+130101055-cs243 Software Engineering Lab
+130101055-cs244 Systems Programming Lab
+130101055-hs226 Macroeconomics
+130101056-cs203 Formal Languages and Automata Theory
+130101056-cs204 Algorithms
+130101056-cs222 Computer Organization & Architecture
+130101056-cs223 Hardware Laboratory
+130101056-cs242 Software Engineering
+130101056-cs243 Software Engineering Lab
+130101056-cs244 Systems Programming Lab
+130101056-hs213 Consumer Behaviour
+130101057-cs203 Formal Languages and Automata Theory
+130101057-cs204 Algorithms
+130101057-cs222 Computer Organization & Architecture
+130101057-cs223 Hardware Laboratory
+130101057-cs242 Software Engineering
+130101057-cs243 Software Engineering Lab
+130101057-cs244 Systems Programming Lab
+130101057-hs203 Problems of Philosophy
+130101058-cs203 Formal Languages and Automata Theory
+130101058-cs204 Algorithms
+130101058-cs222 Computer Organization & Architecture
+130101058-cs223 Hardware Laboratory
+130101058-cs242 Software Engineering
+130101058-cs243 Software Engineering Lab
+130101058-cs244 Systems Programming Lab
+130101058-hs223 Language and Society
+130101059-cs203 Formal Languages and Automata Theory
+130101059-cs204 Algorithms
+130101059-cs222 Computer Organization & Architecture
+130101059-cs223 Hardware Laboratory
+130101059-cs242 Software Engineering
+130101059-cs243 Software Engineering Lab
+130101059-cs244 Systems Programming Lab
+130101059-hs226 Macroeconomics
+130101060-cs203 Formal Languages and Automata Theory
+130101060-cs204 Algorithms
+130101060-cs222 Computer Organization & Architecture
+130101060-cs223 Hardware Laboratory
+130101060-cs242 Software Engineering
+130101060-cs243 Software Engineering Lab
+130101060-cs244 Systems Programming Lab
+130101060-hs234 Introduction to Linguistics
+130101061-cs203 Formal Languages and Automata Theory
+130101061-cs204 Algorithms
+130101061-cs222 Computer Organization & Architecture
+130101061-cs223 Hardware Laboratory
+130101061-cs242 Software Engineering
+130101061-cs243 Software Engineering Lab
+130101061-cs244 Systems Programming Lab
+130101061-hs237 Introduction to Archeology
+130101062-cs203 Formal Languages and Automata Theory
+130101062-cs204 Algorithms
+130101062-cs222 Computer Organization & Architecture
+130101062-cs223 Hardware Laboratory
+130101062-cs242 Software Engineering
+130101062-cs243 Software Engineering Lab
+130101062-cs244 Systems Programming Lab
+130101062-hs226 Macroeconomics
+130101063-cs203 Formal Languages and Automata Theory
+130101063-cs204 Algorithms
+130101063-cs222 Computer Organization & Architecture
+130101063-cs223 Hardware Laboratory
+130101063-cs242 Software Engineering
+130101063-cs243 Software Engineering Lab
+130101063-cs244 Systems Programming Lab
+130101063-hs223 Language and Society
+130101064-cs203 Formal Languages and Automata Theory
+130101064-cs204 Algorithms
+130101064-cs222 Computer Organization & Architecture
+130101064-cs223 Hardware Laboratory
+130101064-cs242 Software Engineering
+130101064-cs243 Software Engineering Lab
+130101064-cs244 Systems Programming Lab
+130101064-hs234 Introduction to Linguistics
+130101065-cs203 Formal Languages and Automata Theory
+130101065-cs204 Algorithms
+130101065-cs222 Computer Organization & Architecture
+130101065-cs223 Hardware Laboratory
+130101065-cs242 Software Engineering
+130101065-cs243 Software Engineering Lab
+130101065-cs244 Systems Programming Lab
+130101065-hs216 Sociology of India : Conformities & Contradictions
+130101066-cs203 Formal Languages and Automata Theory
+130101066-cs204 Algorithms
+130101066-cs222 Computer Organization & Architecture
+130101066-cs223 Hardware Laboratory
+130101066-cs242 Software Engineering
+130101066-cs243 Software Engineering Lab
+130101066-cs244 Systems Programming Lab
+130101066-cs561 Artificial Intelligence
+130101066-hs226 Macroeconomics
+130101067-cs203 Formal Languages and Automata Theory
+130101067-cs204 Algorithms
+130101067-cs222 Computer Organization & Architecture
+130101067-cs223 Hardware Laboratory
+130101067-cs242 Software Engineering
+130101067-cs243 Software Engineering Lab
+130101067-cs244 Systems Programming Lab
+130101067-hs237 Introduction to Archeology
+130101068-cs203 Formal Languages and Automata Theory
+130101068-cs204 Algorithms
+130101068-cs222 Computer Organization & Architecture
+130101068-cs223 Hardware Laboratory
+130101068-cs242 Software Engineering
+130101068-cs243 Software Engineering Lab
+130101068-cs244 Systems Programming Lab
+130101068-hs222 Understanding Psychology : Individual and Works Settings
+130101069-cs203 Formal Languages and Automata Theory
+130101069-cs204 Algorithms
+130101069-cs222 Computer Organization & Architecture
+130101069-cs223 Hardware Laboratory
+130101069-cs242 Software Engineering
+130101069-cs243 Software Engineering Lab
+130101069-cs244 Systems Programming Lab
+130101069-hs203 Problems of Philosophy
+130101070-cs203 Formal Languages and Automata Theory
+130101070-cs204 Algorithms
+130101070-cs222 Computer Organization & Architecture
+130101070-cs223 Hardware Laboratory
+130101070-cs242 Software Engineering
+130101070-cs243 Software Engineering Lab
+130101070-cs244 Systems Programming Lab
+130101070-cs561 Artificial Intelligence
+130101070-hs226 Macroeconomics
+130101071-cs203 Formal Languages and Automata Theory
+130101071-cs204 Algorithms
+130101071-cs222 Computer Organization & Architecture
+130101071-cs223 Hardware Laboratory
+130101071-cs242 Software Engineering
+130101071-cs243 Software Engineering Lab
+130101071-cs244 Systems Programming Lab
+130101071-cs561 Artificial Intelligence
+130101071-hs234 Introduction to Linguistics
+130101072-cs203 Formal Languages and Automata Theory
+130101072-cs204 Algorithms
+130101072-cs222 Computer Organization & Architecture
+130101072-cs223 Hardware Laboratory
+130101072-cs242 Software Engineering
+130101072-cs243 Software Engineering Lab
+130101072-cs244 Systems Programming Lab
+130101072-hs223 Language and Society
+130101073-cs203 Formal Languages and Automata Theory
+130101073-cs204 Algorithms
+130101073-cs222 Computer Organization & Architecture
+130101073-cs223 Hardware Laboratory
+130101073-cs242 Software Engineering
+130101073-cs243 Software Engineering Lab
+130101073-cs244 Systems Programming Lab
+130101073-hs234 Introduction to Linguistics
+130101074-cs203 Formal Languages and Automata Theory
+130101074-cs204 Algorithms
+130101074-cs222 Computer Organization & Architecture
+130101074-cs223 Hardware Laboratory
+130101074-cs242 Software Engineering
+130101074-cs243 Software Engineering Lab
+130101074-cs244 Systems Programming Lab
+130101074-hs223 Language and Society
+130101075-cs203 Formal Languages and Automata Theory
+130101075-cs204 Algorithms
+130101075-cs222 Computer Organization & Architecture
+130101075-cs223 Hardware Laboratory
+130101075-cs242 Software Engineering
+130101075-cs243 Software Engineering Lab
+130101075-cs244 Systems Programming Lab
+130101075-hs226 Macroeconomics
+130101076-cs203 Formal Languages and Automata Theory
+130101076-cs204 Algorithms
+130101076-cs222 Computer Organization & Architecture
+130101076-cs223 Hardware Laboratory
+130101076-cs242 Software Engineering
+130101076-cs243 Software Engineering Lab
+130101076-cs244 Systems Programming Lab
+130101076-hs223 Language and Society
+130101077-cs203 Formal Languages and Automata Theory
+130101077-cs204 Algorithms
+130101077-cs222 Computer Organization & Architecture
+130101077-cs223 Hardware Laboratory
+130101077-cs242 Software Engineering
+130101077-cs243 Software Engineering Lab
+130101077-cs244 Systems Programming Lab
+130101077-cs510 Information and Randomness
+130101077-hs226 Macroeconomics
+130101077-ma212m Mathematical Statistics
+130101078-cs203 Formal Languages and Automata Theory
+130101078-cs204 Algorithms
+130101078-cs222 Computer Organization & Architecture
+130101078-cs223 Hardware Laboratory
+130101078-cs242 Software Engineering
+130101078-cs243 Software Engineering Lab
+130101078-cs244 Systems Programming Lab
+130101078-hs222 Understanding Psychology : Individual and Works Settings
+130101079-cs203 Formal Languages and Automata Theory
+130101079-cs204 Algorithms
+130101079-cs222 Computer Organization & Architecture
+130101079-cs223 Hardware Laboratory
+130101079-cs242 Software Engineering
+130101079-cs243 Software Engineering Lab
+130101079-cs244 Systems Programming Lab
+130101079-hs216 Sociology of India : Conformities & Contradictions
+130101080-cs203 Formal Languages and Automata Theory
+130101080-cs204 Algorithms
+130101080-cs222 Computer Organization & Architecture
+130101080-cs223 Hardware Laboratory
+130101080-cs242 Software Engineering
+130101080-cs243 Software Engineering Lab
+130101080-cs244 Systems Programming Lab
+130101080-hs234 Introduction to Linguistics
+130101081-cs203 Formal Languages and Automata Theory
+130101081-cs204 Algorithms
+130101081-cs222 Computer Organization & Architecture
+130101081-cs223 Hardware Laboratory
+130101081-cs242 Software Engineering
+130101081-cs243 Software Engineering Lab
+130101081-cs244 Systems Programming Lab
+130101081-hs216 Sociology of India : Conformities & Contradictions
+130101082-cs203 Formal Languages and Automata Theory
+130101082-cs204 Algorithms
+130101082-cs222 Computer Organization & Architecture
+130101082-cs223 Hardware Laboratory
+130101082-cs242 Software Engineering
+130101082-cs243 Software Engineering Lab
+130101082-cs244 Systems Programming Lab
+130101082-hs226 Macroeconomics
+130101083-cs203 Formal Languages and Automata Theory
+130101083-cs204 Algorithms
+130101083-cs222 Computer Organization & Architecture
+130101083-cs223 Hardware Laboratory
+130101083-cs242 Software Engineering
+130101083-cs243 Software Engineering Lab
+130101083-cs244 Systems Programming Lab
+130101083-hs226 Macroeconomics
+130101084-cs203 Formal Languages and Automata Theory
+130101084-cs204 Algorithms
+130101084-cs222 Computer Organization & Architecture
+130101084-cs223 Hardware Laboratory
+130101084-cs242 Software Engineering
+130101084-cs243 Software Engineering Lab
+130101084-cs244 Systems Programming Lab
+130101084-cs561 Artificial Intelligence
+130101084-ee213m Digital Circuits
+130101084-ee657 Pattern Recognition and Machine Learning
+130101084-hs226 Macroeconomics
+130101085-cs203 Formal Languages and Automata Theory
+130101085-cs204 Algorithms
+130101085-cs222 Computer Organization & Architecture
+130101085-cs223 Hardware Laboratory
+130101085-cs242 Software Engineering
+130101085-cs243 Software Engineering Lab
+130101085-cs244 Systems Programming Lab
+130101085-hs237 Introduction to Archeology
+130101086-cs203 Formal Languages and Automata Theory
+130101086-cs204 Algorithms
+130101086-cs222 Computer Organization & Architecture
+130101086-cs223 Hardware Laboratory
+130101086-cs242 Software Engineering
+130101086-cs243 Software Engineering Lab
+130101086-cs244 Systems Programming Lab
+130101086-hs237 Introduction to Archeology
+130101087-cs203 Formal Languages and Automata Theory
+130101087-cs204 Algorithms
+130101087-cs222 Computer Organization & Architecture
+130101087-cs223 Hardware Laboratory
+130101087-cs242 Software Engineering
+130101087-cs243 Software Engineering Lab
+130101087-cs244 Systems Programming Lab
+130101087-hs203 Problems of Philosophy
+130101088-cs203 Formal Languages and Automata Theory
+130101088-cs204 Algorithms
+130101088-cs222 Computer Organization & Architecture
+130101088-cs223 Hardware Laboratory
+130101088-cs242 Software Engineering
+130101088-cs243 Software Engineering Lab
+130101088-cs244 Systems Programming Lab
+130101088-ee213m Digital Circuits
+130101088-hs234 Introduction to Linguistics
+130101089-cs203 Formal Languages and Automata Theory
+130101089-cs204 Algorithms
+130101089-cs222 Computer Organization & Architecture
+130101089-cs223 Hardware Laboratory
+130101089-cs242 Software Engineering
+130101089-cs243 Software Engineering Lab
+130101089-cs244 Systems Programming Lab
+130101089-hs213 Consumer Behaviour
+134101003-cs699 
+134101004-cs699 
+134101005-cs699 
+134101006-cs699 
+134101007-cs699 
+134101008-cs699 
+134101010-cs699 
+134101011-cs698 Project Phase I
+134101012-cs699 
+134101013-cs699 
+134101014-cs699 
+134101015-cs699 
+134101016-cs699 
+134101020-cs699 
+134101021-cs699 
+134101022-cs699 
+134101023-cs699 
+134101024-cs699 
+134101028-cs699 
+134101031-cs699 
+134101033-cs699 
+134101034-cs699 
+134101035-cs699 
+134101036-cs699 
+134101038-cs699 
+134101039-cs699 
+134101040-cs699 
+134101041-cs699 
+134101046-cs699 
+134101052-cs699 
+134101055-cs699 
+134101057-cs699 
+134101064-cs699 
+134101066-cs699 
+134101067-cs699 
+134101071-cs699 
+134101072-cs699 
+134101073-cs699 
+140101001-bt101 Modern Biology
+140101001-cs101 Introduction to Computing
+140101001-cs110 Computing Lab
+140101001-ee102 Basic Electronics Laboratory
+140101001-ma102 Mathematics II
+140101001-me101 Engineering Mechanics
+140101001-me110 Workshop I
+140101001-ph102 Physics II
+140101001-sa102 Course Name/Course No Not Found
+140101002-bt101 Modern Biology
+140101002-cs101 Introduction to Computing
+140101002-cs110 Computing Lab
+140101002-ee102 Basic Electronics Laboratory
+140101002-ma102 Mathematics II
+140101002-me101 Engineering Mechanics
+140101002-me110 Workshop I
+140101002-ph102 Physics II
+140101002-sa102 Course Name/Course No Not Found
+140101003-bt101 Modern Biology
+140101003-cs101 Introduction to Computing
+140101003-cs110 Computing Lab
+140101003-ee102 Basic Electronics Laboratory
+140101003-ma102 Mathematics II
+140101003-me101 Engineering Mechanics
+140101003-me110 Workshop I
+140101003-ph102 Physics II
+140101003-sa102 Course Name/Course No Not Found
+140101004-bt101 Modern Biology
+140101004-cs101 Introduction to Computing
+140101004-cs110 Computing Lab
+140101004-ee102 Basic Electronics Laboratory
+140101004-ma102 Mathematics II
+140101004-me101 Engineering Mechanics
+140101004-me110 Workshop I
+140101004-ph102 Physics II
+140101004-sa102 Course Name/Course No Not Found
+140101005-bt101 Modern Biology
+140101005-cs101 Introduction to Computing
+140101005-cs110 Computing Lab
+140101005-ee102 Basic Electronics Laboratory
+140101005-ma102 Mathematics II
+140101005-me101 Engineering Mechanics
+140101005-me110 Workshop I
+140101005-ph102 Physics II
+140101005-sa102 Course Name/Course No Not Found
+140101006-bt101 Modern Biology
+140101006-cs101 Introduction to Computing
+140101006-cs110 Computing Lab
+140101006-ee102 Basic Electronics Laboratory
+140101006-ma102 Mathematics II
+140101006-me101 Engineering Mechanics
+140101006-me110 Workshop I
+140101006-ph102 Physics II
+140101006-sa102 Course Name/Course No Not Found
+140101007-bt101 Modern Biology
+140101007-cs101 Introduction to Computing
+140101007-cs110 Computing Lab
+140101007-ee102 Basic Electronics Laboratory
+140101007-ma102 Mathematics II
+140101007-me101 Engineering Mechanics
+140101007-me110 Workshop I
+140101007-ph102 Physics II
+140101007-sa102 Course Name/Course No Not Found
+140101008-bt101 Modern Biology
+140101008-cs101 Introduction to Computing
+140101008-cs110 Computing Lab
+140101008-ee102 Basic Electronics Laboratory
+140101008-ma102 Mathematics II
+140101008-me101 Engineering Mechanics
+140101008-me110 Workshop I
+140101008-ph102 Physics II
+140101008-sa102 Course Name/Course No Not Found
+140101009-bt101 Modern Biology
+140101009-cs101 Introduction to Computing
+140101009-cs110 Computing Lab
+140101009-ee102 Basic Electronics Laboratory
+140101009-ma102 Mathematics II
+140101009-me101 Engineering Mechanics
+140101009-me110 Workshop I
+140101009-ph102 Physics II
+140101009-sa102 Course Name/Course No Not Found
+140101010-bt101 Modern Biology
+140101010-cs101 Introduction to Computing
+140101010-cs110 Computing Lab
+140101010-ee102 Basic Electronics Laboratory
+140101010-ma102 Mathematics II
+140101010-me101 Engineering Mechanics
+140101010-me110 Workshop I
+140101010-ph102 Physics II
+140101010-sa102 Course Name/Course No Not Found
+140101011-bt101 Modern Biology
+140101011-cs101 Introduction to Computing
+140101011-cs110 Computing Lab
+140101011-ee102 Basic Electronics Laboratory
+140101011-ma102 Mathematics II
+140101011-me101 Engineering Mechanics
+140101011-me110 Workshop I
+140101011-ph102 Physics II
+140101011-sa102 Course Name/Course No Not Found
+140101012-bt101 Modern Biology
+140101012-cs101 Introduction to Computing
+140101012-cs110 Computing Lab
+140101012-ee102 Basic Electronics Laboratory
+140101012-ma102 Mathematics II
+140101012-me101 Engineering Mechanics
+140101012-me110 Workshop I
+140101012-ph102 Physics II
+140101012-sa102 Course Name/Course No Not Found
+140101013-bt101 Modern Biology
+140101013-cs101 Introduction to Computing
+140101013-cs110 Computing Lab
+140101013-ee102 Basic Electronics Laboratory
+140101013-ma102 Mathematics II
+140101013-me101 Engineering Mechanics
+140101013-me110 Workshop I
+140101013-ph102 Physics II
+140101013-sa102 Course Name/Course No Not Found
+140101014-bt101 Modern Biology
+140101014-cs101 Introduction to Computing
+140101014-cs110 Computing Lab
+140101014-ee102 Basic Electronics Laboratory
+140101014-ma102 Mathematics II
+140101014-me101 Engineering Mechanics
+140101014-me110 Workshop I
+140101014-ph102 Physics II
+140101014-sa102 Course Name/Course No Not Found
+140101015-bt101 Modern Biology
+140101015-cs101 Introduction to Computing
+140101015-cs110 Computing Lab
+140101015-ee102 Basic Electronics Laboratory
+140101015-ma102 Mathematics II
+140101015-me101 Engineering Mechanics
+140101015-me110 Workshop I
+140101015-ph102 Physics II
+140101015-sa102 Course Name/Course No Not Found
+140101016-bt101 Modern Biology
+140101016-cs101 Introduction to Computing
+140101016-cs110 Computing Lab
+140101016-ee102 Basic Electronics Laboratory
+140101016-ma102 Mathematics II
+140101016-me101 Engineering Mechanics
+140101016-me110 Workshop I
+140101016-ph102 Physics II
+140101016-sa102 Course Name/Course No Not Found
+140101017-bt101 Modern Biology
+140101017-cs101 Introduction to Computing
+140101017-cs110 Computing Lab
+140101017-ee102 Basic Electronics Laboratory
+140101017-ma102 Mathematics II
+140101017-me101 Engineering Mechanics
+140101017-me110 Workshop I
+140101017-ph102 Physics II
+140101017-sa102 Course Name/Course No Not Found
+140101018-bt101 Modern Biology
+140101018-cs101 Introduction to Computing
+140101018-cs110 Computing Lab
+140101018-ee102 Basic Electronics Laboratory
+140101018-ma102 Mathematics II
+140101018-me101 Engineering Mechanics
+140101018-me110 Workshop I
+140101018-ph102 Physics II
+140101018-sa102 Course Name/Course No Not Found
+140101019-bt101 Modern Biology
+140101019-cs101 Introduction to Computing
+140101019-cs110 Computing Lab
+140101019-ee102 Basic Electronics Laboratory
+140101019-ma102 Mathematics II
+140101019-me101 Engineering Mechanics
+140101019-me110 Workshop I
+140101019-ph102 Physics II
+140101019-sa102 Course Name/Course No Not Found
+140101020-bt101 Modern Biology
+140101020-cs101 Introduction to Computing
+140101020-cs110 Computing Lab
+140101020-ee102 Basic Electronics Laboratory
+140101020-ma102 Mathematics II
+140101020-me101 Engineering Mechanics
+140101020-me110 Workshop I
+140101020-ph102 Physics II
+140101020-sa102 Course Name/Course No Not Found
+140101021-bt101 Modern Biology
+140101021-cs101 Introduction to Computing
+140101021-cs110 Computing Lab
+140101021-ee102 Basic Electronics Laboratory
+140101021-ma102 Mathematics II
+140101021-me101 Engineering Mechanics
+140101021-me110 Workshop I
+140101021-ph102 Physics II
+140101021-sa102 Course Name/Course No Not Found
+140101022-bt101 Modern Biology
+140101022-cs101 Introduction to Computing
+140101022-cs110 Computing Lab
+140101022-ee102 Basic Electronics Laboratory
+140101022-ma102 Mathematics II
+140101022-me101 Engineering Mechanics
+140101022-me110 Workshop I
+140101022-ph102 Physics II
+140101022-sa102 Course Name/Course No Not Found
+140101023-bt101 Modern Biology
+140101023-cs101 Introduction to Computing
+140101023-cs110 Computing Lab
+140101023-ee102 Basic Electronics Laboratory
+140101023-ma102 Mathematics II
+140101023-me101 Engineering Mechanics
+140101023-me110 Workshop I
+140101023-ph102 Physics II
+140101023-sa102 Course Name/Course No Not Found
+140101024-bt101 Modern Biology
+140101024-cs101 Introduction to Computing
+140101024-cs110 Computing Lab
+140101024-ee102 Basic Electronics Laboratory
+140101024-ma102 Mathematics II
+140101024-me101 Engineering Mechanics
+140101024-me110 Workshop I
+140101024-ph102 Physics II
+140101024-sa102 Course Name/Course No Not Found
+140101025-bt101 Modern Biology
+140101025-cs101 Introduction to Computing
+140101025-cs110 Computing Lab
+140101025-ee102 Basic Electronics Laboratory
+140101025-ma102 Mathematics II
+140101025-me101 Engineering Mechanics
+140101025-me110 Workshop I
+140101025-ph102 Physics II
+140101025-sa102 Course Name/Course No Not Found
+140101026-bt101 Modern Biology
+140101026-cs101 Introduction to Computing
+140101026-cs110 Computing Lab
+140101026-ee102 Basic Electronics Laboratory
+140101026-ma102 Mathematics II
+140101026-me101 Engineering Mechanics
+140101026-me110 Workshop I
+140101026-ph102 Physics II
+140101026-sa102 Course Name/Course No Not Found
+140101027-bt101 Modern Biology
+140101027-cs101 Introduction to Computing
+140101027-cs110 Computing Lab
+140101027-ee102 Basic Electronics Laboratory
+140101027-ma102 Mathematics II
+140101027-me101 Engineering Mechanics
+140101027-me110 Workshop I
+140101027-ph102 Physics II
+140101027-sa102 Course Name/Course No Not Found
+140101028-bt101 Modern Biology
+140101028-cs101 Introduction to Computing
+140101028-cs110 Computing Lab
+140101028-ee102 Basic Electronics Laboratory
+140101028-ma102 Mathematics II
+140101028-me101 Engineering Mechanics
+140101028-me110 Workshop I
+140101028-ph102 Physics II
+140101028-sa102 Course Name/Course No Not Found
+140101029-bt101 Modern Biology
+140101029-cs101 Introduction to Computing
+140101029-cs110 Computing Lab
+140101029-ee102 Basic Electronics Laboratory
+140101029-ma102 Mathematics II
+140101029-me101 Engineering Mechanics
+140101029-me110 Workshop I
+140101029-ph102 Physics II
+140101029-sa102 Course Name/Course No Not Found
+140101030-bt101 Modern Biology
+140101030-cs101 Introduction to Computing
+140101030-cs110 Computing Lab
+140101030-ee102 Basic Electronics Laboratory
+140101030-ma102 Mathematics II
+140101030-me101 Engineering Mechanics
+140101030-me110 Workshop I
+140101030-ph102 Physics II
+140101030-sa102 Course Name/Course No Not Found
+140101031-bt101 Modern Biology
+140101031-cs101 Introduction to Computing
+140101031-cs110 Computing Lab
+140101031-ee102 Basic Electronics Laboratory
+140101031-ma102 Mathematics II
+140101031-me101 Engineering Mechanics
+140101031-me110 Workshop I
+140101031-ph102 Physics II
+140101031-sa102 Course Name/Course No Not Found
+140101032-bt101 Modern Biology
+140101032-cs101 Introduction to Computing
+140101032-cs110 Computing Lab
+140101032-ee102 Basic Electronics Laboratory
+140101032-ma102 Mathematics II
+140101032-me101 Engineering Mechanics
+140101032-me110 Workshop I
+140101032-ph102 Physics II
+140101032-sa102 Course Name/Course No Not Found
+140101033-bt101 Modern Biology
+140101033-cs101 Introduction to Computing
+140101033-cs110 Computing Lab
+140101033-ee102 Basic Electronics Laboratory
+140101033-ma102 Mathematics II
+140101033-me101 Engineering Mechanics
+140101033-me110 Workshop I
+140101033-ph102 Physics II
+140101033-sa102 Course Name/Course No Not Found
+140101034-bt101 Modern Biology
+140101034-cs101 Introduction to Computing
+140101034-cs110 Computing Lab
+140101034-ee102 Basic Electronics Laboratory
+140101034-ma102 Mathematics II
+140101034-me101 Engineering Mechanics
+140101034-me110 Workshop I
+140101034-ph102 Physics II
+140101034-sa102 Course Name/Course No Not Found
+140101035-bt101 Modern Biology
+140101035-cs101 Introduction to Computing
+140101035-cs110 Computing Lab
+140101035-ee102 Basic Electronics Laboratory
+140101035-ma102 Mathematics II
+140101035-me101 Engineering Mechanics
+140101035-me110 Workshop I
+140101035-ph102 Physics II
+140101035-sa102 Course Name/Course No Not Found
+140101036-bt101 Modern Biology
+140101036-cs101 Introduction to Computing
+140101036-cs110 Computing Lab
+140101036-ee102 Basic Electronics Laboratory
+140101036-ma102 Mathematics II
+140101036-me101 Engineering Mechanics
+140101036-me110 Workshop I
+140101036-ph102 Physics II
+140101036-sa102 Course Name/Course No Not Found
+140101037-bt101 Modern Biology
+140101037-cs101 Introduction to Computing
+140101037-cs110 Computing Lab
+140101037-ee102 Basic Electronics Laboratory
+140101037-ma102 Mathematics II
+140101037-me101 Engineering Mechanics
+140101037-me110 Workshop I
+140101037-ph102 Physics II
+140101037-sa102 Course Name/Course No Not Found
+140101038-bt101 Modern Biology
+140101038-cs101 Introduction to Computing
+140101038-cs110 Computing Lab
+140101038-ee102 Basic Electronics Laboratory
+140101038-ma102 Mathematics II
+140101038-me101 Engineering Mechanics
+140101038-me110 Workshop I
+140101038-ph102 Physics II
+140101038-sa102 Course Name/Course No Not Found
+140101039-bt101 Modern Biology
+140101039-cs101 Introduction to Computing
+140101039-cs110 Computing Lab
+140101039-ee102 Basic Electronics Laboratory
+140101039-ma102 Mathematics II
+140101039-me101 Engineering Mechanics
+140101039-me110 Workshop I
+140101039-ph102 Physics II
+140101039-sa102 Course Name/Course No Not Found
+140101040-bt101 Modern Biology
+140101040-cs101 Introduction to Computing
+140101040-cs110 Computing Lab
+140101040-ee102 Basic Electronics Laboratory
+140101040-ma102 Mathematics II
+140101040-me101 Engineering Mechanics
+140101040-me110 Workshop I
+140101040-ph102 Physics II
+140101040-sa102 Course Name/Course No Not Found
+140101041-bt101 Modern Biology
+140101041-cs101 Introduction to Computing
+140101041-cs110 Computing Lab
+140101041-ee102 Basic Electronics Laboratory
+140101041-ma102 Mathematics II
+140101041-me101 Engineering Mechanics
+140101041-me110 Workshop I
+140101041-ph102 Physics II
+140101041-sa102 Course Name/Course No Not Found
+140101042-bt101 Modern Biology
+140101042-cs101 Introduction to Computing
+140101042-cs110 Computing Lab
+140101042-ee102 Basic Electronics Laboratory
+140101042-ma102 Mathematics II
+140101042-me101 Engineering Mechanics
+140101042-me110 Workshop I
+140101042-ph102 Physics II
+140101042-sa102 Course Name/Course No Not Found
+140101043-bt101 Modern Biology
+140101043-cs101 Introduction to Computing
+140101043-cs110 Computing Lab
+140101043-ee102 Basic Electronics Laboratory
+140101043-ma102 Mathematics II
+140101043-me101 Engineering Mechanics
+140101043-me110 Workshop I
+140101043-ph102 Physics II
+140101043-sa102 Course Name/Course No Not Found
+140101044-bt101 Modern Biology
+140101044-cs101 Introduction to Computing
+140101044-cs110 Computing Lab
+140101044-ee102 Basic Electronics Laboratory
+140101044-ma102 Mathematics II
+140101044-me101 Engineering Mechanics
+140101044-me110 Workshop I
+140101044-ph102 Physics II
+140101044-sa102 Course Name/Course No Not Found
+140101045-bt101 Modern Biology
+140101045-cs101 Introduction to Computing
+140101045-cs110 Computing Lab
+140101045-ee102 Basic Electronics Laboratory
+140101045-ma102 Mathematics II
+140101045-me101 Engineering Mechanics
+140101045-me110 Workshop I
+140101045-ph102 Physics II
+140101045-sa102 Course Name/Course No Not Found
+140101046-bt101 Modern Biology
+140101046-cs101 Introduction to Computing
+140101046-cs110 Computing Lab
+140101046-ee102 Basic Electronics Laboratory
+140101046-ma102 Mathematics II
+140101046-me101 Engineering Mechanics
+140101046-me110 Workshop I
+140101046-ph102 Physics II
+140101046-sa102 Course Name/Course No Not Found
+140101047-bt101 Modern Biology
+140101047-cs101 Introduction to Computing
+140101047-cs110 Computing Lab
+140101047-ee102 Basic Electronics Laboratory
+140101047-ma102 Mathematics II
+140101047-me101 Engineering Mechanics
+140101047-me110 Workshop I
+140101047-ph102 Physics II
+140101047-sa102 Course Name/Course No Not Found
+140101048-bt101 Modern Biology
+140101048-cs101 Introduction to Computing
+140101048-cs110 Computing Lab
+140101048-ee102 Basic Electronics Laboratory
+140101048-ma102 Mathematics II
+140101048-me101 Engineering Mechanics
+140101048-me110 Workshop I
+140101048-ph102 Physics II
+140101048-sa102 Course Name/Course No Not Found
+140101049-bt101 Modern Biology
+140101049-cs101 Introduction to Computing
+140101049-cs110 Computing Lab
+140101049-ee102 Basic Electronics Laboratory
+140101049-ma102 Mathematics II
+140101049-me101 Engineering Mechanics
+140101049-me110 Workshop I
+140101049-ph102 Physics II
+140101049-sa102 Course Name/Course No Not Found
+140101050-bt101 Modern Biology
+140101050-cs101 Introduction to Computing
+140101050-cs110 Computing Lab
+140101050-ee102 Basic Electronics Laboratory
+140101050-ma102 Mathematics II
+140101050-me101 Engineering Mechanics
+140101050-me110 Workshop I
+140101050-ph102 Physics II
+140101050-sa102 Course Name/Course No Not Found
+140101051-bt101 Modern Biology
+140101051-cs101 Introduction to Computing
+140101051-cs110 Computing Lab
+140101051-ee102 Basic Electronics Laboratory
+140101051-ma102 Mathematics II
+140101051-me101 Engineering Mechanics
+140101051-me110 Workshop I
+140101051-ph102 Physics II
+140101051-sa102 Course Name/Course No Not Found
+140101052-bt101 Modern Biology
+140101052-cs101 Introduction to Computing
+140101052-cs110 Computing Lab
+140101052-ee102 Basic Electronics Laboratory
+140101052-ma102 Mathematics II
+140101052-me101 Engineering Mechanics
+140101052-me110 Workshop I
+140101052-ph102 Physics II
+140101052-sa102 Course Name/Course No Not Found
+140101053-bt101 Modern Biology
+140101053-cs101 Introduction to Computing
+140101053-cs110 Computing Lab
+140101053-ee102 Basic Electronics Laboratory
+140101053-ma102 Mathematics II
+140101053-me101 Engineering Mechanics
+140101053-me110 Workshop I
+140101053-ph102 Physics II
+140101053-sa102 Course Name/Course No Not Found
+140101054-bt101 Modern Biology
+140101054-cs101 Introduction to Computing
+140101054-cs110 Computing Lab
+140101054-ee102 Basic Electronics Laboratory
+140101054-ma102 Mathematics II
+140101054-me101 Engineering Mechanics
+140101054-me110 Workshop I
+140101054-ph102 Physics II
+140101054-sa102 Course Name/Course No Not Found
+140101055-bt101 Modern Biology
+140101055-cs101 Introduction to Computing
+140101055-cs110 Computing Lab
+140101055-ee102 Basic Electronics Laboratory
+140101055-ma102 Mathematics II
+140101055-me101 Engineering Mechanics
+140101055-me110 Workshop I
+140101055-ph102 Physics II
+140101055-sa102 Course Name/Course No Not Found
+140101056-bt101 Modern Biology
+140101056-cs101 Introduction to Computing
+140101056-cs110 Computing Lab
+140101056-ee102 Basic Electronics Laboratory
+140101056-ma102 Mathematics II
+140101056-me101 Engineering Mechanics
+140101056-me110 Workshop I
+140101056-ph102 Physics II
+140101056-sa102 Course Name/Course No Not Found
+140101057-bt101 Modern Biology
+140101057-cs101 Introduction to Computing
+140101057-cs110 Computing Lab
+140101057-ee102 Basic Electronics Laboratory
+140101057-ma102 Mathematics II
+140101057-me101 Engineering Mechanics
+140101057-me110 Workshop I
+140101057-ph102 Physics II
+140101057-sa102 Course Name/Course No Not Found
+140101058-bt101 Modern Biology
+140101058-cs101 Introduction to Computing
+140101058-cs110 Computing Lab
+140101058-ee102 Basic Electronics Laboratory
+140101058-ma102 Mathematics II
+140101058-me101 Engineering Mechanics
+140101058-me110 Workshop I
+140101058-ph102 Physics II
+140101058-sa102 Course Name/Course No Not Found
+140101059-bt101 Modern Biology
+140101059-cs101 Introduction to Computing
+140101059-cs110 Computing Lab
+140101059-ee102 Basic Electronics Laboratory
+140101059-ma102 Mathematics II
+140101059-me101 Engineering Mechanics
+140101059-me110 Workshop I
+140101059-ph102 Physics II
+140101059-sa102 Course Name/Course No Not Found
+140101060-bt101 Modern Biology
+140101060-cs101 Introduction to Computing
+140101060-cs110 Computing Lab
+140101060-ee102 Basic Electronics Laboratory
+140101060-ma102 Mathematics II
+140101060-me101 Engineering Mechanics
+140101060-me110 Workshop I
+140101060-ph102 Physics II
+140101060-sa102 Course Name/Course No Not Found
+140101061-bt101 Modern Biology
+140101061-cs101 Introduction to Computing
+140101061-cs110 Computing Lab
+140101061-ee102 Basic Electronics Laboratory
+140101061-ma102 Mathematics II
+140101061-me101 Engineering Mechanics
+140101061-me110 Workshop I
+140101061-ph102 Physics II
+140101061-sa102 Course Name/Course No Not Found
+140101062-bt101 Modern Biology
+140101062-cs101 Introduction to Computing
+140101062-cs110 Computing Lab
+140101062-ee102 Basic Electronics Laboratory
+140101062-ma102 Mathematics II
+140101062-me101 Engineering Mechanics
+140101062-me110 Workshop I
+140101062-ph102 Physics II
+140101062-sa102 Course Name/Course No Not Found
+140101063-bt101 Modern Biology
+140101063-cs101 Introduction to Computing
+140101063-cs110 Computing Lab
+140101063-ee102 Basic Electronics Laboratory
+140101063-ma102 Mathematics II
+140101063-me101 Engineering Mechanics
+140101063-me110 Workshop I
+140101063-ph102 Physics II
+140101063-sa102 Course Name/Course No Not Found
+140101064-bt101 Modern Biology
+140101064-cs101 Introduction to Computing
+140101064-cs110 Computing Lab
+140101064-ee102 Basic Electronics Laboratory
+140101064-ma102 Mathematics II
+140101064-me101 Engineering Mechanics
+140101064-me110 Workshop I
+140101064-ph102 Physics II
+140101064-sa102 Course Name/Course No Not Found
+140101065-bt101 Modern Biology
+140101065-cs101 Introduction to Computing
+140101065-cs110 Computing Lab
+140101065-ee102 Basic Electronics Laboratory
+140101065-ma102 Mathematics II
+140101065-me101 Engineering Mechanics
+140101065-me110 Workshop I
+140101065-ph102 Physics II
+140101065-sa102 Course Name/Course No Not Found
+140101066-bt101 Modern Biology
+140101066-cs101 Introduction to Computing
+140101066-cs110 Computing Lab
+140101066-ee102 Basic Electronics Laboratory
+140101066-ma102 Mathematics II
+140101066-me101 Engineering Mechanics
+140101066-me110 Workshop I
+140101066-ph102 Physics II
+140101066-sa102 Course Name/Course No Not Found
+140101067-bt101 Modern Biology
+140101067-cs101 Introduction to Computing
+140101067-cs110 Computing Lab
+140101067-ee102 Basic Electronics Laboratory
+140101067-ma102 Mathematics II
+140101067-me101 Engineering Mechanics
+140101067-me110 Workshop I
+140101067-ph102 Physics II
+140101067-sa102 Course Name/Course No Not Found
+140101068-bt101 Modern Biology
+140101068-cs101 Introduction to Computing
+140101068-cs110 Computing Lab
+140101068-ee102 Basic Electronics Laboratory
+140101068-ma102 Mathematics II
+140101068-me101 Engineering Mechanics
+140101068-me110 Workshop I
+140101068-ph102 Physics II
+140101068-sa102 Course Name/Course No Not Found
+140101069-bt101 Modern Biology
+140101069-cs101 Introduction to Computing
+140101069-cs110 Computing Lab
+140101069-ee102 Basic Electronics Laboratory
+140101069-ma102 Mathematics II
+140101069-me101 Engineering Mechanics
+140101069-me110 Workshop I
+140101069-ph102 Physics II
+140101069-sa102 Course Name/Course No Not Found
+140101070-bt101 Modern Biology
+140101070-cs101 Introduction to Computing
+140101070-cs110 Computing Lab
+140101070-ee102 Basic Electronics Laboratory
+140101070-ma102 Mathematics II
+140101070-me101 Engineering Mechanics
+140101070-me110 Workshop I
+140101070-ph102 Physics II
+140101070-sa102 Course Name/Course No Not Found
+140101071-bt101 Modern Biology
+140101071-cs101 Introduction to Computing
+140101071-cs110 Computing Lab
+140101071-ee102 Basic Electronics Laboratory
+140101071-ma102 Mathematics II
+140101071-me101 Engineering Mechanics
+140101071-me110 Workshop I
+140101071-ph102 Physics II
+140101071-sa102 Course Name/Course No Not Found
+140101072-bt101 Modern Biology
+140101072-cs101 Introduction to Computing
+140101072-cs110 Computing Lab
+140101072-ee102 Basic Electronics Laboratory
+140101072-ma102 Mathematics II
+140101072-me101 Engineering Mechanics
+140101072-me110 Workshop I
+140101072-ph102 Physics II
+140101072-sa102 Course Name/Course No Not Found
+140101073-bt101 Modern Biology
+140101073-cs101 Introduction to Computing
+140101073-cs110 Computing Lab
+140101073-ee102 Basic Electronics Laboratory
+140101073-ma102 Mathematics II
+140101073-me101 Engineering Mechanics
+140101073-me110 Workshop I
+140101073-ph102 Physics II
+140101073-sa102 Course Name/Course No Not Found
+140101074-bt101 Modern Biology
+140101074-cs101 Introduction to Computing
+140101074-cs110 Computing Lab
+140101074-ee102 Basic Electronics Laboratory
+140101074-ma102 Mathematics II
+140101074-me101 Engineering Mechanics
+140101074-me110 Workshop I
+140101074-ph102 Physics II
+140101074-sa102 Course Name/Course No Not Found
+140101075-bt101 Modern Biology
+140101075-cs101 Introduction to Computing
+140101075-cs110 Computing Lab
+140101075-ee102 Basic Electronics Laboratory
+140101075-ma102 Mathematics II
+140101075-me101 Engineering Mechanics
+140101075-me110 Workshop I
+140101075-ph102 Physics II
+140101075-sa102 Course Name/Course No Not Found
+140101076-bt101 Modern Biology
+140101076-cs101 Introduction to Computing
+140101076-cs110 Computing Lab
+140101076-ee102 Basic Electronics Laboratory
+140101076-ma102 Mathematics II
+140101076-me101 Engineering Mechanics
+140101076-me110 Workshop I
+140101076-ph102 Physics II
+140101076-sa102 Course Name/Course No Not Found
+140101077-bt101 Modern Biology
+140101077-cs101 Introduction to Computing
+140101077-cs110 Computing Lab
+140101077-ee102 Basic Electronics Laboratory
+140101077-ma102 Mathematics II
+140101077-me101 Engineering Mechanics
+140101077-me110 Workshop I
+140101077-ph102 Physics II
+140101077-sa102 Course Name/Course No Not Found
+140101078-bt101 Modern Biology
+140101078-cs101 Introduction to Computing
+140101078-cs110 Computing Lab
+140101078-ee102 Basic Electronics Laboratory
+140101078-ma102 Mathematics II
+140101078-me101 Engineering Mechanics
+140101078-me110 Workshop I
+140101078-ph102 Physics II
+140101078-sa102 Course Name/Course No Not Found
+140101079-bt101 Modern Biology
+140101079-cs101 Introduction to Computing
+140101079-cs110 Computing Lab
+140101079-ee102 Basic Electronics Laboratory
+140101079-ma102 Mathematics II
+140101079-me101 Engineering Mechanics
+140101079-me110 Workshop I
+140101079-ph102 Physics II
+140101079-sa102 Course Name/Course No Not Found
+140101080-bt101 Modern Biology
+140101080-cs101 Introduction to Computing
+140101080-cs110 Computing Lab
+140101080-ee102 Basic Electronics Laboratory
+140101080-ma102 Mathematics II
+140101080-me101 Engineering Mechanics
+140101080-me110 Workshop I
+140101080-ph102 Physics II
+140101080-sa102 Course Name/Course No Not Found
+144101001-cs544 Topics in Networks
+144101001-cs556 Performance Modeling of Communication and Computer Systems
+144101001-cs558 Systems Lab
+144101001-cs666 Mobile Robotics
+144101002-cs522 Embedded Systems
+144101002-cs558 Systems Lab
+144101002-cs561 Artificial Intelligence
+144101002-cs666 Mobile Robotics
+144101003-cs558 Systems Lab
+144101003-cs561 Artificial Intelligence
+144101003-cs572 Computational Systems Biology
+144101003-cs666 Mobile Robotics
+144101004-cs558 Systems Lab
+144101004-cs561 Artificial Intelligence
+144101004-cs572 Computational Systems Biology
+144101004-cs666 Mobile Robotics
+144101005-cs544 Topics in Networks
+144101005-cs558 Systems Lab
+144101005-cs561 Artificial Intelligence
+144101005-cs666 Mobile Robotics
+144101007-cs503 RANDOMIZED ALGORITHMS
+144101007-cs510 Information and Randomness
+144101007-cs558 Systems Lab
+144101007-cs561 Artificial Intelligence
+144101008-cs558 Systems Lab
+144101008-cs561 Artificial Intelligence
+144101008-cs572 Computational Systems Biology
+144101008-cs666 Mobile Robotics
+144101009-cs544 Topics in Networks
+144101009-cs558 Systems Lab
+144101009-cs561 Artificial Intelligence
+144101009-cs572 Computational Systems Biology
+144101010-cs558 Systems Lab
+144101010-cs561 Artificial Intelligence
+144101010-cs572 Computational Systems Biology
+144101010-cs666 Mobile Robotics
+144101011-cs556 Performance Modeling of Communication and Computer Systems
+144101011-cs558 Systems Lab
+144101011-cs561 Artificial Intelligence
+144101011-cs572 Computational Systems Biology
+144101013-cs522 Embedded Systems
+144101013-cs558 Systems Lab
+144101013-cs561 Artificial Intelligence
+144101013-cs572 Computational Systems Biology
+144101014-cs503 RANDOMIZED ALGORITHMS
+144101014-cs510 Information and Randomness
+144101014-cs558 Systems Lab
+144101014-cs561 Artificial Intelligence
+144101023-cs522 Embedded Systems
+144101023-cs558 Systems Lab
+144101023-cs561 Artificial Intelligence
+144101023-cs572 Computational Systems Biology
+144101024-cs558 Systems Lab
+144101024-cs561 Artificial Intelligence
+144101024-cs572 Computational Systems Biology
+144101024-cs666 Mobile Robotics
+144101026-cs544 Topics in Networks
+144101026-cs558 Systems Lab
+144101026-cs561 Artificial Intelligence
+144101026-cs572 Computational Systems Biology
+144101027-cs522 Embedded Systems
+144101027-cs544 Topics in Networks
+144101027-cs558 Systems Lab
+144101027-cs572 Computational Systems Biology
+144101028-cs558 Systems Lab
+144101028-cs561 Artificial Intelligence
+144101028-cs572 Computational Systems Biology
+144101028-cs666 Mobile Robotics
+144101029-cs544 Topics in Networks
+144101029-cs558 Systems Lab
+144101029-cs561 Artificial Intelligence
+144101029-cs666 Mobile Robotics
+144101030-cs558 Systems Lab
+144101030-cs561 Artificial Intelligence
+144101030-cs572 Computational Systems Biology
+144101030-cs666 Mobile Robotics
+144101032-cs544 Topics in Networks
+144101032-cs558 Systems Lab
+144101032-cs561 Artificial Intelligence
+144101032-cs666 Mobile Robotics
+144101033-cs503 RANDOMIZED ALGORITHMS
+144101033-cs510 Information and Randomness
+144101033-cs558 Systems Lab
+144101033-cs561 Artificial Intelligence
+144101034-cs558 Systems Lab
+144101034-cs561 Artificial Intelligence
+144101034-cs572 Computational Systems Biology
+144101034-cs666 Mobile Robotics
+144101036-cs522 Embedded Systems
+144101036-cs558 Systems Lab
+144101036-cs561 Artificial Intelligence
+144101036-cs572 Computational Systems Biology
+144101037-cs558 Systems Lab
+144101037-cs561 Artificial Intelligence
+144101037-cs572 Computational Systems Biology
+144101037-cs666 Mobile Robotics
+144101039-cs556 Performance Modeling of Communication and Computer Systems
+144101039-cs558 Systems Lab
+144101039-cs561 Artificial Intelligence
+144101039-cs572 Computational Systems Biology
+144101040-cs544 Topics in Networks
+144101040-cs558 Systems Lab
+144101040-cs572 Computational Systems Biology
+144101040-cs666 Mobile Robotics
+144101041-cs544 Topics in Networks
+144101041-cs558 Systems Lab
+144101041-cs561 Artificial Intelligence
+144101041-cs666 Mobile Robotics
+144101042-cs544 Topics in Networks
+144101042-cs558 Systems Lab
+144101042-cs561 Artificial Intelligence
+144101042-cs572 Computational Systems Biology
+144101043-cs503 RANDOMIZED ALGORITHMS
+144101043-cs558 Systems Lab
+144101043-cs561 Artificial Intelligence
+144101043-cs572 Computational Systems Biology
+144101044-cs558 Systems Lab
+144101044-cs561 Artificial Intelligence
+144101044-cs572 Computational Systems Biology
+144101044-cs666 Mobile Robotics
+144101045-cs510 Information and Randomness
+144101045-cs558 Systems Lab
+144101045-cs561 Artificial Intelligence
+144101045-cs666 Mobile Robotics
+144101046-cs544 Topics in Networks
+144101046-cs558 Systems Lab
+144101046-cs561 Artificial Intelligence
+144101046-cs666 Mobile Robotics
+144101047-cs556 Performance Modeling of Communication and Computer Systems
+144101047-cs558 Systems Lab
+144101047-cs561 Artificial Intelligence
+144101047-cs572 Computational Systems Biology
+144101048-cs558 Systems Lab
+144101048-cs561 Artificial Intelligence
+144101048-cs572 Computational Systems Biology
+144101048-cs666 Mobile Robotics
+144101051-cs558 Systems Lab
+144101051-cs561 Artificial Intelligence
+144101051-cs572 Computational Systems Biology
+144101051-cs666 Mobile Robotics
+144101053-cs558 Systems Lab
+144101053-cs561 Artificial Intelligence
+144101053-cs572 Computational Systems Biology
+144101053-cs666 Mobile Robotics
+144101057-cs522 Embedded Systems
+144101057-cs544 Topics in Networks
+144101057-cs556 Performance Modeling of Communication and Computer Systems
+144101057-cs558 Systems Lab
+144101058-cs522 Embedded Systems
+144101058-cs558 Systems Lab
+144101058-cs561 Artificial Intelligence
+144101058-cs572 Computational Systems Biology
+144101059-cs522 Embedded Systems
+144101059-cs558 Systems Lab
+144101059-cs572 Computational Systems Biology
+144101059-cs666 Mobile Robotics
+144101060-cs522 Embedded Systems
+144101060-cs558 Systems Lab
+144101060-cs561 Artificial Intelligence
+144101060-cs572 Computational Systems Biology
+144101061-cs558 Systems Lab
+144101061-cs561 Artificial Intelligence
+144101061-cs572 Computational Systems Biology
+144101061-cs666 Mobile Robotics
+144101063-cs544 Topics in Networks
+144101063-cs558 Systems Lab
+144101063-cs561 Artificial Intelligence
+144101063-cs572 Computational Systems Biology
+144101065-cs558 Systems Lab
+144101065-cs561 Artificial Intelligence
+144101065-cs572 Computational Systems Biology
+144101065-cs666 Mobile Robotics
+144101068-cs558 Systems Lab
+144101068-cs561 Artificial Intelligence
+144101068-cs572 Computational Systems Biology
+144101068-cs666 Mobile Robotics
+144101069-cs503 RANDOMIZED ALGORITHMS
+144101069-cs510 Information and Randomness
+144101069-cs558 Systems Lab
+144101069-cs561 Artificial Intelligence
+144101072-cs522 Embedded Systems
+144101072-cs558 Systems Lab
+144101072-cs561 Artificial Intelligence
+144101072-cs572 Computational Systems Biology
+144101074-cs558 Systems Lab
+144101074-cs561 Artificial Intelligence
+144101074-cs572 Computational Systems Biology
+144101074-cs666 Mobile Robotics
+144101075-cs503 RANDOMIZED ALGORITHMS
+144101075-cs510 Information and Randomness
+144101075-cs558 Systems Lab
+144101075-cs561 Artificial Intelligence
+144101076-cs503 RANDOMIZED ALGORITHMS
+144101076-cs558 Systems Lab
+144101076-cs561 Artificial Intelligence
+144101076-cs572 Computational Systems Biology
+144101077-cs558 Systems Lab
+144101077-cs561 Artificial Intelligence
+144101077-cs572 Computational Systems Biology
+144101077-cs666 Mobile Robotics
+144101078-cs510 Information and Randomness
+144101078-cs561 Artificial Intelligence
+144101078-cs572 Computational Systems Biology
+144101079-cs522 Embedded Systems
+144101079-cs544 Topics in Networks
+144101079-cs561 Artificial Intelligence
+146101003-cs222 Computer Organization & Architecture
+146101003-cs544 Topics in Networks
+146101004-cs222 Computer Organization & Architecture
+146101004-cs522 Embedded Systems
+146101004-cs556 Performance Modeling of Communication and Computer Systems
+146101005-cs222 Computer Organization & Architecture
+146101005-cs556 Performance Modeling of Communication and Computer Systems
+146101005-cs572 Computational Systems Biology
+146101006-cs556 Performance Modeling of Communication and Computer Systems
+146101011-cs222 Computer Organization & Architecture
+146101011-cs350M 
+146101011-cs503 RANDOMIZED ALGORITHMS
+146101011-cs556 Performance Modeling of Communication and Computer Systems
+146101011-cs561 Artificial Intelligence
+146101012-cs522 Embedded Systems
+146101012-cs561 Artificial Intelligence
+146101013-cs222 Computer Organization & Architecture
+146101014-cs222 Computer Organization & Architecture
+146101014-cs544 Topics in Networks
+146101016-cs222 Computer Organization & Architecture
+146101018-cs544 Topics in Networks
+146101023-cs561 Artificial Intelligence
+146101023-cs572 Computational Systems Biology
+146201001-cs203 Formal Languages and Automata Theory
+146201001-cs204 Algorithms
+146201001-cs244 Systems Programming Lab
+146201001-cs350M 
+146201002-cs203 Formal Languages and Automata Theory
+146201002-cs204 Algorithms
+146201002-cs244 Systems Programming Lab
+146201002-cs350M 
+146201002-cs561 Artificial Intelligence
+146201003-cs203 Formal Languages and Automata Theory
+146201003-cs204 Algorithms
+146201003-cs244 Systems Programming Lab
+146201003-cs350M 
+146201003-cs561 Artificial Intelligence
+146201004-cs203 Formal Languages and Automata Theory
+146201004-cs204 Algorithms
+146201004-cs244 Systems Programming Lab
+146201004-cs350M 
+146201004-cs561 Artificial Intelligence

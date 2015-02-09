@@ -1,0 +1,1195 @@
+11010601-bt401 Frontiers in Biotechnology
+11010601-bt499 Project II
+11010601-bt605 Gene Therapy
+11010601-bt609 Bioprocess Engineering
+11010601-ee562 Fundamentals of VLSI CAD
+11010602-bt401 Frontiers in Biotechnology
+11010602-bt499 Project II
+11010602-bt605 Gene Therapy
+11010602-bt619 Essential of Genetics
+11010602-hs423 Masculinities in Literature and Popular Culture
+11010602-ph446 Fundamentals of Astrophysics
+11010603-bt401 Frontiers in Biotechnology
+11010603-bt499 Project II
+11010603-bt605 Gene Therapy
+11010603-bt619 Essential of Genetics
+11010603-ph446 Fundamentals of Astrophysics
+11010604-bt401 Frontiers in Biotechnology
+11010604-bt499 Project II
+11010604-bt605 Gene Therapy
+11010604-bt619 Essential of Genetics
+11010604-ph446 Fundamentals of Astrophysics
+11010605-bt401 Frontiers in Biotechnology
+11010605-bt499 Project II
+11010605-bt605 Gene Therapy
+11010605-bt609 Bioprocess Engineering
+11010605-bt630 Physical Cell Biology
+11010605-hs410 History of Contemporary India
+11010606-bt401 Frontiers in Biotechnology
+11010606-bt499 Project II
+11010606-bt609 Bioprocess Engineering
+11010606-bt619 Essential of Genetics
+11010606-bt630 Physical Cell Biology
+11010606-hs423 Masculinities in Literature and Popular Culture
+11010607-bt401 Frontiers in Biotechnology
+11010607-bt499 Project II
+11010607-bt605 Gene Therapy
+11010607-bt619 Essential of Genetics
+11010607-bt630 Physical Cell Biology
+11010607-hs410 History of Contemporary India
+11010608-bt401 Frontiers in Biotechnology
+11010608-bt499 Project II
+11010608-bt605 Gene Therapy
+11010608-bt619 Essential of Genetics
+11010608-bt630 Physical Cell Biology
+11010610-bt401 Frontiers in Biotechnology
+11010610-bt499 Project II
+11010610-bt605 Gene Therapy
+11010610-bt619 Essential of Genetics
+11010610-hs422 Subaltern Voices and Narratives
+11010610-ph446 Fundamentals of Astrophysics
+11010611-bt401 Frontiers in Biotechnology
+11010611-bt499 Project II
+11010611-bt609 Bioprocess Engineering
+11010611-bt619 Essential of Genetics
+11010611-bt630 Physical Cell Biology
+11010611-hs403 Entrepreneurship & Economic Development
+11010615-bt401 Frontiers in Biotechnology
+11010615-bt499 Project II
+11010615-bt605 Gene Therapy
+11010615-bt619 Essential of Genetics
+11010615-bt630 Physical Cell Biology
+11010616-hs410 History of Contemporary India
+11010617-bt401 Frontiers in Biotechnology
+11010617-bt499 Project II
+11010617-bt605 Gene Therapy
+11010617-bt619 Essential of Genetics
+11010617-bt630 Physical Cell Biology
+11010617-hs406 Philosophical Issues
+11010618-bt401 Frontiers in Biotechnology
+11010618-bt499 Project II
+11010618-bt605 Gene Therapy
+11010618-bt619 Essential of Genetics
+11010618-bt630 Physical Cell Biology
+11010618-hs422 Subaltern Voices and Narratives
+11010620-bt401 Frontiers in Biotechnology
+11010620-bt499 Project II
+11010620-bt605 Gene Therapy
+11010620-bt619 Essential of Genetics
+11010620-bt630 Physical Cell Biology
+11010620-hs423 Masculinities in Literature and Popular Culture
+11010621-bt401 Frontiers in Biotechnology
+11010621-bt499 Project II
+11010621-bt605 Gene Therapy
+11010621-bt619 Essential of Genetics
+11010621-hs410 History of Contemporary India
+11010621-ph446 Fundamentals of Astrophysics
+11010622-bt401 Frontiers in Biotechnology
+11010622-bt499 Project II
+11010622-bt609 Bioprocess Engineering
+11010622-bt619 Essential of Genetics
+11010622-bt630 Physical Cell Biology
+11010622-hs410 History of Contemporary India
+11010623-hs420 Writing Systems of the World
+11010624-bt401 Frontiers in Biotechnology
+11010624-bt499 Project II
+11010624-bt605 Gene Therapy
+11010624-bt619 Essential of Genetics
+11010624-bt630 Physical Cell Biology
+11010624-hs420 Writing Systems of the World
+11010625-bt401 Frontiers in Biotechnology
+11010625-bt499 Project II
+11010625-bt605 Gene Therapy
+11010625-bt609 Bioprocess Engineering
+11010625-hs403 Entrepreneurship & Economic Development
+11010625-ph446 Fundamentals of Astrophysics
+11010626-bt401 Frontiers in Biotechnology
+11010626-bt499 Project II
+11010626-bt605 Gene Therapy
+11010626-bt609 Bioprocess Engineering
+11010626-hs423 Masculinities in Literature and Popular Culture
+11010626-ph446 Fundamentals of Astrophysics
+11010629-hs410 History of Contemporary India
+11010632-bt401 Frontiers in Biotechnology
+11010632-bt499 Project II
+11010632-bt605 Gene Therapy
+11010632-bt619 Essential of Genetics
+11010632-bt630 Physical Cell Biology
+11010632-hs410 History of Contemporary India
+11010633-bt401 Frontiers in Biotechnology
+11010633-bt499 Project II
+11010633-bt605 Gene Therapy
+11010633-bt619 Essential of Genetics
+11010633-hs410 History of Contemporary India
+11010633-ph446 Fundamentals of Astrophysics
+11010634-bt401 Frontiers in Biotechnology
+11010634-bt499 Project II
+11010634-bt609 Bioprocess Engineering
+11010634-bt619 Essential of Genetics
+11010634-ee562 Fundamentals of VLSI CAD
+11010634-hs420 Writing Systems of the World
+11010635-bt401 Frontiers in Biotechnology
+11010635-bt499 Project II
+11010635-bt609 Bioprocess Engineering
+11010635-bt619 Essential of Genetics
+11010635-bt630 Physical Cell Biology
+11010636-bt401 Frontiers in Biotechnology
+11010636-bt499 Project II
+11010636-bt605 Gene Therapy
+11010636-bt619 Essential of Genetics
+11010636-bt630 Physical Cell Biology
+11010636-hs410 History of Contemporary India
+11010637-bt401 Frontiers in Biotechnology
+11010637-bt499 Project II
+11010637-bt605 Gene Therapy
+11010637-bt609 Bioprocess Engineering
+11010637-ee562 Fundamentals of VLSI CAD
+11010637-hs423 Masculinities in Literature and Popular Culture
+11010638-bt401 Frontiers in Biotechnology
+11010638-bt499 Project II
+11010638-bt605 Gene Therapy
+11010638-bt619 Essential of Genetics
+11010638-hs423 Masculinities in Literature and Popular Culture
+11010638-ph446 Fundamentals of Astrophysics
+11010639-bt401 Frontiers in Biotechnology
+11010639-bt499 Project II
+11010639-bt605 Gene Therapy
+11010639-bt609 Bioprocess Engineering
+11010639-bt630 Physical Cell Biology
+11010639-hs410 History of Contemporary India
+11010640-bt401 Frontiers in Biotechnology
+11010640-bt499 Project II
+11010640-bt605 Gene Therapy
+11010640-bt619 Essential of Genetics
+11010640-hs420 Writing Systems of the World
+11010640-ph446 Fundamentals of Astrophysics
+11010641-bt401 Frontiers in Biotechnology
+11010641-bt499 Project II
+11010641-bt605 Gene Therapy
+11010641-bt619 Essential of Genetics
+11010641-bt630 Physical Cell Biology
+11010641-hs423 Masculinities in Literature and Popular Culture
+11010642-bt401 Frontiers in Biotechnology
+11010642-bt499 Project II
+11010642-bt605 Gene Therapy
+11010642-bt619 Essential of Genetics
+11010642-hs406 Philosophical Issues
+11010642-ph446 Fundamentals of Astrophysics
+11010643-bt401 Frontiers in Biotechnology
+11010643-bt499 Project II
+11010643-bt605 Gene Therapy
+11010643-bt619 Essential of Genetics
+11010643-hs410 History of Contemporary India
+11010643-ph446 Fundamentals of Astrophysics
+11010644-bt401 Frontiers in Biotechnology
+11010644-bt499 Project II
+11010644-bt605 Gene Therapy
+11010644-bt609 Bioprocess Engineering
+11010644-ee562 Fundamentals of VLSI CAD
+11010645-bt401 Frontiers in Biotechnology
+11010645-bt499 Project II
+11010645-bt605 Gene Therapy
+11010645-bt619 Essential of Genetics
+11010645-bt630 Physical Cell Biology
+11010646-bt401 Frontiers in Biotechnology
+11010646-bt499 Project II
+11010646-bt605 Gene Therapy
+11010646-bt619 Essential of Genetics
+11010646-hs403 Entrepreneurship & Economic Development
+11010646-ph446 Fundamentals of Astrophysics
+11010648-hs410 History of Contemporary India
+120106001-bt302 Biochemical Engineering
+120106001-bt305 Industrial Microbiology
+120106001-bt306 IPR and Ethics and Bio-safety
+120106001-bt308 Animal Cell Biotechnology
+120106001-bt601 Analytical Biotechnology
+120106001-me321m Fluid Mechanics
+120106002-bt302 Biochemical Engineering
+120106002-bt305 Industrial Microbiology
+120106002-bt306 IPR and Ethics and Bio-safety
+120106002-bt308 Animal Cell Biotechnology
+120106002-bt601 Analytical Biotechnology
+120106003-bt302 Biochemical Engineering
+120106003-bt305 Industrial Microbiology
+120106003-bt306 IPR and Ethics and Bio-safety
+120106003-bt308 Animal Cell Biotechnology
+120106003-bt601 Analytical Biotechnology
+120106004-bt302 Biochemical Engineering
+120106004-bt305 Industrial Microbiology
+120106004-bt306 IPR and Ethics and Bio-safety
+120106004-bt308 Animal Cell Biotechnology
+120106004-bt601 Analytical Biotechnology
+120106005-bt302 Biochemical Engineering
+120106005-bt305 Industrial Microbiology
+120106005-bt306 IPR and Ethics and Bio-safety
+120106005-bt308 Animal Cell Biotechnology
+120106005-bt601 Analytical Biotechnology
+120106007-bt302 Biochemical Engineering
+120106007-bt305 Industrial Microbiology
+120106007-bt306 IPR and Ethics and Bio-safety
+120106007-bt308 Animal Cell Biotechnology
+120106007-bt601 Analytical Biotechnology
+120106008-bt302 Biochemical Engineering
+120106008-bt305 Industrial Microbiology
+120106008-bt306 IPR and Ethics and Bio-safety
+120106008-bt308 Animal Cell Biotechnology
+120106008-bt601 Analytical Biotechnology
+120106009-bt302 Biochemical Engineering
+120106009-bt305 Industrial Microbiology
+120106009-bt306 IPR and Ethics and Bio-safety
+120106009-bt308 Animal Cell Biotechnology
+120106009-bt601 Analytical Biotechnology
+120106011-bt302 Biochemical Engineering
+120106011-bt305 Industrial Microbiology
+120106011-bt306 IPR and Ethics and Bio-safety
+120106011-bt308 Animal Cell Biotechnology
+120106011-bt601 Analytical Biotechnology
+120106013-bt302 Biochemical Engineering
+120106013-bt305 Industrial Microbiology
+120106013-bt306 IPR and Ethics and Bio-safety
+120106013-bt308 Animal Cell Biotechnology
+120106013-bt601 Analytical Biotechnology
+120106014-bt302 Biochemical Engineering
+120106014-bt305 Industrial Microbiology
+120106014-bt306 IPR and Ethics and Bio-safety
+120106014-bt308 Animal Cell Biotechnology
+120106014-bt601 Analytical Biotechnology
+120106015-bt302 Biochemical Engineering
+120106015-bt305 Industrial Microbiology
+120106015-bt306 IPR and Ethics and Bio-safety
+120106015-bt308 Animal Cell Biotechnology
+120106015-bt601 Analytical Biotechnology
+120106016-bt302 Biochemical Engineering
+120106016-bt305 Industrial Microbiology
+120106016-bt306 IPR and Ethics and Bio-safety
+120106016-bt308 Animal Cell Biotechnology
+120106016-bt601 Analytical Biotechnology
+120106018-bt302 Biochemical Engineering
+120106018-bt305 Industrial Microbiology
+120106018-bt306 IPR and Ethics and Bio-safety
+120106018-bt308 Animal Cell Biotechnology
+120106018-bt601 Analytical Biotechnology
+120106019-bt302 Biochemical Engineering
+120106019-bt305 Industrial Microbiology
+120106019-bt306 IPR and Ethics and Bio-safety
+120106019-bt308 Animal Cell Biotechnology
+120106019-bt601 Analytical Biotechnology
+120106020-bt302 Biochemical Engineering
+120106020-bt305 Industrial Microbiology
+120106020-bt306 IPR and Ethics and Bio-safety
+120106020-bt308 Animal Cell Biotechnology
+120106020-bt601 Analytical Biotechnology
+120106021-bt302 Biochemical Engineering
+120106021-bt305 Industrial Microbiology
+120106021-bt306 IPR and Ethics and Bio-safety
+120106021-bt308 Animal Cell Biotechnology
+120106021-bt601 Analytical Biotechnology
+120106024-bt302 Biochemical Engineering
+120106024-bt305 Industrial Microbiology
+120106024-bt306 IPR and Ethics and Bio-safety
+120106024-bt308 Animal Cell Biotechnology
+120106024-bt601 Analytical Biotechnology
+120106027-bt302 Biochemical Engineering
+120106027-bt305 Industrial Microbiology
+120106027-bt306 IPR and Ethics and Bio-safety
+120106027-bt308 Animal Cell Biotechnology
+120106027-bt601 Analytical Biotechnology
+120106029-bt302 Biochemical Engineering
+120106029-bt305 Industrial Microbiology
+120106029-bt306 IPR and Ethics and Bio-safety
+120106029-bt308 Animal Cell Biotechnology
+120106029-bt601 Analytical Biotechnology
+120106029-me321m Fluid Mechanics
+120106030-bt302 Biochemical Engineering
+120106030-bt305 Industrial Microbiology
+120106030-bt306 IPR and Ethics and Bio-safety
+120106030-bt308 Animal Cell Biotechnology
+120106030-bt601 Analytical Biotechnology
+120106031-bt302 Biochemical Engineering
+120106031-bt305 Industrial Microbiology
+120106031-bt306 IPR and Ethics and Bio-safety
+120106031-bt308 Animal Cell Biotechnology
+120106031-bt601 Analytical Biotechnology
+120106032-bt302 Biochemical Engineering
+120106032-bt305 Industrial Microbiology
+120106032-bt306 IPR and Ethics and Bio-safety
+120106032-bt308 Animal Cell Biotechnology
+120106032-bt601 Analytical Biotechnology
+120106032-ma312m Modern Algebra
+120106033-bt302 Biochemical Engineering
+120106033-bt305 Industrial Microbiology
+120106033-bt306 IPR and Ethics and Bio-safety
+120106033-bt308 Animal Cell Biotechnology
+120106033-bt601 Analytical Biotechnology
+120106034-bt302 Biochemical Engineering
+120106034-bt305 Industrial Microbiology
+120106034-bt306 IPR and Ethics and Bio-safety
+120106034-bt308 Animal Cell Biotechnology
+120106034-bt601 Analytical Biotechnology
+120106036-bt302 Biochemical Engineering
+120106036-bt305 Industrial Microbiology
+120106036-bt306 IPR and Ethics and Bio-safety
+120106036-bt308 Animal Cell Biotechnology
+120106036-bt601 Analytical Biotechnology
+120106037-bt302 Biochemical Engineering
+120106037-bt305 Industrial Microbiology
+120106037-bt306 IPR and Ethics and Bio-safety
+120106037-bt308 Animal Cell Biotechnology
+120106037-bt601 Analytical Biotechnology
+120106038-bt302 Biochemical Engineering
+120106038-bt305 Industrial Microbiology
+120106038-bt306 IPR and Ethics and Bio-safety
+120106038-bt308 Animal Cell Biotechnology
+120106038-bt601 Analytical Biotechnology
+120106039-bt302 Biochemical Engineering
+120106039-bt305 Industrial Microbiology
+120106039-bt306 IPR and Ethics and Bio-safety
+120106039-bt308 Animal Cell Biotechnology
+120106039-bt601 Analytical Biotechnology
+120106041-bt302 Biochemical Engineering
+120106041-bt305 Industrial Microbiology
+120106041-bt306 IPR and Ethics and Bio-safety
+120106041-bt308 Animal Cell Biotechnology
+120106041-bt601 Analytical Biotechnology
+120106042-bt302 Biochemical Engineering
+120106042-bt305 Industrial Microbiology
+120106042-bt306 IPR and Ethics and Bio-safety
+120106042-bt308 Animal Cell Biotechnology
+120106042-bt601 Analytical Biotechnology
+120106044-bt302 Biochemical Engineering
+120106044-bt305 Industrial Microbiology
+120106044-bt306 IPR and Ethics and Bio-safety
+120106044-bt308 Animal Cell Biotechnology
+120106044-bt601 Analytical Biotechnology
+120106045-bt302 Biochemical Engineering
+120106045-bt305 Industrial Microbiology
+120106045-bt306 IPR and Ethics and Bio-safety
+120106045-bt308 Animal Cell Biotechnology
+120106045-bt601 Analytical Biotechnology
+120106046-bt302 Biochemical Engineering
+120106046-bt305 Industrial Microbiology
+120106046-bt306 IPR and Ethics and Bio-safety
+120106046-bt308 Animal Cell Biotechnology
+120106046-bt601 Analytical Biotechnology
+120106047-bt302 Biochemical Engineering
+120106047-bt305 Industrial Microbiology
+120106047-bt306 IPR and Ethics and Bio-safety
+120106047-bt308 Animal Cell Biotechnology
+120106047-bt601 Analytical Biotechnology
+120106049-bt302 Biochemical Engineering
+120106049-bt305 Industrial Microbiology
+120106049-bt306 IPR and Ethics and Bio-safety
+120106049-bt308 Animal Cell Biotechnology
+120106049-bt622 Biofuels
+120106050-bt302 Biochemical Engineering
+120106050-bt305 Industrial Microbiology
+120106050-bt306 IPR and Ethics and Bio-safety
+120106050-bt308 Animal Cell Biotechnology
+120106050-bt601 Analytical Biotechnology
+120106051-bt302 Biochemical Engineering
+120106051-bt305 Industrial Microbiology
+120106051-bt306 IPR and Ethics and Bio-safety
+120106051-bt308 Animal Cell Biotechnology
+120106051-bt601 Analytical Biotechnology
+120106052-bt302 Biochemical Engineering
+120106052-bt305 Industrial Microbiology
+120106052-bt306 IPR and Ethics and Bio-safety
+120106052-bt308 Animal Cell Biotechnology
+120106052-bt601 Analytical Biotechnology
+130106001-bt202 Microbiology
+130106001-bt205 Biophysics
+130106001-bt208 Molecular Biology & Genetic Engineering
+130106001-bt290 Biomolecular Analysis Lab
+130106001-cl205 Mass Transfer Operations I
+130106001-hs237 Introduction to Archeology
+130106003-bt202 Microbiology
+130106003-bt205 Biophysics
+130106003-bt208 Molecular Biology & Genetic Engineering
+130106003-bt290 Biomolecular Analysis Lab
+130106003-cl205 Mass Transfer Operations I
+130106003-hs213 Consumer Behaviour
+130106004-hs234 Introduction to Linguistics
+130106005-bt202 Microbiology
+130106005-bt205 Biophysics
+130106005-bt208 Molecular Biology & Genetic Engineering
+130106005-bt290 Biomolecular Analysis Lab
+130106005-cl205 Mass Transfer Operations I
+130106005-hs234 Introduction to Linguistics
+130106006-bt202 Microbiology
+130106006-bt205 Biophysics
+130106006-bt208 Molecular Biology & Genetic Engineering
+130106006-bt290 Biomolecular Analysis Lab
+130106006-cl205 Mass Transfer Operations I
+130106006-hs213 Consumer Behaviour
+130106008-bt202 Microbiology
+130106008-bt205 Biophysics
+130106008-bt208 Molecular Biology & Genetic Engineering
+130106008-bt290 Biomolecular Analysis Lab
+130106008-cl205 Mass Transfer Operations I
+130106008-hs222 Understanding Psychology : Individual and Works Settings
+130106009-hs234 Introduction to Linguistics
+130106010-bt202 Microbiology
+130106010-bt205 Biophysics
+130106010-bt208 Molecular Biology & Genetic Engineering
+130106010-bt290 Biomolecular Analysis Lab
+130106010-cl205 Mass Transfer Operations I
+130106010-hs216 Sociology of India : Conformities & Contradictions
+130106011-bt202 Microbiology
+130106011-bt205 Biophysics
+130106011-bt208 Molecular Biology & Genetic Engineering
+130106011-bt290 Biomolecular Analysis Lab
+130106011-cl205 Mass Transfer Operations I
+130106011-hs234 Introduction to Linguistics
+130106013-hs203 Problems of Philosophy
+130106014-hs203 Problems of Philosophy
+130106016-bt202 Microbiology
+130106016-bt205 Biophysics
+130106016-bt208 Molecular Biology & Genetic Engineering
+130106016-bt290 Biomolecular Analysis Lab
+130106016-cl205 Mass Transfer Operations I
+130106016-hs203 Problems of Philosophy
+130106017-bt202 Microbiology
+130106017-bt205 Biophysics
+130106017-bt208 Molecular Biology & Genetic Engineering
+130106017-bt290 Biomolecular Analysis Lab
+130106017-cl205 Mass Transfer Operations I
+130106017-hs213 Consumer Behaviour
+130106019-bt202 Microbiology
+130106019-bt205 Biophysics
+130106019-bt208 Molecular Biology & Genetic Engineering
+130106019-bt290 Biomolecular Analysis Lab
+130106019-cl205 Mass Transfer Operations I
+130106019-hs203 Problems of Philosophy
+130106020-bt202 Microbiology
+130106020-bt205 Biophysics
+130106020-bt208 Molecular Biology & Genetic Engineering
+130106020-bt290 Biomolecular Analysis Lab
+130106020-cl205 Mass Transfer Operations I
+130106020-hs222 Understanding Psychology : Individual and Works Settings
+130106021-bt202 Microbiology
+130106021-bt205 Biophysics
+130106021-bt208 Molecular Biology & Genetic Engineering
+130106021-bt290 Biomolecular Analysis Lab
+130106021-cl205 Mass Transfer Operations I
+130106021-hs213 Consumer Behaviour
+130106023-bt202 Microbiology
+130106023-bt205 Biophysics
+130106023-bt208 Molecular Biology & Genetic Engineering
+130106023-bt290 Biomolecular Analysis Lab
+130106023-cl205 Mass Transfer Operations I
+130106023-dd220m Introduction to Ergonomics
+130106023-hs203 Problems of Philosophy
+130106024-hs222 Understanding Psychology : Individual and Works Settings
+130106025-bt202 Microbiology
+130106025-bt205 Biophysics
+130106025-bt208 Molecular Biology & Genetic Engineering
+130106025-bt290 Biomolecular Analysis Lab
+130106025-cl205 Mass Transfer Operations I
+130106025-hs234 Introduction to Linguistics
+130106027-bt202 Microbiology
+130106027-bt205 Biophysics
+130106027-bt208 Molecular Biology & Genetic Engineering
+130106027-bt290 Biomolecular Analysis Lab
+130106027-cl205 Mass Transfer Operations I
+130106027-hs213 Consumer Behaviour
+130106028-bt202 Microbiology
+130106028-bt205 Biophysics
+130106028-bt208 Molecular Biology & Genetic Engineering
+130106028-bt290 Biomolecular Analysis Lab
+130106028-cl205 Mass Transfer Operations I
+130106028-hs213 Consumer Behaviour
+130106029-bt202 Microbiology
+130106029-bt205 Biophysics
+130106029-bt208 Molecular Biology & Genetic Engineering
+130106029-bt290 Biomolecular Analysis Lab
+130106029-cl205 Mass Transfer Operations I
+130106029-hs226 Macroeconomics
+130106030-bt202 Microbiology
+130106030-bt205 Biophysics
+130106030-bt208 Molecular Biology & Genetic Engineering
+130106030-bt290 Biomolecular Analysis Lab
+130106030-cl205 Mass Transfer Operations I
+130106030-hs213 Consumer Behaviour
+130106031-bt202 Microbiology
+130106031-bt205 Biophysics
+130106031-bt208 Molecular Biology & Genetic Engineering
+130106031-bt290 Biomolecular Analysis Lab
+130106031-cl205 Mass Transfer Operations I
+130106031-hs237 Introduction to Archeology
+130106032-bt202 Microbiology
+130106032-bt205 Biophysics
+130106032-bt208 Molecular Biology & Genetic Engineering
+130106032-bt290 Biomolecular Analysis Lab
+130106032-cl205 Mass Transfer Operations I
+130106032-hs234 Introduction to Linguistics
+130106033-bt202 Microbiology
+130106033-bt205 Biophysics
+130106033-bt208 Molecular Biology & Genetic Engineering
+130106033-bt290 Biomolecular Analysis Lab
+130106033-cl205 Mass Transfer Operations I
+130106033-hs234 Introduction to Linguistics
+130106036-bt202 Microbiology
+130106036-bt205 Biophysics
+130106036-bt208 Molecular Biology & Genetic Engineering
+130106036-bt290 Biomolecular Analysis Lab
+130106036-cl205 Mass Transfer Operations I
+130106036-hs222 Understanding Psychology : Individual and Works Settings
+130106037-hs234 Introduction to Linguistics
+130106038-bt202 Microbiology
+130106038-bt205 Biophysics
+130106038-bt208 Molecular Biology & Genetic Engineering
+130106038-bt290 Biomolecular Analysis Lab
+130106038-cl205 Mass Transfer Operations I
+130106038-ee213m Digital Circuits
+130106038-hs213 Consumer Behaviour
+130106039-bt202 Microbiology
+130106039-bt205 Biophysics
+130106039-bt208 Molecular Biology & Genetic Engineering
+130106039-bt290 Biomolecular Analysis Lab
+130106039-cl205 Mass Transfer Operations I
+130106039-hs223 Language and Society
+130106041-hs222 Understanding Psychology : Individual and Works Settings
+130106043-hs222 Understanding Psychology : Individual and Works Settings
+130106044-bt202 Microbiology
+130106044-bt205 Biophysics
+130106044-bt208 Molecular Biology & Genetic Engineering
+130106044-bt290 Biomolecular Analysis Lab
+130106044-cl205 Mass Transfer Operations I
+130106044-hs203 Problems of Philosophy
+130106045-bt202 Microbiology
+130106045-bt205 Biophysics
+130106045-bt208 Molecular Biology & Genetic Engineering
+130106045-bt290 Biomolecular Analysis Lab
+130106045-cl205 Mass Transfer Operations I
+130106045-hs234 Introduction to Linguistics
+130106048-bt202 Microbiology
+130106048-bt205 Biophysics
+130106048-bt208 Molecular Biology & Genetic Engineering
+130106048-bt290 Biomolecular Analysis Lab
+130106048-cl205 Mass Transfer Operations I
+130106048-hs222 Understanding Psychology : Individual and Works Settings
+130106049-bt202 Microbiology
+130106049-bt205 Biophysics
+130106049-bt208 Molecular Biology & Genetic Engineering
+130106049-bt290 Biomolecular Analysis Lab
+130106049-cl205 Mass Transfer Operations I
+130106049-hs216 Sociology of India : Conformities & Contradictions
+130106050-bt202 Microbiology
+130106050-bt205 Biophysics
+130106050-bt208 Molecular Biology & Genetic Engineering
+130106050-bt290 Biomolecular Analysis Lab
+130106050-cl205 Mass Transfer Operations I
+130106050-hs222 Understanding Psychology : Individual and Works Settings
+130106051-bt202 Microbiology
+130106051-bt205 Biophysics
+130106051-bt208 Molecular Biology & Genetic Engineering
+130106051-bt290 Biomolecular Analysis Lab
+130106051-cl205 Mass Transfer Operations I
+130106051-hs234 Introduction to Linguistics
+130106052-hs226 Macroeconomics
+134106001-bt699 Project and Thesis Phase II
+134106002-bt699 Project and Thesis Phase II
+134106003-bt699 Project and Thesis Phase II
+134106004-bt699 Project and Thesis Phase II
+134106005-bt699 Project and Thesis Phase II
+134106006-bt699 Project and Thesis Phase II
+134106008-bt699 Project and Thesis Phase II
+134106009-bt699 Project and Thesis Phase II
+134106010-bt699 Project and Thesis Phase II
+134106011-bt699 Project and Thesis Phase II
+134106012-bt699 Project and Thesis Phase II
+134106013-bt699 Project and Thesis Phase II
+134106014-bt699 Project and Thesis Phase II
+134106015-bt699 Project and Thesis Phase II
+134106017-bt699 Project and Thesis Phase II
+134106018-bt699 Project and Thesis Phase II
+134106020-bt699 Project and Thesis Phase II
+134106021-bt699 Project and Thesis Phase II
+134106022-bt699 Project and Thesis Phase II
+134106023-bt699 Project and Thesis Phase II
+134106027-bt699 Project and Thesis Phase II
+134106028-bt699 Project and Thesis Phase II
+134106029-bt699 Project and Thesis Phase II
+134106030-bt699 Project and Thesis Phase II
+134106031-bt699 Project and Thesis Phase II
+134106033-bt699 Project and Thesis Phase II
+134106036-bt699 Project and Thesis Phase II
+134106037-bt699 Project and Thesis Phase II
+140106001-bt101 Modern Biology
+140106001-cs101 Introduction to Computing
+140106001-cs110 Computing Lab
+140106001-ee102 Basic Electronics Laboratory
+140106001-ma102 Mathematics II
+140106001-me101 Engineering Mechanics
+140106001-ph102 Physics II
+140106001-ph110 Physics Lab.
+140106001-sa102 Course Name/Course No Not Found
+140106002-bt101 Modern Biology
+140106002-cs101 Introduction to Computing
+140106002-cs110 Computing Lab
+140106002-ee102 Basic Electronics Laboratory
+140106002-ma102 Mathematics II
+140106002-me101 Engineering Mechanics
+140106002-ph102 Physics II
+140106002-ph110 Physics Lab.
+140106002-sa102 Course Name/Course No Not Found
+140106004-bt101 Modern Biology
+140106004-cs101 Introduction to Computing
+140106004-cs110 Computing Lab
+140106004-ee102 Basic Electronics Laboratory
+140106004-ma102 Mathematics II
+140106004-me101 Engineering Mechanics
+140106004-ph102 Physics II
+140106004-ph110 Physics Lab.
+140106004-sa102 Course Name/Course No Not Found
+140106005-bt101 Modern Biology
+140106005-cs101 Introduction to Computing
+140106005-cs110 Computing Lab
+140106005-ee102 Basic Electronics Laboratory
+140106005-ma102 Mathematics II
+140106005-me101 Engineering Mechanics
+140106005-ph102 Physics II
+140106005-ph110 Physics Lab.
+140106005-sa102 Course Name/Course No Not Found
+140106006-bt101 Modern Biology
+140106006-cs101 Introduction to Computing
+140106006-cs110 Computing Lab
+140106006-ee102 Basic Electronics Laboratory
+140106006-ma102 Mathematics II
+140106006-me101 Engineering Mechanics
+140106006-ph102 Physics II
+140106006-ph110 Physics Lab.
+140106006-sa102 Course Name/Course No Not Found
+140106007-bt101 Modern Biology
+140106007-cs101 Introduction to Computing
+140106007-cs110 Computing Lab
+140106007-ee102 Basic Electronics Laboratory
+140106007-ma102 Mathematics II
+140106007-me101 Engineering Mechanics
+140106007-ph102 Physics II
+140106007-ph110 Physics Lab.
+140106007-sa102 Course Name/Course No Not Found
+140106008-bt101 Modern Biology
+140106008-cs101 Introduction to Computing
+140106008-cs110 Computing Lab
+140106008-ee102 Basic Electronics Laboratory
+140106008-ma102 Mathematics II
+140106008-me101 Engineering Mechanics
+140106008-ph102 Physics II
+140106008-ph110 Physics Lab.
+140106008-sa102 Course Name/Course No Not Found
+140106009-bt101 Modern Biology
+140106009-cs101 Introduction to Computing
+140106009-cs110 Computing Lab
+140106009-ee102 Basic Electronics Laboratory
+140106009-ma102 Mathematics II
+140106009-me101 Engineering Mechanics
+140106009-ph102 Physics II
+140106009-ph110 Physics Lab.
+140106009-sa102 Course Name/Course No Not Found
+140106010-bt101 Modern Biology
+140106010-cs101 Introduction to Computing
+140106010-cs110 Computing Lab
+140106010-ee102 Basic Electronics Laboratory
+140106010-ma102 Mathematics II
+140106010-me101 Engineering Mechanics
+140106010-ph102 Physics II
+140106010-ph110 Physics Lab.
+140106010-sa102 Course Name/Course No Not Found
+140106011-bt101 Modern Biology
+140106011-cs101 Introduction to Computing
+140106011-cs110 Computing Lab
+140106011-ee102 Basic Electronics Laboratory
+140106011-ma102 Mathematics II
+140106011-me101 Engineering Mechanics
+140106011-ph102 Physics II
+140106011-ph110 Physics Lab.
+140106011-sa102 Course Name/Course No Not Found
+140106013-bt101 Modern Biology
+140106013-cs101 Introduction to Computing
+140106013-cs110 Computing Lab
+140106013-ee102 Basic Electronics Laboratory
+140106013-ma102 Mathematics II
+140106013-me101 Engineering Mechanics
+140106013-ph102 Physics II
+140106013-ph110 Physics Lab.
+140106013-sa102 Course Name/Course No Not Found
+140106015-bt101 Modern Biology
+140106015-cs101 Introduction to Computing
+140106015-cs110 Computing Lab
+140106015-ee102 Basic Electronics Laboratory
+140106015-ma102 Mathematics II
+140106015-me101 Engineering Mechanics
+140106015-ph102 Physics II
+140106015-ph110 Physics Lab.
+140106015-sa102 Course Name/Course No Not Found
+140106018-bt101 Modern Biology
+140106018-cs101 Introduction to Computing
+140106018-cs110 Computing Lab
+140106018-ee102 Basic Electronics Laboratory
+140106018-ma102 Mathematics II
+140106018-me101 Engineering Mechanics
+140106018-ph102 Physics II
+140106018-ph110 Physics Lab.
+140106018-sa102 Course Name/Course No Not Found
+140106019-bt101 Modern Biology
+140106019-cs101 Introduction to Computing
+140106019-cs110 Computing Lab
+140106019-ee102 Basic Electronics Laboratory
+140106019-ma102 Mathematics II
+140106019-me101 Engineering Mechanics
+140106019-ph102 Physics II
+140106019-ph110 Physics Lab.
+140106019-sa102 Course Name/Course No Not Found
+140106020-bt101 Modern Biology
+140106020-cs101 Introduction to Computing
+140106020-cs110 Computing Lab
+140106020-ee102 Basic Electronics Laboratory
+140106020-ma102 Mathematics II
+140106020-me101 Engineering Mechanics
+140106020-ph102 Physics II
+140106020-ph110 Physics Lab.
+140106020-sa102 Course Name/Course No Not Found
+140106021-bt101 Modern Biology
+140106021-cs101 Introduction to Computing
+140106021-cs110 Computing Lab
+140106021-ee102 Basic Electronics Laboratory
+140106021-ma102 Mathematics II
+140106021-me101 Engineering Mechanics
+140106021-ph102 Physics II
+140106021-ph110 Physics Lab.
+140106021-sa102 Course Name/Course No Not Found
+140106022-bt101 Modern Biology
+140106022-cs101 Introduction to Computing
+140106022-cs110 Computing Lab
+140106022-ee102 Basic Electronics Laboratory
+140106022-ma102 Mathematics II
+140106022-me101 Engineering Mechanics
+140106022-ph102 Physics II
+140106022-ph110 Physics Lab.
+140106022-sa102 Course Name/Course No Not Found
+140106023-bt101 Modern Biology
+140106023-cs101 Introduction to Computing
+140106023-cs110 Computing Lab
+140106023-ee102 Basic Electronics Laboratory
+140106023-ma102 Mathematics II
+140106023-me101 Engineering Mechanics
+140106023-ph102 Physics II
+140106023-ph110 Physics Lab.
+140106023-sa102 Course Name/Course No Not Found
+140106024-bt101 Modern Biology
+140106024-cs101 Introduction to Computing
+140106024-cs110 Computing Lab
+140106024-ee102 Basic Electronics Laboratory
+140106024-ma102 Mathematics II
+140106024-me101 Engineering Mechanics
+140106024-ph102 Physics II
+140106024-ph110 Physics Lab.
+140106024-sa102 Course Name/Course No Not Found
+140106025-bt101 Modern Biology
+140106025-cs101 Introduction to Computing
+140106025-cs110 Computing Lab
+140106025-ee102 Basic Electronics Laboratory
+140106025-ma102 Mathematics II
+140106025-me101 Engineering Mechanics
+140106025-ph102 Physics II
+140106025-ph110 Physics Lab.
+140106025-sa102 Course Name/Course No Not Found
+140106027-bt101 Modern Biology
+140106027-cs101 Introduction to Computing
+140106027-cs110 Computing Lab
+140106027-ee102 Basic Electronics Laboratory
+140106027-ma102 Mathematics II
+140106027-me101 Engineering Mechanics
+140106027-ph102 Physics II
+140106027-ph110 Physics Lab.
+140106027-sa102 Course Name/Course No Not Found
+140106028-bt101 Modern Biology
+140106028-cs101 Introduction to Computing
+140106028-cs110 Computing Lab
+140106028-ee102 Basic Electronics Laboratory
+140106028-ma102 Mathematics II
+140106028-me101 Engineering Mechanics
+140106028-ph102 Physics II
+140106028-ph110 Physics Lab.
+140106028-sa102 Course Name/Course No Not Found
+140106031-bt101 Modern Biology
+140106031-cs101 Introduction to Computing
+140106031-cs110 Computing Lab
+140106031-ee102 Basic Electronics Laboratory
+140106031-ma102 Mathematics II
+140106031-me101 Engineering Mechanics
+140106031-ph102 Physics II
+140106031-ph110 Physics Lab.
+140106031-sa102 Course Name/Course No Not Found
+140106032-bt101 Modern Biology
+140106032-cs101 Introduction to Computing
+140106032-cs110 Computing Lab
+140106032-ee102 Basic Electronics Laboratory
+140106032-ma102 Mathematics II
+140106032-me101 Engineering Mechanics
+140106032-ph102 Physics II
+140106032-ph110 Physics Lab.
+140106032-sa102 Course Name/Course No Not Found
+140106034-bt101 Modern Biology
+140106034-cs101 Introduction to Computing
+140106034-cs110 Computing Lab
+140106034-ee102 Basic Electronics Laboratory
+140106034-ma102 Mathematics II
+140106034-me101 Engineering Mechanics
+140106034-ph102 Physics II
+140106034-ph110 Physics Lab.
+140106034-sa102 Course Name/Course No Not Found
+140106035-bt101 Modern Biology
+140106035-cs101 Introduction to Computing
+140106035-cs110 Computing Lab
+140106035-ee102 Basic Electronics Laboratory
+140106035-ma102 Mathematics II
+140106035-me101 Engineering Mechanics
+140106035-ph102 Physics II
+140106035-ph110 Physics Lab.
+140106035-sa102 Course Name/Course No Not Found
+140106038-bt101 Modern Biology
+140106038-cs101 Introduction to Computing
+140106038-cs110 Computing Lab
+140106038-ee102 Basic Electronics Laboratory
+140106038-ma102 Mathematics II
+140106038-me101 Engineering Mechanics
+140106038-ph102 Physics II
+140106038-ph110 Physics Lab.
+140106038-sa102 Course Name/Course No Not Found
+140106040-bt101 Modern Biology
+140106040-cs101 Introduction to Computing
+140106040-cs110 Computing Lab
+140106040-ee102 Basic Electronics Laboratory
+140106040-ma102 Mathematics II
+140106040-me101 Engineering Mechanics
+140106040-ph102 Physics II
+140106040-ph110 Physics Lab.
+140106040-sa102 Course Name/Course No Not Found
+140106041-bt101 Modern Biology
+140106041-cs101 Introduction to Computing
+140106041-cs110 Computing Lab
+140106041-ee102 Basic Electronics Laboratory
+140106041-ma102 Mathematics II
+140106041-me101 Engineering Mechanics
+140106041-ph102 Physics II
+140106041-ph110 Physics Lab.
+140106041-sa102 Course Name/Course No Not Found
+140106042-bt101 Modern Biology
+140106042-cs101 Introduction to Computing
+140106042-cs110 Computing Lab
+140106042-ee102 Basic Electronics Laboratory
+140106042-ma102 Mathematics II
+140106042-me101 Engineering Mechanics
+140106042-ph102 Physics II
+140106042-ph110 Physics Lab.
+140106042-sa102 Course Name/Course No Not Found
+140106043-bt101 Modern Biology
+140106043-cs101 Introduction to Computing
+140106043-cs110 Computing Lab
+140106043-ee102 Basic Electronics Laboratory
+140106043-ma102 Mathematics II
+140106043-me101 Engineering Mechanics
+140106043-ph102 Physics II
+140106043-ph110 Physics Lab.
+140106043-sa102 Course Name/Course No Not Found
+140106044-bt101 Modern Biology
+140106044-cs101 Introduction to Computing
+140106044-cs110 Computing Lab
+140106044-ee102 Basic Electronics Laboratory
+140106044-ma102 Mathematics II
+140106044-me101 Engineering Mechanics
+140106044-ph102 Physics II
+140106044-ph110 Physics Lab.
+140106044-sa102 Course Name/Course No Not Found
+140106045-bt101 Modern Biology
+140106045-cs101 Introduction to Computing
+140106045-cs110 Computing Lab
+140106045-ee102 Basic Electronics Laboratory
+140106045-ma102 Mathematics II
+140106045-me101 Engineering Mechanics
+140106045-ph102 Physics II
+140106045-ph110 Physics Lab.
+140106045-sa102 Course Name/Course No Not Found
+140106046-bt101 Modern Biology
+140106046-cs101 Introduction to Computing
+140106046-cs110 Computing Lab
+140106046-ee102 Basic Electronics Laboratory
+140106046-ma102 Mathematics II
+140106046-me101 Engineering Mechanics
+140106046-ph102 Physics II
+140106046-ph110 Physics Lab.
+140106046-sa102 Course Name/Course No Not Found
+140106047-bt101 Modern Biology
+140106047-cs101 Introduction to Computing
+140106047-cs110 Computing Lab
+140106047-ee102 Basic Electronics Laboratory
+140106047-ma102 Mathematics II
+140106047-me101 Engineering Mechanics
+140106047-ph102 Physics II
+140106047-ph110 Physics Lab.
+140106047-sa102 Course Name/Course No Not Found
+140106048-bt101 Modern Biology
+140106048-cs101 Introduction to Computing
+140106048-cs110 Computing Lab
+140106048-ee102 Basic Electronics Laboratory
+140106048-ma102 Mathematics II
+140106048-me101 Engineering Mechanics
+140106048-ph102 Physics II
+140106048-ph110 Physics Lab.
+140106048-sa102 Course Name/Course No Not Found
+140106049-bt101 Modern Biology
+140106049-cs101 Introduction to Computing
+140106049-cs110 Computing Lab
+140106049-ee102 Basic Electronics Laboratory
+140106049-ma102 Mathematics II
+140106049-me101 Engineering Mechanics
+140106049-ph102 Physics II
+140106049-ph110 Physics Lab.
+140106049-sa102 Course Name/Course No Not Found
+140106050-bt101 Modern Biology
+140106050-cs101 Introduction to Computing
+140106050-cs110 Computing Lab
+140106050-ee102 Basic Electronics Laboratory
+140106050-ma102 Mathematics II
+140106050-me101 Engineering Mechanics
+140106050-ph102 Physics II
+140106050-ph110 Physics Lab.
+140106050-sa102 Course Name/Course No Not Found
+140106052-bt101 Modern Biology
+140106052-cs101 Introduction to Computing
+140106052-cs110 Computing Lab
+140106052-ee102 Basic Electronics Laboratory
+140106052-ma102 Mathematics II
+140106052-me101 Engineering Mechanics
+140106052-ph102 Physics II
+140106052-ph110 Physics Lab.
+140106052-sa102 Course Name/Course No Not Found
+140106053-bt101 Modern Biology
+140106053-cs101 Introduction to Computing
+140106053-cs110 Computing Lab
+140106053-ee102 Basic Electronics Laboratory
+140106053-ma102 Mathematics II
+140106053-me101 Engineering Mechanics
+140106053-ph102 Physics II
+140106053-ph110 Physics Lab.
+140106053-sa102 Course Name/Course No Not Found
+140106054-bt101 Modern Biology
+140106054-cs101 Introduction to Computing
+140106054-cs110 Computing Lab
+140106054-ee102 Basic Electronics Laboratory
+140106054-ma102 Mathematics II
+140106054-me101 Engineering Mechanics
+140106054-ph102 Physics II
+140106054-ph110 Physics Lab.
+140106054-sa102 Course Name/Course No Not Found
+140106055-bt101 Modern Biology
+140106055-cs101 Introduction to Computing
+140106055-cs110 Computing Lab
+140106055-ee102 Basic Electronics Laboratory
+140106055-ma102 Mathematics II
+140106055-me101 Engineering Mechanics
+140106055-ph102 Physics II
+140106055-ph110 Physics Lab.
+140106055-sa102 Course Name/Course No Not Found
+144106002-bt502 Quantitative Biology
+144106002-bt504 Biomolecular and Cellular Process Engineering
+144106002-bt520 Applied Biology and Bio-engineering Lab
+144106002-bt619 Essential of Genetics
+144106002-bt622 Biofuels
+144106003-bt502 Quantitative Biology
+144106003-bt504 Biomolecular and Cellular Process Engineering
+144106003-bt520 Applied Biology and Bio-engineering Lab
+144106003-bt619 Essential of Genetics
+144106003-bt622 Biofuels
+144106004-bt502 Quantitative Biology
+144106004-bt504 Biomolecular and Cellular Process Engineering
+144106004-bt520 Applied Biology and Bio-engineering Lab
+144106004-bt619 Essential of Genetics
+144106004-bt622 Biofuels
+144106005-bt502 Quantitative Biology
+144106005-bt504 Biomolecular and Cellular Process Engineering
+144106005-bt520 Applied Biology and Bio-engineering Lab
+144106005-bt605 Gene Therapy
+144106005-bt619 Essential of Genetics
+144106006-bt502 Quantitative Biology
+144106006-bt504 Biomolecular and Cellular Process Engineering
+144106006-bt520 Applied Biology and Bio-engineering Lab
+144106006-bt605 Gene Therapy
+144106006-bt609 Bioprocess Engineering
+144106008-bt502 Quantitative Biology
+144106008-bt504 Biomolecular and Cellular Process Engineering
+144106008-bt520 Applied Biology and Bio-engineering Lab
+144106008-bt605 Gene Therapy
+144106008-bt619 Essential of Genetics
+144106011-bt502 Quantitative Biology
+144106011-bt504 Biomolecular and Cellular Process Engineering
+144106011-bt520 Applied Biology and Bio-engineering Lab
+144106011-bt605 Gene Therapy
+144106011-bt630 Physical Cell Biology
+144106012-bt502 Quantitative Biology
+144106012-bt504 Biomolecular and Cellular Process Engineering
+144106012-bt520 Applied Biology and Bio-engineering Lab
+144106012-bt605 Gene Therapy
+144106012-bt622 Biofuels
+144106014-bt502 Quantitative Biology
+144106014-bt504 Biomolecular and Cellular Process Engineering
+144106014-bt520 Applied Biology and Bio-engineering Lab
+144106014-bt622 Biofuels
+144106014-bt630 Physical Cell Biology
+144106015-bt502 Quantitative Biology
+144106015-bt504 Biomolecular and Cellular Process Engineering
+144106015-bt520 Applied Biology and Bio-engineering Lab
+144106015-bt622 Biofuels
+144106015-bt630 Physical Cell Biology
+144106016-bt502 Quantitative Biology
+144106016-bt504 Biomolecular and Cellular Process Engineering
+144106016-bt520 Applied Biology and Bio-engineering Lab
+144106016-bt619 Essential of Genetics
+144106016-bt622 Biofuels
+144106017-bt502 Quantitative Biology
+144106017-bt504 Biomolecular and Cellular Process Engineering
+144106017-bt520 Applied Biology and Bio-engineering Lab
+144106017-bt605 Gene Therapy
+144106017-bt622 Biofuels
+144106018-bt502 Quantitative Biology
+144106018-bt504 Biomolecular and Cellular Process Engineering
+144106018-bt520 Applied Biology and Bio-engineering Lab
+144106018-bt601 Analytical Biotechnology
+144106018-bt619 Essential of Genetics
+144106020-bt502 Quantitative Biology
+144106020-bt504 Biomolecular and Cellular Process Engineering
+144106020-bt520 Applied Biology and Bio-engineering Lab
+144106020-bt605 Gene Therapy
+144106020-bt619 Essential of Genetics
+144106021-bt502 Quantitative Biology
+144106021-bt504 Biomolecular and Cellular Process Engineering
+144106021-bt520 Applied Biology and Bio-engineering Lab
+144106021-bt605 Gene Therapy
+144106021-bt619 Essential of Genetics
+144106022-bt502 Quantitative Biology
+144106022-bt504 Biomolecular and Cellular Process Engineering
+144106022-bt520 Applied Biology and Bio-engineering Lab
+144106022-bt605 Gene Therapy
+144106022-bt619 Essential of Genetics
+144106023-bt502 Quantitative Biology
+144106023-bt504 Biomolecular and Cellular Process Engineering
+144106023-bt520 Applied Biology and Bio-engineering Lab
+144106023-bt622 Biofuels
+144106023-bt630 Physical Cell Biology
+144106024-bt502 Quantitative Biology
+144106024-bt504 Biomolecular and Cellular Process Engineering
+144106024-bt520 Applied Biology and Bio-engineering Lab
+144106024-bt605 Gene Therapy
+144106024-bt619 Essential of Genetics
+144106025-bt502 Quantitative Biology
+144106025-bt504 Biomolecular and Cellular Process Engineering
+144106025-bt520 Applied Biology and Bio-engineering Lab
+144106025-bt605 Gene Therapy
+144106025-bt619 Essential of Genetics
+144106026-bt502 Quantitative Biology
+144106026-bt504 Biomolecular and Cellular Process Engineering
+144106026-bt520 Applied Biology and Bio-engineering Lab
+144106026-bt619 Essential of Genetics
+144106026-bt622 Biofuels
+144106027-bt502 Quantitative Biology
+144106027-bt504 Biomolecular and Cellular Process Engineering
+144106027-bt520 Applied Biology and Bio-engineering Lab
+144106027-bt622 Biofuels
+144106027-bt630 Physical Cell Biology
+144106028-bt502 Quantitative Biology
+144106028-bt504 Biomolecular and Cellular Process Engineering
+144106028-bt520 Applied Biology and Bio-engineering Lab
+144106028-bt609 Bioprocess Engineering
+144106028-bt622 Biofuels
+144106030-bt502 Quantitative Biology
+144106030-bt504 Biomolecular and Cellular Process Engineering
+144106030-bt520 Applied Biology and Bio-engineering Lab
+144106030-bt605 Gene Therapy
+144106030-bt619 Essential of Genetics
+144106031-bt502 Quantitative Biology
+144106031-bt504 Biomolecular and Cellular Process Engineering
+144106031-bt520 Applied Biology and Bio-engineering Lab
+144106031-bt605 Gene Therapy
+144106031-bt622 Biofuels
+144106032-bt502 Quantitative Biology
+144106032-bt504 Biomolecular and Cellular Process Engineering
+144106032-bt520 Applied Biology and Bio-engineering Lab
+144106032-bt605 Gene Therapy
+144106032-bt622 Biofuels
+144106033-bt502 Quantitative Biology
+144106033-bt504 Biomolecular and Cellular Process Engineering
+144106033-bt520 Applied Biology and Bio-engineering Lab
+144106033-bt605 Gene Therapy
+144106033-bt619 Essential of Genetics
+144106034-bt502 Quantitative Biology
+144106034-bt504 Biomolecular and Cellular Process Engineering
+144106034-bt520 Applied Biology and Bio-engineering Lab
+144106034-bt605 Gene Therapy
+144106034-bt619 Essential of Genetics
+144106035-bt502 Quantitative Biology
+144106035-bt504 Biomolecular and Cellular Process Engineering
+144106035-bt520 Applied Biology and Bio-engineering Lab
+144106035-bt605 Gene Therapy
+144106035-bt622 Biofuels
+144106037-bt502 Quantitative Biology
+144106037-bt504 Biomolecular and Cellular Process Engineering
+144106037-bt520 Applied Biology and Bio-engineering Lab
+144106037-bt605 Gene Therapy
+144106037-bt622 Biofuels
+144106038-bt502 Quantitative Biology
+144106038-bt504 Biomolecular and Cellular Process Engineering
+144106038-bt520 Applied Biology and Bio-engineering Lab
+144106038-bt605 Gene Therapy
+144106038-bt609 Bioprocess Engineering
+144106039-bt502 Quantitative Biology
+144106039-bt504 Biomolecular and Cellular Process Engineering
+144106039-bt520 Applied Biology and Bio-engineering Lab
+144106039-bt605 Gene Therapy
+144106039-bt622 Biofuels
+144106040-bt502 Quantitative Biology
+144106040-bt504 Biomolecular and Cellular Process Engineering
+144106040-bt520 Applied Biology and Bio-engineering Lab
+144106040-bt605 Gene Therapy
+144106040-bt619 Essential of Genetics
+146106002-bt601 Analytical Biotechnology
+146106002-bt619 Essential of Genetics
+146106002-bt630 Physical Cell Biology
+146106004-bt502 Quantitative Biology
+146106004-bt605 Gene Therapy
+146106005-bt601 Analytical Biotechnology
+146106005-bt605 Gene Therapy
+146106005-bt609 Bioprocess Engineering
+146106006-bt605 Gene Therapy
+146106006-bt619 Essential of Genetics
+146106008-bt605 Gene Therapy
+146106008-bt619 Essential of Genetics
+146106011-bt601 Analytical Biotechnology
+146106011-bt605 Gene Therapy
+146106011-bt619 Essential of Genetics
+146106012-bt605 Gene Therapy
+146106012-bt609 Bioprocess Engineering
+146106012-bt622 Biofuels
+146106013-bt601 Analytical Biotechnology
+146106013-bt619 Essential of Genetics
+146106014-bt605 Gene Therapy
+146106014-bt619 Essential of Genetics
+146106016-bt622 Biofuels
+146106016-ce524 Biological Processes in Environmental Engg
+146106018-bt605 Gene Therapy
+146106018-bt619 Essential of Genetics
+146106019-bt619 Essential of Genetics
+146106023-bt601 Analytical Biotechnology
+146106023-bt622 Biofuels
+146106026-bt601 Analytical Biotechnology
+146106026-bt605 Gene Therapy
+146106028-bt601 Analytical Biotechnology
+146106028-bt619 Essential of Genetics
+146106029-bt605 Gene Therapy
+146106029-bt619 Essential of Genetics
+146106030-bt605 Gene Therapy
+146106030-bt619 Essential of Genetics
+146106034-bt601 Analytical Biotechnology
+146106034-bt605 Gene Therapy
+146106034-bt609 Bioprocess Engineering

@@ -1,0 +1,177 @@
+#include <bits/stdc++.h>
+#include <string>
+#include <dirent.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <time.h>
+#include <sys/mman.h>
+#include <unistd.h>
+#include <sys/wait.h>
+#include <fcntl.h>
+#include <limits.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <cstdio>
+using namespace std;
+
+int destinations = 9;
+string destname[9] = {"KZJ ","RDM ","BPQ ","NGP ","BPL ","JHS ","GWL ","AGC ","NDLS"};
+string filename = "berths.txt";
+
+void genFile(){
+
+	ofstream filep;
+	filep.open("berths.txt",std::ofstream::out);
+
+	for(int i=0;i<72;i++)
+		filep<<"PID  "<<" "<<"BLNK"<<endl;
+
+	filep.close();
+}
+
+
+
+bool is_available(int dest,pid_t cp){
+	long long sline,eline;
+	sline = ((dest-1)*8)+1;
+	eline = sline + 7;
+	pid_t childp = cp;
+	int fd, numRead, cmd;
+	char lock, cmdCh, whence;
+	struct flock fl;
+	long long len, st;
+
+	fd = open("berths.txt", O_RDWR);
+	
+	fl.l_start = (sline-1)*11;
+	fl.l_len = (eline - sline)*11 ;
+	fl.l_type = F_WRLCK; //lock 
+	fl.l_whence = SEEK_SET;
+
+	cmd = F_SETLK;  //cmdCh
+
+	int status = fcntl(fd, cmd, &fl);
+
+	if (status == 0)
+		printf("[PID=%ld] %s\n", (long) getpid(), (lock == 'u') ? "unlocked" : "got lock");
+
+	else if (errno == EAGAIN || errno == EACCES) /* F_SETLK */
+		printf("[PID=%ld] failed (incompatible lock)\n",(long) getpid());
+
+
+	int tline = 1,whichline = -1;
+	
+	lseek(fd,0,SEEK_SET);
+
+	char lols[1];
+	int c = 0;
+	cout<<"start line "<<sline<<" end line "<<eline<<endl;
+
+	for(int r=0;r<792;r++){
+		read(fd,lols,1);
+		
+		if(lols[0]=='\n')tline++;
+
+		if(r%11 == 0){
+			if(lols[0]=='P'){c=1;cout<<"P "<<tline<<" "<<r<<" "<<c<<endl;}
+			else c = 0;
+		}
+
+		if((r-1)%11 == 0){
+			if(lols[0]=='I'){c=2;cout<<"I "<<tline<<" "<<r<<" "<<c<<endl;}
+			else c = 0;
+		}
+
+		if((r-2)%11 == 0){
+			if(lols[0] == 'D'){c++;cout<<"D  "<<tline<<" "<<r<<" "<<c<<endl;}
+			else c = 0;
+		}
+
+		if(tline >= sline && tline <= eline ){
+			//check if BLNK persent 
+			if(c==3 && lols[0]=='D'){
+				whichline = tline;
+				cout<<"BLNK found in line "<<whichline<<endl;
+				break;
+			}
+		}
+
+	}
+
+	//cout<<"c is "<<c<<endl;
+
+	int byte;
+	char todest[4];
+	char wpid[6];
+	snprintf(wpid, sizeof(wpid), "%d", cp);
+	//cout<<"wpid is "<<wpid<<endl;
+
+	if(whichline == -1)return false;
+
+	else{
+		//do the reservation
+		byte = (tline-1)*11;
+		//set byte+0 to byte+4 to pid of child process 
+		lseek(fd,byte,SEEK_SET);
+		cout<<"start line "<<sline<<" end line "<<eline<<" byte is "<<byte<<endl;
+		write(fd,wpid,5);
+		lseek(fd,1,SEEK_CUR);
+		//return true;
+		todest[0] = (destname[dest-1])[0];
+		todest[1] = (destname[dest-1])[1];
+		todest[2] = (destname[dest-1])[2];
+		todest[3] = (destname[dest-1])[3];
+		write(fd,todest,4);
+
+
+		//set byte+6 to byte+9 to station
+	}
+	
+	return true;
+
+}
+
+int main(){
+	//cout<<"file name?? ";cin>>filename;
+	//genFile();	
+	pid_t childpid;
+	bool success;
+
+	//grab a seat for all the stations
+
+
+
+	for(int i=0;i<destinations;i++){
+		success = false;
+		cout<<"----------------------------------"<<i<<"--------------------------------------"<<endl;
+		switch(fork()) {
+	        case -1:
+	            cout<<"Fork failed!\n";
+	            return 0;
+
+
+
+	        case 0:
+	           // cout<<"Iamchild";           
+	        	childpid = getpid();
+	        	cout<<"childpid is "<<getpid()<<endl; 
+	        	success = is_available(i+1,childpid);
+	        	
+	        	if(success)cout<<"reservation done succefully for child "<<getpid()<<endl;
+	        	else cout<<"no berths are availabele"<<endl;	        		
+	        	
+
+	             _exit(EXIT_SUCCESS);
+
+
+	        default:
+	           // cout<<"imparetn";
+	            wait(NULL); //wait for child to over
+	            
+
+	    }
+
+	}
+
+	return 0;
+}
